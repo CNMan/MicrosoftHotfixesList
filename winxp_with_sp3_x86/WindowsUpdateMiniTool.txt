@@ -1,0 +1,1008 @@
+[ Microsoft .NET Framework 版本 1.1 简体中文语言包 ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/langpack_7b299d728d9254f08fc3ac9b859759d.exe
+
+[ Microsoft .NET Framework 2.0 Service Pack 1 (KB110806) x86 语言包 ]
+http://www.download.windowsupdate.com/msdownload/update/software/dflt/2008/03/netfx20sp1_x86zh-chs_c32da7f71e751a50f790053b2ffff809162d53a2.exe
+
+[ Microsoft .NET Framework 1.1 Service Pack 1 ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/ndp1.1sp1-kb867460-x86_74a5b25d65a70b8ecd6a9c301a0aea10d8483a23.exe
+
+[ Windows 恶意软件删除工具 - 2016 年 8 月 (KB890830) ]
+http://download.windowsupdate.com/d/msdownload/update/software/uprl/2016/08/windows-kb890830-v5.39_1b2084eb641b136abcd3d438fda7ac6bdd145486.exe
+http://download.windowsupdate.com/d/msdownload/update/software/uprl/2016/08/windows-kb890830-v5.39-delta_d4b03a0964ee912500843da484091bf90af5bef6.exe
+
+[ Windows XP 更新程序 (KB898461) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsxp-kb898461-x86-chs_1e81680e26b344ad261f4dd66c56ad5ad7ba1369.exe
+
+[ Microsoft 基本智能卡加密服务提供程序包： x86 (KB909520) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windows-kb909520-v1.000-x86-chs_ca6202718780a81d6b960030ff6245016427cd6c.exe
+
+[ Windows XP 安全更新程序 (KB923561) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/04/windowsxp-kb923561-x86-chs_9ae31904b5cd7d9588e398c3cd048b590b2b692c.exe
+
+[ Flash Player 安全更新程序 (KB923789) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsxp-kb923789-x86-chs_173c45a77fcdf77d2c6e8d51988e6c0ff677eaa8.exe
+
+[ Windows Media Player 11 ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/wmp11-windowsxp-x86-zh-cn_12bd089cfe7ef1889ea589d158e338b77ed10863.exe
+
+[ Microsoft .NET Framework 3.0 Service Pack 1 (KB929300) x86 语言包 ]
+http://www.download.windowsupdate.com/msdownload/update/software/updt/2008/03/netfx30sp1_x86zh-chs_53b437f4cc3a1d433214c6191b193630d7468916.exe
+
+[ 用于 Windows XP 的 Windows Media Format 11 SDK 更新程序 (KB929399) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsmedia11-kb929399-v2-x86-intl_50e2bc6b5e79909a0061043e6211600548368431.exe
+
+[ Windows XP Service Pack 3 (KB936929) ]
+http://www.download.windowsupdate.com/msdownload/update/software/svpk/2008/04/windowsxp-sp3-x86fre-chs-5512_627a6c65f37460260835e414b67efae3768f9a3a.psf
+http://www.download.windowsupdate.com/msdownload/update/software/svpk/2008/04/windowsxp-kb936929-sp3-express-x86-chs_bdcd3ca334c0905b54fdf071d59bfde970ba80a9.exe
+http://www.download.windowsupdate.com/msdownload/update/software/svpk/2008/04/windowsxp-kb936929-sp3-x86-chs_d7067e86abd4257454200d0c398d71c4ce6cd33e.exe
+
+[ 用于 Windows XP 的 Windows Media Player 11 更新程序 (KB939683) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsmedia11-kb939683-x86-chs_0fd0a3ae40cee5f63a24494103add171b6c17ff9.exe
+
+[ 用于 Windows XP 的 Windows 搜索 4.0 (KB940157) ]
+http://www.download.windowsupdate.com/msdownload/update/software/ftpk/2008/06/windowssearch-kb940157-xp-x86-chs_9df57daf8814565225b7a2a02c9fe71ffa25f482.exe
+
+[ 用于 Windows XP 的 Windows Internet Explorer 7 ]
+http://www.download.windowsupdate.com/msdownload/update/software/uprl/2008/02/ie7-windowsxp-x86-chs_8597784e67390c078efa9b701d254dce53e077d1.exe
+
+[ 用于附带 Windows Media Format Runtime 9.5 和 11 的 Windows XP 的安全更新程序 (KB941569) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsxp-kb941569-x86-chs_f7dae73c6cc06a17f36bfcd48b665ed387cfc2dd.exe
+
+[ 用于 Windows XP 的 Internet Explorer 8 ]
+http://download.windowsupdate.com/msdownload/update/software/uprl/2009/08/ie8-windowsxp-x86-chs_e6f818789b8e73748922727419d72044e64da457.exe
+
+[ 用于 Windows XP 的 Internet Explorer 8 ]
+http://download.windowsupdate.com/msdownload/update/software/uprl/2009/08/ie8-windowsxp-x86-chs_e6f818789b8e73748922727419d72044e64da457.exe
+http://download.windowsupdate.com/msdownload/update/software/uprl/2011/12/ie8postauprep_bdd9c4f020c3c51bedaf37db4b8d43afe07703fb.exe
+
+[ 用于安装了语言界面包的 Windows XP 的 Internet Explorer 8 ]
+http://download.windowsupdate.com/msdownload/update/software/uprl/2011/12/ie8postauprep_bdd9c4f020c3c51bedaf37db4b8d43afe07703fb.exe
+
+[ Windows XP 安全更新程序 (KB946648) ]
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/05/windowsxp-kb946648-x86-chs_cbe0433aa356d874cba4574bad4f437fc297c27a.exe
+
+[ Windows XP 安全更新程序 (KB950762) ]
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/05/windowsxp-kb950762-x86-chs_6a09958f4a41c408f0737b7b3ef28b179704b009.exe
+
+[ Microsoft XP 安全更新程序 (KB950974) ]
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/07/windowsxp-kb950974-x86-chs_e7fa57dcefb453b53e7fb06632a484a24b677c07.exe
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/07/windowsxp-kb950974-x86-chs_80324f6adf6165ac24a027f973b3c6da06362abf.psf
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/07/windowsxp-kb950974-x86-express-chs_da96750ace04f552516e0c6d19b6595e4c69a3fe.cab
+
+[ Microsoft XP 安全更新程序 (KB951376) ]
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/06/windowsxp-kb951376-v2-x86-chs_739301a9d53caa7d7f6e6431ae3e0ca2fbe1c95c.exe
+
+[ Microsoft .NET Framework 3.5 Service Pack 1 (KB951847) x86 语言包 ]
+http://download.windowsupdate.com/msdownload/update/software/dflt/2009/01/dotnetfx35langpack_x86zh-chs_0efbcd2ea06873cede7709066d200744e05de460.exe
+
+[ Microsoft .NET Framework 3.5 Service Pack 1 和用于 .NET 版本 2.0 至 3.5 的 .NET Framework 3.5 Family Update (KB951847) x86 ]
+http://download.windowsupdate.com/msdownload/update/software/svpk/2009/04/dotnetfx35_x86_1aab3734ef80ad9a9ea342c887c3ea76340961e8.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp20sp2-kb958481-x86_04fcde4b28dd4f6db7548831d35d1c6bf38e1335.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp30sp2-kb958483-x86_2b03b54c0972c16ab6ce75f42ac4877af87ce844.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp35sp1-kb958484-x86_8b5036b48590c52e3edba8e297cd3017b7a3043c.exe
+
+[ Microsoft .NET Framework 3.5 Service Pack 1 和 .NET Framework 3.5 Family Update (KB951847) x86 ]
+http://download.windowsupdate.com/msdownload/update/software/svpk/2009/04/dotnetfx35_x86_1aab3734ef80ad9a9ea342c887c3ea76340961e8.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp20sp2-kb958481-x86_04fcde4b28dd4f6db7548831d35d1c6bf38e1335.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp30sp2-kb958483-x86_2b03b54c0972c16ab6ce75f42ac4877af87ce844.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp35sp1-kb958484-x86_8b5036b48590c52e3edba8e297cd3017b7a3043c.exe
+
+[ Windows XP 更新程序 (KB951978) ]
+http://www.download.windowsupdate.com/msdownload/update/software/crup/2008/06/windowsxp-kb951978-x86-chs_893c898f85f0308f508e0f0301e1c12494251d49.exe
+http://www.download.windowsupdate.com/msdownload/update/software/crup/2008/06/windowsxp-kb951978-x86-chs_f8e623ac3e74f14b2684c8ef4c5292b177d4dc4a.psf
+http://www.download.windowsupdate.com/msdownload/update/software/crup/2008/06/windowsxp-kb951978-x86-express-chs_c104efaefb6e399bcb441ea7580010f824f52349.cab
+
+[ Windows XP 安全更新程序 (KB952004) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/11/windowsxp-kb952004-x86-chs_ddfadcaaf6f5523ecf9e49c8732b0022db34a607.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/11/windowsxp-kb952004-x86-chs_2b71a0e02d784f98038c918c18ed22929b0d4f54.psf
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/11/windowsxp-kb952004-x86-express-chs_fd71af901f581b8b482959dd889d43be650bf0bf.cab
+
+[ Windows XP Service Pack 3 安全更新程序 (KB952069) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/01/windowsxp-windowsmedia-kb952069-v2-x86-chs_49174bcea47411e175506c04ef505e6154374101.exe
+
+[ Windows XP 更新程序 (KB952287) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2008/07/windowsxp-kb952287-x86-chs_639661482186a0125d64b719e96e75f272e4d9b1.exe
+
+[ Windows XP 安全更新程序 (KB952954) ]
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/07/windowsxp-kb952954-x86-chs_ea9749c96c163b3b60de3c7951ad322ed02f5155.exe
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/07/windowsxp-kb952954-x86-chs_a261704b3f937883dbea7476997ddc228e80e5bc.psf
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/07/windowsxp-kb952954-x86-express-chs_b6b0a15710aa79dfc7d496d1366e7c396b54e774.cab
+
+[ 用于 Windows 2000、Windows Server 2003 和 Windows XP 的 Microsoft .NET Framework 2.0 Service Pack 1 安全更新程序 (KB953300) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/08/ndp20sp1-kb953300-v2-x86_b19b1a3f0ff00153e0ee2a71f6707803ef482046.exe
+
+[ Microsoft XP 安全更新程序 (KB954154) ]
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/07/windowsmedia11-kb954154-x86-chs_8db0af56c7b063769de3c40bc3e05b1d53f7f489.exe
+
+[ 用于 Windows XP SP 3 的 Windows Media Format Runtime 9、9.5 和 11 的安全更新程序 (KB954155) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-windowsmedia-kb954155-x86-chs_2c89f754ca6760fe1b0f9e03526f5ac955094d64.exe
+
+[ Windows XP 安全更新程序 (KB956572) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsxp-kb956572-x86-chs_04e76ea7f5b9a3e8a7a09f3ba9468d69f4b6123f.exe
+
+[ Windows XP 安全更新程序 (KB956844) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb956844-x86-chs_a35321d6e224ac04aed2e6f6048c40fccfef4db3.exe
+
+[ Windows XP 安全更新程序 (KB959426) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsxp-kb959426-x86-chs_431b5ff07ddde8bea2f8ca62f1e3fa277d389aa8.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsxp-kb959426-x86-chs_a639f6651f3ed8e0e9d4929cc1e7e5c1bf6c997d.psf
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsxp-kb959426-x86-express-chs_2e8debe40c4d54f0c67cb3e9f80d0d17ffce945c.cab
+
+[ Windows XP 安全更新程序 (KB960803) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsxp-kb960803-x86-chs_6e0963d8b93ceda2948578c78a283862922ca46e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsxp-kb960803-x86-chs_445fd13d9bc35f928d95aaa93ba94684e3778265.psf
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsxp-kb960803-x86-express-chs_37e2e6a292d8087d3d594887b544f02141f4f1f6.cab
+
+[ Windows XP 安全更新程序 (KB960859) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb960859-x86-chs_3646ea85c619c392a7dfeb836e8b384b3b21a757.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb960859-x86-express-chs_fa6fb3dd00ff308931794716dadd6f481621fd6a.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb960859-x86-chs_b3a13218b01167fd722ccda0bcda44bd2ebb0530.psf
+
+[ Windows XP 更新程序 (KB961118) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/02/windowsxp-kb961118-x86-chs_c458964259e9f53b8703afa3e465a232ddef3a81.exe
+
+[ Windows XP 安全更新程序 (KB963093) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/06/windowsserver2003.windowsxp-kb963093-x86-enu_c53606bca846117e1cebe7dd9a37251cb84aa41d.exe
+
+[ 用于 .NET Framework Assistant 1.0 x86 的 .NET Framework 3.5 Service Pack 1 更新程序 (KB963707) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/06/ndp35sp1-kb963707-x86_301b6cf8eaf5d2212895fcd9fc566414fb033e3e.exe
+
+[ Windows XP 更新程序 (KB968389) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/08/windowsxp-kb968389-x86-chs_81aef2a25a43c8c2355a1530c9369cd1d762faab.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/08/windowsxp-kb968389-x86-express-chs_4281fa084f0285f72b38d00b27dd9a4988f1c07c.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/08/windowsxp-kb968389-x86-chs_aaeddf6f3aa16dc15d5ee81100b2aaa81ebc46ab.psf
+
+[ 用于 Windows XP 和 Windows Embedded 的 Windows PowerShell 2.0 和 WinRM 2.0 (KB968930) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/11/windowsxp-kb968930-x86-chs_e4f5fe5d846f70c3bcbcc7819c3f2191133bc069.exe
+
+[ Windows XP 安全更新程序 (KB969059) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb969059-x86-chs_9e8e8dd583fe0356dc1fb1650aba9cf512136c43.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb969059-x86-express-chs_416b112ffe6c63a7091a1abce027c335fc407c30.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb969059-x86-chs_b927a01a20644007ae1ec5c5ac0445a5f2161789.psf
+
+[ Windows XP 更新程序 (KB970430) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/11/windowsxp-kb970430-x86-chs_3e6fe738d456588094018411742b538cd67353b6.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/11/windowsxp-kb970430-x86-express-chs_aecbf22160bdb8b0d65186d8f7c7d56716c586c4.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/11/windowsxp-kb970430-x86-chs_29dac4e792e719f9fe380cd9ea56e1ed1973f99c.psf
+
+[ Windows XP 更新程序 (KB971029) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/01/windowsxp-kb971029-x86-chs_3fe840e36d834d00fbb85153005759c4720a6a3e.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/01/windowsxp-kb971029-x86-express-chs_28fb6067c44176845a3ace959054d6ba55ad40ec.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/01/windowsxp-kb971029-x86-chs_a035e008daebe325c94c937ac6399c8c5fde5982.psf
+
+[ Windows XP 更新程序 (KB971513) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows-zh-cn-kb971513_e346619c01cd4f7059291d8bcacb4b8579d1aaf8.exe
+
+[ Windows XP 安全更新程序 (KB971657) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb971657-x86-chs_78d43be93e4022fed70e1259435fbaac33a2e264.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb971657-x86-express-chs_b1048dc713155c679e15bf9f441b6064e0240a8c.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb971657-x86-chs_5aab4bb55e870c9cc0b57c9036d8f2d6dc826143.psf
+
+[ Windows XP 安全更新程序 (KB972270) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsxp-kb972270-x86-chs_b239c333fedb55860f6771aac4fe1ca56db62268.exe
+
+[ Windows XP 安全更新程序 (KB973507) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb973507-x86-chs_b235173ddb48dccd075c5d64d1086c79fa814aa3.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb973507-x86-express-chs_6c5e63c3896f0011fbe0aa2728bde8662a9961fd.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb973507-x86-chs_9c050bcaa1f7e061c796a516223446dd2528d83c.psf
+
+[ Windows XP Service Pack 3 安全更新程序 (KB973540) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-windowsmedia-kb973540-x86-chs_a9b361d1a87e3ad89b41865dd64cbf5ce1cc68f5.exe
+
+[ Windows XP 安全更新程序 (KB973815) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/08/windowsxp-kb973815-x86-chs_5e9ab5f4a3bf74f863c13593d0d503dbc6b28780.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/08/windowsxp-kb973815-x86-express-chs_945039816f94218323ede1e01fe876a8d3119953.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/08/windowsxp-kb973815-x86-chs_d7318b5ea3bed6264b15a50b001a8c14bec8fafc.psf
+
+[ Windows XP 安全更新程序 (KB973869) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsxp-kb973869-x86-chs_11ea13e6e6031e21d8ffb665dd597ad424d65e95.exe
+
+[ Windows XP 安全更新程序 (KB973904) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsxp-kb973904-x86-chs_a589d689d32877a0b0cf2a1c2c763b397687c796.exe
+
+[ Windows XP 安全更新程序 (KB974112) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb974112-x86-chs_84364bb68fce4d6dcf355e5c70cc615445a7fe2d.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb974112-x86-express-chs_3a889b29abf65642ef3d6d1fc0dba7c27360a05c.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb974112-x86-chs_280d9052ddb72633da7fe0085b0f70f2d9f1ccfe.psf
+
+[ Windows XP 安全更新程序 (KB974318) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsxp-kb974318-x86-chs_d960f318af0f0a40aa76f8560c6d32cf1efef964.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsxp-kb974318-x86-express-chs_c9b10fbe33f974a6a480bcfc50ad2886ac348302.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsxp-kb974318-x86-chs_0f975aefe68a4889f76d42002dbb111a62af03ee.psf
+
+[ Windows XP 安全更新程序 (KB974392) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsxp-kb974392-x86-chs_da2f060a8edcc33a25bb39c6bd6ac0508feaeaf5.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsxp-kb974392-x86-express-chs_a6f6b119188061aced8f85c1f68f538a3946ce72.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsxp-kb974392-x86-chs_7a5470422e8d4bcef6d0edb2477a350bc3b88b0b.psf
+
+[ Windows XP 安全更新程序 (KB974571) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb974571-x86-chs_c42df7657f5e3407dece148dcdd29599e0009d3f.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb974571-x86-express-chs_2855778b786359df7283b06485e2d6f6c36171b6.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb974571-x86-chs_581ba404e9b584bf8fe14c5f94d4011114a95bde.psf
+
+[ Windows XP 安全更新程序 (KB975025) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb975025-x86-chs_957458b571a9dc74b565233823caae0fc393ed2d.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb975025-x86-express-chs_486feba2f2807041836031935056f44d366f9fe1.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb975025-x86-chs_ef0091ffb38daf8e6760c7ed50fdf02a4c17a527.psf
+
+[ Windows XP 安全更新程序 (KB975467) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb975467-x86-chs_33adf3b80cc7869a6792a6d2fb3838c3b764d973.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb975467-x86-express-chs_169814badad96e46314c3c92811909952433bd11.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsxp-kb975467-x86-chs_1ee396e11503c6916e77a5d5853a29ce059632b8.psf
+
+[ Windows XP 安全更新程序 (KB975558) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/08/windowsxp-windowsmedia-kb975558-x86-chs_fa5a8bc355599721da7a3adc3a2d9fdb949aa914.exe
+
+[ Windows XP 安全更新程序 (KB975560) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb975560-x86-chs_4540d44e03e197961f0a13118eaf8f8a69746206.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb975560-x86-express-chs_057a9f09404751f7f916f78d2038d8d9e4b46069.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb975560-x86-chs_49f8b2364474cfcaf4499f010b2e7c91b8412edb.psf
+
+[ Windows XP 安全更新程序 (KB975713) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb975713-x86-chs_62b93636b8ce6263a6cff66be65331c6c5a6a12b.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb975713-x86-express-chs_1cd7b44b233ed00efe97304abfbe766ebeed9023.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb975713-x86-chs_f49b9a9310ef5c0019d111c9ef6755bf53680548.psf
+
+[ 用于 Windows Server 2003 和 Windows XP x86 的 Microsoft .NET Framework 2.0 Service Pack 2 更新程序 (KB976569) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/01/microsoftfixit50123_7f11d281cccad1b6d418c2b6bd94894d9514800f.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2010/02/ndp20sp2-kb976569-x86_dd5f498a00cff2addd29b7f9e5ea8b1054ac2d73.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 的 Microsoft .NET Framework 3.0 Service Pack 2 更新程序 (KB976570) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/01/microsoftfixit50123_7f11d281cccad1b6d418c2b6bd94894d9514800f.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2010/01/ndp30sp2-kb976570-x86_dcff59f3947e2c3d4f88e72959e6b5bb40c5b1d7.exe
+
+[ Windows XP 安全更新程序 (KB977816) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsxp-kb977816-x86-chs_855930ed4e2fb9f66d31b4da53bef18cf387b41b.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsxp-kb977816-x86-express-chs_fe71a345791d3fdbfa2550451787873729cede6b.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsxp-kb977816-x86-chs_00e1a4823e773287273bc490969e8165647b2045.psf
+
+[ Windows XP 安全更新程序 (KB977914) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb977914-x86-chs_5ae6cfd2946f4f4cd802581c743e409d4ec9a1f5.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb977914-x86-express-chs_914f48949245dddeb239c62bc63be0d14d5c20a5.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb977914-x86-chs_653727d3a6371e1aab1dfa875383a442efb69563.psf
+
+[ Windows XP 安全更新程序 (KB978338) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsxp-kb978338-x86-chs_50b64fc10acca9e9f5f24d253d3dd9dff31821c1.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsxp-kb978338-x86-express-chs_e682c00974caefc79d60db747db39c0bc7ababf8.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsxp-kb978338-x86-chs_5bc0b5d52d3ab0b0059ab9909ce0f55216a3bbf9.psf
+
+[ Windows XP 安全更新程序 (KB978542) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/04/windowsxp-kb978542-x86-chs_0b037856d8ea46ab940b8a12c6906362610ac18b.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/04/windowsxp-kb978542-x86-express-chs_d232a2b4c2903d847b6c85b5641ac78dacbcdcc2.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/04/windowsxp-kb978542-x86-chs_e16ef361d2ecea25698f937188fe4034cb837448.psf
+
+[ 用于 Windows XP SP3 的 Windows Media Format Runtime 9、9.5 和 11 的安全更新程序 (KB978695) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/windowsxp-windowsmedia-kb978695-x86-chs_9674cc0d9772104a25f825595b9fa7312df82f23.exe
+
+[ Windows XP 安全更新程序 (KB978706) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb978706-x86-chs_dc862b2d9963773f8205e977a518ab2ad8477d69.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb978706-x86-express-chs_6527fb27af748932f920f8e4010f87eeb5c6f15c.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsxp-kb978706-x86-chs_18e362d43fe09de1808eb48a2cd6bb493f6f6e24.psf
+
+[ Windows XP 安全更新程序 (KB979309) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsxp-kb979309-x86-chs_4d2fd946507b2558866db73244b0d2c32acbf478.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsxp-kb979309-x86-express-chs_bff3c0b0352e5bde38c5cc64f8d07f457db3697c.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsxp-kb979309-x86-chs_df5e7f5dc596a5709e8304c79c93301ab13d1504.psf
+
+[ Windows XP 安全更新程序 (KB979482) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/windowsxp-kb979482-x86-chs_4656092996531bb72a29b7a682df17e1bf73b184.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/windowsxp-kb979482-x86-express-chs_9e2bb6dfbee42feb7f145a4bb171d89c36c294b9.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/windowsxp-kb979482-x86-chs_0b034342a1a8ad043bd74136ea40ba6febc9b93d.psf
+
+[ Windows XP 安全更新程序 (KB979687) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsxp-kb979687-x86-chs_a82338275d59c9dda97f70de4f451867c8e60e56.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsxp-kb979687-x86-express-chs_8bfb2c1dd6ed9a84d8f2541b052debc9e5742bbb.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsxp-kb979687-x86-chs_d7e16f067cdbc833ce0d18da94ae1b119757b798.psf
+
+[ Windows XP 安全更新程序 (KB981997) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/07/windowsxp-kb981997-x86-chs_2eccecd788cbf0e16e0204e9aa6b70243953297f.exe
+
+[ Windows XP 安全更新程序 (KB982132) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsxp-kb982132-x86-chs_ea8224a159a2a53b973fc3c876367f501d534f78.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsxp-kb982132-x86-express-chs_b17963c35092351c1669682b5c63e2b1812725f9.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsxp-kb982132-x86-chs_a8169e6ef9f41dab045d4a9df06042bc4c315339.psf
+
+[ 用于 Windows Server 2003 和 Windows XP x86 的 Microsoft .NET Framework 3.5 SP1 更新程序 (KB982168) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/msipatchregfix-x86_9d8e583e06ff2d6d90ac813ae04920f48649535d.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/05/ndp30sp2-kb982168-x86_55b498e96d1ea7db2d25302f30fc7f8fb5441158.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 的 Microsoft .NET Framework 3.5 SP1 和 .NET Framework 2.0 SP2 更新程序 (KB982524) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/msipatchregfix-x86_9d8e583e06ff2d6d90ac813ae04920f48649535d.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2010/02/ndp20sp2-kb976576-x86_8e8121a8bddfb2095453335c593ffa22ef8e95ec.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/06/ndp30sp2-kb977354-v2-x86_36d5f7b86e33e09d4e1934c43bbfab04c64a280e.exe
+
+[ Windows XP 安全更新程序 (KB982665) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/07/windowsxp-kb982665-x86-chs_e09e42e7a4ed745446fc93655792432a4caf4d1d.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/07/windowsxp-kb982665-x86-express-chs_f20f1dfc05488b542a8891dd6b7585117541d9cf.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/07/windowsxp-kb982665-x86-chs_7d7c2f4adeb316c1800ef72df703050707473b01.psf
+
+[ Windows XP 安全更新程序 (KB2115168) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/07/windowsxp-kb2115168-x86-chs_ca4f09de0ba3d227e0dc51bbd383bf757ace2540.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/07/windowsxp-kb2115168-x86-express-chs_1a22b20677f08e755ad6afd5be315793db8639df.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/07/windowsxp-kb2115168-x86-chs_9e59e36eb7ec186285072c1b3ee21bbc369dea74.psf
+
+[ Windows XP 安全更新程序 (KB2229593) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/06/windowsxp-kb2229593-x86-chs_0b07475a4554197ffe8580fd263dc4a162dabf1c.exe
+
+[ Windows XP 安全更新程序 (KB2296011) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsxp-kb2296011-x86-chs_0f105045c23834baa6dfb662f55152b71f1be67b.exe
+
+[ Windows XP 更新程序 (KB2345886) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/09/windowsxp-kb2345886-x86-chs_9784d7f79b6a49cc6645baa989e8ae2f66d4f7ef.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/09/windowsxp-kb2345886-x86-express-chs_afe837483318e98a1b3db0b27c0f8dd008155d06.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/09/windowsxp-kb2345886-x86-chs_1d44e9ebaa0f9c6b452a4859e6486de5736d33d5.psf
+
+[ Windows XP 安全更新程序 (KB2347290) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/08/windowsxp-kb2347290-x86-chs_09932d68812a7471c1552856b10f071ecf57536c.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/08/windowsxp-kb2347290-x86-express-chs_026ed5ed6432dea9bc990187ecded48f09b0f2dd.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/08/windowsxp-kb2347290-x86-chs_9f3623c4da8817e2879719e083532a0e755916fe.psf
+
+[ Windows XP 安全更新程序 (KB2378111) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsxp-windowsmedia-kb2378111-x86-chs_d85416f5cc64e07b5536d317fb8fff5a8a1e398b.exe
+
+[ Windows XP 安全更新程序 (KB2387149) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsxp-kb2387149-x86-chs_718b361eb9fc95163cebbb7555def6e9f56d61b1.exe
+
+[ Windows XP 安全更新程序 (KB2393802) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2393802-x86-chs_500195c2cb1e752e3b063a560715e51b9eb23fc3.exe
+
+[ Windows XP 安全更新程序 (KB2419632) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/12/windowsxp-kb2419632-x86-chs_6eaec1600ecfd0ceca09b3bb4d8fbf93c37cb2dc.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/12/windowsxp-kb2419632-x86-express-chs_df1434652d8040dcfe6af0cc19884e3a867fc0f9.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/12/windowsxp-kb2419632-x86-chs_04c56836300758149c59e6647f4ddf6951eebbcc.psf
+
+[ Windows XP 安全更新程序 (KB2423089) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/11/windowsxp-kb2423089-x86-chs_8940a08c0a25158d61d395bf59241bbc8becb243.exe
+
+[ Windows XP 安全更新程序 (KB2443105) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/11/windowsxp-kb2443105-x86-chs_0bd58df2a3838d4f570f005f194dbf12bcc76f95.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/11/windowsxp-kb2443105-x86-express-chs_ae236b0207373d261bf52c7dc5c4801dc82c7c05.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/11/windowsxp-kb2443105-x86-chs_b708f1a38fdb61eaf3514b4223fe4549c4d54c2b.psf
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 更新程序 (KB2468871) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/microsoftfixit50735_579b2d12894af17daa70bd153b14fbfddefa0ad8.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/06/ndp40-kb2468871-v2-x86_8cb1f5eb7eda5329e69629dff3fd3757bf980717.exe
+
+[ Windows XP 安全更新程序 (KB2478960) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2478960-x86-chs_d9df0d395bd560e9498183d9c2da428653365d51.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2478960-x86-express-chs_fe070f515f44f3797373cf655854fb71c5261492.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2478960-x86-chs_12fab01553d4183013dc7b3338c65dd4cbcc63ed.psf
+
+[ Windows XP 安全更新程序 (KB2478971) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2478971-x86-chs_2cbba854d6ca81228e98a893214f624c2b0e25cb.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2478971-x86-express-chs_bf427fdbf054c97b6c7c98aa8d99854e38351561.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2478971-x86-chs_074623aa3c0c21dd27aa677aabf29e9bb997ffae.psf
+
+[ Windows XP 安全更新程序 (KB2479943) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/02/windowsxp-kb2479943-x86-chs_3f6fbdeabea8b7897b8075b6c00d4f3a85bfb445.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/02/windowsxp-kb2479943-x86-express-chs_dc2c8efeaadcd9666a2329f4047e0c0a64b3ba4d.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/02/windowsxp-kb2479943-x86-chs_354f8d86b0c2e0859d6032a77693c3a7ffc206bf.psf
+
+[ Windows XP 安全更新程序 (KB2481109) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/02/windowsxp-kb2481109-x86-chs_2cf554972145730ffcf6e76eae7fda6a10d8791f.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/02/windowsxp-kb2481109-x86-express-chs_3ba1742e7c53d5f2bf569b2936ca9b9672dd9caa.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/02/windowsxp-kb2481109-x86-chs_aaa52171e0b86e8bf9a59935afc0817b84fd953a.psf
+
+[ Windows XP 安全更新程序 (KB2483185) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2483185-x86-chs_fa9e31148734859ae4ab844a974ec124e7913873.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2483185-x86-express-chs_e19f9e68a89505066facf879dd72013206e6eade.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2483185-x86-chs_a41632d2d51b7d2472b649431d6203656bbfcb44.psf
+
+[ Windows XP 安全更新程序 (KB2485663) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2485663-x86-chs_1cf2c22a0e645a9b1dca3d3514a09b12482410c4.exe
+
+[ Windows XP 更新程序 (KB2492386) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/04/windowsxp-kb2492386-x86-chs_761f6b576bcd186d2fc0040b79edf2782197ee35.exe
+
+[ Windows XP 安全更新程序 (KB2506212) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2506212-x86-chs_6ceac0e0ca0a39d683860bba57a4c786e2d1343d.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2506212-x86-express-chs_9393cffdaeed69f9f8fb35ba5ba57151bcb2f0eb.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2506212-x86-chs_e1ee273bf9c9bea8bc1ce5f42d36b37aa165814b.psf
+
+[ Windows XP 安全更新程序 (KB2507938) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/05/windowsxp-kb2507938-x86-chs_b4d91354743d1568785c5e142a0f995414ba5614.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/05/windowsxp-kb2507938-x86-express-chs_0772f58170c18561d28aae7e649ce5e3e88bf894.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/05/windowsxp-kb2507938-x86-chs_247064677682d18b47120ceeb94d994f1ece9ccf.psf
+
+[ Windows XP 安全更新程序 (KB2508429) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2508429-x86-chs_927a69c73f37e35306d218c3baa07d1bd6a487e7.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2508429-x86-express-chs_e544822429efdd878a954d9e894cccbaed8e1393.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2508429-x86-chs_01f3d17f0bf6634a39dd3769d3dd61d43d35ebbc.psf
+
+[ Windows XP 安全更新程序 (KB2509553) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2509553-x86-chs_076dad238f3d5864f72e3688a8cc35e3931ff021.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2509553-x86-express-chs_33491571ab0d200f1996c0a173162ab156ce9c90.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2509553-x86-chs_4645a8ce32a5ea635d383626d07d3ef7550e00f5.psf
+
+[ Windows XP 安全更新程序 (KB2510531) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/ie8-windowsxp-kb2510531-x86-chs_6eb53fc4debec9dba76dcd464500aefa8a36c045.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 更新程序 (KB2533523) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/microsoftfixit50735_579b2d12894af17daa70bd153b14fbfddefa0ad8.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/08/ndp40-kb2533523-x86_e4d68d030e6577b5183ce441dbcc62d2d3112f29.exe
+
+[ Windows XP 安全更新程序 (KB2535512) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/05/windowsxp-kb2535512-x86-chs_9d111143cf5d942ec25b3d440830b438264478b3.exe
+
+[ Windows XP 安全更新程序 (KB2536276) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/windowsxp-kb2536276-v2-x86-chs_46cc74e9d7460188b88b53f642eab5e429db04f6.exe
+
+[ Windows XP 安全更新程序 (KB2544893) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/10/windowsxp-kb2544893-v2-x86-chs_720636db6cfe0198e0537edb720c0ddfa1196eee.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/10/windowsxp-kb2544893-v2-x86-express-chs_630614b1d8f60c38669c6cbbb9e7a7274c0840d2.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/10/windowsxp-kb2544893-v2-x86-chs_7aeb83e7315c4dba4400ef27634c3d596d805f2b.psf
+
+[ Windows XP 安全更新程序 (KB2564958) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/09/windows-zh-cn-kb2564958_2fa3610df66fd668b67b9d6d30da008741903c67.exe
+
+[ Windows XP 安全更新程序 (KB2566454) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/windowsxp-kb2566454-x86-chs_0fe9cb63a58ca90d65746a39c1bb955cdd0ea3fc.exe
+
+[ Windows XP 安全更新程序 (KB2570947) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/08/windowsxp-kb2570947-x86-chs_df94f01c7fb22947579d4da615ff3b7149a36a4b.exe
+
+[ Windows XP 安全更新程序 (KB2584146) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2584146-x86-chs_2ac8b88af108b6409ddf5c64490e610c4b772d13.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2584146-x86-express-chs_7e217c53ff2d8173883828fbc9b2164d7fca2310.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2584146-x86-chs_6c371c032e59f2909a9cc48d142d359b7bb7beb7.psf
+
+[ Windows XP 安全更新程序 (KB2585542) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2585542-x86-chs_07783bd9f17d50900d1ca6277c0ebfbc99e53223.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2585542-x86-express-chs_ad393878f634ebe139911d0e74638e0575c22de0.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2585542-x86-chs_1f991bfb646eb2fcb96283f770dca9fa431eaef5.psf
+
+[ Windows XP 安全更新程序 (KB2592799) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/09/windowsxp-kb2592799-x86-chs_60055694007448c9032b5880af51348d3a2551f0.exe
+
+[ Windows XP 安全更新程序 (KB2598479) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2598479-x86-chs_8cefa0bcf769fb07139a1cff8b8d4f1bfecf676c.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2598479-x86-express-chs_e96ff60634849a8795a0dbe6b7622977f27d3728.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2598479-x86-chs_a334fa6ffa42d4d471b961098442ff9c75528123.psf
+
+[ 用于 Windows XP 的 Internet Explorer 8 兼容性视图列表的更新程序 (KB2598845) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/10/ie8-windowsxp-kb2598845-x86-chs_5a78a355f6f7bd6743456b78b23d2d399dd5d4c3.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 更新程序 (KB2600217) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/msipatchregfix-x86_1148a3e14d3578e280a4d73bc3310825295f380e.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/02/ndp40-kb2600217-x86_439b695de8c8acd1b33aa4563ddc5536f9e3442e.exe
+
+[ Windows XP 安全更新程序 (KB2603381) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2603381-x86-chs_76cfd8c288023b050f321dd415a6ea418db9446b.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2604092) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/msipatchregfix-x86_1148a3e14d3578e280a4d73bc3310825295f380e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/ndp20sp2-kb2604092-x86_8ffc64599603264e79a0caaaf51e3393942fae06.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista 和 Windows Server 2008 x86 的 Microsoft .NET Framework 3.5 SP1 安全更新程序 (KB2604111) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/msipatchregfix-x86_1148a3e14d3578e280a4d73bc3310825295f380e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/ndp35sp1-kb2604111-x86_4c2840092b5593dee6e81870f07803a3346ae74d.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2604121) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/msipatchregfix-x86_1148a3e14d3578e280a4d73bc3310825295f380e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/ndp40-kb2604121-x86_5ba2f9d2a8a395d125d7c3844cb489697664de2b.exe
+
+[ Windows XP 安全更新程序 (KB2619339) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2619339-x86-chs_8b1f5046c95d063b85807e924cd12709ea5782d9.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2619339-x86-express-chs_12850dd9ff4ae42e31ef986281b0469067088252.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2619339-x86-chs_35fa6ebb223cd5d2b5bb451bf6ce6074298918aa.psf
+
+[ Windows XP 安全更新程序 (KB2620712) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2620712-x86-chs_bb3eb9a326dffa40d522dd2fe405b55e4105f22b.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2620712-x86-express-chs_88fbaa16a73ec4506a14dbb124f6e237b1f60c28.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2620712-x86-chs_687c875499ea9f59e39e1e73e7a8cf7e1af057d3.psf
+
+[ Windows XP 安全更新程序 (KB2631813) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2631813-x86-chs_191cf8a1e3f4c1ddb9063b719e7af20162fcbae3.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2631813-x86-express-chs_ca75943ca2f6813a245f33d92a4c320b4f1112e4.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2631813-x86-chs_8643d37782aca67ad69e9f09f889409443bab84b.psf
+
+[ Windows XP 更新程序 (KB2632503) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/01/ie8-windowsxp-kb2632503-x86-chs_e2e27e79ce0676f7946c851b2742294147092cb2.exe
+
+[ Windows XP 安全更新程序 (KB2653956) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/windowsxp-kb2653956-x86-chs_9b894f242e1fd6f6d5b8ee2ef17fe48eac66dc07.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/windowsxp-kb2653956-x86-express-chs_bacf3c4c7c219ce949212c793319c162b7c0305f.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/windowsxp-kb2653956-x86-chs_e739ef61099368a2f873a89c5d6b6941525c2776.psf
+
+[ Windows XP 安全更新程序 (KB2655992) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsxp-kb2655992-x86-chs_90f74c31ba57296e3eed7037aa92f942e2b150e3.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsxp-kb2655992-x86-express-chs_7a78772836453ff4bd92527cd2ba18a800c9bc03.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsxp-kb2655992-x86-chs_f78b4064b2ead173b4d1db743e23422f1feee1d1.psf
+
+[ Windows XP 安全更新程序 (KB2659262) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/windowsxp-kb2659262-x86-chs_3ebb431f9f7c7cde7b4b7587329e7a85d8739981.exe
+
+[ Windows XP 安全更新程序 (KB2661637) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/01/windowsxp-kb2661637-x86-chs_23d88534bf238edb7b80883140f7e7187f32e6b5.exe
+
+[ Windows XP 安全更新程序 (KB2676562) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/04/windowsxp-kb2676562-x86-chs_c50ee77e1d3f482612f34ed68a956bd9ca397543.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/04/windowsxp-kb2676562-x86-express-chs_31ff77c997854bf0825691185c6fac700b602c46.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/04/windowsxp-kb2676562-x86-chs_068d3d4d0f9e30abbdb710ff8b9427d73f0afe9c.psf
+
+[ Windows XP Embedded 安全更新程序 (KB2686509) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/05/windowsxp-kb2686509-x86-chs_9cc55cde6f81042acdccb5274b20caf569e3d747.exe
+
+[ Windows XP 安全更新程序 (KB2691442) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsxp-kb2691442-x86-chs_225744aa08d939330a639101e73535ef8e3134f7.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsxp-kb2691442-x86-express-chs_b0b29e90ef35603d5823a3c29c78960a4cb9b013.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsxp-kb2691442-x86-chs_453e508a3b4f9350809fb291eb38cfc0da2566fd.psf
+
+[ Windows XP 安全更新程序 (KB2698365) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsxp-kb2698365-x86-chs_dd174373177f5f7ec98dbafbabce9dc35109a65e.exe
+
+[ Windows XP 安全更新程序 (KB2705219) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/09/windowsxp-kb2705219-v2-x86-chs_465572d70741ff90e9093f70c189473d6b781e56.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/09/windowsxp-kb2705219-v2-x86-express-chs_036f470e34b0795b1562e6a0e810fcaca15f3dd7.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/09/windowsxp-kb2705219-v2-x86-chs_d99adce1d64cdbfe3640d3cd15abf2dad66b55e5.psf
+
+[ Windows XP 安全更新程序 (KB2712808) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/07/windowsxp-kb2712808-x86-chs_6b6c68337dad11f1a0389384925f95a48b706a61.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/07/windowsxp-kb2712808-x86-express-chs_977219d26658a2b7c6b86bc12e565d338a72668a.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/07/windowsxp-kb2712808-x86-chs_1c98c8cd6ebda4ae01a8cc809539b0f9d4358dfb.psf
+
+[ Windows XP 安全更新程序 (KB2719985) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsxp-kb2719985-x86-chs_456bd93878aab89299ae4ffd38c213a43fb21eae.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsxp-kb2719985-x86-express-chs_d36c0c83264dd1ada35f113f3a5aec9020ef6110.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsxp-kb2719985-x86-chs_33d93ca9b1d6385c7c08a1f67356a26b7169b82d.psf
+
+[ Windows XP 安全更新程序 (KB2723135) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/09/windowsxp-kb2723135-v2-x86-chs_13d80fcc70fd854dca308040dae223c51b7f26dc.exe
+
+[ Windows XP 安全更新程序 (KB2727528) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/windowsxp-kb2727528-x86-chs_2eba658b36640dbddd84750182cdde8e7ef9b9d1.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/windowsxp-kb2727528-x86-express-chs_b3ce7c45736ba09b4feffdc0b561ff07fe8c8881.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/windowsxp-kb2727528-x86-chs_bc9f0c0aed3de124285bd9ab65a2ec818502f061.psf
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2729449) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/ndp40-kb2729449-x86_17cb1faf25f589d50483dae8a8b1dd536e5651c0.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2729450) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/ndp20sp2-kb2729450-x86_2e3100a991fc67b39350d431055bb005f9bb0487.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista 和 Windows Server 2008 x86 的 Microsoft .NET Framework 3.5 SP1 安全更新程序 (KB2736416) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/ndp35sp1-kb2736416-x86_93368f49226c00b8ddb32723196ddfbb275c8765.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2737019) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/ndp40-kb2737019-x86_5a0eb52ec395a87022e1d1d37577c4ba6c64d075.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2742595) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/ndp40-kb2742595-x86_d1258e5d0d6e3291f20f7c5efdf11be6ed9946e5.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2742596) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/ndp20sp2-kb2742596-x86_a0b11aaa133b0a15295bde2ec77680314f3200cc.exe
+
+[ Windows XP 更新程序 (KB2749655) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/09/windowsxp-kb2749655-x86-chs_97263dd250bc85cff90241f2ded6189f5481fc79.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/09/windowsxp-kb2749655-x86-express-chs_5798d4a72aace358233d319d4c458872378a39a9.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/09/windowsxp-kb2749655-x86-chs_4ad0a491b641b545e50118d10e42b447c6efd5c4.psf
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 3.0 SP2 的安全更新程序 (KB2756918) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/ndp30sp2-kb2756918-x86_0171f9344ff6aef983e78241b4463190c77d847a.exe
+
+[ Windows XP 安全更新程序 (KB2757638) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/windowsxp-kb2757638-x86-chs_4eed045635cc223841543efea877941163f2f066.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/windowsxp-kb2757638-x86-express-chs_b0ec78473538be6c3c70c77d4712323eca6073b3.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/windowsxp-kb2757638-x86-chs_3809bf3c1d2a48e2a1206cff6a8447d696941274.psf
+
+[ Windows XP 安全更新程序 (KB2770660) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/11/windowsxp-kb2770660-x86-chs_566d93c1927f842d5aaa8057a834d004b3624007.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/11/windowsxp-kb2770660-x86-express-chs_9fa22f571eb481249c9f9e4b5d06fd73c08a61cb.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/11/windowsxp-kb2770660-x86-chs_2a74d3d26ba7e2ab576d53bd67165c8873834e21.psf
+
+[ Windows XP 安全更新程序 (KB2780091) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/windowsxp-kb2780091-x86-chs_1dc98e6b6f71c8c6ff1b0d46edf939dff0f8a57d.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/windowsxp-kb2780091-x86-express-chs_4df97325e14b407fd353d9bbd79bdc4a2aa44b9b.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/windowsxp-kb2780091-x86-chs_9c2adc1e885d1252ff34a67ecd5c8c7aae8b4791.psf
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2789642) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/ndp40-kb2789642-x86_3a1d5c9a88c876b3f5a066b8a0aa34334b3a97d0.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2789643) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/ndp20sp2-kb2789643-x86_252af3b6f715b2446fac3b169b1aa9711bce6bfd.exe
+
+[ Windows XP 安全更新程序 (KB2802968) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/windowsxp-kb2802968-x86-chs_e802ab58883f03be3f57044f1d597b1ee85fbad0.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/windowsxp-kb2802968-x86-express-chs_35d2ada90ce9faacd54d55e1ecedece96b6b9c9e.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/windowsxp-kb2802968-x86-chs_f56dc9a194ffa57e720678112b6a23d68b8585ed.psf
+
+[ Windows XP 安全更新程序 (KB2807986) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/02/windowsxp-kb2807986-x86-chs_c9fc044ab4892f2985edde68afa3fe321aa8cdc5.exe
+
+[ Windows XP 更新程序 (KB2808679) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/windowsxp-kb2808679-x86-chs_14289d3b6e168608284d07812dc0e4e8faccc84c.exe
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/windowsxp-kb2808679-x86-express-chs_7b4a98cf9d4edfeb1ce2b67832655885b87af6fc.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/windowsxp-kb2808679-x86-chs_1f577e426ffa6f6c411ea16ab6bf9e3bcc28083d.psf
+
+[ Windows XP 安全更新程序 (KB2813345) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/03/windowsxp-kb2813345-x86-chs_29ddeecd7ea2e1f1b4ae22a2b4cdaea0812181e2.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/03/windowsxp-kb2813345-x86-chs_1a1f9902d34a2c2dfd10154b0a625a542d77925a.psf
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/03/windowsxp-kb2813345-x86-express-chs_64f05ece4c7bebf1680ac97547c7d15febf63ecd.cab
+
+[ Windows XP 安全更新程序 (KB2820917) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/03/windowsxp-kb2820917-x86-chs_85b5f41639493e780985c435e89bc0076ccf1f80.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/03/windowsxp-kb2820917-x86-express-chs_6bd5ad4de2191115e7872ce73cef861a02ceffe9.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/03/windowsxp-kb2820917-x86-chs_2df305ca88809685ce30e07ef671eceddd8a845a.psf
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 3.0 SP2 的安全更新程序 (KB2832411) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/05/ndp30sp2-kb2832411-x86_5a169c4c0ca3819fe7745faf894e50708008efd1.exe
+
+[ 用于 Windows XP、Windows Vista 和 Windows Server 2008 x86 的 Microsoft .NET Framework 1.1 SP1 安全更新程序 (KB2833941) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/05/ndp1.1sp1-kb2833941-x86_bb00e871d14625ce5324ccdf7ad36ca9016bcaec.exe
+
+[ Windows XP 安全更新程序 (KB2834886) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/05/windowsxp-kb2834886-x86-chs_a83507adec3d1b45af92662c2574b4215a01e316.exe
+
+[ 用于 Windows XP 的 Windows Media Format Runtime 11 的安全更新程序 (KB2834904) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsxp-windowsmedia-kb2834904-v2-x86-chs_b99e842c15254f0692665cb30a80c9b8e74d5c51.exe
+
+[ 用于 XP、Server 2003、Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 更新程序 (KB2836939) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/ndp40-kb2836939-x86_cef77927432048cd36340da5d972e349d57764f6.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 更新程序 (KB2836939) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/10/ndp40-kb2836939-v3-x86_5f7e7f9811136bd3dfeb994d75a96aece646ea3d.exe
+
+[ 适用于 Windows XP、Server 2003、Vista 和 Server 2008 x86 的 Microsoft .NET Framework 3.5 SP1 更新 (KB2836940) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/06/ndp35sp1-kb2836940-x86_43c873339b256d55a01b8e0303d53153949fdec3.exe
+
+[ 适用于 Windows Server 2003 和 Windows XP x86 的 Microsoft .NET Framework 2.0 SP2 安全更新 (KB2836941) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/08/ndp20sp2-kb2836941-v2-x86_9e8d176f3476dc920c9ac845647ec47fdbfc5d38.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2840628) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/ndp40-kb2840628-v2-x86_891d50ff3c1322db3fb0fde222ebb0aaa5260272.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista 和 Windows Server 2008 x86 的 Microsoft .NET Framework 3.5 SP1 安全更新程序 (KB2840629) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/06/ndp35sp1-kb2840629-x86_3a7890d49029e2383d7887b5abbd771cea442edf.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2844285) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/ndp20sp2-kb2844285-v2-x86_b2407fdad98f8c0a682ca61825804022cc35cde0.exe
+
+[ Windows XP 安全更新程序 (KB2847311) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/windowsxp-kb2847311-x86-chs_ad183696da0319da3180d15fa379381b7cbbd26b.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/windowsxp-kb2847311-x86-express-chs_9f4bfe650c34c233aadc4188212609a51c9ccf7f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/windowsxp-kb2847311-x86-chs_4f334c7210ff1ebe8978eae3d92ee5d0ce7b8c06.psf
+
+[ Windows XP 安全更新程序 (KB2850869) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/windowsxp-kb2850869-x86-chs_80a8f6801298bfa58cfe5fa7a97f3498f4711ef7.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/windowsxp-kb2850869-x86-express-chs_22bfcf4fd7ced5d66811e2a6db2efe9db6ebc669.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/windowsxp-kb2850869-x86-chs_d4824a2bb34c113871744f2708506c42a6029fcf.psf
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2858302) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ndp40-kb2858302-v2-x86_50e0381ccb5c2055f1ef0dffd6d9af42fcf5957a.exe
+
+[ Windows XP 安全更新程序 (KB2859537) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/windowsxp-kb2859537-x86-chs_005d1a023a4b4fc1083f69e8cfeb74ab3fef38df.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/windowsxp-kb2859537-x86-express-chs_1ec030878b424169d93d0681302a6ac4debb4f97.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/windowsxp-kb2859537-x86-chs_9e67ea453c7cfde3469fd8854554f63993b5d794.psf
+
+[ 适用于 XP、Server 2003、Vista、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新 (KB2861188) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ndp40-kb2861188-x86_f978f7e7b33c98bb21fba3e45cff8675132e7787.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 3.0 SP2 的安全更新程序 (KB2861189) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ndp30sp2-kb2861189-x86_59e2d4a7073c954c509c52297abff96f3ca51a66.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista 和 Windows Server 2008 x86 的 Microsoft .NET Framework 3.5 SP1 安全更新程序 (KB2861697) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/ndp35sp1-kb2861697-x86_00011f82279874680d2d5812aad94303aa4af7db.exe
+
+[ Windows XP 安全更新程序 (KB2862152) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/10/windowsxp-kb2862152-x86-chs_44115dd4a313fe9fe60c718f9c5ea351b134810e.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/10/windowsxp-kb2862152-x86-express-chs_89ea774b1abb957491239c3cbebf3bfa4f551964.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/10/windowsxp-kb2862152-x86-chs_b34ab19cd3c8493cfba671ecab697e1dafe96e1d.psf
+
+[ Windows XP 安全更新程序 (KB2862330) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/windowsxp-kb2862330-x86-chs_c5599a4e41299d3f0ae25ba7e4ef185c19a4b738.exe
+
+[ Windows XP 安全更新程序 (KB2862335) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/windowsxp-kb2862335-x86-chs_ad3ea241a37d845361fe1b3dfae6df16bfc06597.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2863239) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/ndp20sp2-kb2863239-x86_972d289db3d1a2aea4ac427526b8be5566073d36.exe
+
+[ Windows XP 安全更新程序 (KB2864063) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsxp-kb2864063-x86-chs_80729f44e83f61ba0410337d89a0665c051e947e.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsxp-kb2864063-x86-express-chs_1caee22a363ef1aeae3a6d9efa019af8f201fad0.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsxp-kb2864063-x86-chs_7e8da02ff27614c2b36dabc949aef935affd5eb2.psf
+
+[ Windows XP 安全更新程序 (KB2868626) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/10/windowsxp-kb2868626-x86-chs_94840e52551d8222fc50a434141716fe9e35cf63.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/10/windowsxp-kb2868626-x86-express-chs_2dacdda7a7882d34354336abb64407b72bfd46d2.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/10/windowsxp-kb2868626-x86-chs_2633cc590976ded47bf6d9505ccacadb490f229d.psf
+
+[ Windows XP 安全更新程序 (KB2876217) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsxp-kb2876217-x86-chs_fa502ba9003f8f2a0927335a3f670cd24262ae71.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsxp-kb2876217-x86-express-chs_d7d61a8e76a8db41f0286889fa03b1b486430216.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsxp-kb2876217-x86-chs_2b4f8df6dfddb9ebba7c455df20cc94e7d5ef228.psf
+
+[ Windows XP 安全更新程序 (KB2876331) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsxp-kb2876331-x86-chs_395289f6c9f3c079f5cb53d9993ba244287de04a.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsxp-kb2876331-x86-express-chs_482651c4b4d8a4ef364631b0205fa8ce8d37eaa4.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsxp-kb2876331-x86-chs_d840ca8e4f6c337ef093f74147197e526326ba1f.psf
+
+[ 用于 Windows XP 的 Internet Explorer 8 累积安全更新程序 (KB2879017) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ie8-windowsxp-kb2879017-x86-chs_631d60342c675db26564344831bb533367a2f3fd.exe
+
+[ Windows XP 安全更新程序 (KB2892075) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2892075-x86-chs_a0ec4188414ff1c301336a2d671fbcda740a7dc8.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2892075-x86-express-chs_e72978d2ae7f44b435cbe2976652b41394d427bc.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2892075-x86-chs_d3bc060bd00b4a3044c58e69594edf295a0ffa07.psf
+
+[ Windows XP 安全更新程序 (KB2893294) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2893294-x86-chs_937f385ac0a692b9945140f53ed71d62780b5548.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2893294-x86-express-chs_8e8c0aed4ea68d0e6a416474ea8c49e2fd8c1669.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2893294-x86-chs_49c4f705c1c4b376b5b21c14aeb165bc505b3c4f.psf
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2894842) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/ndp40-kb2894842-v2-x86_5ce3160ba23ace5b2137c87a1ded990e4503b3f1.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2894843) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/ndp20sp2-kb2894843-x86_36228a0825744e86a31a0d0d020ada3b2d0da9fa.exe
+
+[ Windows XP 安全更新程序 (KB2898715) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/11/windowsxp-kb2898715-x86-chs_501cf05db1ce414a7e7261d37558ef7c2995a637.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/11/windowsxp-kb2898715-x86-express-chs_3aeb9547890d09a3df331317bed59819816c8c3d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/11/windowsxp-kb2898715-x86-chs_5a3a758aac889a4db211383c514251d742f44f35.psf
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2898856) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/12/ndp20sp2-kb2898856-x86_2b7b7f57a6d659ee926a6e381b388fff8bc3fd3e.exe
+
+[ 用于 Windows XP 的 ActiveX Killbit 累积安全更新程序 (KB2900986) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2900986-x86-chs_6d285c12c7cd9f50c54df62a2d385bef56692bd0.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2901110) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/01/ndp40-kb2901110-v2-x86_9e9c5c03aefbf129dda5f03906d920c5b5f2b36f.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2901111) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/12/ndp20sp2-kb2901111-x86_610083bd9139a2bc3fbdcd026e2d0cce11cafbc0.exe
+
+[ Windows XP 更新程序 (KB2904266) ]
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2013/12/windowsxp-kb2904266-x86-chs_3dfe1dc569f82bd95c30eb43af508ec1b9a4aa4e.exe
+
+[ Windows XP 安全更新程序 (KB2914368) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/12/windowsxp-kb2914368-x86-chs_ade29edfdc3e9b5c36d247ee8b4108c486d82f2a.exe
+
+[ Windows XP 安全更新程序 (KB2916036) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/01/windowsxp-kb2916036-x86-chs_83d80f408086107f8608a391106fb6364ba83efc.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/01/windowsxp-kb2916036-x86-express-chs_3e82dbc9f7b0b046ea974c21487b084353e25834.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/01/windowsxp-kb2916036-x86-chs_5d0b34932b9a72ebe260fc9e0e9d51c9947501a8.psf
+
+[ Windows XP 安全更新程序 (KB2922229) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/03/windowsxp-kb2922229-x86-chs_48ab6baf6356ac994664f271a3128454ff4f24b1.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/03/windowsxp-kb2922229-x86-express-chs_6889576e3b4215a17a85aebe59eca7ddd0257dda.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/03/windowsxp-kb2922229-x86-chs_15fc49ac784f9cc2abb982e5e44e9d7e225b58ad.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB2926765) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windowsxp-kb2926765-x86-embedded-chs_a7a0e41eceb6fe754844a41eadf1dad55f4d5a64.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windowsxp-kb2926765-x86-embedded-express-chs_366d1d02ed41c58fcaa4825a900e3b0883152423.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windowsxp-kb2926765-x86-embedded-chs_b7e301694aa202e6694c71ce2a2433ba0973b206.psf
+
+[ Windows XP 安全更新程序 (KB2929961) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/02/windowsxp-kb2929961-x86-chs_1ec26b5ff1b985fa8158e8f3f70b6d581c7f138b.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/02/windowsxp-kb2929961-x86-express-chs_c6dcf4020dc43b60ff9104b49207034daba5b3ed.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/02/windowsxp-kb2929961-x86-chs_b8f32c809f901402ae206806fb61f08190f35977.psf
+
+[ Windows XP 安全更新程序 (KB2930275) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/02/windowsxp-kb2930275-x86-chs_08ed8e718a912abce97200593a9de64f9e64248f.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/02/windowsxp-kb2930275-x86-express-chs_7c3905d1d36c74a4a2d90f448d148f1cc5c4af72.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/02/windowsxp-kb2930275-x86-chs_4a8e000bf4ac2b263a1c4f3d87b586489e95968d.psf
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2931365) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/ndp40-kb2931365-x86_99d59cfc6e59f2c5d406b61f06172dca0a89286d.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2932079) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/ndp20sp2-kb2932079-x86_62d2a448718d1a1343055d53eb722e8c72aafaeb.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB2957503) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/05/windowsxp-kb2957503-x86-embedded-chs_9c0901be203b13e1b3eae4f9f6f9cc8e865bba1d.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB2957509) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/05/windowsxp-kb2957509-x86-embedded-chs_34320d9f9cbbd810222c0fa86009fe9d211ee459.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/05/windowsxp-kb2957509-x86-embedded-express-chs_942e3f57c29ee160366b51fc709f71c64aab4a8a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/05/windowsxp-kb2957509-x86-embedded-chs_0f4e1fd4c54c945f5878783849489abe10fa23d3.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB2961072) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/06/windowsxp-kb2961072-x86-embedded-chs_cfcd29f92dec0309caf91e5e1d5f336f7c8d01a7.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2972105) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/ndp20sp2-kb2972105-x86_9896d03074fe86cd49481dfc643fba4d2060171c.exe
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2972215) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/ndp40-kb2972215-x86_e29cbc6c4dd603c8965aca1ce75528fe1b345a30.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2979574) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/ndp20sp2-kb2979574-v2-x86_e9d7e292cff96f768a99c2f2dbeba9ca14784c70.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB2991963) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windowsxp-kb2991963-x86-embedded-chs_31e30a9677e7af754f731e2ed054ce2de31ae416.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windowsxp-kb2991963-x86-embedded-express-chs_4a627e65cef849897071efc672a6572458340b98.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windowsxp-kb2991963-x86-embedded-chs_3be5b1ff479a1c097218c2558ac26c40dc30c112.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB2993254) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/09/windowsxp-kb2993254-x86-embedded-chs_d8fbe31c81ff7dd843887cb55520f5cf7390c35e.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/09/windowsxp-kb2993254-x86-embedded-express-chs_ff7b7e516cbee31b1e124c6b000898b011035d33.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/09/windowsxp-kb2993254-x86-embedded-chs_07a94e906ba15e4010e06a1eda01e57558ebbad3.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB2993651) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windowsxp-kb2993651-x86-embedded-chs_e0f059a942391419067e388be5846c4a49338f54.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windowsxp-kb2993651-x86-embedded-express-chs_f0d940a9cb56c11d313476f51ec74c216a3ef638.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windowsxp-kb2993651-x86-embedded-chs_a2ae700553b51611d4cbade045fa51cbafd834c5.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB2998579) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/09/windowsxp-kb2998579-x86-embedded-chs_480c013c08694a8c02131cef426af45dceb276e6.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3004361) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsxp-kb3004361-x86-embedded-chs_caf082d55f7329422e0a0a2ff0dc30d1806305df.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsxp-kb3004361-x86-embedded-express-chs_27e1e8a4108ee8a364a27dc627bfab922b3d67e2.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsxp-kb3004361-x86-embedded-chs_eabdd0a556b563269238ee297b5b3b0c57beb4ec.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3006226) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/10/windowsxp-kb3006226-x86-embedded-chs_85060c2a3a641cb628b01270f7a7bfab98675dc7.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/10/windowsxp-kb3006226-x86-embedded-chs_6d96d03a45b2c2e4f432bb90fe0edc78ad0df7d3.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/10/windowsxp-kb3006226-x86-embedded-express-chs_d5001438b82b9ac605a87454b9ba90a5294d89d5.cab
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3013126) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/11/windowsxp-kb3013126-x86-embedded-chs_1c321eae3aba2953e555d9a24905eb4bbf9f30b2.exe
+
+[ WEPOS 和 POSReady 2009 的更新 (KB3020338) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/01/windowsxp-kb3020338-x86-embedded-chs_faccff89b13e4b16f08bd34e6b259cb9a546a1cd.exe
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/01/windowsxp-kb3020338-x86-embedded-express-chs_63adff8079035cf12f3b7d442868f7dbd746ea2b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/01/windowsxp-kb3020338-x86-embedded-chs_718a64318eb765cae59fcabddf857dc741659c81.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3020393) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsxp-kb3020393-v2-x86-embedded-chs_a45f693f20e52d768ac0069d838a0e6cae09df59.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsxp-kb3020393-v2-x86-embedded-express-chs_11469f612e387b397e84aaad5ad23da24f843c1b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsxp-kb3020393-v2-x86-embedded-chs_c91cf17b8a34000ac67518340dfed0fdf1461d26.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3021674) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsxp-kb3021674-x86-embedded-chs_1471ea4bd9fadfcaf27b87f1f9c63a9e0094be7f.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsxp-kb3021674-x86-embedded-express-chs_e06d5ab8586acf23ffcd2900345e6c47e42b6209.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsxp-kb3021674-x86-embedded-chs_4672869d4f04b7660fe2dde4c8fec436258cbec5.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3023562) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windowsxp-kb3023562-x86-embedded-chs_58653f04ad134a831e297d7bb424d04fc51d5f35.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3029944) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windowsxp-kb3029944-x86-embedded-chs_9905a68db78a77857a277238e015a040c1d88693.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3033889) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/02/windowsxp-kb3033889-x86-embedded-chs_2ff5cac25c815776ce2ffaf1b298589b35fd83cc.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/02/windowsxp-kb3033889-x86-embedded-express-chs_74604ca0c7fe915fa68cc902558b0ac050172ca8.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/02/windowsxp-kb3033889-x86-embedded-chs_25703db7d231ff50a57720d73847d6274ea3d91e.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3033890) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsmedia11-kb3033890-x86-chs_2fb2bcf28d6cf176e914ee3fe2335fb104a12b9f.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3035132) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/02/windowsxp-kb3035132-x86-embedded-chs_3e2eb2dc38617fdcc382b577b3cbbd99c65bbd87.exe
+
+[ WEPOS 和 POSReady 2009 的更新 (KB3065979) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windowsxp-kb3065979-x86-embedded-chs_1f6dcc9f8ffd123612b4043f8705c90c6ee33df0.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3067903) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsmedia-kb3067903-x86-chs_2421401770f287ad753871e504a824ba0b4703c9.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3072630) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsxp-kb3072630-x86-embedded-chs_a33fb8d16cb57050bad8311cd3806bbb1245a142.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsxp-kb3072630-x86-embedded-express-chs_c9dddaf3365694953e1b5d5f867f66fa10448671.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsxp-kb3072630-x86-embedded-chs_03997b0a280f6ee3d417d129993c89d5e7fb6657.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3073921) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsxp-kb3073921-x86-embedded-chs_5c1e869f6ecdee8d4771c9e9482f9a13cbc0cfa8.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsxp-kb3073921-x86-embedded-express-chs_0b68e2ee8820c99e6f7ee6f3ec9c7becfbd38339.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsxp-kb3073921-x86-embedded-chs_f9d9f21eccdb0833df2e2d6cae4070cce03f094f.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3076895) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsxp-kb3076895-x86-embedded-chs_ce6ae508ca41f09ab06eeb8984edd42217d5423c.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsxp-kb3076895-x86-embedded-express-chs_d23bfdccae05a586b6ed91394402e8e16bf9a7c0.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsxp-kb3076895-x86-embedded-chs_c7bb7aa09c289697d06740c18af3d3f5dc6604d7.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3078601) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/07/windowsxp-kb3078601-x86-embedded-chs_74ed5d2e40916bbc437a19e4e3a23a51b750fe2c.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3080446) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/09/windowsxp-kb3080446-x86-embedded-chs_565f1722f23f36c4d92a410e42fa8b2c50401448.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/09/windowsxp-kb3080446-x86-embedded-express-chs_708c4b93340622c43da22dedb341df353abf528e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/09/windowsxp-kb3080446-x86-embedded-chs_0634e3ab9f3301e3fd6ccdcdf943524310a9d5f5.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3081320) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windowsxp-kb3081320-x86-embedded-chs_8d73673c0cd368ea3d427d9eae73ff24a7db3bc1.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windowsxp-kb3081320-x86-embedded-express-chs_1159fd53beea4809a42a484896304a481355bcbb.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windowsxp-kb3081320-x86-embedded-chs_43801d68d9aa3d43c20ad5e4e04218f495da7d37.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3087039) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/09/windowsxp-kb3087039-x86-embedded-chs_a94839cc316504c0c9fc62453cb88927cfc8246e.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/09/windowsxp-kb3087039-x86-embedded-express-chs_9ba9df70b62be72e1227c1db3548d45e4f27aab3.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/09/windowsxp-kb3087039-x86-embedded-chs_8ab93bce3373dfa0a1017c81e8680438161b90d0.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3092601) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windowsxp-kb3092601-x86-embedded-chs_b2cae49d6a2a43bf85c2cf55a3de034ce6342106.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3108381) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windowsxp-kb3108381-x86-embedded-chs_477dd5dad546f7d67bcccd6d38cbcb290246e229.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windowsxp-kb3108381-x86-embedded-express-chs_924ef00d178f60844279252335b1bd9fb493b8e4.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windowsxp-kb3108381-x86-embedded-chs_e243fb2580c93a989031fa1b12328361f8d337a2.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3109094) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windowsxp-kb3109094-x86-embedded-chs_9ff08279a454183439f74be1f76732852107efdf.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3109560) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3109560-x86-embedded-chs_74a9c2e2eef31ca6b8c36f9bb6f19e8bce923ae6.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3109560-x86-embedded-express-chs_24946fb62960cf22cde12fdc4c7080ce3df9eb44.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3109560-x86-embedded-chs_075b5db2bef4c66db1e7aac16c7de14c38cb6b5e.psf
+
+[ WEPOS 和 POSReady 2009 的更新 (KB3112148) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/12/windowsxp-kb3112148-x86-embedded-chs_109c25cc1b2d96c5ebeaf8869c10232ee6195e8a.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3121918) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3121918-x86-embedded-chs_b0bc9803507f1e675fe05fd1e600cb30d5db8abb.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3121918-x86-embedded-express-chs_c305dd9260dd400001a5c689a5ced5490695baf2.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3121918-x86-embedded-chs_21325b68917f5a05ef4a3fc14c20580b4ad757ae.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3124001) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/12/windowsxp-kb3124001-x86-embedded-chs_158fd8de562a4ac67380088565a2d2b73a7b2582.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/12/windowsxp-kb3124001-x86-embedded-express-chs_f89e2639e8f5b3160a30c2d124872fd285dad6c3.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/12/windowsxp-kb3124001-x86-embedded-chs_87067dd9512d433bcb5163f9e0ce655ebabcbbb4.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3124280) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3124280-x86-embedded-chs_855224069caf1550cd578ca84c1a795324ec3fe4.exe
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3126041) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3126041-x86-embedded-chs_0a7154a4e56c48997cf199ec45b5efea53b74a3d.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3126041-x86-embedded-express-chs_56773ce94f418c759603860ebfba841493de637d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3126041-x86-embedded-chs_a5dd5fbae2380d4b7223df32e52cde7f543a6c28.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3126587) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3126587-x86-embedded-chs_1ade74e0ecec429ebb0df81bebcdbfa4e9b2584a.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3126587-x86-embedded-express-chs_7ea206cbc775dabf89493b268460b6c90782e1bf.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3126587-x86-embedded-chs_de6344e301af29eb0cd8463e72cee78b6e7482a9.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3126593) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windowsxp-kb3126593-x86-embedded-chs_a9b6dace11890177d50f332fc8cf4f2f9d32de49.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windowsxp-kb3126593-x86-embedded-express-chs_81892cae43828c3f59ca775f0623059a7f606f08.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windowsxp-kb3126593-x86-embedded-chs_9d45f5256db687921e72900e9e63cbd728e9e7d6.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3134146) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/01/windowsxp-kb3134146-x86-embedded-chs_0d5649951c0d634c544e21fd8fb40b0c3ecc9297.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/01/windowsxp-kb3134146-x86-embedded-express-chs_33be846002188eb2f72a21207d864ca2f46b3b51.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/01/windowsxp-kb3134146-x86-embedded-chs_4f1b6bd2a4718dc125ccce22d290c26c8d17ea44.psf
+
+[ WEPOS 和 POSReady 2009 的安全更新 (KB3134214) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3134214-x86-embedded-chs_8c0b9f53869c99d4827cdbeeefebc88703e4d292.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3134214-x86-embedded-express-chs_0657e88ade385c3cf03b052bd85aac1a6fc69f85.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3134214-x86-embedded-chs_dfeb3075a47e6a0bac2d70bb246e450f52450ca1.psf
+
+[ 用于 WEPOS 和 POSReady 2009 的 Internet Explorer 8 的累积安全更新程序 (KB3134814) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/02/ie8-windowsxp-kb3134814-x86-embedded-chs_1610b2a1bf1c87b404ebaa52ab5b2124b42499f9.exe

@@ -1,0 +1,2 @@
+KB3054203	https://download.microsoft.com/download/A/2/7/A2740D4D-A30C-4984-8555-CD4985BADAF6/Windows8.1-KB3054203-x64.msu
+KB3139164	https://download.microsoft.com/download/4/8/5/485AE244-8BB6-4506-9CE9-99F4C8A5F48A/Windows8.1-KB3139164-x64.msu

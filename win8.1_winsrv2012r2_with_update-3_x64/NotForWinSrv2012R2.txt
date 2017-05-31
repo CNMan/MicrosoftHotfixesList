@@ -1,0 +1,57 @@
+KB917607	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB917607-x64.msu
+KB2899189	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB2899189-x64.msu
+KB2994290	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB2994290-x64.msu
+KB3003667	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3003667-x64.msu
+KB3020370	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3020370-x64.msu
+KB3029606-v2	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3029606-v2-x64.msu
+KB3047254	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3047254-x64.msu
+KB3056347	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3056347-x64.msu
+KB3061493	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3061493-x64.msu
+KB3064059	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3064059-x64.msu
+KB3072019	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3072019-x64.msu
+KB3079318	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3079318-x64.msu
+KB3080800	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3080800-x64.msu
+KB3095108	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3095108-x64.msu	Superseded by 3185279	2016/09/20
+KB3126030	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3126030-x64.msu
+KB3140185	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3140185-x64.msu
+KB3161102	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3161102-x64.msu
+KB3170735	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\General\Windows8.1-KB3170735-x64.msu	Removed	2016/07/28
+
+KB3108669	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Security\ProWMC\Windows8.1-KB3108669-x64.msu	Superseded by 3150220	2016/05/10
+KB3150220	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Security\ProWMC\Windows8.1-KB3150220-x64.msu
+KB3062760	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Security\Windows8.1-KB3062760-x64.msu
+KB3155178	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Security\Windows8.1-KB3155178-x64.msu	Removed	2016/07/28
+
+KB3053744	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Hotfix\Windows8.1-KB3053744-x64.msu
+KB3067699	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Hotfix\Windows8.1-KB3067699-x64.msu
+KB3084953	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Hotfix\Windows8.1-KB3084953-x64.msu	Superseded by 3178539	2016/09/13
+KB3086795	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Hotfix\Windows8.1-KB3086795-x64.msu
+
+KB2990967	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\Do.Not.Integrate\Windows8.1-KB2990967-x64.msu
+KB3021128	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\Do.Not.Integrate\Windows8.1-KB3021128-x64.msu
+KB3053946	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\Do.Not.Integrate\Windows8.1-KB3053946-x64.msu
+KB3083669	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\Do.Not.Integrate\Windows8.1-KB3083669-x64.msu
+KB3035583-v3	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\Windows10\Windows8.1-KB3035583-v3-x64.msu	Removed	2016/07/30
+KB3035583-v3	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\Windows10\windows8.1-kb3035583-v3-x64_6443b79e06dd267452045849ad4bdcdbbc17100e.msu	Removed	2016/07/30
+KB3150513	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\Windows10\windows8.1-kb3150513-x64_f4accd052ab6fffc0879f5d316fa8074564f1c87.msu	Superseded by 2976978-v16	2016/06/14
+KB3173040	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\Windows10\windows8.1-kb3173040-x64.msu	Removed	2016/07/30
+KB3066044	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\WinPE\Windows8.1-KB3066044-x64.msu
+KB3038936	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\WU.Satisfy\Windows8.1-KB3038936-x64.msu
+
+KB2929699	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Extra\MediaFeaturePack\Windows8.1-KB2929699-x64.msu
+KB2693643	0x800f081e	WHDownloader\Updates\Windows8.1-Update3-x64\Extra\RSAT\Windows8.1-KB2693643-x64.msu
+
+Removed by command: dism /online /cleanup-image /startcomponentcleanup /resetbase
+
+KB3146978	WHDownloader\Updates\Windows8.1-Update3-x64\General\windows8.1-kb3146978-x64.msu
+KB4020502	WHDownloader\Updates\Windows8.1-Update3-x64\General\windows8.1-kb4020502-x64.msu
+
+KB3164294	WHDownloader\Updates\Windows8.1-Update3-x64\Security\Windows8.1-KB3164294-x64.msu
+KB3184122	WHDownloader\Updates\Windows8.1-Update3-x64\Security\Windows8.1-KB3184122-x64.msu
+
+KB3097997	WHDownloader\Updates\Windows8.1-Update3-x64\Security\NET452\Windows8.1-KB3097997-x64.msu
+KB3098779	WHDownloader\Updates\Windows8.1-Update3-x64\Security\NET452\Windows8.1-KB3098779-x64.msu
+
+KB2973201	WHDownloader\Updates\Windows8.1-Update3-x64\Additional\WU.Satisfy\ProfessionalWMC\Windows8.1-KB2973201-x64.msu
+
+KB2962409	WHDownloader\Updates\Windows8.1-Update3-x64\Extra\RSAT\Updates\Windows8.1-KB2962409-x64.msu

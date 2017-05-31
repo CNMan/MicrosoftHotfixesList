@@ -1,0 +1,13 @@
+KB2898851
+KB2900986
+KB3059317
+KB3150220
+KB3156016
+KB3156019
+KB3159398
+KB3161949
+KB3161958
+KB3170455
+KB4014504	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windows6.1-kb4014504-x64_8ff7cfc3a121bf705c52c19403b5626148eafffd.msu
+KB4014596	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4014596-x64_0268b1dede5abd2c1d3c8bd9fb49d799bae68a1e.msu
+KB4019265	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4019265-x64_c21fb9314da54cf6bd7972581da3159535f55aec.msu

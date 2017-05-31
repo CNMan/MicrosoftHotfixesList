@@ -1,0 +1,923 @@
+[ Microsoft .NET Framework 2.0 Service Pack 1 (KB110806) x86 语言包 ]
+http://www.download.windowsupdate.com/msdownload/update/software/dflt/2008/03/netfx20sp1_x86zh-chs_c32da7f71e751a50f790053b2ffff809162d53a2.exe
+
+[ Windows Server 2003 Service Pack 2（32 位 x86） ]
+http://www.download.windowsupdate.com/msdownload/update/software/dflt/2008/02/windowsserver2003-sp2-x86fre-chs-3959_0587bafe604e98b731ce921666072629e7ffd32b.psf
+http://www.download.windowsupdate.com/msdownload/update/software/dflt/2008/02/windowsserver2003-kb914961-sp2-express-x86-chs_de5c4bbf7feb0f5335b95d1258584cd4e5ca1770.exe
+http://www.download.windowsupdate.com/msdownload/update/software/dflt/2008/02/windowsserver2003-kb914961-sp2-x86-chs_c3e7772c6ad063bac3cb6ca05ea6e1b39c5bb35d.exe
+
+[ Windows Server 2003 安全更新程序 (KB923561) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/04/windowsserver2003-kb923561-x86-chs_a53156a973d9390865513a75fe603f0580a29dc0.exe
+
+[ Windows Media Player 6.4 安全更新程序 (KB925398) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsmedia6-kb925398-v2-x86-chs_003a779ff2e5d8968ccd00df1dfe5f1332597c9e.exe
+
+[ 用于 Windows Server 2003 的远程桌面连接 (Terminal Services Client 6.0) (KB925876) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb925876-v2-x86-chs_558dbf8337c51eb21b541debfd71efbd229f8105.exe
+http://download.windowsupdate.com/msdownload/update/v5/psf/windowsserver2003-kb925876-v2-x86-chs_ccfce30339ada39f25f103cd38854aeaffc62107.psf
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb925876-v2-x86-express-chs_8f792b0dfa2d41d66ab6cc542c3d9a34ec8b7274.exe
+
+[ Windows Server 2003 安全更新程序 (KB925902) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/11/windowsserver2003-kb925902-v2-x86-custom-chs_60e0690176b5b89154af36586cc1797a151e8188.exe
+
+[ Windows Server 2003 安全更新程序 (KB926122) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb926122-x86-chs_225b61a47ea8d02440a5310bbbce8d549e448d76.exe
+http://download.windowsupdate.com/msdownload/update/v5/psf/windowsserver2003-kb926122-x86-chs_b7e2c9f007760786f3983e5d40b0f3452e154bb3.psf
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb926122-x86-express-chs_2803b1afab638f742cb9ab4a6d9fa5f16d6036f0.exe
+
+[ 用于 Windows Server 2003 的 Outlook Express 累积安全更新程序 (KB929123) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb929123-x86-chs_2e107ce2c395db27653c9d4ca1c6cfd5e277d19c.exe
+
+[ Microsoft .NET Framework 3.0 Service Pack 1 (KB929300) x86 语言包 ]
+http://www.download.windowsupdate.com/msdownload/update/software/updt/2008/03/netfx30sp1_x86zh-chs_53b437f4cc3a1d433214c6191b193630d7468916.exe
+
+[ Windows Server 2003 安全更新程序 (KB932168) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb932168-x86-chs_6dfb6c06fd7e18c446e42bd317003597410407e6.exe
+http://download.windowsupdate.com/msdownload/update/v5/psf/windowsserver2003-kb932168-x86-chs_e78aa02ba21ae11b8da08910cc48301ffc381239.psf
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb932168-x86-express-chs_37cccc2f58934ab4c2a6e3ff972f1192a5891194.exe
+
+[ Microsoft .NET Framework 版本 1.1 Service Pack 1 安全更新程序 (KB933854) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb933854-x86-chs_f0957d4e95176ef1102116b626416ebd5e6ff6e0.exe
+
+[ Windows Server 2003 更新程序 (KB936357) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb936357-x86-chs_1bb6521741119a959a4a867f9ef5836829c88484.exe
+http://download.windowsupdate.com/msdownload/update/v5/psf/windowsserver2003-kb936357-x86-chs_f235f6d2fb411907b951834f1d45e69c0103ec22.psf
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb936357-x86-express-chs_cb278dc3e9d5d69a41cc6c4afbc7c7111e8c432a.exe
+
+[ 用于 Windows Server 2003 的 Windows 搜索 4.0 (KB940157) ]
+http://www.download.windowsupdate.com/msdownload/update/software/ftpk/2008/06/windowssearch-kb940157-srv2k3-x86-chs_ffd365e695a1bdd58bb3f3e7e4e539daac5bf7a3.exe
+
+[ 用于 Windows Server 2003 的 Windows Internet Explorer 7 ]
+http://www.download.windowsupdate.com/msdownload/update/software/uprl/2008/02/ie7-windowsserver2003-x86-chs_e67608331833ef3f4bcd84d05c5f2ba219acbaa1.exe
+
+[ Windows Server 2003 安全更新程序 (KB941569) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb941569-x86-chs_4180c5d2baa10869626b27190cdb7246e7f2fcce.exe
+
+[ Windows Server 2003 安全更新程序 (KB942288) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windowsserver2003-kb942288-v4-x86-chs_8ff582109a7d3e51d0e506b80f42455979bb5ccc.exe
+
+[ 用于 Windows Server 2003 的 Internet Explorer 8 ]
+http://download.windowsupdate.com/msdownload/update/software/uprl/2009/08/ie8-windowsserver2003-x86-chs_ee45c8fd91cba9a108e6a11c9abdc5d9c6de538b.exe
+
+[ 用于 Windows Server 2003 的 Internet Explorer 8 ]
+http://download.windowsupdate.com/msdownload/update/software/uprl/2009/08/ie8-windowsserver2003-x86-chs_ee45c8fd91cba9a108e6a11c9abdc5d9c6de538b.exe
+
+[ Windows Server 2003 安全更新程序 (KB944653) ]
+http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsserver2003-kb944653-x86-chs_f90cbc8aec0d3d2f6ce40b7e842457594164a5fe.exe
+
+[ Windows Server 2003 更新程序 (KB948496) ]
+http://www.download.windowsupdate.com/msdownload/update/software/crup/2008/03/windowsserver2003-kb948496-x86-chs_c272b171ca14bb45567812036a472980c62881b9.exe
+
+[ Windows Server 2003 安全更新程序 (KB950762) ]
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/05/windowsserver2003-kb950762-x86-chs_9dd8896f68c9a0a1945fcc844612a35d342bfe63.exe
+
+[ Windows Server 2003 安全更新程序 (KB950974) ]
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/05/windowsserver2003-kb950974-x86-chs_1ae97c94b9d50a06ceec957ef40a8bd0b5ab2fdf.exe
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/05/windowsserver2003-kb950974-x86-express-chs_4e0e9f49f5f395f7c834cdfe865bbe38d860957c.exe
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/05/windowsserver2003-kb950974-x86-chs_f6ac74a84558347b65ef30fa3e6e57e83fc16eec.psf
+
+[ Microsoft .NET Framework 3.5 Service Pack 1 (KB951847) x86 语言包 ]
+http://download.windowsupdate.com/msdownload/update/software/dflt/2009/01/dotnetfx35langpack_x86zh-chs_0efbcd2ea06873cede7709066d200744e05de460.exe
+
+[ Microsoft .NET Framework 3.5 Service Pack 1 和用于 .NET 版本 2.0 至 3.5 的 .NET Framework 3.5 Family Update (KB951847) x86 ]
+http://download.windowsupdate.com/msdownload/update/software/svpk/2009/04/dotnetfx35_x86_1aab3734ef80ad9a9ea342c887c3ea76340961e8.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp20sp2-kb958481-x86_04fcde4b28dd4f6db7548831d35d1c6bf38e1335.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp30sp2-kb958483-x86_2b03b54c0972c16ab6ce75f42ac4877af87ce844.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp35sp1-kb958484-x86_8b5036b48590c52e3edba8e297cd3017b7a3043c.exe
+
+[ Microsoft .NET Framework 3.5 Service Pack 1 和 .NET Framework 3.5 Family Update (KB951847) x86 ]
+http://download.windowsupdate.com/msdownload/update/software/svpk/2009/04/dotnetfx35_x86_1aab3734ef80ad9a9ea342c887c3ea76340961e8.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp20sp2-kb958481-x86_04fcde4b28dd4f6db7548831d35d1c6bf38e1335.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp30sp2-kb958483-x86_2b03b54c0972c16ab6ce75f42ac4877af87ce844.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp35sp1-kb958484-x86_8b5036b48590c52e3edba8e297cd3017b7a3043c.exe
+
+[ Windows Server 2003 安全更新程序 (KB952004) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/11/windowsserver2003-kb952004-x86-chs_f823fa5f6eb12f0501ec80c1cdef4dd2177f0f15.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/11/windowsserver2003-kb952004-x86-chs_9488392bcc0b971f2e2b948f964048bdf037cd68.psf
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/11/windowsserver2003-kb952004-x86-express-chs_e1c7936498fcd8fdccbb2e02705881c3f5d63872.exe
+
+[ Windows Server 2003 安全更新程序 (KB952069) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/12/windowsserver2003-kb952069-x86-chs_986f95544009ec6fc9bb078a07e7262181404a85.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/12/windowsserver2003-kb952069-x86-chs_101569d922fdda3010e4156cee77a90eb522fdc4.psf
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/12/windowsserver2003-kb952069-x86-express-chs_3efbd5ba0e5c7049b0dbcabae5e2b44202d2d398.exe
+
+[ Windows Server 2003 安全更新程序 (KB952954) ]
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/07/windowsserver2003-kb952954-x86-chs_fc28b5d71c2645d7735470ef769cacebce4ed50a.exe
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/07/windowsserver2003-kb952954-x86-chs_1370ed63ea3460267514ce0f037058d2fd92e824.psf
+http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/07/windowsserver2003-kb952954-x86-express-chs_7c9b22ccffde0111707f352885346ef4f132b2b8.exe
+
+[ 用于 Windows 2000、Windows Server 2003 和 Windows XP 的 Microsoft .NET Framework 2.0 Service Pack 1 安全更新程序 (KB953300) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/08/ndp20sp1-kb953300-v2-x86_b19b1a3f0ff00153e0ee2a71f6707803ef482046.exe
+
+[ 用于 Windows Server 2003 的 Windows Media Format Runtime 9.5 的安全更新程序 (KB954155) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb954155-x86-chs_5511a0070c7a329541770b6f98b2aacbd0929a9a.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb954155-x86-express-chs_48ec0a7d395688285683f36db5317cfbf425ad23.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb954155-x86-chs_f0dd5a822d77b71238d88a7d721f19d409d6fd8d.psf
+
+[ Windows Server 2003 安全更新程序 (KB956572) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsserver2003-kb956572-x86-chs_906fe5db8e27d643b17704e6110cb21b064abcdf.exe
+
+[ Windows Server 2003 安全更新程序 (KB956844) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/08/windowsserver2003-kb956844-x86-chs_675c4cf2449ad6df94e47a4585a785eb18aa969a.exe
+
+[ Windows Server 2003 安全更新程序 (KB959426) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsserver2003-kb959426-x86-chs_0d6f16022ef4cb0cf28785ca71aed42c0c3ba005.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsserver2003-kb959426-x86-chs_2c1e5645d1ba0f6c252c923d9413c30c11e808bc.psf
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsserver2003-kb959426-x86-express-chs_13228e33f5d9e44f34b220b4fbeef80b36025651.exe
+
+[ Windows Server 2003 安全更新程序 (KB960803) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/03/windowsserver2003-kb960803-x86-chs_48d67f16cab8b75b2467fbe630fed73ccff8c3c0.exe
+
+[ Windows Server 2003 安全更新程序 (KB960859) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb960859-x86-chs_66c5dd04efb840a7f7b2f6f7d2a20dc69feca3e7.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb960859-x86-express-chs_d42d2581b84f2bf1300faad2f3bee269cae56cae.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb960859-x86-chs_ece25f261dd71cf89112dda726b5064954ef5290.psf
+
+[ Windows Server 2003 更新程序 (KB961118) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/02/windowsserver2003-kb961118-x86-chs_cf5054c59642b6b202142c49ef96fe5dc5a28431.exe
+
+[ Windows Server 2003 安全更新程序 (KB963093) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/06/windowsserver2003.windowsxp-kb963093-x86-enu_c53606bca846117e1cebe7dd9a37251cb84aa41d.exe
+
+[ 用于 .NET Framework Assistant 1.0 x86 的 .NET Framework 3.5 Service Pack 1 更新程序 (KB963707) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/06/ndp35sp1-kb963707-x86_301b6cf8eaf5d2212895fcd9fc566414fb033e3e.exe
+
+[ Windows Server 2003 更新程序 (KB968389) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/08/windowsserver2003-kb968389-x86-chs_32067224c3f1010d188a2d8dd7d20b8bd6bd21ba.exe
+
+[ 用于 Windows Server 2003 的 Windows PowerShell 2.0 和 WinRM 2.0 (KB968930) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/11/windowsserver2003-kb968930-x86-chs_bb3c8ae6ae0c97c35169446c0d0077c51868c4ba.exe
+
+[ Windows Server 2003 安全更新程序 (KB969059) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb969059-x86-chs_75681ca6121860c74a3f6d4cbe0eb10e4ab361ba.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb969059-x86-express-chs_613d916a7defa747fcf24bb0a73aa05e34e4ca79.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb969059-x86-chs_944f93585600b17fcbaee7a6275121e05ab89384.psf
+
+[ Windows Server 2003 更新程序 (KB970430) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/11/windowsserver2003-kb970430-x86-chs_37afabc582074be9661df9c475add3e01414c02f.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/11/windowsserver2003-kb970430-x86-express-chs_95b4a3e0220b85e605233d9975524c8451d80673.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/11/windowsserver2003-kb970430-x86-chs_8ae160d5e8fb3de958355de5526a22fd510bff28.psf
+
+[ Windows Server 2003 更新程序 (KB971029) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/01/windowsserver2003-kb971029-x86-chs_2a2da3493eee1ebf16743a953439522031216537.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/01/windowsserver2003-kb971029-x86-express-chs_1a6ba4083218cb1102fdb904ef3a426f775cd8c5.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/01/windowsserver2003-kb971029-x86-chs_b8794e10f05dbf913f193a34a3ac86895aeb1f12.psf
+
+[ Windows Server 2003 安全更新程序 (KB971032) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb971032-x86-chs_0b3c5c5dfeb7af98f1c32fbf44ed28e2fcc494cb.exe
+
+[ Windows Server 2003 更新程序 (KB971513) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/10/windows-zh-cn-kb971513_aa52e0d3e7a50102977cd370dcfd8fb52a1083f6.exe
+
+[ Windows Server 2003 安全更新程序 (KB971657) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb971657-x86-chs_7b465a8e401eff58a7cb6b8c0d433ceb8f9cbb49.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb971657-x86-express-chs_e6546e71371a9e1cbc7d0ead5a5fe821286c5f16.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb971657-x86-chs_2955a6cf88b45984aa0320416023d0007613df9f.psf
+
+[ Windows Server 2003 安全更新程序 (KB972270) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsserver2003-kb972270-x86-chs_5762ed71da2e553d6ad98d637cca92b6570bcf99.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsserver2003-kb972270-x86-express-chs_5406ec31b1fbce735ea3b27183870534c886a784.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsserver2003-kb972270-x86-chs_0fa0b01735f774f2ab3595e5fb4bbd3b2e2cd1d3.psf
+
+[ Windows Server 2003 安全更新程序 (KB973507) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb973507-x86-chs_9097f3dc8d7facc63ea6900af79969b5875d2b7c.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb973507-x86-express-chs_c8ebd9a411cfbb300e7b0d516e7618f49bac865d.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb973507-x86-chs_7a937763a08bcf186efbb27b94068b7a2beba5a0.psf
+
+[ Windows Server 2003 安全更新程序 (KB973540) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/windowsserver2003-kb973540-x86-chs_62878745e97722136f8a1bd78096e0f47d8a3dbd.exe
+
+[ Windows Server 2003 安全更新程序 (KB973815) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/08/windowsserver2003-kb973815-x86-chs_fc4f4ea1a4bf75df9eb3898b71659effd8de2d47.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/08/windowsserver2003-kb973815-x86-express-chs_e5d198062e15685e3136843ba26f3ac1944fda35.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/08/windowsserver2003-kb973815-x86-chs_668e6f9f0aa11429b867f71a3b997d2e87cf3939.psf
+
+[ Windows Server 2003 安全更新程序 (KB973869) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/08/windowsserver2003-kb973869-x86-chs_0b61e480f4b7ca7023e22a213b28f0e1a4da2491.exe
+
+[ Windows Server 2003 安全更新程序 (KB973904) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsserver2003-kb973904-x86-chs_596c8244927d7eb2f12f41c1d717a38098d0f729.exe
+
+[ Windows Server 2003 安全更新程序 (KB974112) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb974112-x86-chs_3478ad8ef0f5a837c3d2c7f249772b46975c897e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb974112-x86-express-chs_0ac0170e59b8374e6344a407bc26b58159c69a95.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb974112-x86-chs_02318fed98a1ab314874ee73076f37f9e956126e.psf
+
+[ Windows Server 2003 安全更新程序 (KB974318) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsserver2003-kb974318-x86-chs_921b9a8269bca9cb47599b85a91a6f05dae7817a.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsserver2003-kb974318-x86-express-chs_b8c94e2624f87177a3615ba3bd61497851bdcab1.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsserver2003-kb974318-x86-chs_1f099b9d737de5a62c69abc7a22017e79516dad1.psf
+
+[ Windows Server 2003 安全更新程序 (KB974392) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsserver2003-kb974392-x86-chs_6564a0049b7541951cb48380c2a788d0d273f12e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsserver2003-kb974392-x86-express-chs_15a49d1078e31887e7f84f276c092e6bb5f2097f.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/windowsserver2003-kb974392-x86-chs_6f0a3df720376f771a340811d4fb45c254b86305.psf
+
+[ Windows Server 2003 安全更新程序 (KB974571) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb974571-x86-chs_92dfdfab5cf304337c81a73a4d3f17073155856c.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb974571-x86-express-chs_d4d63eeadaeb435b9a5b6a7362bb51bd9790164a.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb974571-x86-chs_ff5e95b4cdca55f46782e4ed748f4f8a0ae14dc9.psf
+
+[ Windows Server 2003 安全更新程序 (KB975025) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/09/windowsserver2003-kb975025-x86-chs_182211d87f1a11f6b441812c78aedb3f88ac3b9f.exe
+
+[ Windows Server 2003 安全更新程序 (KB975558) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/08/windows2003-sp2-windowsmedia-kb975558-x86-chs_4239ad2053f6a6328c4444d9c124c119aeb5bc7b.exe
+
+[ Windows Server 2003 安全更新程序 (KB975560) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsserver2003-kb975560-x86-chs_ee2cf2a7549cb75eed803d5d017e0745216e29ca.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsserver2003-kb975560-x86-express-chs_65a5dfe0eedf929c87ef345b63c516465797cba3.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsserver2003-kb975560-x86-chs_1f2f1aaa4fdc5b22fe5a7b3d5e7d6b845e314b4a.psf
+
+[ 用于 Windows Server 2003 和 Windows XP x86 的 Microsoft .NET Framework 2.0 Service Pack 2 更新程序 (KB976569) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/01/microsoftfixit50123_7f11d281cccad1b6d418c2b6bd94894d9514800f.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2010/02/ndp20sp2-kb976569-x86_dd5f498a00cff2addd29b7f9e5ea8b1054ac2d73.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 的 Microsoft .NET Framework 3.0 Service Pack 2 更新程序 (KB976570) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/01/microsoftfixit50123_7f11d281cccad1b6d418c2b6bd94894d9514800f.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2010/01/ndp30sp2-kb976570-x86_dcff59f3947e2c3d4f88e72959e6b5bb40c5b1d7.exe
+
+[ Windows Server 2003 安全更新程序 (KB977816) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsserver2003-kb977816-x86-chs_68f4246eb8079ab48d997e2dd7fa97cf7783f044.exe
+
+[ Windows Server 2003 安全更新程序 (KB977914) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsserver2003-kb977914-x86-chs_d16ea91b2a7485fb6317ae8aea605ece66860714.exe
+
+[ Windows Server 2003 安全更新程序 (KB978338) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsserver2003-kb978338-x86-chs_83d47b36380aff8ba3c7cfe105767c96296f1bd6.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsserver2003-kb978338-x86-express-chs_7b3cfdddf6a70f026cae5e3c6130fdc4efec4e05.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsserver2003-kb978338-x86-chs_5a1d63510086f007b3da90659a37ed16d713cdc9.psf
+
+[ Windows Server 2003 安全更新程序 (KB978542) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/04/windowsserver2003-kb978542-x86-chs_356cd98bf3321d8b0eb566068a4bd7e84ffe31a1.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/04/windowsserver2003-kb978542-x86-express-chs_fd4684ff5948e270f987c283ea0879934309cbb6.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/04/windowsserver2003-kb978542-x86-chs_1a794d272d83e9288b9bd8aaaafb1d1b8cd259d9.psf
+
+[ 用于 Windows Server 2003 的 Windows Media Format Runtime 9.5 的安全更新程序 (KB978695) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/windowsserver2003-kb978695-x86-chs_33dda5f4f83c74f676117daeee91db191e64b05f.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/windowsserver2003-kb978695-x86-express-chs_72038b2a84b83b7a74ecad0cac95f837cae1b20f.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/windowsserver2003-kb978695-x86-chs_a7ae2c03dd3aa87740178d11bc98561156551191.psf
+
+[ Windows Server 2003 安全更新程序 (KB978706) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsserver2003-kb978706-x86-chs_26e0fa323004bb67f31523e308e7ceebe9005bd0.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsserver2003-kb978706-x86-express-chs_60280f2a5ae1d1c67089ad4cfcd4cc0eb534b8f1.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/01/windowsserver2003-kb978706-x86-chs_c2b8c1eadad8affff83a75e76ea24bdcaa082560.psf
+
+[ Windows Server 2003 安全更新程序 (KB979309) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsserver2003-kb979309-x86-chs_9bb529d177a7c5a01fb9b6e422d50c4d774afec7.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsserver2003-kb979309-x86-express-chs_cd595402c3e7de969b35f4e1897e57d49d260768.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsserver2003-kb979309-x86-chs_7146f1923aeb2a5741682ae836c5550a6c31dce3.psf
+
+[ Windows Server 2003 安全更新程序 (KB979482) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/windowsserver2003-kb979482-x86-chs_122742d4bfbcf6c9f1247e5f1f58d3da5ca1f3e3.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/windowsserver2003-kb979482-x86-express-chs_fd58554bd0c4e6ab591bfb125eca7dcfa71cad96.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/windowsserver2003-kb979482-x86-chs_0a288e709a3d092443826b8baa130bcf54fc2a89.psf
+
+[ Windows Server 2003 安全更新程序 (KB979687) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsserver2003-kb979687-x86-chs_177eccd684a3f6a60e0e275d02893e0ca7248cc6.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsserver2003-kb979687-x86-express-chs_8b09d223b8a8b894ecf66818d46d56f3bf9e43e2.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsserver2003-kb979687-x86-chs_bfeef997a0d75b309d0c1f4deea0a456b06057d5.psf
+
+[ 用于 Windows Server 2003 x86 和 Windows Server 2003 R2 x86 的 Microsoft .NET Framework 1.1 SP1 安全更新程序 (KB979907) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/04/windowsserver2003-kb979907-x86-chs_c8a41b040036f6d4e88f40a139d621fc7e14d0eb.exe
+
+[ Windows Server 2003 安全更新程序 (KB980232) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/03/windowsserver2003-kb980232-x86-chs_77683f091fac26b5e3a589d4cf591cb3d5bb5d4b.exe
+
+[ Windows Server 2003 安全更新程序 (KB982132) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsserver2003-kb982132-x86-chs_1337d136b6bde9df557cc72679c80237d0afc985.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsserver2003-kb982132-x86-express-chs_fc4f99a7a39daa9b180c61ff310487c400e487f0.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsserver2003-kb982132-x86-chs_cdaaeeda417a0f8f5317ee744593bc636f41abdd.psf
+
+[ 用于 Windows Server 2003 和 Windows XP x86 的 Microsoft .NET Framework 3.5 SP1 更新程序 (KB982168) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/msipatchregfix-x86_9d8e583e06ff2d6d90ac813ae04920f48649535d.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/05/ndp30sp2-kb982168-x86_55b498e96d1ea7db2d25302f30fc7f8fb5441158.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 的 Microsoft .NET Framework 3.5 SP1 和 .NET Framework 2.0 SP2 更新程序 (KB982524) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/05/msipatchregfix-x86_9d8e583e06ff2d6d90ac813ae04920f48649535d.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2010/02/ndp20sp2-kb976576-x86_8e8121a8bddfb2095453335c593ffa22ef8e95ec.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/06/ndp30sp2-kb977354-v2-x86_36d5f7b86e33e09d4e1934c43bbfab04c64a280e.exe
+
+[ 用于 Windows Server 2003 的 Internet Explorer 8 兼容性视图列表的更新程序 (KB982632) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2010/05/ie8-windowsserver2003-kb982632-x86-chs_8d868d564ebdfd2ec0b5f71c30f3b397a5e3c71e.exe
+
+[ 用于 Windows Server 2003 x86 的 Microsoft .NET Framework 4 (KB982671) ]
+http://download.windowsupdate.com/msdownload/update/software/ftpk/2011/08/dotnetfx40_full_x86_212d693507e4d4ceb927ca275ced4cc687a25492.exe
+
+[ Windows Server 2003 安全更新程序 (KB2115168) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/07/windowsserver2003-kb2115168-x86-chs_08b7f5033819f85710a5a3238b9885f9b48f1d70.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/07/windowsserver2003-kb2115168-x86-express-chs_0067c496a09ef19318ac4603fd6ed2d50c9cf8cb.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/07/windowsserver2003-kb2115168-x86-chs_0a86f9b5b015be0bb4daa53a204cc225fc574f0b.psf
+
+[ Windows Server 2003 安全更新程序 (KB2229593) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/06/windowsserver2003-kb2229593-x86-chs_65f512082b0965f58b0068a4e0dfe85f98408918.exe
+
+[ Windows Server 2003 更新程序 (KB2345886) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/09/windowsserver2003-kb2345886-x86-chs_55085a60ac2c17ab3ec33b3050bf77236fff0df7.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/09/windowsserver2003-kb2345886-x86-express-chs_1792cc6fce87771afdcd1dbd0eddf68bd3b61b4c.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2010/09/windowsserver2003-kb2345886-x86-chs_a127dd9bc11c226e68e46a845953ade6e5e03dc4.psf
+
+[ Windows Server 2003 安全更新程序 (KB2347290) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/08/windowsserver2003-kb2347290-x86-chs_f78b86794ae41d1b56c4ba9edfe537ffe38da03c.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/08/windowsserver2003-kb2347290-x86-express-chs_268c64c8aeca6b2acd52993e5ad3c9623f8ec739.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/08/windowsserver2003-kb2347290-x86-chs_29d5c85666072c05afa4ab7bf7f1eed01c2aaf36.psf
+
+[ Windows Server 2003 安全更新程序 (KB2387149) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/windowsserver2003-kb2387149-x86-chs_52689349a04d8fd51e5bff2cd6a777af7756e11b.exe
+
+[ Windows Server 2003 安全更新程序 (KB2419635) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/12/windowsserver2003-kb2419635-x86-chs_536a40e1ca2eab0d0b19da756b8299badc73ea44.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/12/windowsserver2003-kb2419635-x86-express-chs_0b5f99276adc3323a0264669f4ef87761f6403aa.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/12/windowsserver2003-kb2419635-x86-chs_2d6f5b2be69cee31000bb4f8cfe030b68e018b72.psf
+
+[ Windows Server 2003 安全更新程序 (KB2423089) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/11/windowsserver2003-kb2423089-x86-chs_b64405e846af86cda7dfd75578b771ab024fb4f0.exe
+
+[ Windows Server 2003 安全更新程序 (KB2443105) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/11/windowsserver2003-kb2443105-x86-chs_6f6dde160c25784fcb88504a7d70a410524518f0.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/11/windowsserver2003-kb2443105-x86-express-chs_4271b726199ef53afca323955e11e937e9d4388b.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/11/windowsserver2003-kb2443105-x86-chs_a9458ee610764c48760444e889bfcab3b85e27a5.psf
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 更新程序 (KB2468871) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/microsoftfixit50735_579b2d12894af17daa70bd153b14fbfddefa0ad8.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/06/ndp40-kb2468871-v2-x86_8cb1f5eb7eda5329e69629dff3fd3757bf980717.exe
+
+[ Windows Server 2003 安全更新程序 (KB2478960) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsserver2003-kb2478960-x86-chs_9d396ed14bd2ccde9e0553a66d2afa5ad92fb665.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsserver2003-kb2478960-x86-express-chs_88f0fe2179138e55461d886c4adc0be7c2e0d7b7.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsserver2003-kb2478960-x86-chs_88dbdcdf855b5523cc0e9d46052995025dfe1150.psf
+
+[ Windows Server 2003 安全更新程序 (KB2481109) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/02/windowsserver2003-kb2481109-x86-chs_8bafae7e63a1d9020ad6edee0ba211731af81d88.exe
+
+[ Windows Server 2003 安全更新程序 (KB2483185) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsserver2003-kb2483185-x86-chs_75356abc6f69f716eeb9efbe174096dc9dfd3aad.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsserver2003-kb2483185-x86-chs_93e3a9b77831717ccb24be893a7ce08ea697559f.psf
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsserver2003-kb2483185-x86-express-chs_729403453784361c1a2c49366e28d3858fd416a4.exe
+
+[ Windows Server 2003 安全更新程序 (KB2485663) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsserver2003-kb2485663-x86-chs_8399e2bf4715e42fd12ec5824a4f0ed389eafec6.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2487367) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/msipatchregfix-x86_205e4dab26db6e7522b87929efc4e211e6f12a3e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/ndp40-kb2487367-x86_4938d9c6adf59f400e6df20387cf23026dec4a16.exe
+
+[ Windows Server 2003 更新程序 (KB2492386) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/04/windowsserver2003-kb2492386-x86-chs_f123f562dff442a365bb007dfa4440b73d5648aa.exe
+
+[ Windows Server 2003 安全更新程序 (KB2506212) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsserver2003-kb2506212-x86-chs_245270fc7f3c5c7df378a3a60cd9434285edc723.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsserver2003-kb2506212-x86-express-chs_6826987498cb0d96d885e2fd2c58f7e5a5b82eaa.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsserver2003-kb2506212-x86-chs_720e0cfe635bb81630c65949a5475cba4852a9bf.psf
+
+[ Windows Server 2003 安全更新程序 (KB2507938) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/05/windowsserver2003-kb2507938-x86-chs_a597a86defb4d4e0179aa459fe6c7878748121fe.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/05/windowsserver2003-kb2507938-x86-express-chs_da9fa3665fc3d3993e7eb8334c9fab8e53ec014b.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/05/windowsserver2003-kb2507938-x86-chs_8e0a0ac3e59b544baf314a5081a896c53b4711c1.psf
+
+[ Windows Server 2003 安全更新程序 (KB2508429) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsserver2003-kb2508429-x86-chs_4f4f0f71c19eb656b70f06a814596e48f069ba07.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsserver2003-kb2508429-x86-express-chs_df122bc03f1bd744ba683d82efc6cb9844fa3f84.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsserver2003-kb2508429-x86-chs_0e599495a14edde36559d481880a995026ce731b.psf
+
+[ Windows Server 2003 安全更新程序 (KB2509553) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsserver2003-kb2509553-x86-chs_3ae63799240e03663343d49761ffaa4fcc228315.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsserver2003-kb2509553-x86-express-chs_8c03a58e5835ed302e38a8836bd531f43caca9d4.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsserver2003-kb2509553-x86-chs_7c3f0df55ffaf2d593112b6d857bf100a0af975c.psf
+
+[ Windows Server 2003 安全更新程序 (KB2510531) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/ie8-windowsserver2003-kb2510531-x86-chs_0f5e5a1b1c5bea02c4d1bb2817331a0fef2584d1.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 更新程序 (KB2533523) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/microsoftfixit50735_579b2d12894af17daa70bd153b14fbfddefa0ad8.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/08/ndp40-kb2533523-x86_e4d68d030e6577b5183ce441dbcc62d2d3112f29.exe
+
+[ Windows Server 2003 安全更新程序 (KB2535512) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/05/windowsserver2003-kb2535512-x86-chs_864bb4c0793bc51631e73723c687323adbaec4b0.exe
+
+[ Windows Server 2003 安全更新程序 (KB2536276) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/windowsserver2003-kb2536276-v2-x86-chs_172936609aa17d979a153d786df279bf211ea330.exe
+
+[ Windows Server 2003 安全更新程序 (KB2544893) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/10/windowsserver2003-kb2544893-v2-x86-chs_71d028860a73ea708647b8fb5f2173da19e16e7e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/10/windowsserver2003-kb2544893-v2-x86-express-chs_34ea52a01c9515e0aed438cbcd8afd3f4075d5f8.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/10/windowsserver2003-kb2544893-v2-x86-chs_db1e9410f3586399a31995b3dd0afb2a9c8619c5.psf
+
+[ Windows Server 2003 安全更新程序 (KB2564958) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/09/windows-zh-cn-kb2564958_28212ab9f2da637bc7e956d8dcd3bad9ec350abf.exe
+
+[ Windows Server 2003 安全更新程序 (KB2566454) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/windowsserver2003-kb2566454-x86-chs_d288c7874b91895bbbd97d5573da492b8b4201ea.exe
+
+[ Windows Server 2003 安全更新程序 (KB2570947) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/08/windowsserver2003-kb2570947-x86-chs_fc1dd7b3c50d3d577c1cd2595342c12bc8114f53.exe
+
+[ Windows Server 2003 安全更新程序 (KB2584146) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2584146-x86-chs_48e6a08820f84de4edd2ccf616ecf55c05ebb4d3.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2584146-x86-express-chs_cb76d8af3f80edcbf4a48f9b01b622007d1c9d55.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2584146-x86-chs_746eab0e493d33305cc21249092cf34656ccd67a.psf
+
+[ Windows Server 2003 安全更新程序 (KB2598479) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2598479-x86-chs_e24d70267af8247070ba3c8de888007f16c5b317.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2598479-x86-express-chs_69d78933fd4af77c58561fb677c15bcfb9ecb40a.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2598479-x86-chs_e69555783d1b84e75c08be6d8500b401db231eba.psf
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 更新程序 (KB2600217) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/msipatchregfix-x86_1148a3e14d3578e280a4d73bc3310825295f380e.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/02/ndp40-kb2600217-x86_439b695de8c8acd1b33aa4563ddc5536f9e3442e.exe
+
+[ Windows Server 2003 安全更新程序 (KB2603381) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2603381-x86-chs_4cc5ddff14a15afdd5aab4d702be6fc8e5edda50.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2604092) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/msipatchregfix-x86_1148a3e14d3578e280a4d73bc3310825295f380e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/ndp20sp2-kb2604092-x86_8ffc64599603264e79a0caaaf51e3393942fae06.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista 和 Windows Server 2008 x86 的 Microsoft .NET Framework 3.5 SP1 安全更新程序 (KB2604111) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/msipatchregfix-x86_1148a3e14d3578e280a4d73bc3310825295f380e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/ndp35sp1-kb2604111-x86_4c2840092b5593dee6e81870f07803a3346ae74d.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2604121) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/msipatchregfix-x86_1148a3e14d3578e280a4d73bc3310825295f380e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/ndp40-kb2604121-x86_5ba2f9d2a8a395d125d7c3844cb489697664de2b.exe
+
+[ Windows Server 2003 安全更新程序 (KB2620712) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2620712-x86-chs_8a43cc3b22deb6d6385d4d9224a30529a58435c2.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2620712-x86-express-chs_e17539c5e76545ec7f305a1fb99d9e416ac7bc1e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2620712-x86-chs_c2ffc965eb607982878b02c30bfffc180352887d.psf
+
+[ Windows Server 2003 安全更新程序 (KB2631813) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2631813-x86-chs_b11896a758a8d3aab0ddcb29fd93f135b1668e4b.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2631813-x86-express-chs_d9f46886dd47da17d998c527cc934234b0fbd2d6.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2631813-x86-chs_c487b77aa1f86f606aa62ea23229c0c445c5b059.psf
+
+[ Windows Server 2003 更新程序 (KB2632503) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/01/ie8-windowsserver2003-kb2632503-x86-chs_c1fb633d0be34dde97d1bd9e8acce802d07704c1.exe
+
+[ Windows Server 2003 安全更新程序 (KB2638806) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsserver2003-kb2638806-x86-chs_22584ebc5dc4c01b422ebc675e1d8e9b5e959743.exe
+
+[ Windows Server 2003 安全更新程序 (KB2653956) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/windowsserver2003-kb2653956-x86-chs_aaa56281c688ce26e9e0e0ed0f71023577ffc09d.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/windowsserver2003-kb2653956-x86-express-chs_ff9d3424a3e91ef276b3e7b3b8dd9c3503663e0d.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/windowsserver2003-kb2653956-x86-chs_7c610a999d3fb8129a487b38f75d299f69b7c498.psf
+
+[ Windows Server 2003 安全更新程序 (KB2659262) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/windowsserver2003-kb2659262-x86-chs_45a17e7ef7cbcb5c917fa7118fb2406fd850f7ad.exe
+
+[ Windows Server 2003 安全更新程序 (KB2676562) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/04/windowsserver2003-kb2676562-x86-chs_313e2049f3833eabf3c56ebf7d426d456d007698.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/04/windowsserver2003-kb2676562-x86-express-chs_5dac2283c1dbc429cefc85f84dae53adb5641cb4.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/04/windowsserver2003-kb2676562-x86-chs_64a3f1ca152764934265c1a35acca77206ffc3b0.psf
+
+[ Windows Server 2003 安全更新程序 (KB2685939) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/05/windowsserver2003-kb2685939-x86-chs_1cde316cbc9f9f329be722ce5a84a85e923c0530.exe
+
+[ Windows Server 2003 安全更新程序 (KB2686509) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/04/windowsserver2003-kb2686509-x86-chs_6ca725c44fc5ff2383e6903323250d5012e6b36a.exe
+
+[ Windows Server 2003 安全更新程序 (KB2698365) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windowsserver2003-kb2698365-x86-chs_343fc1f019518b9c871f681910066cb229a0e253.exe
+
+[ Windows Server 2003 安全更新程序 (KB2705219) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/09/windowsserver2003-kb2705219-v2-x86-chs_a61cacc574b566a9f12141661f584ca0cfdc8d45.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/09/windowsserver2003-kb2705219-v2-x86-express-chs_fb631f929102d4eb2f70f67f71ed2730281cc45b.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/09/windowsserver2003-kb2705219-v2-x86-chs_58cb6bf593e5e100d24c239306fc83ebe779425d.psf
+
+[ Windows Server 2003 安全更新程序 (KB2712808) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/07/windowsserver2003-kb2712808-x86-chs_92e4611b12338087e6783201b21f2803d114680a.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/07/windowsserver2003-kb2712808-x86-express-chs_af970518c34752ed596515e33f758f117286017d.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/07/windowsserver2003-kb2712808-x86-chs_8263cf41415ff59b6112f378c520f66390ec9103.psf
+
+[ Windows Server 2003 安全更新程序 (KB2727528) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/windowsserver2003-kb2727528-x86-chs_5dfa8fad5ddd4fa5cc21aa52848f10d38e23104d.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/windowsserver2003-kb2727528-x86-express-chs_0bef2136174924a5c60b57507ecb4b2f0a765d5b.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/windowsserver2003-kb2727528-x86-chs_15ab49bb4b961c550c3b379d518b24e35c2e6c51.psf
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2729449) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/ndp40-kb2729449-x86_17cb1faf25f589d50483dae8a8b1dd536e5651c0.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2729450) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/ndp20sp2-kb2729450-x86_2e3100a991fc67b39350d431055bb005f9bb0487.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista 和 Windows Server 2008 x86 的 Microsoft .NET Framework 3.5 SP1 安全更新程序 (KB2736416) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/ndp35sp1-kb2736416-x86_93368f49226c00b8ddb32723196ddfbb275c8765.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2736428) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/ndp40-kb2736428-x86_69a15697f7c9c976b933bd46869c895e9a1b0356.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2737019) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/ndp40-kb2737019-x86_5a0eb52ec395a87022e1d1d37577c4ba6c64d075.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2742595) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/ndp40-kb2742595-x86_d1258e5d0d6e3291f20f7c5efdf11be6ed9946e5.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2742596) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/ndp20sp2-kb2742596-x86_a0b11aaa133b0a15295bde2ec77680314f3200cc.exe
+
+[ 用于 Windows Server 2003 和 Windows Server 2003 R2 x86 上的 Microsoft .NET Framework 1.1 SP1 的安全更新程序 (KB2742604) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/windowsserver2003-kb2742604-x86-chs_c39e834ee99d8864a790f30871ae87c2c5675780.exe
+
+[ Windows Server 2003 更新程序 (KB2748349) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/12/windowsserver2003-kb2748349-x86-chs_2395e3fbb995acd8e8113b26c6e02a9f637240d6.exe
+
+[ Windows Server 2003 更新程序 (KB2749655) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/09/windowsserver2003-kb2749655-x86-chs_0270bebb966182edff6d67b4c435d7d37c74497d.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/09/windowsserver2003-kb2749655-x86-express-chs_66f378805662d8cd7f6cc92b9d47454f459e0f5a.exe
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/09/windowsserver2003-kb2749655-x86-chs_ace094bfd61142967480bc9234ad823597ca8216.psf
+
+[ Windows Server 2003 安全更新程序 (KB2770660) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/11/windowsserver2003-kb2770660-x86-chs_2e75df7618a9960ee188e566998b65651ac1016e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/11/windowsserver2003-kb2770660-x86-express-chs_07eb43748a3c9e5b36094a707de8053ba8b0aaeb.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/11/windowsserver2003-kb2770660-x86-chs_823f2f4c104cef7736ac7ba6fdfeafa3f35d74c6.psf
+
+[ Windows Server 2003 更新程序 (KB2779562) ]
+http://download.windowsupdate.com/msdownload/update/software/uprl/2012/11/windowsserver2003-kb2779562-x86-chs_b08862c11a88ae489dd5880ec516055627d063c5.exe
+
+[ Windows Server 2003 安全更新程序 (KB2780091) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/windowsserver2003-kb2780091-x86-chs_871bf9e7160e82ad2f68931c27150cb3f2b1420f.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/windowsserver2003-kb2780091-x86-express-chs_73ddf906ecda61dd0be2a253131d702b1488d145.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/01/windowsserver2003-kb2780091-x86-chs_a53681ec72288a55b8ecb9c6c6f27a01f650bbce.psf
+
+[ Windows Server 2003 安全更新程序 (KB2803821) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsserver2003-kb2803821-v2-x86-chs_cc7d79c394bd877f1990b1e895793cee12ccf080.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsserver2003-kb2803821-v2-x86-express-chs_10bfdaa1a3070025098a74c58628fc2470c22d15.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsserver2003-kb2803821-v2-x86-chs_34f61d35174ce3a0b0d680e2c5dd22192965b02d.psf
+
+[ Windows Server 2003 安全更新程序 (KB2807986) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/02/windowsserver2003-kb2807986-x86-chs_bea165e6ec992837c7eb0b5d1b88ddc41ff7442d.exe
+
+[ Windows Server 2003 更新程序 (KB2808679) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/windowsserver2003-kb2808679-x86-chs_c4de0cfdc7b24d4b65ad6c626dd96e819b5f524a.exe
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/windowsserver2003-kb2808679-x86-express-chs_301c121b0224ce81da7b93b00ab88fa9e48ba7cc.exe
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/windowsserver2003-kb2808679-x86-chs_05a009971646e394ae41e518cdf6dae3fc9bacee.psf
+
+[ Windows Server 2003 安全更新程序 (KB2813345) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/04/windowsserver2003-kb2813345-x86-chs_36732b90fb705c3bcaa4e3f262b775f27d16d599.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/04/windowsserver2003-kb2813345-x86-express-chs_8c216878be6eee2050ef071eb0ff67304c8da61a.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/04/windowsserver2003-kb2813345-x86-chs_c3ae3bdbc626fd9fa1ed9b64b1a594b2596e87d1.psf
+
+[ Windows Server 2003 安全更新程序 (KB2820917) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/03/windowsserver2003-kb2820917-x86-chs_9aa61c446ed435e5479adcdcc595e5a0ad49f636.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/03/windowsserver2003-kb2820917-x86-express-chs_ac5a0fc57e7ddb6081d83ad7016de0ab7d10efa0.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2013/03/windowsserver2003-kb2820917-x86-chs_e93c270915e5a4762397a89984a6d7db71547651.psf
+
+[ Windows Server 2003 安全更新程序 (KB2834886) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/05/windowsserver2003-kb2834886-x86-chs_a9e2bc8ffcbf35d692102583d17f6604aef71872.exe
+
+[ 用于 XP、Server 2003、Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 更新程序 (KB2836939) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/ndp40-kb2836939-x86_cef77927432048cd36340da5d972e349d57764f6.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 更新程序 (KB2836939) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/10/ndp40-kb2836939-v3-x86_5f7e7f9811136bd3dfeb994d75a96aece646ea3d.exe
+
+[ 适用于 Windows XP、Server 2003、Vista 和 Server 2008 x86 的 Microsoft .NET Framework 3.5 SP1 更新 (KB2836940) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/06/ndp35sp1-kb2836940-x86_43c873339b256d55a01b8e0303d53153949fdec3.exe
+
+[ 适用于 Windows Server 2003 和 Windows XP x86 的 Microsoft .NET Framework 2.0 SP2 安全更新 (KB2836941) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/08/ndp20sp2-kb2836941-v2-x86_9e8d176f3476dc920c9ac845647ec47fdbfc5d38.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2840628) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/ndp40-kb2840628-v2-x86_891d50ff3c1322db3fb0fde222ebb0aaa5260272.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista 和 Windows Server 2008 x86 的 Microsoft .NET Framework 3.5 SP1 安全更新程序 (KB2840629) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/06/ndp35sp1-kb2840629-x86_3a7890d49029e2383d7887b5abbd771cea442edf.exe
+
+[ 用于 Windows Server 2003 和 Windows XP x86 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2844285) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/ndp20sp2-kb2844285-v2-x86_b2407fdad98f8c0a682ca61825804022cc35cde0.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista、Windows 7、Windows Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2858302) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ndp40-kb2858302-v2-x86_50e0381ccb5c2055f1ef0dffd6d9af42fcf5957a.exe
+
+[ 适用于 XP、Server 2003、Vista、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新 (KB2861188) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ndp40-kb2861188-x86_f978f7e7b33c98bb21fba3e45cff8675132e7787.exe
+
+[ 用于 Windows XP、Windows Server 2003、Windows Vista 和 Windows Server 2008 x86 的 Microsoft .NET Framework 3.5 SP1 安全更新程序 (KB2861697) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/ndp35sp1-kb2861697-x86_00011f82279874680d2d5812aad94303aa4af7db.exe
+
+[ Windows Server 2003 安全更新程序 (KB2862152) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsserver2003-kb2862152-x86-chs_7e8bbba255e7dc0be62ae188a40a8f004fcb5e4f.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsserver2003-kb2862152-x86-express-chs_2bc52d58f39bbd9e884c0eb53e4e19c1ce051d0f.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsserver2003-kb2862152-x86-chs_1ea08e01dc9e43527574cc1efc354daa104ab2e5.psf
+
+[ Windows Server 2003 安全更新程序 (KB2862330) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsserver2003-kb2862330-x86-chs_158c951486aca36a404b99f67cdc715b9c887404.exe
+
+[ Windows Server 2003 安全更新程序 (KB2862335) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/windowsserver2003-kb2862335-x86-chs_2d0748ad320fceea4ea11cc085552ad25a943832.exe
+
+[ Windows Server 2003 安全更新程序 (KB2864058) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/windowsserver2003-kb2864058-x86-chs_fec717ee6eea07810b592cb1a0453bd860503125.exe
+
+[ Windows Server 2003 安全更新程序 (KB2864063) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsserver2003-kb2864063-x86-chs_4fabd4bdd660f05fa1965a14223a0f302192a0de.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsserver2003-kb2864063-x86-express-chs_19edbfef1b6f72963d4f2d4400cbe74edd3066eb.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsserver2003-kb2864063-x86-chs_8367e0e13b10ef43a4ae23b685167fa38ee4f3a4.psf
+
+[ Windows Server 2003 安全更新程序 (KB2892076) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsserver2003-kb2892076-x86-chs_f2f48c31cae440653083b517170def2fb5b839d0.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsserver2003-kb2892076-x86-express-chs_e05b5ea4a3ab123aee85be66d1ff13200a1fc2c6.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsserver2003-kb2892076-x86-chs_768809163e96207f6649623eebdfc06aa40358a1.psf
+
+[ Windows Server 2003 安全更新程序 (KB2893294) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsserver2003-kb2893294-x86-chs_fcaf593f3a9a3a087326634d0a179d700a22c845.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsserver2003-kb2893294-x86-express-chs_023cd71ca4afc87f2ea68911b233316a77e17d3f.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsserver2003-kb2893294-x86-chs_c8aa83873ec06a148014b2b1c8a9be8946c21f8c.psf
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2894842) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/ndp40-kb2894842-v2-x86_5ce3160ba23ace5b2137c87a1ded990e4503b3f1.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2894843) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/ndp20sp2-kb2894843-x86_36228a0825744e86a31a0d0d020ada3b2d0da9fa.exe
+
+[ 用于 Windows Server 2003 和 Windows Server 2003 R2 x86 上的 Microsoft .NET Framework 1.1 SP1 的安全更新程序 (KB2894845) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windowsserver2003-kb2894845-x86-chs_7c60b0c99631644f182e8192143b9a0a13d78222.exe
+
+[ 用于 Windows Server 2003 的 ActiveX Killbit 累积安全更新程序 (KB2900986) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsserver2003-kb2900986-x86-chs_3b87c7c513e486f0ccbc8d82f9bbb703e9ea304a.exe
+
+[ Windows Server 2003 安全更新程序 (KB2914368) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/12/windowsserver2003-kb2914368-x86-chs_e2d09b2e79d8eb87801ad61b9e5d6f7c76e496f1.exe
+
+[ Windows Server 2003 安全更新程序 (KB2922229) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/02/windowsserver2003-kb2922229-x86-chs_8bb6c902d9e8b02c7eb90d1c5effc183f65df669.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/02/windowsserver2003-kb2922229-x86-express-chs_6b787cf2d3f007b83b1c53fc04aa32eb87575359.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/02/windowsserver2003-kb2922229-x86-chs_75e15903e5fe1a5c8acaf6966619a9236bf332a9.psf
+
+[ Windows Server 2003 安全更新程序 (KB2926765) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windowsserver2003-kb2926765-x86-chs_e3856ebabba6c7b8b4634583e7665be45e5e1af0.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windowsserver2003-kb2926765-x86-express-chs_9bfbf6c042fc0bb2098c82946eb6d2ecd18eca90.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windowsserver2003-kb2926765-x86-chs_cfde1089431f47657ab5494718d859541a9b832c.psf
+
+[ Windows Server 2003 安全更新程序 (KB2929961) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/02/windowsserver2003-kb2929961-x86-chs_ca73543d59c633399ade3d79eb3c12f11a7a6b89.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/02/windowsserver2003-kb2929961-x86-express-chs_9bf9d148b5e0198c146537d184ad73da64823f83.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/02/windowsserver2003-kb2929961-x86-chs_508bfbb9cc4daf4c3a57f3d55e10dfc83f576966.psf
+
+[ Microsoft XML Core Services 6.0 Service Pack 2 安全更新程序 (KB2957482) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/msxml6-kb2957482-enu-x86_797cf0a8db70dbf2a930199b6994066de2976179.exe
+
+[ Windows Server 2003 安全更新程序 (KB2957503) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/05/windowsserver2003-kb2957503-x86-chs_402e9a66c29b43776ef485da9a76e19f54f392cb.exe
+
+[ Windows Server 2003 安全更新程序 (KB2957509) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/05/windowsserver2003-kb2957509-x86-chs_6ea562a2ce5b608de4a74f3065760f4b372ac46a.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/05/windowsserver2003-kb2957509-x86-express-chs_12d5ec39f9ec38c1ac74507ebbcee63f13651c1d.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/05/windowsserver2003-kb2957509-x86-chs_159d4e5d9142668378ead86b18840826662449f5.psf
+
+[ Windows Server 2003 安全更新程序 (KB2961072) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/06/windowsserver2003-kb2961072-x86-chs_f296be0557c8fe356b6263b7d1956dc83a40c1db.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2972105) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/ndp20sp2-kb2972105-x86_9896d03074fe86cd49481dfc643fba4d2060171c.exe
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2972106) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/ndp40-kb2972106-x86_d4dc74d00b867fe7e2913292341bf86633cb601b.exe
+
+[ 用于 Windows Server 2003 和 Windows Server 2003 R2 x86 上的 Microsoft .NET Framework 1.1 SP1 的安全更新程序 (KB2972207) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windowsserver2003-kb2972207-x86-chs_34cde03ee16057673b89196585ab13f155742b63.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2972214) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/ndp20sp2-kb2972214-x86_40ab25ae56614a531eea1709ed4b8dc4e0eb1dc6.exe
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2972215) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/ndp40-kb2972215-x86_e29cbc6c4dd603c8965aca1ce75528fe1b345a30.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 3.0 SP2 的安全更新程序 (KB2973115) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/ndp30sp2-kb2973115-x86_ac2fd93a40417f5cd11eff5d13ba76b4d8907d9c.exe
+
+[ 用于 Windows Server 2003 和 Windows Server 2003 R2 x86 上的 Microsoft .NET Framework 1.1 SP1 的安全更新程序 (KB2978114) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/10/windowsserver2003-kb2978114-x86-chs_7d6118e27b4cc6cc27ccba304c20882c53b510e2.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2978124) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/10/ndp20sp2-kb2978124-x86_c05113efa6b0f612c72d7eae532778b3a880d584.exe
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2978125) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/ndp40-kb2978125-x86_5466d5c780f62e9f2b0b360fc4944988eba11a2e.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB2979574) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/ndp20sp2-kb2979574-v2-x86_e9d7e292cff96f768a99c2f2dbeba9ca14784c70.exe
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB2979575) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/ndp40-kb2979575-v2-x86_777dfd33abb9a9dcfc3192ca910c58061c32d5b1.exe
+
+[ Windows Server 2003 安全更新程序 (KB2989935) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windowsserver2003-kb2989935-x86-chs_1879b363b1cb96f471ebc63d885403812672efb9.exe
+
+[ Windows Server 2003 安全更新程序 (KB2991963) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windowsserver2003-kb2991963-x86-chs_4e911e020792f37b192f13311563ea456bccfb71.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windowsserver2003-kb2991963-x86-express-chs_e2699a286c50cc19b3757e4c65314489672cdc25.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windowsserver2003-kb2991963-x86-chs_6bd3c5c4a976da3b2f989ddbe6a8c942919de6e3.psf
+
+[ Windows Server 2003 安全更新程序 (KB2993254) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/09/windowsserver2003-kb2993254-x86-chs_ebe2c94e52a1d11768911355e28bc31069b47c64.exe
+
+[ Windows Server 2003 安全更新程序 (KB2993651) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windowsserver2003-kb2993651-x86-chs_ae68ee3cdff9903451687559b49ef7a49e5d2c23.exe
+
+[ Windows Server 2003 安全更新程序 (KB2998579) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windowsserver2003-kb2998579-x86-chs_734a3f30dc7a3866441f92ef77b2d4f57ed2f858.exe
+
+[ Windows Server 2003 安全更新程序 (KB3004361) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsserver2003-kb3004361-x86-chs_99d472c46639d222cda71f46a7c11bb21b85c3dd.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsserver2003-kb3004361-x86-express-chs_6b1c8fa9e1a0c04825e02cdb9de4eece35a3cf7c.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windowsserver2003-kb3004361-x86-chs_2a821a47cc0af6eafa99b1fff3a3645affa2c875.psf
+
+[ Windows Server 2003 安全更新程序 (KB3006226) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windowsserver2003-kb3006226-x86-chs_07ac8b94b01e3ed233551b4bd967ecfa3daa9f8a.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windowsserver2003-kb3006226-x86-express-chs_70fe396053d3b182cf958f365952dd7051d11f20.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windowsserver2003-kb3006226-x86-chs_003219c6238414badd2b038665e9961946e72816.psf
+
+[ Windows Server 2003 安全更新程序 (KB3011780) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/11/windowsserver2003-kb3011780-x86-chs_e33d1b3640ee43af2ef1c9d599f13f8d130c5dff.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/11/windowsserver2003-kb3011780-x86-express-chs_8063972578bc97704e7d20ff20286c24a73a37fe.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/11/windowsserver2003-kb3011780-x86-chs_6e891244696191a9863dd127d243f264424291f0.psf
+
+[ Windows Server 2003 安全更新程序 (KB3013126) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/11/windowsserver2003-kb3013126-x86-chs_06b2a402f429e04935e3c3df10414ba2b96952ff.exe
+
+[ Windows Server 2003 更新程序 (KB3013410) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/11/windowsserver2003-kb3013410-x86-chs_7b58fd075ab55895be39998930b8df4922086edd.exe
+
+[ Windows Server 2003 安全更新程序 (KB3014029) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windowsserver2003-kb3014029-x86-chs_d7cf01235383f081185af2d26b26c23a7929893f.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windowsserver2003-kb3014029-x86-express-chs_52fbb215eb6e236d278111db0824b0ad1928f024.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windowsserver2003-kb3014029-x86-chs_cb827f3ed3adbb65e54c2c2651287ec9a5040a12.psf
+
+[ Windows Server 2003 安全更新程序 (KB3019215) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windowsserver2003-kb3019215-x86-chs_6cc0148ab9a01b55dc49c12036f596000ce277fe.exe
+
+[ Windows Server 2003 更新程序 (KB3020338) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/01/windowsserver2003-kb3020338-x86-chs_fc0eea8900548a2c4c02dd8c196ddcf231d4fb38.exe
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/01/windowsserver2003-kb3020338-x86-express-chs_c883c1ae17b7dced6f79746e11319868ac8ccabb.exe
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/01/windowsserver2003-kb3020338-x86-chs_2b431e80c92faedeea2729e3cf49bdaa241df730.psf
+
+[ Windows Server 2003 安全更新程序 (KB3020393) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/12/windowsserver2003-kb3020393-x86-chs_34ff71850243508823db528fa7d83fedc05974f3.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/12/windowsserver2003-kb3020393-x86-express-chs_90a8d0fe8a77a152e73e9e7c0683331e56161a6d.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/12/windowsserver2003-kb3020393-x86-chs_7cf4140bb5e1df96e13fb821810aa294e3ec9380.psf
+
+[ Windows Server 2003 安全更新程序 (KB3021674) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/12/windowsserver2003-kb3021674-x86-chs_1e0abe230eada151a16be7e57f0d30f425092888.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/12/windowsserver2003-kb3021674-x86-express-chs_288218f17be3b364eb5f415a09362ba4389f9d34.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/12/windowsserver2003-kb3021674-x86-chs_ed92ca13f4aee2f0a9d9aab451a264ded9241a4a.psf
+
+[ 用于 Windows Server 2003 和 Windows Server 2003 R2 x86 上的 Microsoft .NET Framework 1.1 SP1 的安全更新程序 (KB3023211) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/04/windowsserver2003-kb3023211-x86-chs_25295d9b157615c5eba051bcafd9273d513566de.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB3023220) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/04/ndp20sp2-kb3023220-x86_8bc7c182813a443a85e49c700401e37a3f4f028f.exe
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB3023221) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/04/ndp40-kb3023221-x86_4c4aa9f4ca3d5d44f04a5da54e7f2dce1d5bd580.exe
+
+[ Windows Server 2003 安全更新程序 (KB3023562) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windowsserver2003-kb3023562-x86-chs_c6947c91f939573238d59b5a38ac0777fbcfd1b0.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windowsserver2003-kb3023562-x86-express-chs_cc821e0dda30f6505822914565b0b8be602d5885.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windowsserver2003-kb3023562-x86-chs_bb72dafc1d40c7d95222c6b50e672c875282af00.psf
+
+[ Windows Server 2003 安全更新程序 (KB3029944) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windowsserver2003-kb3029944-x86-chs_6ccaaa9a784d7c9f8b82a3e247b3b982bb7c77ef.exe
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB3032662) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/04/ndp40-kb3032662-x86_e11853cfe476eee9d017d8f659a3eb71500921ed.exe
+
+[ Windows Server 2003 安全更新程序 (KB3033889) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/02/windowsserver2003-kb3033889-x86-chs_0a4326028c6eb446079907e60814353940e8fd71.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/02/windowsserver2003-kb3033889-x86-express-chs_243e4abd096e4ec5dbbb3a59dec1c2db4b4bf607.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/02/windowsserver2003-kb3033889-x86-chs_4d42246a4dd300df2467fe4e4123981a0e18659d.psf
+
+[ Windows Server 2003 安全更新程序 (KB3033890) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windowsserver2003-kb3033890-x86-chs_dd9c0ac9ee4b06b1db55351720fb98c1cec7b75c.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windowsserver2003-kb3033890-x86-express-chs_ae6bd4e087682f2159e84ff691d16ffb08db8a42.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windowsserver2003-kb3033890-x86-chs_4f580ff44b037e41599160eba9aa135bcbb4de18.psf
+
+[ Windows Server 2003 安全更新程序 (KB3035132) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/windowsserver2003-kb3035132-x86-chs_58398e0e227fc223e406505b4bbee2e5dd76c4fe.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB3035488) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/04/ndp20sp2-kb3035488-x86_586a47ecdbb81f19cf620057632fa4e0ac950fcd.exe
+
+[ 用于 Windows Server 2003 和 Windows Server 2003 R2 x86 上的 Microsoft .NET Framework 1.1 SP1 的安全更新程序 (KB3037572) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windowsserver2003-kb3037572-x86-chs_55b2d2155bba1713f973b670c9f243ae0fc1f54b.exe
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 2.0 SP2 的安全更新程序 (KB3037577) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/ndp20sp2-kb3037577-x86_84f4149ecc07a395afc0dbf27260b79ee27b940a.exe
+
+[ 用于 Windows Server 2003、Vista、Windows 7、Server 2008 x86 的 Microsoft .NET Framework 4 安全更新程序 (KB3037578) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/ndp40-kb3037578-x86_d7269e7377561664868d2e097f98d7608a345872.exe
+
+[ Windows Server 2003 安全更新程序 (KB3039066) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/windowsserver2003-kb3039066-x86-chs_d8ace02272f271728d6150376e01661502a183b4.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/windowsserver2003-kb3039066-x86-express-chs_8ae60ab4861b06c2aa36eb42311129da9bc9c5a1.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/windowsserver2003-kb3039066-x86-chs_c40a7583530c2f44b273648fa9440fd0296082f0.psf
+
+[ Windows Server 2003 安全更新程序 (KB3045171) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/04/windowsserver2003-kb3045171-x86-chs_d6db53026f2372c2179bccd3d0d78edc5866843b.exe
+
+[ Windows Server 2003 安全更新程序 (KB3045999) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windowsserver2003-kb3045999-x86-chs_ee57245890b187f966aea8ab04347375b03cb4cb.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windowsserver2003-kb3045999-x86-express-chs_0d5bd1085cadc48c8a53b523e317f2e18faff903.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windowsserver2003-kb3045999-x86-chs_dd9cfa6a81ec425e87bd21b0390188a8dca0128d.psf
+
+[ Windows Server 2003 安全更新程序 (KB3046482) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windowsserver2003-kb3046482-x86-chs_a1e2cbc36a9547ecfd8a303786476f46e4b851d6.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windowsserver2003-kb3046482-x86-express-chs_6033f0a92e7a6447c7a1ccea17bbc78ad20e9771.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windowsserver2003-kb3046482-x86-chs_bcf241be2c27280411701ba94553dd1702906380.psf
+
+[ Windows Server 2003 上的 Microsoft .NET Framework 3.0 SP2 的安全更新程序 (KB3048073) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/05/ndp30sp2-kb3048073-v2-x86_135dbf853e180a15b46d607732426656defdfc22.exe
+
+[ 适用于 Windows Server 2003、Vista 和 Server 2008 x86 (KB3048074) 上的 Microsoft .NET Framework 4 安全更新 ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/04/ndp40-kb3048074-x86_bbe3d72fc1a2fa01733c5360f61ef8741175a814.exe
+
+[ Windows Server 2003 安全更新程序 (KB3050995) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/rvkroots_3f2ce4676450c06f109b5b4e68bec252873ccc21.exe
+
+[ Windows Server 2003 安全更新程序 (KB3061518) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/05/windowsserver2003-kb3061518-x86-chs_b92326fe6e3a19dc4dc48759e3b4dd5f976033e8.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/05/windowsserver2003-kb3061518-x86-express-chs_9d4d25cbbcc8f951db40925801082028f412ef73.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/05/windowsserver2003-kb3061518-x86-chs_acb7358783f532cc8b35ab76b778c5da9e500428.psf
+
+[ 用于 Windows Server 2003 的 Internet Explorer 8 累积安全更新程序 (KB3065822) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/ie8-windowsserver2003-kb3065822-x86-chs_2d5db313102f4bbb6fd345ab829c0fd412347cbf.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/ie8-windowsserver2003-kb3074886-x86-chs_dc3f49e8603e6b6a2d76e6e7c9f855729e04d4f1.exe
+
+[ Windows Server 2003 更新程序 (KB3065979) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windowsserver2003-kb3065979-x86-chs_e6114abdbd811712105487085bc6e1662139bebd.exe
+
+[ Windows Server 2003 安全更新程序 (KB3067505) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3067505-x86-chs_ffd181243ba1c0e40c96e9808d9f47b0bc8ab633.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3067505-x86-express-chs_acc0d061e37909144a98d7942b4c6474f5a6d2d9.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3067505-x86-chs_45555d4560b6e7060498d971808e3367f9f47f77.psf
+
+[ Windows Server 2003 安全更新程序 (KB3067903) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsserver2003-kb3067903-x86-chs_a15c7669011735c671d0323a81898dac38036359.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsserver2003-kb3067903-x86-express-chs_62e13376ef0526046117690ff422a396ff36283c.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsserver2003-kb3067903-x86-chs_de585895fbc37f3ecc294f440d0ac53a77c3264a.psf
+
+[ Windows Server 2003 安全更新程序 (KB3068457) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3068457-x86-chs_ea1573f3fbdbef158a0e9a3568558523f517a3a2.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3068457-x86-express-chs_a293636577d7e0b5781588b8139e03481c6ff092.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3068457-x86-chs_849a2e53492188a342a404498a89ca0d12894005.psf
+
+[ Windows Server 2003 安全更新程序 (KB3069392) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3069392-x86-chs_0ebcdd9b16317e023bb1dfbc3ee6dc5ba8963ca7.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3069392-x86-express-chs_cf1e3e383cb51507435618756f9920230fd07163.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3069392-x86-chs_159324395a929bb54f8ccfc55a19768abab9e072.psf
+
+[ Windows Server 2003 安全更新程序 (KB3070102) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3070102-x86-chs_a5d0468e63587b1f3e2c43a3fa606fe4b39465ae.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3070102-x86-express-chs_2e558becbce36592db48473d231a96727229fa12.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3070102-x86-chs_1404a36a020577e2f404e0b28be1b8814efc286a.psf
+
+[ Windows Server 2003 安全更新程序 (KB3072630) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3072630-x86-chs_ecfa522ff4c0170f0bec5f3f9e9256d72787817b.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3072630-x86-express-chs_29333eb23f14e2a27983027029aeb47012d4d74f.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3072630-x86-chs_17faf2676d6d13a01461f4d5e0745710b36471ff.psf
+
+[ Windows Server 2003 安全更新程序 (KB3072633) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3072633-x86-chs_7a779c5142b436343ac285cf018ec8e3f6504a2d.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3072633-x86-express-chs_3a196e4e865caa49e48b2b042ae73ea650b896fc.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windowsserver2003-kb3072633-x86-chs_14518b95acd96149005b946e3dec5239289763b9.psf
+
+[ Windows Server 2003 安全更新程序 (KB3077657) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsserver2003-kb3077657-x86-chs_f12776533435711ccbbab45a9cd94dd8079c5fad.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsserver2003-kb3077657-x86-express-chs_8695e2fbb3cbda327257fce42410be73a63f26e0.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windowsserver2003-kb3077657-x86-chs_a8659635522355f27aeac1a6233a8721ec761a71.psf

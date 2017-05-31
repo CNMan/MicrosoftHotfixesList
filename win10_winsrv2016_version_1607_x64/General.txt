@@ -1,0 +1,5 @@
+KB3186497	http://download.microsoft.com/download/4/4/7/447FC039-EAA9-41EB-B96F-86D6146D7A92/NDP47-KB3186497-x86-x64-AllOS-CHS.exe
+KB3186568	http://download.microsoft.com/download/b/2/f/b2fad91d-bc21-43a2-99e0-18ea08e6fa8b/enu_NETFX/amd64_windows10_0-kb3186568-x64_cab/windows10.0-kb3186568-x64.cab
+KB4013418	http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/03/windows10.0-kb4013418-x64_b7165b95be791aeb025135efe60e00db2800c5c6.msu
+KB4019472	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows10.0-kb4019472-x64_dda304140351259fcf15ca7b1f5b51cb60445a0a.msu
+KB4020821	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows10.0-kb4020821-x64_f4d359a20b707ce63cf20539c451173c4d4ce1d1.msu

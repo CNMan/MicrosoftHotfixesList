@@ -1,0 +1,15 @@
+KB2938066	https://download.microsoft.com/download/4/A/8/4A8D7AE7-5503-4CC1-B0A5-A519F086B8A2/Windows8.1-KB2938066-x64.msu
+KB2962409	https://download.microsoft.com/download/D/C/9/DC9165BE-7CE1-4714-A250-60A6F1EC7172/Windows8.1-KB2962409-x64.msu
+KB2996883	hotfix
+KB3013108	hotfix
+KB3047280-v3	hotfix
+KB3084463-v2	hotfix
+KB3091402-v4	hotfix
+KB3092002-v3	hotfix
+KB3092005	hotfix
+KB3092688-v3	hotfix
+KB3095113-v2	https://download.microsoft.com/download/D/3/8/D3854613-B1DB-40A2-BB05-5FF9CCDEFB74/Windows8.1-KB3095113-v2-x64.msu
+KB3100473	General
+KB3134812	https://download.microsoft.com/download/E/8/B/E8B74443-2905-4C34-B587-ADAFB6959716/Windows8.1-KB3134812-x64.msu
+KB3146601	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146601-x64_a833dda477a9c193aafc4d59d56fe77d046aef03.msu
+KB3159706	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows8.1-kb3159706-x64_034b30c6c261d4e76b8c6f8fe3cc9fa5fa4e977b.msu
