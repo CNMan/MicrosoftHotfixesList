@@ -6,6 +6,10 @@ http://update.microsoft.com/windowsupdate
 
 http://update.microsoft.com/microsoftupdate
 
+#### Microsoft®Update Catalog
+
+http://www.catalog.update.microsoft.com
+
 #### WHDownloader
 
 ![WHDownloader](https://i.imgur.com/tVDxmm3.png)

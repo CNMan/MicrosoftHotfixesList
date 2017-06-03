@@ -31,6 +31,7 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/ie8-
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windowsxp-kb4018466-x86-embedded-chs_4ae587edfa854918fcbc182aab7ac8afa843f55c.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windowsxp-kb4019206-x86-embedded-chs_a23b69fb269d081781c2eb5759003600d4e0d6c9.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4018490-x86-embedded-chs_375fb0d11f5d47510556c0a7d42776df4269beb3.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4018556-v2-x86-embedded-chs_7f7fb95f737e26d8979dfa32062a878fb7bc8cc1.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4019204-x86-embedded-chs_488c118ee08c45f5f32ad527fb6ab9f9a16bd1da.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/04/windowsxp-kb4017018-x86-embedded-chs_d0811ccd122cd7b4ad889c73915bc785d9a34899.exe
 http://download.windowsupdate.com/c/msdownload/update/software/uprl/2017/04/windowsxp-kb4015193-x86-embedded-chs_08f9cb0de1acd679f6fbbdaa5d2c7f16bc25c586.exe

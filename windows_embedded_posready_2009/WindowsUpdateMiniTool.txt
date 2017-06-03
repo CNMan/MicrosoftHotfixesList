@@ -790,9 +790,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsxp-kb2876331-x86-express-enu_c5d2b022bf6df42c81bc8f1e578d3166692e6e07.cab
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsxp-kb2876331-x86-enu_9616259eb0f183c89b5cfd0ec78c12028ba3c477.psf
 
-[ 用于 Windows XP 的 Internet Explorer 8 累积安全更新程序 (KB2879017) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ie8-windowsxp-kb2879017-x86-enu_8a1df060df1afc65136e744d6e7271f9d2a6b01a.exe
-
 [ Windows XP 安全更新程序 (KB2892075) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2892075-x86-enu_17de2e03645b5d87bd09f161d996cb0a07c289e1.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2892075-x86-express-enu_735c4361a00037e1c5fbb79f0c53d775391b0e04.cab
@@ -1192,6 +1189,9 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/wind
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4018490-x86-embedded-enu_90402e1c8b25fdd2b5e92e8c1d6ff6a514f23ddc.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4018490-x86-embedded-express-enu_24bb9968cad38e62212f322b06ff3139b41d7b21.cab
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4018490-x86-embedded-enu_d01ca8b4d8c9f5683bf5ca69a17da8b29a066c1b.psf
+
+[ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4018556) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4018556-v2-x86-embedded-enu_8532522cbd2663dac730235ee0645738538db8a1.exe
 
 [ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4019204) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4019204-x86-embedded-enu_8891c8760e7190211600bf080d318067f0f8dc06.exe

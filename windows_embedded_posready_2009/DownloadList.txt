@@ -57,6 +57,7 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/ndp4
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windowsxp-kb4018466-x86-embedded-enu_9152d114029dd47afbf6d5108012ac513a720cf7.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windowsxp-kb4019206-x86-embedded-enu_17b649ff3b7cc48b776a58163f2d1d2e8efc3119.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4018490-x86-embedded-enu_90402e1c8b25fdd2b5e92e8c1d6ff6a514f23ddc.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4018556-v2-x86-embedded-enu_8532522cbd2663dac730235ee0645738538db8a1.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4019204-x86-embedded-enu_8891c8760e7190211600bf080d318067f0f8dc06.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/06/ndp35sp1-kb2836940-x86_43c873339b256d55a01b8e0303d53153949fdec3.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/10/ndp40-kb2836939-v3-x86_5f7e7f9811136bd3dfeb994d75a96aece646ea3d.exe
@@ -80,7 +81,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/ndp3
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsxp-kb2864063-x86-enu_135f76c6e66a127411cf3e406959ca56eae8e551.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsxp-kb2876217-x86-enu_a662db07022635ce69613fa2819472862efe4531.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windowsxp-windowsmedia-kb2834904-v2-x86-enu_c38814607addf93fb06e2d8e0e4b5c08e10857c3.exe
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ie8-windowsxp-kb2879017-x86-enu_8a1df060df1afc65136e744d6e7271f9d2a6b01a.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ndp30sp2-kb2861189-x86_59e2d4a7073c954c509c52297abff96f3ca51a66.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ndp40-kb2858302-v2-x86_50e0381ccb5c2055f1ef0dffd6d9af42fcf5957a.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ndp40-kb2861188-x86_f978f7e7b33c98bb21fba3e45cff8675132e7787.exe
