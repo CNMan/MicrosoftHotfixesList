@@ -1,16 +1,16 @@
-hypervintegrationservices
-KB917607
-KB2670838
-KB2685811
-KB2685813
-KB2750841
-KB2818604
-KB3020369
-KB3046480
-KB3064209
-KB3125574-v4
-KB3161102-v2
-KB3172605
-KB3179573
-KB3181988
-KB3184143
+hypervintegrationservices	https://fv3.failiem.lv/down.php?i=n44d99aa&amp;n=windows6.x-hypervintegrationservices-x64.cab
+KB917607	http://download.microsoft.com/download/9/A/8/9A8FCFAA-78A0-49F5-8C8E-4EAE185F515C/Windows6.1-KB917607-x64.msu
+KB2670838	http://download.microsoft.com/download/1/4/9/14936FE9-4D16-4019-A093-5E00182609EB/Windows6.1-KB2670838-x64.msu
+KB2685811	http://download.microsoft.com/download/E/0/3/E0337D5A-8918-45D0-91DB-EAF6C0973248/kmdf-1.11-Win-6.1-x64.msu
+KB2685813	http://download.microsoft.com/download/9/1/E/91E874B3-AFCF-405E-981C-22E183516C49/Umdf-1.11-Win-6.1-x64.msu
+KB2750841	http://download.microsoft.com/download/A/4/B/A4B08AA8-01A6-4C85-A209-DBB86E1A9CE2/Windows6.1-KB2750841-x64.msu
+KB2818604	http://download.windowsupdate.com/msdownload/update/software/updt/2013/05/Windows6.1-KB2818604-x64_dee27dd953d006d41a9d37f4f557743b8f140580.msu
+KB3020369	http://download.microsoft.com/download/5/D/0/5D0821EB-A92D-4CA2-9020-EC41D56B074F/Windows6.1-KB3020369-x64.msu
+KB3046480	http://download.microsoft.com/download/6/3/1/63125930-F399-4CBA-9A39-7633A58922EE/Windows6.1-KB3046480-x64.msu
+KB3064209	http://download.microsoft.com/download/3/7/A/37A7BC0A-9E57-4B7D-B143-39CFFA4F2A2D/Windows6.1-KB3064209-x64.msu
+KB3125574-v4	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows6.1-kb3125574-v4-x64_2dafb1d203c8964239af3048b5dd4b1264cd93b9.msu
+KB3161102-v2	http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/08/windows6.1-kb3161102-v2-x64_5608a28abe55f59aed12ec690eb8033efecfcc4e.msu
+KB3172605	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/09/windows6.1-kb3172605-x64_2bb9bc55f347eee34b1454b50c436eb6fd9301fc.msu
+KB3179573	http://download.microsoft.com/download/2/C/6/2C6561A0-BB92-4BB0-8D13-12DEDD5EBA6F/Windows6.1-KB3179573-x64.msu
+KB3181988	http://download.microsoft.com/download/2/C/9/2C9F790D-553F-4FB7-AF4D-FFBC7EEA3CE5/Windows6.1-KB3181988-x64.msu
+KB3184143	http://download.microsoft.com/download/A/9/C/A9C8EEA1-A4C0-4339-A3B8-2924C16EF89D/Windows6.1-KB3184143-x64.msu

@@ -1,15 +1,15 @@
-KB947821-v34
-KB971033
-KB2574819-v2
-KB2592687
-KB2603229
-KB2646060-v3
-KB2830477
-KB2841134
-KB2849696
-KB2849697
-KB2952664-v22
-KB3021917
-KB3046269
-KB3177467
-KB3191566
+KB947821-v34	http://download.microsoft.com/download/E/8/D/E8DAA970-1036-447F-B5EA-716D4BA70EC5/Windows6.1-KB947821-v34-x64.msu
+KB971033	http://download.microsoft.com/download/E/5/6/E5611B10-0D6D-4117-8430-A67417AA88CD/Windows6.1-KB971033-x64.msu
+KB2574819-v2	http://download.microsoft.com/download/C/7/3/C73F9AF0-166A-4782-B692-9B91A2BE1571/Windows6.1-KB2574819-v2-x64.msu
+KB2592687	http://download.microsoft.com/download/A/F/5/AF5C565C-9771-4BFB-973B-4094C1F58646/Windows6.1-KB2592687-x64.msu
+KB2603229	http://download.microsoft.com/download/9/5/9/959A7CAA-CBC1-44F9-B81E-A74348599ABC/Windows6.1-KB2603229-x64.msu
+KB2646060-v3	http://hotfixv4.microsoft.com/Windows 7/Windows Server2008 R2 SP1/sp2/Fix391262/7600/free/441280_intl_x64_zip.exe
+KB2830477	http://download.microsoft.com/download/D/0/7/D07A8332-3B08-4919-9683-BFDD4D6F7BDC/Windows6.1-KB2830477-x64.msu
+KB2841134	http://download.microsoft.com/download/5/C/7/5C7074F0-CE81-4612-902F-DAAF3061B959/IE11-Windows6.1-KB2841134-x64.cab
+KB2849696	http://download.microsoft.com/download/B/D/9/BD9A7786-6C54-4425-BE04-7914E5D77FBC/IE-Spelling-en.msu
+KB2849697	http://download.microsoft.com/download/4/0/E/40E0AF15-3404-4C1E-8FB3-2DE7087F01F7/IE-Hyphenation-en.msu
+KB2952664-v23	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows6.1-kb2952664-v23-x64_a7f762a22bf3f7f659dc78d63e9dc8f3529a286d.msu
+KB3021917	http://download.microsoft.com/download/2/3/0/230B52C5-A0AD-493D-892E-DD8C5D31D358/Windows6.1-KB3021917-x64.msu
+KB3046269	http://download.microsoft.com/download/8/6/6/866F143B-55ED-4308-81EA-20EE4167A639/Windows6.1-KB3046269-x64.msu
+KB3177467	http://download.microsoft.com/download/2/4/7/247BDD8A-6AAE-4466-B137-3B2918D0CEAB/Windows6.1-KB3177467-x64.msu
+KB3191566	http://download.microsoft.com/download/6/F/5/6F5FF66C-6775-42B0-86C4-47D41F2DA187/Win7AndW2K8R2-KB3191566-x64.zip

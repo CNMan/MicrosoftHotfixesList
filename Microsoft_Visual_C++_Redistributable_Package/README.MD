@@ -28,11 +28,11 @@ https://download.microsoft.com/download/1/8/0/180FA2CE-506D-4032-AAD1-9D7636F851
 
 https://download.microsoft.com/download/1/8/0/180FA2CE-506D-4032-AAD1-9D7636F85179/vcredist_x86.exe
 
-Visual Studio 2015/2017 (VC++ 14.0) 14.11.25301.0
+Visual Studio 2015/2017 (VC++ 14.0) 14.11.25325.0
 
-https://download.microsoft.com/download/B/A/6/BA60846F-9601-4CBC-B6D1-A7DAABE2BACB/VC_redist.x64.exe
+https://download.visualstudio.microsoft.com/download/pr/10629685/73e1ab8917c6ee08fb03a230865b9401/VC_redist.x64.exe
 
-https://download.microsoft.com/download/1/6/E/16E97297-4335-4719-9F1F-D22878BB6BC8/VC_redist.x86.exe
+https://download.visualstudio.microsoft.com/download/pr/10630635/9ca0bba83015c844cc98d7cb783370e9/VC_redist.x86.exe
 
 Visual F# 2.0 (10.0.40219)
 
@@ -73,3 +73,7 @@ https://download.microsoft.com/download/2/D/F/2DFCD7D9-821C-4637-8F94-3FAD73BDD1
 XNA Framework Redistribuatable 4.0
 
 https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi
+
+DirectX End-User Runtimes (June 2010)
+
+https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe

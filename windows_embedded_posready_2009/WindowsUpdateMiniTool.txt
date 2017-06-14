@@ -4,8 +4,17 @@ http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/dotn
 [ Microsoft .NET Framework 1.1 Service Pack 1 ]
 http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/ndp1.1sp1-kb867460-x86_74a5b25d65a70b8ecd6a9c301a0aea10d8483a23.exe
 
+[ Windows 正版增值验证工具 (KB892130) ]
+http://www.download.windowsupdate.com/msdownload/update/software/crup/2008/04/windowsxp-kb892130-enu-x86_72e487d115be77f49f64053893a23ecb58bc59cb.exe
+
 [ Windows XP 更新程序 (KB898461) ]
 http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsxp-kb898461-x86-enu_e8e139341e1a6c535ddf2db57052c71d19fc7249.exe
+
+[ Windows Genuine Advantage 通知 (KB905474) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/03/windowsxp-kb905474-enu-x86_de6cd4d37729f6079366b53cc3cdaa6ecafbb56f.exe
+
+[ Windows Genuine Advantage 通知 (KB905474) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/03/windowsxp-kb905474-enu-x86_de6cd4d37729f6079366b53cc3cdaa6ecafbb56f.exe
 
 [ Microsoft 基本智能卡加密服务提供程序包： x86 (KB909520) ]
 http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windows-kb909520-v1.000-x86-enu_01324db8c4913f56495f2f747cb373b3dd11759c.exe
@@ -870,11 +879,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/ndp2
 [ WEPOS 和 POSReady 2009 的安全更新 (KB2957503) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/05/windowsxp-kb2957503-x86-embedded-enu_34e002ae983c5a61dced1e5cb41d81e714a6cfbd.exe
 
-[ WEPOS 和 POSReady 2009 的安全更新 (KB2957509) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/05/windowsxp-kb2957509-x86-embedded-enu_8040f5e2c51addc727985cb7b19042d0f7d165a9.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/05/windowsxp-kb2957509-x86-embedded-express-enu_595a2d715c9495d0e783b55cb2127b2b584f3f08.cab
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/05/windowsxp-kb2957509-x86-embedded-enu_91395bb5f7454d60f927c59fbb7691629428f4da.psf
-
 [ WEPOS 和 POSReady 2009 的安全更新 (KB2961072) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/06/windowsxp-kb2961072-x86-embedded-enu_c6cf662597da9dd0d239150ead20a8eb1c04b3d0.exe
 
@@ -1085,11 +1089,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/09/wind
 [ 适用于 WES09 和 POSReady 2009 的安全更新 (KB3194371) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/10/windowsxp-kb3194371-x86-embedded-enu_7cc637e6c773e75dd0b6a0c6e789af65fa09448d.exe
 
-[ 适用于 WES09 和 POSReady 2009 的安全更新 (KB3196348) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/11/windowsxp-kb3196348-x86-embedded-enu_7a2ee3ad58d56e44f835b784794076cb6fd1dc80.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/11/windowsxp-kb3196348-x86-embedded-express-enu_ffaea05baaf0984d569e3ac90d1d806996d0aa22.cab
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/11/windowsxp-kb3196348-x86-embedded-enu_fbdfd990085c414db0190dd1d54b47e5875cb622.psf
-
 [ 适用于 WES09 和 POSReady 2009 的安全更新 (KB3196718) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/10/windowsxp-kb3196718-x86-embedded-enu_6b1d637604907623f8989b3d98c9e531b122c6cd.exe
 
@@ -1115,9 +1114,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/10/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/01/windowsxp-kb3216916-x86-embedded-enu_3f6571f1e3b8d927f96fa3cb31e9333a937dcf4e.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/01/windowsxp-kb3216916-x86-embedded-express-enu_df894e82d5eb30276bdfb7c84e4bb4637e2a7c09.cab
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/01/windowsxp-kb3216916-x86-embedded-enu_402c89d2fec65ed5caed72ad1132fd9bc3a626c5.psf
-
-[ 2017年 3 月，WES09 和 POSReady 2009 上 .NET Framework 4 的安全和质量汇总 (KB4012355) ]
-http://download.windowsupdate.com/c/csa/csa/secu/2017/02/ndp40-kb4012355-x86_c9282fafb31df3a99da232f031f9ac5f33227572.exe
 
 [ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4012583) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/02/windowsxp-kb4012583-x86-embedded-enu_cd150712980ded7ca5765a8fdd9a9dda860877b8.exe
@@ -1164,11 +1160,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/wind
 [ WEPOS 和 POSReady 2009 的更新 (KB4015193) ]
 http://download.windowsupdate.com/c/msdownload/update/software/uprl/2017/04/windowsxp-kb4015193-x86-embedded-enu_f6b137ad54b423864cf0e16b183294fe929ab074.exe
 
-[ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4015380) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windowsxp-kb4015380-x86-embedded-enu_24924ba7416b525f3ac51f6e59f2124319448edf.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windowsxp-kb4015380-x86-embedded-express-enu_d6b5f94d9f7b285f78c0d979f445a4c8375b7e57.cab
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windowsxp-kb4015380-x86-embedded-enu_b1b9318b6155cb7170bd2061e2dfee78245ab35f.psf
-
 [ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4015383) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windowsxp-kb4015383-x86-embedded-enu_f2891bd693ccc72eac9aba102aed25687df5a85c.exe
 
@@ -1176,9 +1167,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/wind
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/04/windowsxp-kb4017018-x86-embedded-enu_400dd260ff59d19cfa343736a8ae8887f349a8c4.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/04/windowsxp-kb4017018-x86-embedded-express-enu_33115537c64553c8aba148b46c2921f9c0bc7d54.cab
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/04/windowsxp-kb4017018-x86-embedded-enu_2075d2057295653064dce8cf18257359f14faa61.psf
-
-[ 用于 WEPOS 和 POSReady 2009 的 Internet Explorer 8 的累积安全更新程序 (KB4018271) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/ie8-windowsxp-kb4018271-x86-embedded-enu_25b1fb615eed17232e533da09144b89ef716e69d.exe
 
 [ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4018466) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windowsxp-kb4018466-x86-embedded-enu_9152d114029dd47afbf6d5108012ac513a720cf7.exe
@@ -1193,12 +1181,41 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/wind
 [ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4018556) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4018556-v2-x86-embedded-enu_8532522cbd2663dac730235ee0645738538db8a1.exe
 
-[ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4019204) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4019204-x86-embedded-enu_8891c8760e7190211600bf080d318067f0f8dc06.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4019204-x86-embedded-express-enu_ddf95815716774c06ea0ec9d0a91cc1bde33f61b.cab
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4019204-x86-embedded-enu_7d53c9e4657689a76bd498d72fe9796d34a83b75.psf
-
 [ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4019206) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windowsxp-kb4019206-x86-embedded-enu_17b649ff3b7cc48b776a58163f2d1d2e8efc3119.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windowsxp-kb4019206-x86-embedded-express-enu_868dd8e8ebc3fe7aa15e23b6aade0bc443d7947e.cab
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windowsxp-kb4019206-x86-embedded-enu_5841dd6420c6add31bc0f6cff877094d26ee5eac.psf
+
+[ 适用于 WES09 和 POSReady 2009 的 Internet Explorer 8 的累积安全更新 (KB4021558) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/ie8-windowsxp-kb4021558-x86-embedded-enu_fa4c622dda608c860e8ec94c39e96042015e2cd5.exe
+
+[ 适用于 WES09 和 POSReady 2009 的 .NET Framework 4 2017 年 6 月仅限安全的更新 (KB4021915) ]
+http://download.windowsupdate.com/c/csa/csa/secu/2017/05/ndp40-kb4021915-x86_e520b6b35c1e6461d73ace5c130ab7ba077296a6.exe
+
+[ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4022747) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022747-x86-embedded-enu_9ee3ca3c99988ec3a9cade2073f461b39706c82c.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022747-x86-embedded-express-enu_f9984cc1a210d166bf097f5cb449855d9d1a1fe6.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022747-x86-embedded-enu_c6945b9e690d9dcb415ed43fdc465b96df211155.psf
+
+[ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4022883) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022883-x86-embedded-enu_fc5d29b837a4b8876fbb2d345c1a25e1c4c6b9b9.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022883-x86-embedded-express-enu_4048d49779b7ee90106fa92c74801c77ccd64158.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022883-x86-embedded-enu_0abb7cb6cc81023991fadc9b6f4c6095d340d822.psf
+
+[ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4022884) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022884-x86-embedded-enu_78adb6630dc8c2ad5d9a248852979020b19c7160.exe
+
+[ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4022887) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022887-x86-embedded-enu_b5a4361ab1cf65cb29356bdeeb80c46d23747676.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022887-x86-embedded-express-enu_826e69dba3ad780ec839df447a04fe0df8d02e72.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022887-x86-embedded-enu_164603e20c09b1569c90f171cfe2478bff2379a7.psf
+
+[ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4024323) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windowsxp-kb4024323-x86-embedded-enu_42d69f9c232fb86657c938a507388bcdf5043483.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windowsxp-kb4024323-x86-embedded-express-enu_cbef6181a3309da1ed5dda9abe7b90fd2050ddd1.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windowsxp-kb4024323-x86-embedded-enu_adfa8a985d9ebaf4508f9f32f9fb3ff877469552.psf
+
+[ 适用于 WES09 和 POSReady 2009 的安全更新 (KB4024402) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windowsxp-kb4024402-x86-embedded-enu_ca8745be09eab744fc44b682d62ea23bfaae06e0.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windowsxp-kb4024402-x86-embedded-express-enu_32fa8509827f2ce2c39a6b41cb9fe53fdde2cb39.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windowsxp-kb4024402-x86-embedded-enu_bd8968da71f7c1b170653cb14adeb51c2353534a.psf

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/05/25" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/06/13" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB3010081</kb>
@@ -106,26 +106,26 @@
 			<size>12.33 MB</size>
 			<category>General/10240</category>
 			<name>Windows10.0-KB3173427-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10: July 12, 2016</description>
+			<description>Servicing Stack Update for Windows 10</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/06/windows10.0-kb3173427-x64_e3da65fe753d24a1759cdd029028cde743a62a23.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4019474</kb>
-			<date>2017/05/02</date>
+			<kb>KB4022727</kb>
+			<date>2017/06/05</date>
 			<size>1.05 GB</size>
 			<category>General/10240</category>
-			<name>Windows10.0-KB4019474-x64.msu</name>
+			<name>Windows10.0-KB4022727-x64.msu</name>
 			<description>Cumulative Update for Windows 10</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows10.0-kb4019474-x64_4ed033d1c2af2daea1298d10da1fad15a482f726.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022727-x64_8345f64abc0382f6e7e554a0b86fbc7f4c0c997e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4020821</kb>
-			<date>2017/05/02</date>
-			<size>20.36 MB</size>
+			<kb>KB4022730</kb>
+			<date>2017/06/05</date>
+			<size>20.70 MB</size>
 			<category>General/10240</category>
-			<name>windows10.0-kb4020821-x64_78be6d335926f66544f7d4a3a3e024962f6df2c9.msu</name>
+			<name>windows10.0-kb4022730-x64_93270ad1c48aed7b165590c2832e970c74db4e7f.msu</name>
 			<description>Adobe Flash Player Update for Windows 10</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows10.0-kb4020821-x64_78be6d335926f66544f7d4a3a3e024962f6df2c9.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022730-x64_93270ad1c48aed7b165590c2832e970c74db4e7f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3151800</kb>
@@ -178,89 +178,98 @@
 			<size>11.89 MB</size>
 			<category>General/10586</category>
 			<name>Windows10.0-KB4015220-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1511: April 11, 2017</description>
+			<description>Servicing Stack Update for Windows 10 Version 1511</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/04/windows10.0-kb4015220-x64_35f9ff546184e8166a264090c3e38468ffddb51e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4019473</kb>
-			<date>2017/05/02</date>
-			<size>1.05 GB</size>
+			<kb>KB4022714</kb>
+			<date>2017/06/05</date>
+			<size>1.06 GB</size>
 			<category>General/10586</category>
-			<name>Windows10.0-KB4019473-x64.msu</name>
+			<name>Windows10.0-KB4022714-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1511</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows10.0-kb4019473-x64_c23b6f55caf1b9d6c14161b66fe9c9dfb4ad475c.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windows10.0-kb4022714-x64_edf4e51111abeea65f7cbcf75755210bb6a711e3.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4020821</kb>
-			<date>2017/05/02</date>
-			<size>20.36 MB</size>
+			<kb>KB4022730</kb>
+			<date>2017/06/05</date>
+			<size>20.70 MB</size>
 			<category>General/10586</category>
-			<name>windows10.0-kb4020821-x64_b806ae9fbd43f3b5272931b4924571dfc0dc48cf.msu</name>
+			<name>windows10.0-kb4022730-x64_d19b78ca3f44ee888094b3b03bb3b2e9a59caefc.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1511</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows10.0-kb4020821-x64_b806ae9fbd43f3b5272931b4924571dfc0dc48cf.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022730-x64_d19b78ca3f44ee888094b3b03bb3b2e9a59caefc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3186497</kb>
-			<date>2017/05/02</date>
-			<size>5.00 KB</size>
+			<date>2017/06/13</date>
+			<size>9.00 KB</size>
 			<category>General/14393</category>
-			<name>NET47-LangPacks.txt</name>
+			<name>NET47-LPs.txt</name>
 			<description>Microsoft .NET Framework 4.7 Languages Packs</description>
-			<url>https://dl.dropboxusercontent.com/s/u4sqgj0s4jbeof1/NET47-LangPacks.txt</url>
+			<url>https://dl.dropboxusercontent.com/s/w7ysdyqpgqw3901/NET47-LPs.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB3186568</kb>
 			<date>2017/04/21</date>
-			<size>67.04 MB</size>
+			<size>67.13 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB3186568-x64.cab</name>
+			<name>Windows10.0-KB3186568-x64.msu</name>
 			<description>Microsoft .NET Framework 4.7 for Windows 10 version 1607</description>
-			<url>http://download.microsoft.com/download/b/2/f/b2fad91d-bc21-43a2-99e0-18ea08e6fa8b/enu_NETFX/amd64_windows10_0-kb3186568-x64_cab/windows10.0-kb3186568-x64.cab</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/windows10.0-kb3186568-x64_086bd10d344a5bb614725135a1589cd784d1e768.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4013418</kb>
-			<date>2017/03/02</date>
-			<size>11.38 MB</size>
+			<kb>KB4022715</kb>
+			<date>2017/06/05</date>
+			<size>1.07 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4013418-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607: March 14, 2017</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/03/windows10.0-kb4013418-x64_b7165b95be791aeb025135efe60e00db2800c5c6.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4019472</kb>
-			<date>2017/05/02</date>
-			<size>1.05 GB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4019472-x64.msu</name>
+			<name>Windows10.0-KB4022715-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows10.0-kb4019472-x64_dda304140351259fcf15ca7b1f5b51cb60445a0a.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022715-x64_e49f14969a81d955545b7743079e93380541e19c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4020821</kb>
-			<date>2017/05/02</date>
-			<size>20.36 MB</size>
+			<kb>KB4022730</kb>
+			<date>2017/06/05</date>
+			<size>20.70 MB</size>
 			<category>General/14393</category>
-			<name>windows10.0-kb4020821-x64_f4d359a20b707ce63cf20539c451173c4d4ce1d1.msu</name>
+			<name>windows10.0-kb4022730-x64_f285c2113e489fef8c5d3887c1edbca049056b10.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows10.0-kb4020821-x64_f4d359a20b707ce63cf20539c451173c4d4ce1d1.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windows10.0-kb4022730-x64_f285c2113e489fef8c5d3887c1edbca049056b10.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4020102</kb>
+			<kb>KB4023834</kb>
 			<date>2017/05/23</date>
-			<size>531.78 MB</size>
-			<category>General/15063</category>
-			<name>Windows10.0-KB4020102-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows10.0-kb4020102-x64_9d406340d67caa80a55bc056e50cf87a2e7647ce.msu</url>
+			<size>11.39 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4023834-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/06/windows10.0-kb4023834-x64_1f2af418b6f9dafb593f5ce89b4e0783057102b2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4020821</kb>
-			<date>2017/05/02</date>
-			<size>20.37 MB</size>
+			<kb>KB4022405</kb>
+			<date>2017/06/01</date>
+			<size>11.53 MB</size>
 			<category>General/15063</category>
-			<name>windows10.0-kb4020821-x64_f864406d91f9c5ded327a3690c3ff000248f9eab.msu</name>
+			<name>Windows10.0-KB4022405-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/06/windows10.0-kb4022405-x64_cb1286f2547dd21a06f1ec5b9a55769a7227b371.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022725</kb>
+			<date>2017/06/05</date>
+			<size>555.60 MB</size>
+			<category>General/15063</category>
+			<name>Windows10.0-KB4022725-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022725-x64_f4468667fb546204531ff9b88ef9b8b095a26786.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022730</kb>
+			<date>2017/06/05</date>
+			<size>20.70 MB</size>
+			<category>General/15063</category>
+			<name>windows10.0-kb4022730-x64_390a759aff2ccc6845b9206d606f6ca28428d6e0.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows10.0-kb4020821-x64_f864406d91f9c5ded327a3690c3ff000248f9eab.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022730-x64_390a759aff2ccc6845b9206d606f6ca28428d6e0.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

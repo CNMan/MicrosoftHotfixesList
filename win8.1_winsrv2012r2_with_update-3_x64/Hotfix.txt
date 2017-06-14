@@ -83,7 +83,6 @@ KB3100474	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/F
 KB3101694	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix4579847/9600/free/487768_intl_x64_zip.exe
 KB3102242	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix4682575/9600/free/487769_intl_x64_zip.exe
 KB3102770	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix4644470/9600/free/487746_intl_x64_zip.exe
-KB3107128	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3366886/9600/free/488257_intl_x64_zip.exe
 KB3109156	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3756246/9600/free/488252_intl_x64_zip.exe
 KB3114025-v2	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix5039369/9600/free/488301_intl_x64_zip.exe
 KB3116302	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix5343171/9600/free/488376_intl_x64_zip.exe

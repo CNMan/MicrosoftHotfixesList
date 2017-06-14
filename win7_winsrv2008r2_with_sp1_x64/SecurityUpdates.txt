@@ -1,13 +1,13 @@
-KB2898851
-KB2900986
-KB3059317
-KB3150220
-KB3156016
-KB3156019
-KB3159398
-KB3161949
-KB3161958
-KB3170455
+KB2898851	http://download.microsoft.com/download/E/1/8/E18C6A4D-F347-44DB-A718-4E0B54436AAE/Windows6.1-KB2898851-x64.msu
+KB2900986	http://download.microsoft.com/download/5/D/9/5D93E83F-F5B8-42D6-87F5-73F3B10D8D87/Windows6.1-KB2900986-x64.msu
+KB3059317	http://download.microsoft.com/download/0/D/2/0D257A30-9009-4922-939C-358ED071FF63/Windows6.1-KB3059317-x64.msu
+KB3150220	http://download.microsoft.com/download/1/E/2/1E2E5D59-6A94-4CBA-9A33-167BF3CD361C/Windows6.1-KB3150220-x64.msu
+KB3156016	http://download.microsoft.com/download/2/3/2/232223A7-6A93-4B03-BBB1-1D8988B615C8/Windows6.1-KB3156016-x64.msu
+KB3156019	http://download.microsoft.com/download/0/B/A/0BA6BBFB-F52B-4B1B-92F5-4645E4BC8284/Windows6.1-KB3156019-x64.msu
+KB3159398	http://download.microsoft.com/download/C/4/0/C4032BF7-2912-467F-A75A-58B8123205B3/Windows6.1-KB3159398-x64.msu
+KB3161949	http://download.microsoft.com/download/A/F/C/AFCCFFB9-9352-4DE7-BBF6-24C4AC520327/Windows6.1-KB3161949-x64.msu
+KB3161958	http://download.microsoft.com/download/9/E/9/9E975F94-E40B-4CB8-8E8E-4661D7F75E3F/Windows6.1-KB3161958-x64.msu
+KB3170455	http://download.microsoft.com/download/4/4/7/4471D3DE-6491-42EC-9F36-FD88286171A2/Windows6.1-KB3170455-x64.msu
 KB4014504	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windows6.1-kb4014504-x64_8ff7cfc3a121bf705c52c19403b5626148eafffd.msu
 KB4014596	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4014596-x64_0268b1dede5abd2c1d3c8bd9fb49d799bae68a1e.msu
-KB4019265	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4019265-x64_c21fb9314da54cf6bd7972581da3159535f55aec.msu
+KB4022719	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows6.1-kb4022719-x64_127dc7228b2d9278db81121a92471feda59461bb.msu
