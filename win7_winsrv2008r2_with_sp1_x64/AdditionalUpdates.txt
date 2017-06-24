@@ -13,3 +13,4 @@ KB3021917	http://download.microsoft.com/download/2/3/0/230B52C5-A0AD-493D-892E-D
 KB3046269	http://download.microsoft.com/download/8/6/6/866F143B-55ED-4308-81EA-20EE4167A639/Windows6.1-KB3046269-x64.msu
 KB3177467	http://download.microsoft.com/download/2/4/7/247BDD8A-6AAE-4466-B137-3B2918D0CEAB/Windows6.1-KB3177467-x64.msu
 KB3191566	http://download.microsoft.com/download/6/F/5/6F5FF66C-6775-42B0-86C4-47D41F2DA187/Win7AndW2K8R2-KB3191566-x64.zip
+KB4032782	http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/06/ie11-windows6.1-kb4032782-x64_cdbf2e7fc4bd6a38eb6330498546d025d301b09f.msu

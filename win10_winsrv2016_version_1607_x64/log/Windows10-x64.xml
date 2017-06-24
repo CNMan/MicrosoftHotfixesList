@@ -11,6 +11,24 @@
 			<url>http://download.microsoft.com/download/7/F/2/7F2E00A7-F071-41CA-A35B-00DC536D4227/Microsoft-Windows-MediaFeaturePack-OOB-Package_x64.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4025632</kb>
+			<date>2017/06/16</date>
+			<size>1.52 MB</size>
+			<category>General/14393</category>
+			<name>windows10.0-kb4025632-x64_af86717e4eec306948b23cd1e82ff95640e51f5e.msu</name>
+			<description>Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows10.0-kb4025632-x64_af86717e4eec306948b23cd1e82ff95640e51f5e.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4025632</kb>
+			<date>2017/06/16</date>
+			<size>1.00 MB</size>
+			<category>General/15063</category>
+			<name>windows10.0-kb4025632-x64_314363693ba41f63abedafb7be97f21e0c4994fc.msu</name>
+			<description>Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows10.0-kb4025632-x64_314363693ba41f63abedafb7be97f21e0c4994fc.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB3099229</kb>
 			<date>2015/10/30</date>
 			<size>110.44 MB</size>

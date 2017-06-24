@@ -11,6 +11,15 @@
 			<url>https://dl.dropboxusercontent.com/s/fh7kujh8ef1snj9/Additional-Updates-Info.txt</url>
 		</update>
 		<update extract="0">
+			<kb>KB4032782</kb>
+			<date>2017/06/20</date>
+			<size>24.69 MB</size>
+			<category>Additional/_IE11/Updates</category>
+			<name>IE11-Windows6.1-KB4032782-x64.msu</name>
+			<description>A blank page or "404" error prints when you try to print a frame in Internet Explorer 11</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/06/ie11-windows6.1-kb4032782-x64_cdbf2e7fc4bd6a38eb6330498546d025d301b09f.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4022719</kb>
 			<date>2017/06/02</date>
 			<size>181.33 MB</size>

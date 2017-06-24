@@ -11,6 +11,15 @@
 			<url>https://dl.dropboxusercontent.com/s/mhm4lyhrpjzzaix/Do.Not.Integrate-Info.txt</url>
 		</update>
 		<update extract="0">
+			<kb>KB4032782</kb>
+			<date>2017/06/20</date>
+			<size>24.81 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4032782-x64.msu</name>
+			<description>A blank page or "404" error prints when you try to print a frame in Internet Explorer 11</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows8.1-kb4032782-x64_5d35c6b2a34e704f5d367dba2f5a45b26551e152.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB2990967</kb>
 			<date>2014/08/26</date>
 			<size>200 KB</size>
