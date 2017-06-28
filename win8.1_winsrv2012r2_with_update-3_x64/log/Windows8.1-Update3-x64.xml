@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/06/13" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/06/27" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -9,15 +9,6 @@
 			<name>Do.Not.Integrate-Info.txt</name>
 			<description>Info about online-only updates</description>
 			<url>https://dl.dropboxusercontent.com/s/mhm4lyhrpjzzaix/Do.Not.Integrate-Info.txt</url>
-		</update>
-		<update extract="0">
-			<kb>KB4032782</kb>
-			<date>2017/06/20</date>
-			<size>24.81 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4032782-x64.msu</name>
-			<description>A blank page or "404" error prints when you try to print a frame in Internet Explorer 11</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows8.1-kb4032782-x64_5d35c6b2a34e704f5d367dba2f5a45b26551e152.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -443,15 +434,6 @@
 			<url>https://dl.dropboxusercontent.com/s/hw4ueqgrsoby6ix/Windows8.1-KB3047280-v3-x64.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB3084463</kb>
-			<date>2015/10/06</date>
-			<size>337 KB</size>
-			<category>Extra/RSAT/Updates</category>
-			<name>Windows8.1-KB3084463-v2-x64.msu</name>
-			<description>Update to support Windows 10 as a service for WSUS</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/11/windows8.1-kb3084463-v2-x64_b8c43d5b6d30fea159c0c5716fe20a5ea27c5669.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3091402</kb>
 			<date>2015/10/06</date>
 			<size>1.00 KB</size>
@@ -488,15 +470,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/11/windows8.1-kb3092688-v3-x64_9d485161e639b6bd7f09342d07d508f3dd4b0e67.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3095113</kb>
-			<date>2016/02/05</date>
-			<size>1.57 MB</size>
-			<category>Extra/RSAT/Updates</category>
-			<name>Windows8.1-KB3095113-v2-x64.msu</name>
-			<description>Update to enable WSUS support for Windows 10 feature upgrades</description>
-			<url>http://download.microsoft.com/download/D/3/8/D3854613-B1DB-40A2-BB05-5FF9CCDEFB74/Windows8.1-KB3095113-v2-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3100473</kb>
 			<date>2016/02/04</date>
 			<size>1.00 KB</size>
@@ -524,22 +497,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146601-x64_a833dda477a9c193aafc4d59d56fe77d046aef03.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3100473</kb>
-			<date>2016/04/28</date>
+			<kb>KB3159706</kb>
+			<date>2017/06/27</date>
 			<size>1.00 KB</size>
 			<category>Extra/RSAT/Updates</category>
-			<name>Windows8.1-KB3159706.txt</name>
-			<description>Update enables ESD decryption provision in WSUS</description>
-			<url>https://dl.dropboxusercontent.com/s/brj983lu7o4a9q5/Windows8.1-KB3159706.txt</url>
-		</update>
-		<update extract="0">
-			<kb>KB3159706</kb>
-			<date>2016/04/28</date>
-			<size>933 KB</size>
-			<category>Extra/RSAT/Updates</category>
-			<name>Windows8.1-KB3159706-x64.msu</name>
-			<description>Update enables ESD decryption provision in WSUS</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows8.1-kb3159706-x64_034b30c6c261d4e76b8c6f8fe3cc9fa5fa4e977b.msu</url>
+			<name>MonthlyQualityRollup-RSAT.txt</name>
+			<description>Notice about RSAT contents in Monthly Quality Rollup</description>
+			<url>https://dl.dropboxusercontent.com/s/uqa2s37ezzdi0ps/MonthlyQualityRollup-RSAT.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB3186497</kb>
@@ -551,13 +515,13 @@
 			<url>https://dl.dropboxusercontent.com/s/u4sqgj0s4jbeof1/NET47-LangPacks.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB3158626</kb>
-			<date>2016/06/25</date>
-			<size>755 KB</size>
-			<category>General</category>
+			<kb>KB4021918</kb>
+			<date>2017/05/06</date>
+			<size>756 KB</size>
+			<category>Hotfix</category>
 			<name>windows6.2-hypervintegrationservices-x64.cab</name>
-			<description>July 2016 Hyper-V guest integration components</description>
-			<url>https://fv3.failiem.lv/down.php?i=3qgttsaa&amp;n=windows6.2-hypervintegrationservices-x64.cab</url>
+			<description>June 2017 Hyper-V guest integration components</description>
+			<url>https://fv3.failiem.lv/down.php?i=ct973vty&amp;n=windows6.2-hypervintegrationservices-x64.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2899189</kb>
@@ -2594,13 +2558,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows8.1-kb4014604-x64_2bc637b3798989a14a9e7e3cafce2a32928e774f.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022726</kb>
-			<date>2017/06/02</date>
-			<size>235.41 MB</size>
+			<kb>KB4022720</kb>
+			<date>2017/06/20</date>
+			<size>248.20 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4022726-x64.msu</name>
+			<name>Windows8.1-KB4022720-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows8.1-kb4022726-x64_56d692788e7e89b5b3e075f0ff7dc531b42a0560.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/06/windows8.1-kb4022720-x64_0da04eeab7f676e6b3f3a00aeab20b183e0f3dff.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022730</kb>

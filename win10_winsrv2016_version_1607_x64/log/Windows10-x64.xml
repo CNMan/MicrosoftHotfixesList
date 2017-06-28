@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/06/13" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/06/27" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB3010081</kb>
@@ -9,24 +9,6 @@
 			<name>Windows10-KB3010081-x64.msu</name>
 			<description>Media Feature Pack for N edition of Windows 10 Version 1507</description>
 			<url>http://download.microsoft.com/download/7/F/2/7F2E00A7-F071-41CA-A35B-00DC536D4227/Microsoft-Windows-MediaFeaturePack-OOB-Package_x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4025632</kb>
-			<date>2017/06/16</date>
-			<size>1.52 MB</size>
-			<category>General/14393</category>
-			<name>windows10.0-kb4025632-x64_af86717e4eec306948b23cd1e82ff95640e51f5e.msu</name>
-			<description>Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows10.0-kb4025632-x64_af86717e4eec306948b23cd1e82ff95640e51f5e.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4025632</kb>
-			<date>2017/06/16</date>
-			<size>1.00 MB</size>
-			<category>General/15063</category>
-			<name>windows10.0-kb4025632-x64_314363693ba41f63abedafb7be97f21e0c4994fc.msu</name>
-			<description>Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows10.0-kb4025632-x64_314363693ba41f63abedafb7be97f21e0c4994fc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3099229</kb>
@@ -128,15 +110,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/06/windows10.0-kb3173427-x64_e3da65fe753d24a1759cdd029028cde743a62a23.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022727</kb>
-			<date>2017/06/05</date>
-			<size>1.05 GB</size>
-			<category>General/10240</category>
-			<name>Windows10.0-KB4022727-x64.msu</name>
-			<description>Cumulative Update for Windows 10</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022727-x64_8345f64abc0382f6e7e554a0b86fbc7f4c0c997e.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4022730</kb>
 			<date>2017/06/05</date>
 			<size>20.70 MB</size>
@@ -144,6 +117,15 @@
 			<name>windows10.0-kb4022730-x64_93270ad1c48aed7b165590c2832e970c74db4e7f.msu</name>
 			<description>Adobe Flash Player Update for Windows 10</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022730-x64_93270ad1c48aed7b165590c2832e970c74db4e7f.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4032695</kb>
+			<date>2017/06/21</date>
+			<size>1.05 GB</size>
+			<category>General/10240</category>
+			<name>Windows10.0-KB4032695-x64.msu</name>
+			<description>Cumulative Update for Windows 10</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows10.0-kb4032695-x64_ce02f93e314452c2dabd74bfbe536db170560ce6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3151800</kb>
@@ -200,15 +182,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/04/windows10.0-kb4015220-x64_35f9ff546184e8166a264090c3e38468ffddb51e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022714</kb>
-			<date>2017/06/05</date>
-			<size>1.06 GB</size>
-			<category>General/10586</category>
-			<name>Windows10.0-KB4022714-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1511</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windows10.0-kb4022714-x64_edf4e51111abeea65f7cbcf75755210bb6a711e3.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4022730</kb>
 			<date>2017/06/05</date>
 			<size>20.70 MB</size>
@@ -216,6 +189,15 @@
 			<name>windows10.0-kb4022730-x64_d19b78ca3f44ee888094b3b03bb3b2e9a59caefc.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1511</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022730-x64_d19b78ca3f44ee888094b3b03bb3b2e9a59caefc.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4032693</kb>
+			<date>2017/06/21</date>
+			<size>1.00 GB</size>
+			<category>General/10586</category>
+			<name>Windows10.0-KB4032693-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1511</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows10.0-kb4032693-x64_3666e21efb6a6976083ab5a0589f07348ca742e9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3186497</kb>
@@ -236,13 +218,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/windows10.0-kb3186568-x64_086bd10d344a5bb614725135a1589cd784d1e768.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022715</kb>
-			<date>2017/06/05</date>
-			<size>1.07 GB</size>
+			<kb>KB4022723</kb>
+			<date>2017/06/24</date>
+			<size>1.02 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4022715-x64.msu</name>
+			<name>Windows10.0-KB4022723-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022715-x64_e49f14969a81d955545b7743079e93380541e19c.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/06/windows10.0-kb4022723-x64_dcb9d2e6ea12cfad756df4ed9b723b1984a23243.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022730</kb>
@@ -263,6 +245,15 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/06/windows10.0-kb4023834-x64_1f2af418b6f9dafb593f5ce89b4e0783057102b2.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4025632</kb>
+			<date>2017/06/16</date>
+			<size>1.52 MB</size>
+			<category>General/14393</category>
+			<name>windows10.0-kb4025632-x64_af86717e4eec306948b23cd1e82ff95640e51f5e.msu</name>
+			<description>Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows10.0-kb4025632-x64_af86717e4eec306948b23cd1e82ff95640e51f5e.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4022405</kb>
 			<date>2017/06/01</date>
 			<size>11.53 MB</size>
@@ -272,13 +263,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/06/windows10.0-kb4022405-x64_cb1286f2547dd21a06f1ec5b9a55769a7227b371.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022725</kb>
-			<date>2017/06/05</date>
-			<size>555.60 MB</size>
+			<kb>KB4022716</kb>
+			<date>2017/06/27</date>
+			<size>705.77 MB</size>
 			<category>General/15063</category>
-			<name>Windows10.0-KB4022725-x64.msu</name>
+			<name>Windows10.0-KB4022716-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022725-x64_f4468667fb546204531ff9b88ef9b8b095a26786.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/06/windows10.0-kb4022716-x64_72cab17aeb72f4e36df375505ba7325c90044119.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022730</kb>
@@ -288,6 +279,15 @@
 			<name>windows10.0-kb4022730-x64_390a759aff2ccc6845b9206d606f6ca28428d6e0.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1703</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows10.0-kb4022730-x64_390a759aff2ccc6845b9206d606f6ca28428d6e0.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4025632</kb>
+			<date>2017/06/16</date>
+			<size>1.00 MB</size>
+			<category>General/15063</category>
+			<name>windows10.0-kb4025632-x64_314363693ba41f63abedafb7be97f21e0c4994fc.msu</name>
+			<description>Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows10.0-kb4025632-x64_314363693ba41f63abedafb7be97f21e0c4994fc.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

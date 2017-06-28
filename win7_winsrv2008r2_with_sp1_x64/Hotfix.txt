@@ -8,3 +8,4 @@ KB2918833-v2	http://hotfixv4.microsoft.com/Windows 7/Windows Server2008 R2 SP1/s
 KB2923766-v5	http://hotfixv4.microsoft.com/Windows 7/Windows Server2008 R2 SP1/sp2/Fix485015/7600/free/471898_intl_x64_zip.exe
 KB2925489-v3	http://hotfixv4.microsoft.com/Windows 7/Windows Server2008 R2 SP1/sp2/Fix486093/7600/free/471854_intl_x64_zip.exe
 KB2990184-v2	http://hotfixv4.microsoft.com/Windows 7/Windows Server2008 R2 SP1/sp2/Fix498634/7600/free/483151_intl_x64_zip.exe
+windows6.x-hypervintegrationservices-x64.cab	https://fv3.failiem.lv/down.php?i=ycssm33c&amp;n=windows6.x-hypervintegrationservices-x64.cab

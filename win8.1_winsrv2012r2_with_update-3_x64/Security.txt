@@ -57,6 +57,6 @@ KB4014551	http://download.windowsupdate.com/c/msdownload/update/software/secu/20
 KB4014604	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows8.1-kb4014604-x64_2bc637b3798989a14a9e7e3cafce2a32928e774f.msu
 KB4015553	http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/04/windows8.1-kb4015553-x64_7e9371da8cfd9aed1dc43600ff659ff8e9a17c62.msu
 KB4018483	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windows8.1-kb4018483-x64_f171fdc802a65276791ec58873bc9e7406ff445d.msu
-KB4022726	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows8.1-kb4022726-x64_56d692788e7e89b5b3e075f0ff7dc531b42a0560.msu
+KB4022720	http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/06/windows8.1-kb4022720-x64_0da04eeab7f676e6b3f3a00aeab20b183e0f3dff.msu
 KB4022730	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows8.1-kb4022730-x64_86ed7f0c62cb1012c4b3f98290bcef7e8a4387c0.msu
 KB4032782	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows8.1-kb4032782-x64_5d35c6b2a34e704f5d367dba2f5a45b26551e152.msu

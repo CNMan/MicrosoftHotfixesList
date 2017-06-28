@@ -34,7 +34,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/wind
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022884-x86-embedded-chs_174dcdeaaa2b97324781c307ad93112e09321cf4.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windowsxp-kb4022887-x86-embedded-chs_5ce2bfe5e07098231366a584efbe2a7467c410df.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/04/windowsxp-kb4017018-x86-embedded-chs_d0811ccd122cd7b4ad889c73915bc785d9a34899.exe
-http://download.windowsupdate.com/c/msdownload/update/software/uprl/2017/04/windowsxp-kb4015193-x86-embedded-chs_08f9cb0de1acd679f6fbbdaa5d2c7f16bc25c586.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windowsxp-kb2926765-x86-embedded-chs_a7a0e41eceb6fe754844a41eadf1dad55f4d5a64.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windowsxp-kb2993651-x86-embedded-chs_e0f059a942391419067e388be5846c4a49338f54.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/09/windowsxp-kb2993254-x86-embedded-chs_d8fbe31c81ff7dd843887cb55520f5cf7390c35e.exe
@@ -66,4 +65,4 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windowsxp-kb4024323-x86-embedded-chs_b2647a942d6fd63d0f513aae8370e6ac80fc443e.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/windowsxp-kb4024402-x86-embedded-chs_0ec62b93d5b958b2484d3b385406bdb555cabd55.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windowsxp-kb3065979-x86-embedded-chs_1f6dcc9f8ffd123612b4043f8705c90c6ee33df0.exe
-http://download.windowsupdate.com/d/msdownload/update/software/uprl/2017/03/windowsxp-kb4012864-x86-embedded-chs_8b421c79767abd8c3460e0d9256e4a7098d80471.exe
+http://download.windowsupdate.com/d/msdownload/update/software/uprl/2017/06/windowsxp-kb4020322-x86-embedded-chs_3aebe4bca1b0d8c5ff51b80ccc9a5cf20bcfb5d3.exe

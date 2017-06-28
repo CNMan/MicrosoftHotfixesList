@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/06/13" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/06/27" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -9,24 +9,6 @@
 			<name>Additional-Updates-Info.txt</name>
 			<description>More information about Additional Updates category</description>
 			<url>https://dl.dropboxusercontent.com/s/fh7kujh8ef1snj9/Additional-Updates-Info.txt</url>
-		</update>
-		<update extract="0">
-			<kb>KB4032782</kb>
-			<date>2017/06/20</date>
-			<size>24.69 MB</size>
-			<category>Additional/_IE11/Updates</category>
-			<name>IE11-Windows6.1-KB4032782-x64.msu</name>
-			<description>A blank page or "404" error prints when you try to print a frame in Internet Explorer 11</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/06/ie11-windows6.1-kb4032782-x64_cdbf2e7fc4bd6a38eb6330498546d025d301b09f.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4022719</kb>
-			<date>2017/06/02</date>
-			<size>181.33 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4022719-x64.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows6.1-kb4022719-x64_127dc7228b2d9278db81121a92471feda59461bb.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2841134</kb>
@@ -5195,13 +5177,13 @@
 			<url>http://download.microsoft.com/download/9/A/8/9A8FCFAA-78A0-49F5-8C8E-4EAE185F515C/Windows6.1-KB917607-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3158626</kb>
-			<date>2016/06/25</date>
-			<size>687 KB</size>
-			<category>General</category>
+			<kb>KB4021918</kb>
+			<date>2017/05/06</date>
+			<size>688 KB</size>
+			<category>Hotfix</category>
 			<name>windows6.x-hypervintegrationservices-x64.cab</name>
-			<description>July 2016 Hyper-V guest integration components</description>
-			<url>https://fv3.failiem.lv/down.php?i=n44d99aa&amp;n=windows6.x-hypervintegrationservices-x64.cab</url>
+			<description>June 2017 Hyper-V guest integration components</description>
+			<url>https://fv3.failiem.lv/down.php?i=ycssm33c&amp;n=windows6.x-hypervintegrationservices-x64.cab</url>
 		</update>
 		<update extract="1">
 			<kb>KB2695321</kb>
@@ -5409,6 +5391,15 @@
 			<name>Windows6.1-KB4014596-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4014596-x64_0268b1dede5abd2c1d3c8bd9fb49d799bae68a1e.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022168</kb>
+			<date>2017/06/20</date>
+			<size>181.64 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4022168-x64.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows6.1-kb4022168-x64_1d69279af440d9fa7faa87df1eda7c55fc31f260.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

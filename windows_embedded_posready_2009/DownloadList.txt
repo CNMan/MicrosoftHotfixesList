@@ -63,7 +63,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/06/ndp3
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/10/ndp40-kb2836939-v3-x86_5f7e7f9811136bd3dfeb994d75a96aece646ea3d.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/04/windowsxp-kb4017018-x86-embedded-enu_400dd260ff59d19cfa343736a8ae8887f349a8c4.exe
 http://download.windowsupdate.com/c/msdownload/update/software/uprl/2013/12/windowsxp-kb2904266-x86-enu_dbb1b301ba862c02e0b34570e3c78a719144f823.exe
-http://download.windowsupdate.com/c/msdownload/update/software/uprl/2017/04/windowsxp-kb4015193-x86-embedded-enu_f6b137ad54b423864cf0e16b183294fe929ab074.exe
 http://download.windowsupdate.com/d/csa/csa/secu/2016/03/ndp20sp2-kb3135986-x86_3c143b65f9e2cc3ab1f140fbd71a50f34af88a49.exe
 http://download.windowsupdate.com/d/csa/csa/secu/2016/04/ndp20sp2-kb3142027-x86_dfb224d16b27f203dedc393678a150e887b98e84.exe
 http://download.windowsupdate.com/d/csa/csa/secu/2016/04/ndp40-kb3127225-x86_6086071d07278955e22366990a3f8ffbfdccda85.exe
@@ -129,7 +128,7 @@ http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/ndp4
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/windowsxp-kb2808679-x86-enu_3b48f4913204d1d3353a4831f1b3e2e7d74cf26e.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/08/ndp20sp2-kb2836941-v2-x86_9e8d176f3476dc920c9ac845647ec47fdbfc5d38.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windowsxp-kb3065979-x86-embedded-enu_fe0a4fbb1fcb7c6062ae3ff88dcbf388f1ec4b07.exe
-http://download.windowsupdate.com/d/msdownload/update/software/uprl/2017/03/windowsxp-kb4012864-x86-embedded-enu_e534670557a080281c2548543b19058444a16bb8.exe
+http://download.windowsupdate.com/d/msdownload/update/software/uprl/2017/06/windowsxp-kb4020322-x86-embedded-enu_525d99b85ba19b905b1652e4ccae6093cf762ab3.exe
 http://download.windowsupdate.com/msdownload/update/software/crup/2008/07/windowsxp-kb952287-x86-enu_5bee5928c09f4ee44bc41cab109022cec820e5ff.exe
 http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp20sp2-kb958481-x86_04fcde4b28dd4f6db7548831d35d1c6bf38e1335.exe
 http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp30sp2-kb958483-x86_2b03b54c0972c16ab6ce75f42ac4877af87ce844.exe
