@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/06/27" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/07/11" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -9,6 +9,24 @@
 			<name>Do.Not.Integrate-Info.txt</name>
 			<description>Info about online-only updates</description>
 			<url>https://dl.dropboxusercontent.com/s/mhm4lyhrpjzzaix/Do.Not.Integrate-Info.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB4025336</kb>
+			<date>2017/07/07</date>
+			<size>256.25 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4025336-x64.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/windows8.1-kb4025336-x64_b13c98376d2b720889d7cd0aaed50f772100bc49.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4025376</kb>
+			<date>2017/06/29</date>
+			<size>20.70 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4025376-x64.msu</name>
+			<description>Update for Vulnerabilities in Adobe Flash Player</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/07/windows8.1-kb4025376-x64_6e15e5bf0cbcf194db912150925f81660ce3498c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1001,15 +1019,6 @@
 			<url>http://download.microsoft.com/download/E/B/7/EB783F84-B12C-4033-ACF4-0FACF89B56D9/Windows8.1-KB3078676-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3079318</kb>
-			<date>2015/07/10</date>
-			<size>254 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3079318-x64.msu</name>
-			<description>Connection is unsuccessful error when you connect a Bluetooth device to an application</description>
-			<url>http://download.microsoft.com/download/8/6/1/861CC451-A718-450C-9991-F8273E33D25E/Windows8.1-KB3079318-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3080042</kb>
 			<date>2015/08/07</date>
 			<size>738 KB</size>
@@ -1179,15 +1188,6 @@
 			<name>Windows8.1-KB3121261-v2-x64.msu</name>
 			<description>System fails back to a host copy instead of an array copy or storages go down after LUN reset</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows8.1-kb3121261-v2-x64_9f37a3954e0827aa581cb55f4ee565197f8fa937.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3123242</kb>
-			<date>2015/12/30</date>
-			<size>413 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3123242-x64.msu</name>
-			<description>Reassociated Windows Filtering Platform (WFP) context in same flow doesn't work</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3123242-x64_84f6d6abc0f2f5fd3cc5a1a40f126a888310b796.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3123245</kb>
@@ -1982,15 +1982,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2016/02/windows8.1-kb3093271-x64_da43956d2b652c9a2ce160dbca90b32f019d19ea.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3093550</kb>
-			<date>2015/09/03</date>
-			<size>1.76 MB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3093550-x64.msu</name>
-			<description>All ScriptProperty members are invoked when you run the Add-Member PowerShell command</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/10/windows8.1-kb3093550-x64_444a55f1f29e153b0aa5e57b2ae0379f6afa577d.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3095711</kb>
 			<date>2015/09/11</date>
 			<size>242 KB</size>
@@ -2556,24 +2547,6 @@
 			<name>Windows8.1-KB4014604-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.6.2</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows8.1-kb4014604-x64_2bc637b3798989a14a9e7e3cafce2a32928e774f.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4022720</kb>
-			<date>2017/06/20</date>
-			<size>248.20 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4022720-x64.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/06/windows8.1-kb4022720-x64_0da04eeab7f676e6b3f3a00aeab20b183e0f3dff.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4022730</kb>
-			<date>2017/06/02</date>
-			<size>20.70 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4022730-x64.msu</name>
-			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/windows8.1-kb4022730-x64_86ed7f0c62cb1012c4b3f98290bcef7e8a4387c0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

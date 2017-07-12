@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/07/05" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/07/11" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB3191926</kb>
@@ -65,13 +65,13 @@
 			<url>http://download.microsoft.com/download/4/5/9/459DD1C3-BCB5-4CA1-8E59-A7F9C700F569/dcf2016-kb2910990-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3191922</kb>
-			<date>2017/05/24</date>
+			<kb>KB3203477</kb>
+			<date>2017/06/15</date>
 			<size>128.55 MB</size>
-			<category>General</category>
-			<name>excel2016-kb3191922-fullfile-x64-glb.exe</name>
+			<category>Security</category>
+			<name>excel2016-kb3203477-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>http://download.microsoft.com/download/F/4/7/F478C528-7931-446D-B41A-A70E4A205A34/excel2016-kb3191922-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/F/B/6FBE8550-FE76-4904-8BE9-20706F34D612/excel2016-kb3203477-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191859</kb>
@@ -182,13 +182,13 @@
 			<url>http://download.microsoft.com/download/8/2/F/82F95A47-06A8-46C4-A3C3-E731F1CA9340/msodll202016-kb3178667-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3191882</kb>
-			<date>2017/05/17</date>
+			<kb>KB3213545</kb>
+			<date>2017/06/27</date>
 			<size>4.56 MB</size>
 			<category>Security</category>
-			<name>msodll302016-kb3191882-fullfile-x64-glb.exe</name>
+			<name>msodll302016-kb3213545-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll30-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/7/3/D/73D1222D-6B24-4EA2-AAFE-84FCD428EF28/msodll302016-kb3191882-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/3/E/93E98FE4-EE13-470A-B0FC-E92DBACCE99B/msodll302016-kb3213545-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191933</kb>
@@ -281,13 +281,13 @@
 			<url>http://download.microsoft.com/download/C/A/B/CABA6265-DE0E-4458-A701-0BE43690D8F1/outlfltr2016-kb3115407-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3213654</kb>
-			<date>2017/06/28</date>
+			<kb>KB3191932</kb>
+			<date>2017/05/28</date>
 			<size>95.45 MB</size>
-			<category>General</category>
-			<name>outlook2016-kb3213654-fullfile-x64-glb.exe</name>
+			<category>Security</category>
+			<name>outlook2016-kb3191932-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>http://download.microsoft.com/download/F/6/6/F664DD18-E9BB-460F-81BA-A9AE1213FBA3/outlook2016-kb3213654-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/7/F/67F952E3-A3F1-45D9-9E8B-48E2FA466796/outlook2016-kb3191932-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>

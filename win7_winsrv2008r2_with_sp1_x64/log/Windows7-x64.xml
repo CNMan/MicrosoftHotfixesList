@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/06/27" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/07/11" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -920,15 +920,6 @@
 			<url>http://download.microsoft.com/download/7/D/1/7D169418-3EE1-4B98-826A-CBA965ADA071/Windows6.1-KB3107998-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3121255</kb>
-			<date>2016/01/11</date>
-			<size>950 KB</size>
-			<category>Extra/WithoutKB3125574/#General</category>
-			<name>Windows6.1-KB3121255-x64.msu</name>
-			<description>Ntfs.sys update to solve "0x00000024" Stop error in FsRtlNotifyFilterReportChange and VSS backup failure</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows6.1-kb3121255-x64_3394134a5ffd4a1409ef5ad4bb0f3eb378029293.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3133977</kb>
 			<date>2016/02/05</date>
 			<size>1.21 MB</size>
@@ -1629,24 +1620,6 @@
 			<name>Windows6.1-KB2645594-x64.msu</name>
 			<description>An update is available for computers that have an AMD FX, AMD Opteron 4200, AMD Opteron 6200, or AMD Bulldozer series processor installed and that are running Windows 7 or Windows Server 2008 R2</description>
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix387870/7600/free/441065_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2645610</kb>
-			<date>2011/11/29</date>
-			<size>1.41 MB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2645610-v2-x64.msu</name>
-			<description>"The system cannot find the file specified" error message on a Windows Server 2008 R2-based file server if the remote index server has a catalog that has a credential-enabled UNC path</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix386429/7600/free/440902_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2647878</kb>
-			<date>2011/11/24</date>
-			<size>245 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2647878-x64.msu</name>
-			<description>An application that uses the filter driver cannot intercept any incoming or outgoing packets by using a Bluetooth device that supports the tethering feature in Windows 7</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix386401/7600/free/441208_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2648039</kb>
@@ -2837,15 +2810,6 @@
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490647/7600/free/471756_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2924171</kb>
-			<date>2014/01/08</date>
-			<size>1.58 MB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2924171-x64.msu</name>
-			<description>Resource Monitor (Perfmon /res) crashes in Windows 7 and in Windows Server 2008 R2</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix481105/7600/free/471809_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2927901</kb>
 			<date>2014/01/30</date>
 			<size>435 KB</size>
@@ -3141,15 +3105,6 @@
 			<name>Windows6.1-KB3004145-x64.msu</name>
 			<description>SSRS freezes when you access SSRS reports in Windows 7</description>
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix523671/7600/free/478758_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB3004383</kb>
-			<date>2014/09/29</date>
-			<size>8.50 MB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB3004383-x64.msu</name>
-			<description>Outlook clients are disconnected when the RPC Client Access service spikes to 100 percent CPU usage</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix523720/7600/free/478887_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3005770</kb>
@@ -3987,15 +3942,6 @@
 			<name>Windows6.1-KB3037574-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: April 14, 2015</description>
 			<url>http://download.microsoft.com/download/4/C/1/4C15B4E7-ECF4-43D1-BD09-DE16C3DA2EF6/Windows6.1-KB3037574-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3042553</kb>
-			<date>2015/02/25</date>
-			<size>554 KB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB3042553-x64.msu</name>
-			<description>Vulnerability in HTTP.sys could allow remote code execution: April 14, 2015</description>
-			<url>http://download.microsoft.com/download/B/B/4/BB460DAB-93FA-4E09-804D-95DBB44787AD/Windows6.1-KB3042553-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3045685</kb>
@@ -4970,15 +4916,6 @@
 			<url>http://download.microsoft.com/download/E/1/5/E151C8BB-048D-452D-84D2-7DBB6018D1D0/Windows6.1-KB2823180-x64.msu</url>
 		</update>
 		<update extract="1">
-			<kb>KB2830615</kb>
-			<date>2013/05/31</date>
-			<size>2.16 MB</size>
-			<category>Extra/WMF3.0/Updates</category>
-			<name>Windows6.1-KB2830615-x64.msu</name>
-			<description>MyInvocation.MyCommand object is set to null when you run the script by using PowerShell 3.0</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix464784/7600/free/464209_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2842230</kb>
 			<date>2013/05/25</date>
 			<size>2.30 MB</size>
@@ -5393,13 +5330,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4014596-x64_0268b1dede5abd2c1d3c8bd9fb49d799bae68a1e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022168</kb>
-			<date>2017/06/20</date>
-			<size>181.64 MB</size>
+			<kb>KB4025341</kb>
+			<date>2017/07/06</date>
+			<size>191.63 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4022168-x64.msu</name>
+			<name>Windows6.1-KB4025341-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows6.1-kb4022168-x64_1d69279af440d9fa7faa87df1eda7c55fc31f260.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/07/windows6.1-kb4025341-x64_e2518cc83b86902d20302f114a7ebe4249efbe9c.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

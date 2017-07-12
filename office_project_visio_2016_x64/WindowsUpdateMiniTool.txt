@@ -103,9 +103,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/03/msmi
 [ Microsoft Office 2016 安全更新 (KB3178667) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/msodll20-x-none_777d2290a9cfc9ea735b0499bf582d179653d583.cab
 
-[ Microsoft Excel 2016 安全更新 (KB3178673) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/02/excel-x-none_78158741b01555ceb7ac028c7157a4515e85cf3b.cab
-
 [ Microsoft Office 2016 更新 (KB3191859) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/excelpp-x-none_4a8650922c355be9f4a6c4b304bf6cb6f3188e5d.cab
 
@@ -115,14 +112,8 @@ http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/04/char
 [ Microsoft Office 2016 更新 (KB3191868) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/ppaddin-x-none_d4a4c77390afdc527f2278104cbc35d1b19cfc21.cab
 
-[ Microsoft Office 2016 安全更新 (KB3191882) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/msodll30-x-none_372b8c2a8b9c06e744e60811733b5cf9ddfd6c51.cab
-
 [ Microsoft Office 2016 更新 (KB3191920) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/oart-x-none_d85260aa3ea3255699ff7bd550da72902831df0a.cab
-
-[ Microsoft Excel 2016 更新 (KB3191922) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/05/excel-x-none_fa3a86dec04415beb5a70c7b3bf37fc148b830bc.cab
 
 [ Microsoft Access 2016 更新 (KB3191926) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/access-x-none_ea4369c7253adb880df40f8097d5ce371799ee92.cab
@@ -160,8 +151,14 @@ http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/visi
 [ Microsoft Project 2016 更新 (KB3203476) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/project-x-none_bc9953a09828eaa1e640891fa4a07d3dc59f2c7b.cab
 
+[ Microsoft Excel 2016 安全更新 (KB3203477) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/excel-x-none_4c444e7485afc3b28d1dd3366ee7068af35e3f1f.cab
+
 [ Microsoft PowerPoint 2016 更新 (KB3203481) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/powerpoint-x-none_137428397769dcfe15e13a151040ed43be4a40f6.cab
+
+[ Microsoft Office 2016 安全更新 (KB3213545) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/msodll30-x-none_e972ac238125fa299144feb668e42ca934232577.cab
 
 [ Microsoft Office 2016 更新 (KB3213547) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/msodll99l-x-none_1fc230fe7be4f77983279a8b5a91f84ad5f8953f.cab
