@@ -22,11 +22,11 @@ https://download.microsoft.com/download/9/C/D/9CD480DC-0301-41B0-AAAB-FE9AC1F602
 
 https://download.microsoft.com/download/9/C/D/9CD480DC-0301-41B0-AAAB-FE9AC1F60237/VSU4/vcredist_x86.exe
 
-Visual Studio 2013 (VC++ 12.0) 12.0.40660.0
+Visual Studio 2013 (VC++ 12.0) 12.0.40664.0
 
-https://download.microsoft.com/download/1/8/0/180FA2CE-506D-4032-AAD1-9D7636F85179/vcredist_x64.exe
+https://download.visualstudio.microsoft.com/download/pr/10912041/cee5d6bca2ddbcd039da727bf4acb48a/vcredist_x64.exe
 
-https://download.microsoft.com/download/1/8/0/180FA2CE-506D-4032-AAD1-9D7636F85179/vcredist_x86.exe
+https://download.visualstudio.microsoft.com/download/pr/10912113/5da66ddebb0ad32ebd4b922fd82e8e25/vcredist_x86.exe
 
 Visual Studio 2015/2017 (VC++ 14.0) 14.11.25325.0
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/07/11" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/07/18" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -9,24 +9,6 @@
 			<name>Do.Not.Integrate-Info.txt</name>
 			<description>Info about online-only updates</description>
 			<url>https://dl.dropboxusercontent.com/s/mhm4lyhrpjzzaix/Do.Not.Integrate-Info.txt</url>
-		</update>
-		<update extract="0">
-			<kb>KB4025336</kb>
-			<date>2017/07/07</date>
-			<size>256.25 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4025336-x64.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/windows8.1-kb4025336-x64_b13c98376d2b720889d7cd0aaed50f772100bc49.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4025376</kb>
-			<date>2017/06/29</date>
-			<size>20.70 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4025376-x64.msu</name>
-			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/07/windows8.1-kb4025376-x64_6e15e5bf0cbcf194db912150925f81660ce3498c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -407,6 +389,15 @@
 			<url>http://download.microsoft.com/download/1/8/E/18EA4843-C596-4542-9236-DE46F780806E/Windows8.1-KB2693643-x64.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB3159706</kb>
+			<date>2017/06/27</date>
+			<size>1.00 KB</size>
+			<category>Extra/RSAT/Updates</category>
+			<name>MonthlyQualityRollup-RSAT.txt</name>
+			<description>Notice about RSAT contents in Monthly Quality Rollup</description>
+			<url>https://dl.dropboxusercontent.com/s/uqa2s37ezzdi0ps/MonthlyQualityRollup-RSAT.txt</url>
+		</update>
+		<update extract="0">
 			<kb>KB2938066</kb>
 			<date>2014/06/04</date>
 			<size>11.12 MB</size>
@@ -515,15 +506,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146601-x64_a833dda477a9c193aafc4d59d56fe77d046aef03.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3159706</kb>
-			<date>2017/06/27</date>
-			<size>1.00 KB</size>
-			<category>Extra/RSAT/Updates</category>
-			<name>MonthlyQualityRollup-RSAT.txt</name>
-			<description>Notice about RSAT contents in Monthly Quality Rollup</description>
-			<url>https://dl.dropboxusercontent.com/s/uqa2s37ezzdi0ps/MonthlyQualityRollup-RSAT.txt</url>
-		</update>
-		<update extract="0">
 			<kb>KB3186497</kb>
 			<date>2017/06/13</date>
 			<size>9.00 KB</size>
@@ -531,15 +513,6 @@
 			<name>NET47-LangPacks.txt</name>
 			<description>Microsoft .NET Framework 4.7 Languages Packs</description>
 			<url>https://dl.dropboxusercontent.com/s/u4sqgj0s4jbeof1/NET47-LangPacks.txt</url>
-		</update>
-		<update extract="0">
-			<kb>KB4021918</kb>
-			<date>2017/05/06</date>
-			<size>756 KB</size>
-			<category>Hotfix</category>
-			<name>windows6.2-hypervintegrationservices-x64.cab</name>
-			<description>June 2017 Hyper-V guest integration components</description>
-			<url>https://fv3.failiem.lv/down.php?i=ct973vty&amp;n=windows6.2-hypervintegrationservices-x64.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2899189</kb>
@@ -1450,6 +1423,15 @@
 			<description>Error opening Help in Windows-based programs: "Feature not included" or "Help not supported"</description>
 			<url>http://download.microsoft.com/download/A/5/6/A5651A53-2487-43C6-835A-744EB9C72579/Windows8.1-KB917607-x64.msu</url>
 		</update>
+		<update extract="0">
+			<kb>KB4021918</kb>
+			<date>2017/05/06</date>
+			<size>756 KB</size>
+			<category>Hotfix</category>
+			<name>windows6.2-hypervintegrationservices-x64.cab</name>
+			<description>June 2017 Hyper-V guest integration components</description>
+			<url>https://fv3.failiem.lv/down.php?i=ct973vty&amp;n=windows6.2-hypervintegrationservices-x64.cab</url>
+		</update>
 		<update extract="1">
 			<kb>KB2908802</kb>
 			<date>2015/01/28</date>
@@ -1973,15 +1955,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/10/windows8.1-kb3091402-v4-x64_e25cbb7323cd7ad93ad316e5f68c6eb5de312525.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3093271</kb>
-			<date>2015/12/30</date>
-			<size>516 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3093271-x64.msu</name>
-			<description>DASH video player doesn't work in a browser when running IIS Application Request Routing (ARR)</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2016/02/windows8.1-kb3093271-x64_da43956d2b652c9a2ce160dbca90b32f019d19ea.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3095711</kb>
 			<date>2015/09/11</date>
 			<size>242 KB</size>
@@ -1989,15 +1962,6 @@
 			<name>Windows8.1-KB3095711-x64.msu</name>
 			<description>Update to support LTO-7 tape drives in Windows </description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/10/windows8.1-kb3095711-x64_f421ca8ee6a28aa4c173537c948c5e013dc8ded4.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3100474</kb>
-			<date>2015/10/09</date>
-			<size>1.79 MB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3100474-x64.msu</name>
-			<description>Can't connect to wireless network when you resume the computer from hibernate mode</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/11/windows8.1-kb3100474-x64_e423cf0848f53a033e5a6e5770e1ff86c883e47f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3101694</kb>
@@ -2540,13 +2504,31 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4014604</kb>
-			<date>2017/04/27</date>
-			<size>51.01 MB</size>
+			<kb>KB4024847</kb>
+			<date>2017/06/15</date>
+			<size>51.13 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4014604-x64.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.6.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows8.1-kb4014604-x64_2bc637b3798989a14a9e7e3cafce2a32928e774f.msu</url>
+			<name>Windows8.1-KB4024847-x64.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/07/windows8.1-kb4024847-x64_1d3419df71a2806a9a74de99cd264b5c20622426.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4025335</kb>
+			<date>2017/07/07</date>
+			<size>262.28 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4025335-x64.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/07/windows8.1-kb4025335-x64_ab7c1aac80c6e99480178b77fa0d7bd3f796a611.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4025376</kb>
+			<date>2017/06/29</date>
+			<size>20.70 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4025376-x64.msu</name>
+			<description>Update for Vulnerabilities in Adobe Flash Player</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/07/windows8.1-kb4025376-x64_6e15e5bf0cbcf194db912150925f81660ce3498c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

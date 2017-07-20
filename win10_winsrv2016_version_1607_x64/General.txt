@@ -1,5 +1,5 @@
 KB3186497	http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/windows10.0-kb3186570-x64_f07b3b79f0ecd5b465de1046e93a87fa5eb6906c.msu
 KB3186568	http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/windows10.0-kb3186568-x64_086bd10d344a5bb614725135a1589cd784d1e768.msu
 KB4023834	http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/06/windows10.0-kb4023834-x64_1f2af418b6f9dafb593f5ce89b4e0783057102b2.msu
-KB4025339	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/windows10.0-kb4025339-x64_463d31d0ef8c18800ad5e5cc09927b263a99c352.msu
+KB4025334	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/07/windows10.0-kb4025334-x64_92232fdb18a81d8c6d6c413188df2fd094a0eb29.msu
 KB4025376	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/windows10.0-kb4025376-x64_a8409438b7698d74f5d7348c37f99b08fa43048b.msu

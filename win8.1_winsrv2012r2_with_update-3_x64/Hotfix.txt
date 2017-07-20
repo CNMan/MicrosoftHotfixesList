@@ -74,11 +74,9 @@ KB3091402-v4	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp
 KB3092002-v3	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3353576/9600/free/487002_intl_x64_zip.exe
 KB3092005	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3334759/9600/free/487088_intl_x64_zip.exe
 KB3092688-v3	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3352387/9600/free/487255_intl_x64_zip.exe
-KB3093271	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3549442/9600/free/489252_intl_x64_zip.exe
 KB3095113	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix4511610/9600/free/487296_intl_x64_zip.exe
 KB3095711	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3349806/9600/free/487251_intl_x64_zip.exe
 KB3096438-v2	http://hotfixv4.microsoft.com/.NET Framework 3.5, Windows 8.1 RTM, Windows Server 2012 R2 RTM/nosp/DevDiv1087089/50727.8669/free/488093_intl_x64_zip.exe
-KB3100474	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3938766/9600/free/487732_intl_x64_zip.exe
 KB3101694	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix4579847/9600/free/487768_intl_x64_zip.exe
 KB3102242	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix4682575/9600/free/487769_intl_x64_zip.exe
 KB3102770	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix4644470/9600/free/487746_intl_x64_zip.exe

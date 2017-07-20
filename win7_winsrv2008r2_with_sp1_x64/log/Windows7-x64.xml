@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/07/11" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/07/18" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -117,6 +117,33 @@
 			<name>Windows6.1-KB947821-v34-x64.msu</name>
 			<description>Use System Update Readiness Tool to fix Windows Update or Packages corruption errors</description>
 			<url>http://download.microsoft.com/download/E/8/D/E8DAA970-1036-447F-B5EA-716D4BA70EC5/Windows6.1-KB947821-v34-x64.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB3186499</kb>
+			<date>2017/07/18</date>
+			<size>5.00 KB</size>
+			<category>Additional/NET47</category>
+			<name>NDP47-Info-LangPacks.txt</name>
+			<description>Microsoft .NET Framework 4.7 Info and Language Packs</description>
+			<url>https://dl.dropboxusercontent.com/s/h0mar3w0u98w138/NDP47-Info-LangPacks.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB3186497</kb>
+			<date>2017/04/22</date>
+			<size>47.52 MB</size>
+			<category>Additional/NET47</category>
+			<name>NDP47-KB3186495-x86-x64-ENU.exe</name>
+			<description>Microsoft .NET Framework 4.7</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/ndp47-kb3186495-x86-x64-enu_e8626e9c79e498df13a551f56f8f617700d61acd.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4024848</kb>
+			<date>2017/06/16</date>
+			<size>40.01 MB</size>
+			<category>Additional/NET47</category>
+			<name>NDP47-KB4024848-x64.exe</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/07/ndp46-kb4024848-x64_09778fdd10647190a78234122592d07df0a0847b.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -5113,15 +5140,6 @@
 			<description>Error opening Help in Windows-based programs: "Feature not included" or "Help not supported"</description>
 			<url>http://download.microsoft.com/download/9/A/8/9A8FCFAA-78A0-49F5-8C8E-4EAE185F515C/Windows6.1-KB917607-x64.msu</url>
 		</update>
-		<update extract="0">
-			<kb>KB4021918</kb>
-			<date>2017/05/06</date>
-			<size>688 KB</size>
-			<category>Hotfix</category>
-			<name>windows6.x-hypervintegrationservices-x64.cab</name>
-			<description>June 2017 Hyper-V guest integration components</description>
-			<url>https://fv3.failiem.lv/down.php?i=ycssm33c&amp;n=windows6.x-hypervintegrationservices-x64.cab</url>
-		</update>
 		<update extract="1">
 			<kb>KB2695321</kb>
 			<date>2012/09/17</date>
@@ -5211,6 +5229,15 @@
 			<name>Windows6.1-KB2990184-v2-x64.msu</name>
 			<description>A FIPS-compliant recovery password cannot be saved to AD DS for BitLocker</description>
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498634/7600/free/483151_intl_x64_zip.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4021918</kb>
+			<date>2017/05/06</date>
+			<size>688 KB</size>
+			<category>Hotfix</category>
+			<name>windows6.x-hypervintegrationservices-x64.cab</name>
+			<description>June 2017 Hyper-V guest integration components</description>
+			<url>https://fv3.failiem.lv/down.php?i=ycssm33c&amp;n=windows6.x-hypervintegrationservices-x64.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080149</kb>
