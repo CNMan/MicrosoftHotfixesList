@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/07/18" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/08/18" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -209,13 +209,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windows8.1-kb4014505-x64_a1e0e10ad5bf51a1e510d290828502d7c08299f2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4014598</kb>
-			<date>2017/04/25</date>
+			<kb>KB4033997</kb>
+			<date>2017/07/12</date>
 			<size>20.09 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4014598-x64.msu</name>
+			<name>Windows8.1-KB4033997-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows8.1-kb4014598-x64_2a7aed1608a68a360602aca9f4eddab2703ec04d.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windows8.1-kb4033997-x64_64fa4957c7badd60d47a02c7b3a2a5ccb6957e51.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -1226,15 +1226,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134815-x64_d2a194230bd97a046fcc69d418a5f5ee804bd812.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3137061</kb>
-			<date>2016/01/20</date>
-			<size>243 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3137061-x64.msu</name>
-			<description>Windows Azure VMs don't recover from a network outage and data corruption issues occur</description>
-			<url>http://download.microsoft.com/download/5/8/9/589BECE2-6D25-4099-BA02-AF392571C638/Windows8.1-KB3137061-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3137728</kb>
 			<date>2016/02/05</date>
 			<size>1.26 MB</size>
@@ -1413,6 +1404,15 @@
 			<name>Windows8.1-KB3186539-x64.msu</name>
 			<description>Microsoft .NET Framework 4.7</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/windows8.1-kb3186539-x64_b3e84d9ccb08528df0b5d3b28772a9ccfcfec8a0.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4038922</kb>
+			<date>2017/08/10</date>
+			<size>24.31 MB</size>
+			<category>General</category>
+			<name>Windows8.1-KB4038922-x64.msu</name>
+			<description>Update for .NET Framework 4.7</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/08/windows8.1-kb4038922-x64_39ed1d72bd075673603e3e50625e599ddf32f253.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB917607</kb>
@@ -2225,15 +2225,6 @@
 			<url>http://download.microsoft.com/download/F/9/6/F9679A59-BFE8-46AA-A490-40A70F5E25C5/Windows8.1-KB3082089-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3083992</kb>
-			<date>2015/08/03</date>
-			<size>388 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3083992-x64.msu</name>
-			<description>Security update to improve AppLocker certificate handling: September 8, 2015</description>
-			<url>http://download.microsoft.com/download/9/2/5/925DCD1E-998B-48CB-8A22-C3E0084A2546/Windows8.1-KB3083992-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3084135</kb>
 			<date>2015/08/01</date>
 			<size>974 KB</size>
@@ -2504,31 +2495,31 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4024847</kb>
-			<date>2017/06/15</date>
-			<size>51.13 MB</size>
+			<kb>KB4033989</kb>
+			<date>2017/07/12</date>
+			<size>53.45 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4024847-x64.msu</name>
+			<name>Windows8.1-KB4033989-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/07/windows8.1-kb4024847-x64_1d3419df71a2806a9a74de99cd264b5c20622426.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windows8.1-kb4033989-x64_6ae9938abb18dcbcc81ada4676ff43b219d11161.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4025335</kb>
-			<date>2017/07/07</date>
-			<size>262.28 MB</size>
+			<kb>KB4034662</kb>
+			<date>2017/07/28</date>
+			<size>20.71 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4025335-x64.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/07/windows8.1-kb4025335-x64_ab7c1aac80c6e99480178b77fa0d7bd3f796a611.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4025376</kb>
-			<date>2017/06/29</date>
-			<size>20.70 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4025376-x64.msu</name>
+			<name>Windows8.1-KB4034662-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/07/windows8.1-kb4025376-x64_6e15e5bf0cbcf194db912150925f81660ce3498c.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/08/windows8.1-kb4034662-x64_caca629e7162598e129cd3155a9f0d5a042663e0.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4034663</kb>
+			<date>2017/08/02</date>
+			<size>270.99 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4034663-x64.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windows8.1-kb4034663-x64_3548ad5d06fd186700030696947ace2e5acb60ee.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

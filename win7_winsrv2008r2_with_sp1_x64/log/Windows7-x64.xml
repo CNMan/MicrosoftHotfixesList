@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/07/18" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/08/18" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -12,12 +12,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB2841134</kb>
-			<date>2016/05/21</date>
+			<date>2017/08/22</date>
 			<size>1.00 KB</size>
 			<category>Additional/_IE11</category>
-			<name>IE11-Prerequisites.txt</name>
+			<name>IE11_Prerequisites.txt</name>
 			<description>Prerequisite updates for Internet Explorer 11</description>
-			<url>https://dl.dropboxusercontent.com/s/sv8uttiww04wxzd/IE11-Prerequisites.txt</url>
+			<url>https://dl.dropboxusercontent.com/s/97opli8xmnvokp7/IE11_Prerequisites.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB2841134</kb>
@@ -137,13 +137,31 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/ndp47-kb3186495-x86-x64-enu_e8626e9c79e498df13a551f56f8f617700d61acd.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4024848</kb>
-			<date>2017/06/16</date>
-			<size>40.01 MB</size>
+			<kb>KB4033990</kb>
+			<date>2017/07/13</date>
+			<size>40.13 MB</size>
 			<category>Additional/NET47</category>
-			<name>NDP47-KB4024848-x64.exe</name>
+			<name>NDP47-KB4033990-x64.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/07/ndp46-kb4024848-x64_09778fdd10647190a78234122592d07df0a0847b.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/08/ndp46-kb4033990-x64_e980db5ba27756ad35d7d6d2058de62a254113d7.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4038923</kb>
+			<date>2017/08/10</date>
+			<size>16.21 MB</size>
+			<category>Additional/NET47</category>
+			<name>NDP47-KB4038923-x64.exe</name>
+			<description>Update for .NET Framework 4.7</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/08/ndp46-kb4038923-x64_c06711c830c3b984b20e348d6777872ddd395101.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4019990</kb>
+			<date>2017/04/28</date>
+			<size>2.74 MB</size>
+			<category>Additional/NET47</category>
+			<name>Windows6.1-KB4019990-x64.msu</name>
+			<description>Update for the D3DCompiler_47.dll component</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4019990-x64_35cc310e81ef23439ba0ec1f11d7b71dd34adfe5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -794,15 +812,6 @@
 			<url>http://download.microsoft.com/download/C/7/E/C7E1F4E8-DA23-400A-AD80-E3D9637006AD/Windows6.1-KB2918077-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB2929733</kb>
-			<date>2014/01/28</date>
-			<size>643 KB</size>
-			<category>Extra/WithoutKB3125574/#General</category>
-			<name>Windows6.1-KB2929733-x64.msu</name>
-			<description>The first stage of the WER protocol is not SSL encrypted in Windows</description>
-			<url>http://download.microsoft.com/download/E/A/3/EA3D2F31-38E0-473E-BF09-6DFDF4BE1CD0/Windows6.1-KB2929733-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB2966583</kb>
 			<date>2014/06/02</date>
 			<size>2.60 MB</size>
@@ -1352,15 +1361,6 @@
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369447/7600/free/433356_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2555392</kb>
-			<date>2011/05/23</date>
-			<size>745 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2555392-x64.msu</name>
-			<description>Garbled printouts after the first page if subsetted fonts are used in Windows 7, in Windows Vista, in Windows Server 2008 R2 or in Windows Server 2008</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369628/7600/free/433335_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2555948</kb>
 			<date>2011/05/23</date>
 			<size>750 KB</size>
@@ -1386,15 +1386,6 @@
 			<name>Windows6.1-KB2575928-x64.msu</name>
 			<description>FIX: The caption is shown for a BorderStyle-0 style frame control that is put in a Visual Basic 6-based ActiveX control when you load the control in Internet Explorer 9</description>
 			<url>http://hotfixv4.microsoft.com/Visual%20Basic%206.0/sp6/DevDiv953621/9832/free/440603_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2577968</kb>
-			<date>2011/07/06</date>
-			<size>340 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2577968-x64.msu</name>
-			<description>"0x0000000a" Stop error occurs on a computer that has a mirrored volume and that is running Windows Server 2008 R2 or Windows 7</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378123/7600/free/434965_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2578214</kb>
@@ -5348,22 +5339,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windows6.1-kb4014504-x64_8ff7cfc3a121bf705c52c19403b5626148eafffd.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4014596</kb>
-			<date>2017/04/25</date>
+			<kb>KB4033996</kb>
+			<date>2017/07/12</date>
 			<size>18.97 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4014596-x64.msu</name>
+			<name>Windows6.1-KB4033996-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4014596-x64_0268b1dede5abd2c1d3c8bd9fb49d799bae68a1e.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windows6.1-kb4033996-x64_782819e63d0ceb6a49f950ccc6454cf64bebf355.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4025341</kb>
-			<date>2017/07/06</date>
-			<size>191.63 MB</size>
+			<kb>KB4034670</kb>
+			<date>2017/08/02</date>
+			<size>194.50 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4025341-x64.msu</name>
+			<name>Windows6.1-KB4034670-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/07/windows6.1-kb4025341-x64_e2518cc83b86902d20302f114a7ebe4249efbe9c.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windows6.1-kb4034670-x64_6898778ee1eafee3ef1b8d3899fc3d08ac98d87c.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
