@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/08/18" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/09/12" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -137,22 +137,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/ndp47-kb3186495-x86-x64-enu_e8626e9c79e498df13a551f56f8f617700d61acd.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4033990</kb>
-			<date>2017/07/13</date>
+			<kb>KB4040973</kb>
+			<date>2017/08/31</date>
 			<size>40.13 MB</size>
 			<category>Additional/NET47</category>
-			<name>NDP47-KB4033990-x64.exe</name>
+			<name>NDP47-KB4040973-x64.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/08/ndp46-kb4033990-x64_e980db5ba27756ad35d7d6d2058de62a254113d7.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4038923</kb>
-			<date>2017/08/10</date>
-			<size>16.21 MB</size>
-			<category>Additional/NET47</category>
-			<name>NDP47-KB4038923-x64.exe</name>
-			<description>Update for .NET Framework 4.7</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/08/ndp46-kb4038923-x64_c06711c830c3b984b20e348d6777872ddd395101.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/ndp46-kb4040973-x64_5da041181051d83e3aad0950ef4b5c7db58520f7.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4019990</kb>
@@ -747,15 +738,6 @@
 			<name>Windows6.1-KB2852386-v2-x64.msu</name>
 			<description>Disk Cleanup Wizard addon lets users delete outdated Windows updates</description>
 			<url>http://download.microsoft.com/download/2/A/3/2A3FD850-E45F-47D4-AFF8-8048333CBA7D/Windows6.1-KB2852386-v2-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB2868116</kb>
-			<date>2013/07/26</date>
-			<size>7.16 MB</size>
-			<category>Extra/WithoutKB3125574/#General</category>
-			<name>Windows6.1-KB2868116-x64.msu</name>
-			<description>Updates are available that improve the content in warning messages that you receive when you run local executable files in Windows</description>
-			<url>http://download.microsoft.com/download/6/6/7/667A4929-C963-4E6A-8C8C-3FCE3B807ADD/Windows6.1-KB2868116-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2882822</kb>
@@ -2522,15 +2504,6 @@
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix452304/7600/free/463504_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2847346</kb>
-			<date>2015/01/30</date>
-			<size>258 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2847346-v2-x64.msu</name>
-			<description>Svchost.exe running NSI service leaks memory and non-paged pool memory leak Tag NSpc</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix527923/7600/free/482003_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2847625</kb>
 			<date>2013/05/17</date>
 			<size>311 KB</size>
@@ -3816,15 +3789,6 @@
 			<name>Windows6.1-KB2977292-x64.msu</name>
 			<description>Security update for Microsoft EAP implementation that enables the use of TLS: October 14, 2014</description>
 			<url>http://download.microsoft.com/download/C/3/E/C3E70E3A-E9F9-4BC2-8452-FAC21EDA04B4/Windows6.1-KB2977292-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB2978120</kb>
-			<date>2014/09/09</date>
-			<size>503 KB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB2978120-x64.msu</name>
-			<description>Security update for the .NET Framework 3.5.1: November 11, 2014</description>
-			<url>http://download.microsoft.com/download/1/4/3/14305865-537E-4930-AC55-1173F9584DDF/Windows6.1-KB2978120-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2978742</kb>
@@ -5321,40 +5285,22 @@
 			<url>http://download.microsoft.com/download/9/E/9/9E975F94-E40B-4CB8-8E8E-4661D7F75E3F/Windows6.1-KB3161958-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3170455</kb>
-			<date>2016/06/25</date>
-			<size>1.56 MB</size>
+			<kb>KB4038777</kb>
+			<date>2017/08/24</date>
+			<size>198.27 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB3170455-x64.msu</name>
-			<description>Security update for Windows Print Spooler Components: July 12, 2016</description>
-			<url>http://download.microsoft.com/download/4/4/7/4471D3DE-6491-42EC-9F36-FD88286171A2/Windows6.1-KB3170455-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4014504</kb>
-			<date>2017/03/30</date>
-			<size>17.11 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4014504-x64.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/04/windows6.1-kb4014504-x64_8ff7cfc3a121bf705c52c19403b5626148eafffd.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4033996</kb>
-			<date>2017/07/12</date>
-			<size>18.97 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4033996-x64.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windows6.1-kb4033996-x64_782819e63d0ceb6a49f950ccc6454cf64bebf355.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4034670</kb>
-			<date>2017/08/02</date>
-			<size>194.50 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4034670-x64.msu</name>
+			<name>Windows6.1-KB4038777-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windows6.1-kb4034670-x64_6898778ee1eafee3ef1b8d3899fc3d08ac98d87c.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/08/windows6.1-kb4038777-x64_193d527f3487640fc18f1f596c0434e64cd20c51.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4040980</kb>
+			<date>2017/08/31</date>
+			<size>19.06 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4040980-x64.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/windows6.1-kb4040980-x64_83282fb5210091802984ead0d4175879056d602c.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
