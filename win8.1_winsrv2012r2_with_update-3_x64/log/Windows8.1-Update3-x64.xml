@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/09/12" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/09/19" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -99,6 +99,15 @@
 			<name>Windows8.1-KB2973114-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: September 9, 2014</description>
 			<url>http://download.microsoft.com/download/C/0/C/C0CA60C0-462A-48D8-9B51-BEA880541C4F/Windows8.1-KB2973114-x64.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB2978122</kb>
+			<date>2014/09/10</date>
+			<size>482 KB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB2978122-x64.msu</name>
+			<description>Security update for the .NET Framework 3.5: November 11, 2014</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/10/windows8.1-kb2978122-x64_1fc1a71427654d17be743457e181c838d0bc125a.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB3000059</kb>
@@ -479,15 +488,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134812-x64_d5557c7941726a6a21ea067146def7838d00c554.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3146601</kb>
-			<date>2016/03/11</date>
-			<size>1.15 MB</size>
-			<category>Extra/RSAT/Updates</category>
-			<name>Windows8.1-KB3146601-x64.msu</name>
-			<description>GPO import fails and rollback results in the target policy being deleted on a domain controller</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146601-x64_a833dda477a9c193aafc4d59d56fe77d046aef03.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3186497</kb>
 			<date>2017/06/13</date>
 			<size>9.00 KB</size>
@@ -729,15 +729,6 @@
 			<name>Windows8.1-KB3037924-v2-x64.msu</name>
 			<description>You cannot do System Image Backup to Blu-ray media in Windows</description>
 			<url>http://download.microsoft.com/download/3/9/7/3975B381-B465-434F-B921-BA9234C0341E/Windows8.1-KB3037924-v2-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3041857</kb>
-			<date>2015/04/13</date>
-			<size>398 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3041857-x64.msu</name>
-			<description>Code 0x80070057 The parameter is incorrect error when you try to display a user's "effective access" to a file</description>
-			<url>http://download.microsoft.com/download/5/2/A/52A36867-B66F-440F-8117-8B37A2DA1641/Windows8.1-KB3041857-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3044673</kb>
@@ -2459,13 +2450,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4038792</kb>
+			<kb>KB4038774</kb>
 			<date>2017/08/30</date>
-			<size>277.78 MB</size>
+			<size>282.66 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4038792-x64.msu</name>
+			<name>Windows8.1-KB4038774-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/08/windows8.1-kb4038792-x64_e9ea069b7ce0fae45ef3e1d1679f17ea61fe0ee5.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/09/windows8.1-kb4038774-x64_58a66bff6ad7d947bb2e4835f8177bd51e18228a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4038806</kb>
