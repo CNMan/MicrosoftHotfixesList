@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/09/19" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/10/17" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -202,7 +202,7 @@
 		<update extract="0">
 			<kb>KB4040981</kb>
 			<date>2017/09/01</date>
-			<size>20.75 MB</size>
+			<size>19.27 MB</size>
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB4040981-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5</description>
@@ -875,15 +875,6 @@
 			<url>http://download.microsoft.com/download/7/F/D/7FD40B2C-C00D-44B1-821F-457B54F9EC09/Windows8.1-KB3056347-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3059316</kb>
-			<date>2015/04/24</date>
-			<size>2.53 MB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3059316-x64.msu</name>
-			<description>You cannot move the scrollbar on Windows by dragging the mouse</description>
-			<url>http://download.microsoft.com/download/A/F/1/AF162EF6-D897-4779-91D2-9E6BDC36F23D/Windows8.1-KB3059316-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3060793</kb>
 			<date>2015/04/25</date>
 			<size>243 KB</size>
@@ -1179,15 +1170,6 @@
 			<name>Windows8.1-KB3133690-x64.msu</name>
 			<description>Update to add Discrete Device Assignment support for Azure that runs on Windows guest VMs</description>
 			<url>http://download.microsoft.com/download/2/7/0/270AEB24-F2DD-429F-A599-5FCBB17BEEFF/Windows8.1-KB3133690-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3133924</kb>
-			<date>2016/01/08</date>
-			<size>608 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3133924-x64.msu</name>
-			<description>Code 10 Device Cannot Start error for Enhanced Host Controller Interface (EHCI) USB Controller devices in Device Manager</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3133924-x64_1e6a30a7968729cace75273ad77b4694769aa376.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3134815</kb>
@@ -1919,15 +1901,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/10/windows8.1-kb3091402-v4-x64_e25cbb7323cd7ad93ad316e5f68c6eb5de312525.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3095711</kb>
-			<date>2015/09/11</date>
-			<size>242 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3095711-x64.msu</name>
-			<description>Update to support LTO-7 tape drives in Windows </description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/10/windows8.1-kb3095711-x64_f421ca8ee6a28aa4c173537c948c5e013dc8ded4.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3101694</kb>
 			<date>2015/10/09</date>
 			<size>312 KB</size>
@@ -2243,15 +2216,6 @@
 			<url>http://download.microsoft.com/download/2/8/F/28FB8042-A8D3-4B4A-9826-BEC8603B3396/Windows8.1-KB3110329-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3121918</kb>
-			<date>2015/12/08</date>
-			<size>675 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3121918-x64.msu</name>
-			<description>Security update for Advanced Windows 32 Base API: January 12, 2016</description>
-			<url>http://download.microsoft.com/download/0/D/B/0DBE4071-D910-48D6-B3C5-A187BA704268/Windows8.1-KB3121918-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3126434</kb>
 			<date>2015/12/30</date>
 			<size>658 KB</size>
@@ -2450,31 +2414,31 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4038774</kb>
-			<date>2017/08/30</date>
-			<size>282.66 MB</size>
+			<kb>KB4041685</kb>
+			<date>2017/10/06</date>
+			<size>292.68 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4038774-x64.msu</name>
+			<name>Windows8.1-KB4041685-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/09/windows8.1-kb4038774-x64_58a66bff6ad7d947bb2e4835f8177bd51e18228a.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/windows8.1-kb4041685-x64_6899909a956b59afe33f4ba9ce28fd6f34a91f0b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4038806</kb>
-			<date>2017/09/01</date>
-			<size>19.27 MB</size>
+			<kb>KB4041777</kb>
+			<date>2017/10/02</date>
+			<size>53.43 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4038806-x64.msu</name>
-			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/09/windows8.1-kb4038806-x64_4d480485c8fb81f2bc6de583ff42c19f4c772a6a.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4040972</kb>
-			<date>2017/08/30</date>
-			<size>52.98 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4040972-x64.msu</name>
+			<name>Windows8.1-KB4041777-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/09/windows8.1-kb4040972-x64_5ab17d824ffddb74360fb95e1d5567484cf6be40.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/windows8.1-kb4041777-x64_f2d8c103970302a8530d8a191214cbda3938cd7f.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4049179</kb>
+			<date>2017/10/12</date>
+			<size>20.80 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4049179-x64.msu</name>
+			<description>Update for Vulnerabilities in Adobe Flash Player</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/10/windows8.1-kb4049179-x64_7c81c8f9643389e2874a17826f93e3d5360bb197.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

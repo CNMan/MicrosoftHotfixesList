@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/09/19" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/10/17" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -9,6 +9,24 @@
 			<name>Additional-Updates-Info.txt</name>
 			<description>More information about Additional Updates category</description>
 			<url>https://dl.dropboxusercontent.com/s/fh7kujh8ef1snj9/Additional-Updates-Info.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB4041686</kb>
+			<date>2017/09/14</date>
+			<size>202.62 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4041686-x64.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows6.1-kb4041686-x64_389dd00a1644ba4ee8c42085c2138b45f7cbbdd1.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4041778</kb>
+			<date>2017/10/02</date>
+			<size>40.16 MB</size>
+			<category>Additional/NET47</category>
+			<name>NDP47-KB4041778-x64.exe</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/ndp46-kb4041778-x64_1e36c362f9f6c4dfdef1a3c0abe4fb560ec7f25c.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2841134</kb>
@@ -135,15 +153,6 @@
 			<name>NDP47-KB3186495-x86-x64-ENU.exe</name>
 			<description>Microsoft .NET Framework 4.7</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/ndp47-kb3186495-x86-x64-enu_e8626e9c79e498df13a551f56f8f617700d61acd.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4040973</kb>
-			<date>2017/08/31</date>
-			<size>40.13 MB</size>
-			<category>Additional/NET47</category>
-			<name>NDP47-KB4040973-x64.exe</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/ndp46-kb4040973-x64_5da041181051d83e3aad0950ef4b5c7db58520f7.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4019990</kb>
@@ -2098,15 +2107,6 @@
 			<description>Screen brightness changes and you cannot adjust the screen brightness after you resume a laptop from sleep mode in Windows 7 or Windows Server 2008 R2</description>
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407282/7600/free/452861_intl_x64_zip.exe</url>
 		</update>
-		<update extract="1">
-			<kb>KB2755105</kb>
-			<date>2012/09/07</date>
-			<size>1.22 MB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2755105-x64.msu</name>
-			<description>WLAN AutoConfig service cannot identify which networks are available and connects to a network randomly on a computer that is running Windows 7 SP1 or Windows Server 2008 R2 SP1</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix408342/7600/free/452838_intl_x64_zip.exe</url>
-		</update>
 		<update extract="0">
 			<kb>KB2755625</kb>
 			<date>2012/10/04</date>
@@ -2304,15 +2304,6 @@
 			<name>Windows6.1-KB2798040-v2-x64.msu</name>
 			<description>You cannot stop a process by using the Taskkill.exe utility in Windows</description>
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix423521/7600/free/457890_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2799464</kb>
-			<date>2013/01/05</date>
-			<size>831 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2799464-x64.msu</name>
-			<description>Memory size of video card is displayed incorrectly in x64-based versions of Windows 7 and Windows Server 2008 R2</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix421210/7600/free/457426_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2800170</kb>
@@ -3357,15 +3348,6 @@
 			<name>Windows6.1-KB3087873-v2-x64.msu</name>
 			<description>0x0000007E Stop error after you install hotfix 2990941 for native driver support in NVM Express</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/09/windows6.1-kb3087873-v2-x64_098e3dc3e7133ba8a37b2e47260cd8cba960deb8.msu</url>
-		</update>
-		<update extract="1">
-			<kb>KB3094412</kb>
-			<date>2015/09/11</date>
-			<size>346 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB3094412-x64.msu</name>
-			<description>Wireless connection is lost when the wireless session times out</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix4058326/7600/free/487263_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3098841</kb>
@@ -5274,15 +5256,6 @@
 			<name>Windows6.1-KB3161958-x64.msu</name>
 			<description>Security update for Windows Search Component: June 14, 2016</description>
 			<url>http://download.microsoft.com/download/9/E/9/9E975F94-E40B-4CB8-8E8E-4661D7F75E3F/Windows6.1-KB3161958-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4038803</kb>
-			<date>2017/08/30</date>
-			<size>200.30 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4038803-x64.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/09/windows6.1-kb4038803-x64_7d0ddff3c17de558ba4aca90475bb85290fb62ac.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4040980</kb>

@@ -28,11 +28,11 @@ https://download.visualstudio.microsoft.com/download/pr/10912041/cee5d6bca2ddbcd
 
 https://download.visualstudio.microsoft.com/download/pr/10912113/5da66ddebb0ad32ebd4b922fd82e8e25/vcredist_x86.exe
 
-Visual Studio 2015/2017 (VC++ 14.0) 14.11.25325.0
+Visual Studio 2015/2017 (VC++ 14.0) 14.12.25810.00
 
-https://download.visualstudio.microsoft.com/download/pr/10629685/73e1ab8917c6ee08fb03a230865b9401/VC_redist.x64.exe
+https://download.visualstudio.microsoft.com/download/pr/100197902/73e1ab8917c6ee08fb03a230865b9401/VC_redist.x64.exe
 
-https://download.visualstudio.microsoft.com/download/pr/10630635/9ca0bba83015c844cc98d7cb783370e9/VC_redist.x86.exe
+https://download.visualstudio.microsoft.com/download/pr/100198677/9ca0bba83015c844cc98d7cb783370e9/VC_redist.x86.exe
 
 Visual F# 2.0 (10.0.40219)
 
