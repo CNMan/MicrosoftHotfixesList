@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/10/17" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/11/01" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB3010081</kb>
@@ -101,13 +101,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/10/windows10.0-kb4042895-x64_f1fa5316d4ee51af99296261359d9b3af681b2d1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4049179</kb>
-			<date>2017/10/13</date>
+			<kb>KB4051613</kb>
+			<date>2017/10/25</date>
 			<size>20.80 MB</size>
 			<category>General/10240</category>
-			<name>windows10.0-kb4049179-x64_9c6ac6e44be123a319351ed6515f3196ecf418ae.msu</name>
+			<name>windows10.0-kb4051613-x64_710cce3c7c6a4417d69b7869951204875d9c663e.msu</name>
 			<description>Adobe Flash Player Update for Windows 10</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/10/windows10.0-kb4049179-x64_9c6ac6e44be123a319351ed6515f3196ecf418ae.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows10.0-kb4051613-x64_710cce3c7c6a4417d69b7869951204875d9c663e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3161102</kb>
@@ -137,22 +137,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/08/windows10.0-kb4035632-x64_ea26f11d518e5e363fe9681b290a56a6afe15a81.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4041689</kb>
-			<date>2017/09/17</date>
-			<size>1.08 GB</size>
+			<kb>KB4052232</kb>
+			<date>2017/10/30</date>
+			<size>1.09 GB</size>
 			<category>General/10586</category>
-			<name>Windows10.0-KB4041689-x64.msu</name>
+			<name>Windows10.0-KB4052232-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1511</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/windows10.0-kb4041689-x64_876d2ea04c8495482fcf25fced6a9f299ecbcee4.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4052232-x86_3263a3152a0591045e85bb829a573e68a2d349a4.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4049179</kb>
-			<date>2017/10/13</date>
+			<kb>KB4051613</kb>
+			<date>2017/10/25</date>
 			<size>20.80 MB</size>
 			<category>General/10586</category>
-			<name>windows10.0-kb4049179-x64_1ad267e10bfb48a966ad3a9c3c6897712c13cb6d.msu</name>
+			<name>windows10.0-kb4051613-x64_b16508edea93fe3c9a627567d4bd5ed171edd18a.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1511</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/10/windows10.0-kb4049179-x64_1ad267e10bfb48a966ad3a9c3c6897712c13cb6d.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows10.0-kb4051613-x64_b16508edea93fe3c9a627567d4bd5ed171edd18a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3186497</kb>
@@ -182,22 +182,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/08/windows10.0-kb4035631-x64_59af92716539d98ed86622d6fea5a69ab90a4e76.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4041688</kb>
-			<date>2017/10/10</date>
+			<kb>KB4052231</kb>
+			<date>2017/10/28</date>
 			<size>1.16 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4041688-x64.msu</name>
+			<name>Windows10.0-KB4052231-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/windows10.0-kb4041688-x64_a098c258a1d8f6b4bbfff87ee5ab687d629d3bd9.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4052231-x64_463cd0a310785400394ca5648f6634f1244263ff.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4049179</kb>
-			<date>2017/10/13</date>
+			<kb>KB4051613</kb>
+			<date>2017/10/25</date>
 			<size>20.80 MB</size>
 			<category>General/14393</category>
-			<name>windows10.0-kb4049179-x64_da19323fa9780827de45133164c58f4aaea2ca50.msu</name>
+			<name>windows10.0-kb4051613-x64_baa8164a0d8f30d5979930999c39b91c1791ab2f.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/10/windows10.0-kb4049179-x64_da19323fa9780827de45133164c58f4aaea2ca50.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows10.0-kb4051613-x64_baa8164a0d8f30d5979930999c39b91c1791ab2f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022405</kb>
@@ -209,22 +209,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/06/windows10.0-kb4022405-x64_cb1286f2547dd21a06f1ec5b9a55769a7227b371.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4041676</kb>
-			<date>2017/10/01</date>
-			<size>976.20 MB</size>
+			<kb>KB4049370</kb>
+			<date>2017/10/19</date>
+			<size>937.46 MB</size>
 			<category>General/15063</category>
-			<name>Windows10.0-KB4041676-x64.msu</name>
+			<name>Windows10.0-KB4049370-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/10/windows10.0-kb4041676-x64_8dd145de3fc3b8ae42ec000c950c432580548b6e.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049370-x64_a15c945b52f3b8b53c9b26ba992cc510ae78530b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4049179</kb>
-			<date>2017/10/13</date>
-			<size>20.80 MB</size>
+			<kb>KB4051613</kb>
+			<date>2017/10/25</date>
+			<size>20.79 MB</size>
 			<category>General/15063</category>
-			<name>windows10.0-kb4049179-x64_6f35b425361638eefcd611c73df9095d50e19f79.msu</name>
+			<name>windows10.0-kb4051613-x64_a4e035787493c83108613236dd3b4fc08d0a2492.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/10/windows10.0-kb4049179-x64_6f35b425361638eefcd611c73df9095d50e19f79.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows10.0-kb4051613-x64_a4e035787493c83108613236dd3b4fc08d0a2492.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4043961</kb>
@@ -236,13 +236,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/10/windows10.0-kb4043961-x64_5fb7d7bf32e79ea9debe8fb51af2a0c2e296e935.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4049179</kb>
-			<date>2017/10/13</date>
+			<kb>KB4051613</kb>
+			<date>2017/10/25</date>
 			<size>20.80 MB</size>
 			<category>General/16299</category>
-			<name>windows10.0-kb4049179-x64_47eff21486eab4ef646976186735a532f9b4a93f.msu</name>
+			<name>windows10.0-kb4051613-x64_b2b1d0c13c89c6da1505178557b2150588a0358e.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/10/windows10.0-kb4049179-x64_47eff21486eab4ef646976186735a532f9b4a93f.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows10.0-kb4051613-x64_b2b1d0c13c89c6da1505178557b2150588a0358e.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

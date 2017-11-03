@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/10/17" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/11/01" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -2432,13 +2432,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/windows8.1-kb4041777-x64_f2d8c103970302a8530d8a191214cbda3938cd7f.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4049179</kb>
-			<date>2017/10/12</date>
+			<kb>KB4051613</kb>
+			<date>2017/10/24</date>
 			<size>20.80 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4049179-x64.msu</name>
+			<name>Windows8.1-KB4051613-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/10/windows8.1-kb4049179-x64_7c81c8f9643389e2874a17826f93e3d5360bb197.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows8.1-kb4051613-x64_a7b2eeb5ed13a16d9bf7088acc5855cb0d4d4b69.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
