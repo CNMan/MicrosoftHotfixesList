@@ -1,0 +1,39 @@
+[ Windows 恶意软件删除工具，适用于 Windows 8、8.1、10 和 Windows Server 2012、2012 R2、 2016 x64 版 - 2017 年 10 月 (KB890830) ]
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2017/09/windows-kb890830-x64-v5.53_eb483d9fc87fb3781acf20e6427e1d5de4615d25.exe
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2017/09/windows-kb890830-x64-v5.53-delta_dc16e9f1ba489cd6bee88b2f7a365409c9cdd449.exe
+
+[ Update for Japanese Microsoft IME Postal Code Dictionary (KB2734786) ]
+http://download.windowsupdate.com/c/msdownload/update/software/defu/2014/10/imjpzp_7735dba7ac13b0023c33b7c988f6cbd690d7c60c.cab
+
+[ Japanese Microsoft IME Standard Dictionary 更新 (KB2734786) ]
+http://download.windowsupdate.com/d/msdownload/update/software/defu/2015/09/imjpst_edf0c36b1f1ddd3d32cf445e5cdaac6b01e43975.cab
+
+[ Japanese Microsoft IME Standard Extended Dictionary 更新 (KB2734786) ]
+http://download.windowsupdate.com/d/msdownload/update/software/defu/2015/09/imjpnw_1b6f125e7c114cbd188c99d90dd9f09bd452dcf0.cab
+
+[ FeatureOnDemandDotNet35 - Windows 10 Version 1607 for AMD64-based Systems - (KB3180030) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/microsoft-windows-netfx3-ondemand-package_59d03aac2d8b4dfabb835cc3fad5dd094fabe24d.cab
+
+[ LanguageFeatureOnDemand - Windows 10 Version 1607 for AMD64-based Systems - (KB3180030) [zh-CN] ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-basic-zh-cn-package_0f82e0dd3872a22a407bb3af1b566f5857ddaa7e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-fonts-hans-package_83a6992b4e57002470c255cd73e1fad3e74ee8d6.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-handwriting-zh-cn-package_e08c1e468182d21f8b84e5ded5fdec5ba340a66b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-ocr-zh-cn-package_95b9dd4581a8d74ea43870af5c28f60fb5d746f6.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-speech-zh-cn-package_0700bd8321b24836e9c35bf42e07ecf42daf4cef.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-texttospeech-zh-cn-package_04b0bb422549cdc0109fc61f1b6387c5a10aa20d.cab
+
+[ 用于基于 x64 的系统的 Windows 10 Version 1607 更新程序 (KB4023057) ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/11/windows10.0-kb4023057-x64_e03d6ea91b7a785995bc0351c81ea88ce610f8b1.cab
+
+[ 用于基于 x64 的系统的 Windows 10 Version 1607 更新程序 (KB4033637) ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/windows10.0-kb4033637-x64_09ed30fbf734047d0e31f131b776eeca91ff09c5.cab
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/windows10.0-kb4033637-x64-express_445cb94b7f4b1fb1600d06b1dd8471d3adbb6bc1.cab
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/windows10.0-kb4033637-x64_d156036eff9190e7cfd0da645a034799b223f152.psf
+
+[ 2017-适用于 Windows 10 Version 1607 的 08 更新，适用于基于 x64 的系统 (KB4035631) ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/08/windows10.0-kb4035631-x64_98f1066821b820d612555fef477d4906c12a575a.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/08/windows10.0-kb4035631-x64-express_44b55bd4a64c40fa46dc8a5e176032403cf53fc2.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/08/windows10.0-kb4035631-x64_69d11ea37696470310d35d4edd1add091b2b9b70.psf
+
+[ 用于基于 x64 的系统的 Windows 10 Version 1607 的 Adobe Flash Player 更新 (KB4051613) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows10.0-kb4051613-x64_8de03466aeaf02398b0b45212b55326f9a8da526.cab

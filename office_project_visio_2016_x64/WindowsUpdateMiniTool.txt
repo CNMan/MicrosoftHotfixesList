@@ -1,23 +1,14 @@
 [ Microsoft Office 2016 更新 (KB2910954) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/02/protocolhndlr-x-none_d5fcca84ccc86495c3126edb15c4ea1188f269cb.cab
 
-[ Microsoft Access 2016 安全更新 (KB2910978) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/access-x-none_109c72fc56cb3e0bdfbc6b0ac6412e877514cd4b.cab
-
 [ Microsoft Office 2016 更新 (KB2910990) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/02/dcf-x-none_8166707d91381e5ec3a389192b80ff816d9585ef.cab
 
 [ Microsoft Office 2016 更新 (KB2920678) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/02/stsupld-x-none_22491c6b392aea6cd9102153d379c915b2ae1e0d.cab
 
-[ Microsoft Publisher 2016 安全更新 (KB2920680) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/11/publisher-x-none_8eabca3b6e82309c0f4f600e41f17f5c1105a6aa.cab
-
 [ Microsoft Office 2016 更新 (KB2920684) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/12/filterpack-x-none_234aae7701c3b982c2e0b734298fe611575f10d6.cab
-
-[ Microsoft Project 2016 安全更新 (KB2920698) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/project-x-none_0b8e47716335c02db77b87fd136bbb6b2a2cdbca.cab
 
 [ Microsoft Office 2016 更新 (KB2920712) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/12/orgidcrl-x-none_47bf3b6558a4c3b6c30ecdb543140a513af126b7.cab
@@ -25,32 +16,23 @@ http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/12/orgi
 [ Microsoft Office 2016 更新 (KB2920720) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/03/exppdf-x-none_fcc1d128731f5a30c1395dce9abf9f1e5d46d7dd.cab
 
+[ Microsoft Office 2016 安全更新 (KB2920723) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/09/osetup-x-none_1d319f57a9c670f0eab31c4ef7bf1709095c85d9.cab
+
 [ Microsoft Office 2016 更新 (KB2920724) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/12/ospp-x-none_1174e760df724f922010a71291d7f6b550cba861.cab
 
 [ Microsoft Office 2016 安全更新 (KB3085538) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/ieawsdc-x-none_07d6c6b06dea7dde9f7f2bf83bb0a06fa969231f.cab
 
-[ Microsoft PowerPoint 2016 安全更新 (KB3114518) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/powerpoint-x-none_a595530920bd1706cfd71a9ded0ed7ae867f6e36.cab
-
 [ Microsoft Office 2016 更新 (KB3114903) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/03/fonts-x-none_5fe61406d79128be22ab102e18176ebb74383d44.cab
-
-[ Microsoft Visio 2016 安全更新 (KB3115041) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/06/visio-x-none_a88263e08048e489d33a8b996513420648d114aa.cab
 
 [ Microsoft Office 2016 更新 (KB3115081) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/06/policytips-x-none_b05c6fc81cdf8611681f43b50d6f92abc095328c.cab
 
-[ Microsoft Office 2016 安全更新 (KB3115103) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/msodll40ui-x-none_851dc32327882ae526cf1aa59e1a93131f761d45.cab
-
 [ Microsoft Office 2016 安全更新 (KB3115135) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/10/vbe7-x-none_7cf77eaf81b12cb3324623219f892ce0dd9a2a00.cab
-
-[ Microsoft Office 2016 更新 (KB3115145) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/riched20-x-none_c6b3d6ef575a4bce41604e347bb6846d47918d4a.cab
 
 [ Microsoft Office 2016 更新 (KB3115276) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/08/gkall-x-none_9f44dedf3b7a410fa6931f5a1ebe04824243e58f.cab
@@ -61,12 +43,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/stsl
 [ Microsoft Office 2016 定义更新 (KB3115407) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/defu/2016/07/outlfltr-x-none_eca3330756c93afdc59c5e21d682a02bcf5261b2.cab
 
-[ Microsoft OneNote 2016 安全更新 (KB3115419) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/07/onenote-x-none_7b43d76667d780330aef3475942b8d26a9242bdc.cab
-
-[ Microsoft Office 2016 更新 (KB3115501) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/04/ace-x-none_94f2f802c2aea94c48f2f818c3674f621b2c8e5e.cab
-
 [ Microsoft Office 2016 更新 (KB3118262) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/09/wxpnse-x-none_0798363103e06dcd679ffa82ee263063c62d62f0.cab
 
@@ -76,14 +52,8 @@ http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/09/wxpc
 [ Microsoft Office 2016 更新 (KB3118264) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/09/csisyncclient-x-none_8d503f9acb06e6c5a5de7abf9fdacd12233f0623.cab
 
-[ Microsoft Publisher 2016 更新 (KB3128047) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/02/publisher-x-none_326e84cd6c075146ed11986b6e36193f4da46386.cab
-
 [ Microsoft Office 2016 更新 (KB3141457) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/oleo-x-none_988e629c410de930d2f0d1c74d9cd1b67dc3b098.cab
-
-[ Microsoft OneDrive for Business 更新 (KB3141458) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/02/groove-x-none_b92fec936fec86a4acf9b1611c696c0ef60d4aa4.cab
 
 [ Microsoft Office 2016 更新 (KB3141506) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/03/outexum-x-none_4e1fac6f86034827011bddaad909fe1ba73b030a.cab
@@ -91,32 +61,26 @@ http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/03/oute
 [ Microsoft Office 2016 更新 (KB3141509) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/02/proof-x-none_8db8cdf951674ed89abe91ae7cfaee1986ff38f8.cab
 
-[ Microsoft Office 2016 更新 (KB3178658) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/04/osfclient-x-none_0bff59923cf72f11815afddadfa55ee3533e39d8.cab
-
-[ Microsoft OneNote 2016 更新 (KB3178665) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/onenote-x-none_cbdb3f937f6c879df32ab695ad581a8403b4098f.cab
-
 [ Microsoft Office 2016 更新 (KB3178666) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/03/msmipc-x-none_fd8f742d93d6619665a79278454d817cda556f4b.cab
 
 [ Microsoft Office 2016 安全更新 (KB3178667) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/msodll20-x-none_777d2290a9cfc9ea735b0499bf582d179653d583.cab
 
-[ Microsoft Office 2016 更新 (KB3191859) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/excelpp-x-none_4a8650922c355be9f4a6c4b304bf6cb6f3188e5d.cab
+[ Microsoft Publisher 2016 更新 (KB3178696) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/07/publisher-x-none_35df87d6b70715a7882ae919f1e423aa38c99fb9.cab
+
+[ Microsoft OneDrive for Business 更新 (KB3178707) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/07/groove-x-none_54d0147a2bd878991c015b306b4693a9fc89a572.cab
 
 [ Microsoft Office 2016 更新 (KB3191867) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/04/chart-x-none_77e43afde749c4ff9ad89d5c8851a60e685e9484.cab
 
-[ Microsoft Office 2016 更新 (KB3191868) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/ppaddin-x-none_d4a4c77390afdc527f2278104cbc35d1b19cfc21.cab
+[ Microsoft Office 2016 更新 (KB3191923) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/osfclient-x-none_3f022efc56ac5c39e427fcbb2693e70ed8a8b5ea.cab
 
-[ Microsoft Office 2016 更新 (KB3191920) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/oart-x-none_d85260aa3ea3255699ff7bd550da72902831df0a.cab
-
-[ Microsoft Access 2016 更新 (KB3191926) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/access-x-none_ea4369c7253adb880df40f8097d5ce371799ee92.cab
+[ Microsoft Office 2016 更新 (KB3191924) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/ace-x-none_2fef390d3dfad28b6f7a49d6ffb1c95e49d3b2b9.cab
 
 [ Microsoft Office 2016 更新 (KB3191928) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/csi-x-none_bbf17188e4ee645332802226381882ad8cef4902.cab
@@ -124,50 +88,62 @@ http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/csi-
 [ Microsoft Office 2016 更新 (KB3191929) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/kohhc-x-none_64e730cdbb9703c44db2fbc8e9cb9cbca8078fde.cab
 
-[ Microsoft Outlook 2016 安全更新 (KB3191932) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/outlook-x-none_6d604c0cc08db98d57f3c4c3904a4c0449175542.cab
+[ Microsoft Office 2016 安全更新 (KB3213551) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/08/conv-x-none_7e2b3c8cc092a8202a9146848d86eace5b6cd602.cab
 
-[ Microsoft Office 2016 更新 (KB3191933) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/msodll40ui-x-none_35d04ee6d7bb9665671d01accd8cac720dbca997.cab
+[ Microsoft Office 2016 更新 (KB3213650) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/07/xdext-x-none_b9b895be492459c370464833e6b30527014ee968.cab
 
-[ Microsoft Office 2016 安全更新 (KB3191943) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/msodll99l-x-none_6a4de480c6b5c865cad8bd489c831dd4233ca39f.cab
+[ Microsoft Office 2016 安全更新 (KB4011038) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/08/msodll99l-x-none_af8f4b1803261edcc46ddf243ec288c22442975a.cab
 
-[ Microsoft Office 2016 安全更新 (KB3191944) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/05/mso-x-none_93196975433acf3efdb37862d0fb3c3bfb574cbd.cab
+[ Microsoft Office 2016 更新 (KB4011135) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/09/excelpp-x-none_a16ac8659f92e3d5fb0f5abe13c19045cbe9e862.cab
 
-[ Microsoft Word 2016 安全更新 (KB3191945) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/word-x-none_fac85a9fcc286905dca6308998365604a396daa1.cab
+[ Microsoft Visio 2016 更新 (KB4011136) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/09/visio-x-none_ad71823b220b92d1d0927e4515a8d6f6d97ca2aa.cab
 
-[ Skype for Business 2016 安全更新 (KB3203382) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/lync-x-none_f80d843310e673161b54d8870e7105b10d7f63bb.cab
+[ Microsoft OneNote 2016 更新 (KB4011137) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/onenote-x-none_e428f46c22cc00c81c98ef6c605147d6382e5e73.cab
 
-[ Microsoft Office 2016 安全更新 (KB3203383) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/conv-x-none_e1a5be03718256454a936e58d20ee2704a2a1c4c.cab
+[ Microsoft Office 2016 更新 (KB4011138) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/mso-x-none_73181a62430d314cce6cdd8f6fd8a412701c312c.cab
 
-[ Microsoft Visio 2016 更新 (KB3203473) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/visio-x-none_c12843f73218982615d99476973aa60102a68f68.cab
+[ Microsoft Office 2016 更新 (KB4011139) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/09/ppaddin-x-none_f5103b30e69b1c8cc4b3f290420a745f2d9e853a.cab
 
-[ Microsoft Project 2016 更新 (KB3203476) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/project-x-none_bc9953a09828eaa1e640891fa4a07d3dc59f2c7b.cab
+[ Microsoft Access 2016 更新 (KB4011142) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/09/access-x-none_14c04fa2ef735c994fde4d6199d0e4e1522c09ef.cab
 
-[ Microsoft Excel 2016 安全更新 (KB3203477) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/06/excel-x-none_4c444e7485afc3b28d1dd3366ee7068af35e3f1f.cab
+[ Microsoft Excel 2016 更新 (KB4011166) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/09/excel-x-none_f61b1f0d5915360d653a54623d83875dc2d723da.cab
 
-[ Microsoft PowerPoint 2016 更新 (KB3203481) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/powerpoint-x-none_137428397769dcfe15e13a151040ed43be4a40f6.cab
+[ Microsoft Office 2016 安全更新 (KB4011185) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/09/ose-x-none_1e3cf24f4859aaf37e733f03e35346664c2185cb.cab
 
-[ Microsoft Office 2016 安全更新 (KB3213545) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/06/msodll30-x-none_e972ac238125fa299144feb668e42ca934232577.cab
+[ Microsoft Office 2016 更新 (KB4011216) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/oart-x-none_b690df152ff1e1bebdccfd36824343f51685ef7e.cab
 
-[ Microsoft Office 2016 更新 (KB3213547) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/msodll99l-x-none_1fc230fe7be4f77983279a8b5a91f84ad5f8953f.cab
+[ Microsoft PowerPoint 2016 更新 (KB4011219) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/powerpoint-x-none_cf82fe24a87333bec83e979c6ddafd52d67e548e.cab
 
-[ Skype for Business 2016 更新 (KB3213548) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/lync-x-none_038160d5d5f724930f8d716c4ae43168490270cb.cab
+[ Microsoft Word 2016 安全更新 (KB4011222) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/10/word-x-none_06ade5c0663eb345f456cea14221f3095663850a.cab
 
-[ Microsoft Office 2016 更新 (KB3213549) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/06/mso-x-none_5627ecfe475c66c3d20c4e253b85c63cf0da80b3.cab
+[ Microsoft Office 2016 更新 (KB4011223) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/msodll30-x-none_df2d1ad4482ce5367cb789d71a431727bb2531eb.cab
 
-[ Microsoft Word 2016 更新 (KB3213550) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/06/word-x-none_f57816a491ec29c128828ad4a78d4de7d3f836c7.cab
+[ Microsoft Office 2016 更新 (KB4011224) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/riched20-x-none_9cb9e2943df31574500280f55c8dd62a9f913ca5.cab
+
+[ Microsoft Office 2016 更新 (KB4011226) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/msodll40ui-x-none_eca61753fcf1e4771478a69ca5795852aae80675.cab
+
+[ Microsoft Project 2016 更新 (KB4011227) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/project-x-none_c6fa4da9ef59b9b7af4a1676ec53548c9b765b32.cab
+
+[ Microsoft Outlook 2016 更新 (KB4011240) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/outlook-x-none_b0e3f38062889f0eac147ccbf0389c61b9b12b18.cab
+
+[ Microsoft Office 2016 更新 (KB4011259) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/acewss-x-none_057a5e44450ad1a0195a0ca5237540402ab61944.cab

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/10/17" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/11/07" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -9,24 +9,6 @@
 			<name>Additional-Updates-Info.txt</name>
 			<description>More information about Additional Updates category</description>
 			<url>https://dl.dropboxusercontent.com/s/fh7kujh8ef1snj9/Additional-Updates-Info.txt</url>
-		</update>
-		<update extract="0">
-			<kb>KB4041686</kb>
-			<date>2017/09/14</date>
-			<size>202.62 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4041686-x64.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows6.1-kb4041686-x64_389dd00a1644ba4ee8c42085c2138b45f7cbbdd1.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4041778</kb>
-			<date>2017/10/02</date>
-			<size>40.16 MB</size>
-			<category>Additional/NET47</category>
-			<name>NDP47-KB4041778-x64.exe</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/ndp46-kb4041778-x64_1e36c362f9f6c4dfdef1a3c0abe4fb560ec7f25c.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2841134</kb>
@@ -155,6 +137,15 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/ndp47-kb3186495-x86-x64-enu_e8626e9c79e498df13a551f56f8f617700d61acd.exe</url>
 		</update>
 		<update extract="0">
+			<kb>KB4041778</kb>
+			<date>2017/10/02</date>
+			<size>40.16 MB</size>
+			<category>Additional/NET47</category>
+			<name>NDP47-KB4041778-x64.exe</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/ndp46-kb4041778-x64_1e36c362f9f6c4dfdef1a3c0abe4fb560ec7f25c.exe</url>
+		</update>
+		<update extract="0">
 			<kb>KB4019990</kb>
 			<date>2017/04/28</date>
 			<size>2.74 MB</size>
@@ -219,12 +210,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB2952664</kb>
-			<date>2017/05/03</date>
-			<size>6.38 MB</size>
+			<date>2017/10/20</date>
+			<size>6.46 MB</size>
 			<category>Additional/Windows10</category>
-			<name>Windows6.1-KB2952664-v23-x64.msu</name>
+			<name>windows6.1-kb2952664-v23-x64_3d7183f85e23d0173ac8cc5d12d66521e61d238f.msu</name>
 			<description>Compatibility update for upgrading Windows 7</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows6.1-kb2952664-v23-x64_a7f762a22bf3f7f659dc78d63e9dc8f3529a286d.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows6.1-kb2952664-v23-x64_3d7183f85e23d0173ac8cc5d12d66521e61d238f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3021917</kb>
@@ -5265,6 +5256,15 @@
 			<name>Windows6.1-KB4040980-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/windows6.1-kb4040980-x64_83282fb5210091802984ead0d4175879056d602c.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4041686</kb>
+			<date>2017/09/14</date>
+			<size>202.62 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4041686-x64.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows6.1-kb4041686-x64_389dd00a1644ba4ee8c42085c2138b45f7cbbdd1.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

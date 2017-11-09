@@ -8,12 +8,11 @@ KB2830477	http://download.microsoft.com/download/D/0/7/D07A8332-3B08-4919-9683-B
 KB2841134	http://download.microsoft.com/download/5/C/7/5C7074F0-CE81-4612-902F-DAAF3061B959/IE11-Windows6.1-KB2841134-x64.cab
 KB2849696	http://download.microsoft.com/download/B/D/9/BD9A7786-6C54-4425-BE04-7914E5D77FBC/IE-Spelling-en.msu
 KB2849697	http://download.microsoft.com/download/4/0/E/40E0AF15-3404-4C1E-8FB3-2DE7087F01F7/IE-Hyphenation-en.msu
-KB2952664-v23	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/06/windows6.1-kb2952664-v23-x64_a7f762a22bf3f7f659dc78d63e9dc8f3529a286d.msu
+KB2952664-v23	http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows6.1-kb2952664-v23-x64_3d7183f85e23d0173ac8cc5d12d66521e61d238f.msu
 KB3021917	http://download.microsoft.com/download/2/3/0/230B52C5-A0AD-493D-892E-DD8C5D31D358/Windows6.1-KB3021917-x64.msu
 KB3046269	http://download.microsoft.com/download/8/6/6/866F143B-55ED-4308-81EA-20EE4167A639/Windows6.1-KB3046269-x64.msu
 KB3177467	http://download.microsoft.com/download/2/4/7/247BDD8A-6AAE-4466-B137-3B2918D0CEAB/Windows6.1-KB3177467-x64.msu
 KB3186495	http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/ndp47-kb3186495-x86-x64-enu_e8626e9c79e498df13a551f56f8f617700d61acd.exe
-KB3186499	http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/ndp47-kb3186497-x86-x64-allos-chs_3a9e0a3dd409f79994890799a2fd5efd6e5adfb1.exe
 KB3191566	http://download.microsoft.com/download/6/F/5/6F5FF66C-6775-42B0-86C4-47D41F2DA187/Win7AndW2K8R2-KB3191566-x64.zip
-KB4024848	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/07/ndp46-kb4024848-x64_09778fdd10647190a78234122592d07df0a0847b.exe
-KB4032782	http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/06/ie11-windows6.1-kb4032782-x64_cdbf2e7fc4bd6a38eb6330498546d025d301b09f.msu
+KB4019990	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4019990-x64_35cc310e81ef23439ba0ec1f11d7b71dd34adfe5.msu
+KB4041778	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/ndp46-kb4041778-x64_1e36c362f9f6c4dfdef1a3c0abe4fb560ec7f25c.exe

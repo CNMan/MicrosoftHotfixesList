@@ -1,12 +1,13 @@
+KB2693643	https://download.microsoft.com/download/1/8/E/18EA4843-C596-4542-9236-DE46F780806E/Windows8.1-KB2693643-x64.msu
+KB2929699	https://download.microsoft.com/download/8/9/7/89775613-432E-4ECF-93A9-5BAFCB5B7807/Windows8.1-KB2929699-x64.msu
 KB2938066	https://download.microsoft.com/download/4/A/8/4A8D7AE7-5503-4CC1-B0A5-A519F086B8A2/Windows8.1-KB2938066-x64.msu
 KB2962409	https://download.microsoft.com/download/D/C/9/DC9165BE-7CE1-4714-A250-60A6F1EC7172/Windows8.1-KB2962409-x64.msu
-KB2996883	hotfix
-KB3013108	hotfix
+KB2996883	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix520215/9600/free/478090_intl_x64_zip.exe
+KB3013108	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix519636/9600/free/479800_intl_x64_zip.exe
 KB3047280-v3	hotfix
 KB3091402-v4	hotfix
-KB3092002-v3	hotfix
-KB3092005	hotfix
-KB3092688-v3	hotfix
+KB3092002-v3	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3353576/9600/free/487002_intl_x64_zip.exe
+KB3092005	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3334759/9600/free/487088_intl_x64_zip.exe
+KB3092688-v3	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3352387/9600/free/487255_intl_x64_zip.exe
 KB3100473	General
 KB3134812	https://download.microsoft.com/download/E/8/B/E8B74443-2905-4C34-B587-ADAFB6959716/Windows8.1-KB3134812-x64.msu
-KB3146601	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146601-x64_a833dda477a9c193aafc4d59d56fe77d046aef03.msu
