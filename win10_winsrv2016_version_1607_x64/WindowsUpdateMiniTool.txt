@@ -1,6 +1,6 @@
-[ Windows 恶意软件删除工具，适用于 Windows 8、8.1、10 和 Windows Server 2012、2012 R2、 2016 x64 版 - 2017 年 10 月 (KB890830) ]
-http://download.windowsupdate.com/c/msdownload/update/software/uprl/2017/09/windows-kb890830-x64-v5.53_eb483d9fc87fb3781acf20e6427e1d5de4615d25.exe
-http://download.windowsupdate.com/c/msdownload/update/software/uprl/2017/09/windows-kb890830-x64-v5.53-delta_dc16e9f1ba489cd6bee88b2f7a365409c9cdd449.exe
+[ Windows 恶意软件删除工具，适用于 Windows 8、8.1、10 和 Windows Server 2012、2012 R2、 2016 x64 版 - 2017 年 11 月 (KB890830) ]
+http://download.windowsupdate.com/d/msdownload/update/software/uprl/2017/11/windows-kb890830-x64-v5.54_ef22d1ab155e6463d05dd1a3d1bd6b069ffa2415.exe
+http://download.windowsupdate.com/d/msdownload/update/software/uprl/2017/11/windows-kb890830-x64-v5.54-delta_56816c5257a3fe942c70b10c96da3caa2a7ae1eb.exe
 
 [ Update for Japanese Microsoft IME Postal Code Dictionary (KB2734786) ]
 http://download.windowsupdate.com/c/msdownload/update/software/defu/2014/10/imjpzp_7735dba7ac13b0023c33b7c988f6cbd690d7c60c.cab
@@ -30,10 +30,19 @@ http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/wind
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/windows10.0-kb4033637-x64-express_445cb94b7f4b1fb1600d06b1dd8471d3adbb6bc1.cab
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/windows10.0-kb4033637-x64_d156036eff9190e7cfd0da645a034799b223f152.psf
 
-[ 2017-适用于 Windows 10 Version 1607 的 08 更新，适用于基于 x64 的系统 (KB4035631) ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/08/windows10.0-kb4035631-x64_98f1066821b820d612555fef477d4906c12a575a.cab
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/08/windows10.0-kb4035631-x64-express_44b55bd4a64c40fa46dc8a5e176032403cf53fc2.cab
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/08/windows10.0-kb4035631-x64_69d11ea37696470310d35d4edd1add091b2b9b70.psf
+[ 2017-适用于 Adobe Flash Player for Windows 10 Version 1607 的 11 安全更新，适用于基于 x64 的系统 (KB4048951) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048951-x64_959c531fc954def026519e23b0e62a5d99aa1058.cab
 
-[ 用于基于 x64 的系统的 Windows 10 Version 1607 的 Adobe Flash Player 更新 (KB4051613) ]
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows10.0-kb4051613-x64_8de03466aeaf02398b0b45212b55326f9a8da526.cab
+[ 2017-适用于 Windows 10 Version 1607 的 11 累积更新，适合基于 x64 的系统 (KB4048953) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_8d78297c993c1804506156cfcf06c4d77bc0320e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64-express_2871aa91a3c9076fcd0e865b1805bdb45f4b4bd9.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_1_d22489a8bff4b85da9ae547cbad0f54c7526b8c3.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_2_57aa624e3c623c8b179af0901b48b53e2f614a92.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_3_df859a18e1936615a1b52e6a004a41dc22c212c5.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_4_962cbb43c8c7dcd3a763d40c39c3c8ff9b429631.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_5_e2d034522ace8a2073b89f186745be50e5d5cf2e.psf
+
+[ 2017-适用于 Windows 10 Version 1607 的 11 更新，适用于基于 x64 的系统 (KB4049065) ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_6dd6809631cd889c40dd457c04ee018e9b4a1f47.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64-express_85ef18290e19317d86e3a7b4c868891b675bfa08.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_f86680e4b5c6f121e243409d5521b31d4ee59372.psf

@@ -115,9 +115,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/09/ppad
 [ Microsoft Access 2016 更新 (KB4011142) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/09/access-x-none_14c04fa2ef735c994fde4d6199d0e4e1522c09ef.cab
 
-[ Microsoft Excel 2016 更新 (KB4011166) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/09/excel-x-none_f61b1f0d5915360d653a54623d83875dc2d723da.cab
-
 [ Microsoft Office 2016 安全更新 (KB4011185) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/09/ose-x-none_1e3cf24f4859aaf37e733f03e35346664c2185cb.cab
 
@@ -127,8 +124,8 @@ http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/oart
 [ Microsoft PowerPoint 2016 更新 (KB4011219) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/powerpoint-x-none_cf82fe24a87333bec83e979c6ddafd52d67e548e.cab
 
-[ Microsoft Word 2016 安全更新 (KB4011222) 64 位版本 ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/10/word-x-none_06ade5c0663eb345f456cea14221f3095663850a.cab
+[ Microsoft Excel 2016 安全更新 (KB4011220) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/10/excel-x-none_b95970c0e49cf5d9202193fe85ba00a3fee9b52a.cab
 
 [ Microsoft Office 2016 更新 (KB4011223) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/msodll30-x-none_df2d1ad4482ce5367cb789d71a431727bb2531eb.cab
@@ -145,5 +142,11 @@ http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/proj
 [ Microsoft Outlook 2016 更新 (KB4011240) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/outlook-x-none_b0e3f38062889f0eac147ccbf0389c61b9b12b18.cab
 
+[ Microsoft Word 2016 安全更新 (KB4011242) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/10/word-x-none_930e5fce12706dc0c061038eccb5fb9230677745.cab
+
 [ Microsoft Office 2016 更新 (KB4011259) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/10/acewss-x-none_057a5e44450ad1a0195a0ca5237540402ab61944.cab
+
+[ Microsoft Office 2016 安全更新 (KB4011262) 64 位版本 ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/10/eqnedt32-x-none_74aadbf957cd12ddf9c4abea744b0033c14372f6.cab

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/11/07" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/11/14" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -2414,15 +2414,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4041685</kb>
-			<date>2017/10/06</date>
-			<size>292.68 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4041685-x64.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/windows8.1-kb4041685-x64_6899909a956b59afe33f4ba9ce28fd6f34a91f0b.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4041777</kb>
 			<date>2017/10/02</date>
 			<size>53.43 MB</size>
@@ -2432,13 +2423,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/windows8.1-kb4041777-x64_f2d8c103970302a8530d8a191214cbda3938cd7f.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4051613</kb>
-			<date>2017/10/24</date>
+			<kb>KB4048951</kb>
+			<date>2017/11/03</date>
 			<size>20.80 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4051613-x64.msu</name>
+			<name>Windows8.1-KB4048951-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows8.1-kb4051613-x64_a7b2eeb5ed13a16d9bf7088acc5855cb0d4d4b69.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows8.1-kb4048951-x64_bce86ce93a47bd7de74ec5aa981ba156c5f1e6dc.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4048958</kb>
+			<date>2017/11/01</date>
+			<size>293.08 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4048958-x64.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows8.1-kb4048958-x64_752378a781e1c600c37cf55245aeb47fd171a564.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

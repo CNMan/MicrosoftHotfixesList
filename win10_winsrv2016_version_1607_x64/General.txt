@@ -1,5 +1,5 @@
 KB3186497	http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/windows10.0-kb3186570-x64_f07b3b79f0ecd5b465de1046e93a87fa5eb6906c.msu
 KB3186568	http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/windows10.0-kb3186568-x64_086bd10d344a5bb614725135a1589cd784d1e768.msu
-KB4035631	http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/08/windows10.0-kb4035631-x64_59af92716539d98ed86622d6fea5a69ab90a4e76.msu
-KB4051613	http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows10.0-kb4051613-x64_baa8164a0d8f30d5979930999c39b91c1791ab2f.msu
-KB4052231	http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4052231-x64_463cd0a310785400394ca5648f6634f1244263ff.msu
+KB4048951	http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048951-x64_9239d872b1bcc0eab8bbe01fa608f7677652497d.msu
+KB4048953	http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_6fccbf0ed11c9dfbc8d13e50d81ccfe97d1e2b82.msu
+KB4049065	http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_f92abbe03d011154d52cf13be7fb60e2c6feb35b.msu

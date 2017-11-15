@@ -11,5 +11,4 @@ KB3125574-v4	http://download.windowsupdate.com/d/msdownload/update/software/updt
 KB3161102-v2	http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/08/windows6.1-kb3161102-v2-x64_5608a28abe55f59aed12ec690eb8033efecfcc4e.msu
 KB3172605	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/09/windows6.1-kb3172605-x64_2bb9bc55f347eee34b1454b50c436eb6fd9301fc.msu
 KB3179573	http://download.microsoft.com/download/2/C/6/2C6561A0-BB92-4BB0-8D13-12DEDD5EBA6F/Windows6.1-KB3179573-x64.msu
-KB3181988	http://download.microsoft.com/download/2/C/9/2C9F790D-553F-4FB7-AF4D-FFBC7EEA3CE5/Windows6.1-KB3181988-x64.msu
 KB3184143	http://download.microsoft.com/download/A/9/C/A9C8EEA1-A4C0-4339-A3B8-2924C16EF89D/Windows6.1-KB3184143-x64.msu
