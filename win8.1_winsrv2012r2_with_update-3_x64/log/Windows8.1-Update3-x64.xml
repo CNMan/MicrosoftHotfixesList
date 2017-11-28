@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/11/21" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/11/27" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1361,15 +1361,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/windows8.1-kb3186539-x64_b3e84d9ccb08528df0b5d3b28772a9ccfcfec8a0.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4055038</kb>
-			<date>2017/11/17</date>
-			<size>2.04 MB</size>
-			<category>General</category>
-			<name>Windows8.1-KB4055038-x64.msu</name>
-			<description>Update for Windows Kernel-Mode Driver (Win32k)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows8.1-kb4055038-x64_e3460792d886b28ecf3f7fcb4be0791fb75f0293.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB917607</kb>
 			<date>2015/05/11</date>
 			<size>924 KB</size>
@@ -2090,15 +2081,6 @@
 			<url>http://download.microsoft.com/download/4/D/9/4D9C7BB0-CB93-4EB3-A8D5-F83DC7160F73/Windows8.1-KB3046339-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3047234</kb>
-			<date>2015/03/14</date>
-			<size>5.13 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3047234-x64.msu</name>
-			<description>Vulnerability in Windows Hyper-V could allow denial of service: April 14, 2015</description>
-			<url>http://download.microsoft.com/download/A/4/A/A4A43C7F-BCF3-4909-862B-29B54611D3BF/Windows8.1-KB3047234-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3055642</kb>
 			<date>2015/04/13</date>
 			<size>386 KB</size>
@@ -2441,13 +2423,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows8.1-kb4048951-x64_bce86ce93a47bd7de74ec5aa981ba156c5f1e6dc.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4048958</kb>
-			<date>2017/11/01</date>
-			<size>293.08 MB</size>
+			<kb>KB4050946</kb>
+			<date>2017/11/20</date>
+			<size>295.42 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4048958-x64.msu</name>
+			<name>Windows8.1-KB4050946-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows8.1-kb4048958-x64_752378a781e1c600c37cf55245aeb47fd171a564.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows8.1-kb4050946-x64_76a7169f41c78e8200530d0d16f08ccb405f5645.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

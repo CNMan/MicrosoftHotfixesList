@@ -23,7 +23,7 @@ http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/micr
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-texttospeech-zh-cn-package_04b0bb422549cdc0109fc61f1b6387c5a10aa20d.cab
 
 [ 用于基于 x64 的系统的 Windows 10 Version 1607 更新程序 (KB4023057) ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/11/windows10.0-kb4023057-x64_e03d6ea91b7a785995bc0351c81ea88ce610f8b1.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/11/windows10.0-kb4023057-x64_bb12aa09ed415a98b3aedba3f1da3a8f4865989a.cab
 
 [ 用于基于 x64 的系统的 Windows 10 Version 1607 更新程序 (KB4033637) ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/windows10.0-kb4033637-x64_09ed30fbf734047d0e31f131b776eeca91ff09c5.cab
@@ -33,16 +33,16 @@ http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/wind
 [ 2017-适用于 Adobe Flash Player for Windows 10 Version 1607 的 11 安全更新，适用于基于 x64 的系统 (KB4048951) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048951-x64_959c531fc954def026519e23b0e62a5d99aa1058.cab
 
-[ 2017-适用于 Windows 10 Version 1607 的 11 累积更新，适合基于 x64 的系统 (KB4048953) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_8d78297c993c1804506156cfcf06c4d77bc0320e.cab
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64-express_2871aa91a3c9076fcd0e865b1805bdb45f4b4bd9.cab
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_1_d22489a8bff4b85da9ae547cbad0f54c7526b8c3.psf
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_2_57aa624e3c623c8b179af0901b48b53e2f614a92.psf
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_3_df859a18e1936615a1b52e6a004a41dc22c212c5.psf
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_4_962cbb43c8c7dcd3a763d40c39c3c8ff9b429631.psf
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048953-x64_5_e2d034522ace8a2073b89f186745be50e5d5cf2e.psf
-
 [ 2017-适用于 Windows 10 Version 1607 的 11 更新，适用于基于 x64 的系统 (KB4049065) ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_6dd6809631cd889c40dd457c04ee018e9b4a1f47.cab
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64-express_85ef18290e19317d86e3a7b4c868891b675bfa08.cab
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_f86680e4b5c6f121e243409d5521b31d4ee59372.psf
+
+[ 2017-适用于 Windows 10 Version 1607 的 11 累积更新，适合基于 x64 的系统 (KB4051033) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_c6d700248a41a67b077a3993b3efbb09ce35ced7.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64-express_fbca0fe631b4e6d04270b752ece39147f11420bc.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_1_08eb9e2a6c4df941e7b0b79f8b7143cbde209fe2.psf
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_2_580f6a52e6b3e6d1466eabdc2ba8e75d2cb3a463.psf
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_3_922f04b3edda1d7c543b96eadbaac395d1cc6e71.psf
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_4_974ea095990ed497b2191d48ba1faa379503c28e.psf
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_5_f31665bfced52593e9e178d1d8e7f17c162d3081.psf

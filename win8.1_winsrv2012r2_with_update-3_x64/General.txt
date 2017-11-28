@@ -94,4 +94,3 @@ KB3172614	http://download.windowsupdate.com/c/msdownload/update/software/updt/20
 KB3179574	https://download.microsoft.com/download/5/0/B/50BCAD57-700C-4C6F-8E7B-8191182FE52A/Windows8.1-KB3179574-x64.msu
 KB3184143	https://download.microsoft.com/download/E/4/9/E49A0E03-5A4D-4ECE-8E5D-C5559D2F72D6/Windows8.1-KB3184143-x64.msu
 KB3186539	http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/windows8.1-kb3186539-x64_b3e84d9ccb08528df0b5d3b28772a9ccfcfec8a0.msu
-KB4055038	http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows8.1-kb4055038-x64_e3460792d886b28ecf3f7fcb4be0791fb75f0293.msu
