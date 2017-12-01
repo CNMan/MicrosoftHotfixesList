@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/11/27" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/11/30" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB3133719</kb>
@@ -74,15 +74,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048951-x64_9239d872b1bcc0eab8bbe01fa608f7677652497d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4051033</kb>
-			<date>2017/11/18</date>
-			<size>1.16 GB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4051033-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_6e6a9d355d051a231e289a6d7931dd8f979f8d0c.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4049065</kb>
 			<date>2017/10/27</date>
 			<size>11.56 MB</size>
@@ -90,6 +81,15 @@
 			<name>Windows10.0-KB4049065-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1607</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_f92abbe03d011154d52cf13be7fb60e2c6feb35b.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4051033</kb>
+			<date>2017/11/18</date>
+			<size>1.16 GB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4051033-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_6e6a9d355d051a231e289a6d7931dd8f979f8d0c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4048951</kb>
@@ -101,15 +101,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048951-x64_6864405e430aac9596c9a781f74944e9c1054d38.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4055254</kb>
-			<date>2017/11/19</date>
-			<size>980.98 MB</size>
-			<category>General/15063</category>
-			<name>Windows10.0-KB4055254-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4055254-x64_e42797cac79dc4bc7927f0865730bfffb7ec1c5d.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4049011</kb>
 			<date>2017/10/27</date>
 			<size>11.75 MB</size>
@@ -117,6 +108,15 @@
 			<name>Windows10.0-KB4049011-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1703</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049011-x64_a58e4c340939a7b23b86055a18abdc9c59308094.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4055254</kb>
+			<date>2017/11/19</date>
+			<size>980.98 MB</size>
+			<category>General/15063</category>
+			<name>Windows10.0-KB4055254-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4055254-x64_e42797cac79dc4bc7927f0865730bfffb7ec1c5d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4048951</kb>
@@ -128,13 +128,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048951-x64_35f2f534365f41e09b9d707b220b1ea7b1379c1f.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4048955</kb>
-			<date>2017/11/01</date>
-			<size>373.19 MB</size>
+			<kb>KB4051963</kb>
+			<date>2017/11/27</date>
+			<size>493.14 MB</size>
 			<category>General/16299</category>
-			<name>Windows10.0-KB4048955-x64.msu</name>
+			<name>Windows10.0-KB4051963-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048955-x64_f214597fd57cd8284a363ada825a3d8ca16bf632.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051963-x64_92317bd805e6cb9101f4c8576c5a0a80a234446f.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4054022</kb>
+			<date>2017/11/22</date>
+			<size>13.02 MB</size>
+			<category>General/16299</category>
+			<name>Windows10.0-KB4054022-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1709</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/11/windows10.0-kb4054022-x64_da67baa74c09ad949d90823b25531731c3211184.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
