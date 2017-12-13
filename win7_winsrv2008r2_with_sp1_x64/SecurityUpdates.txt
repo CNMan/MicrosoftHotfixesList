@@ -8,4 +8,4 @@ KB3159398	http://download.microsoft.com/download/C/4/0/C4032BF7-2912-467F-A75A-5
 KB3161949	http://download.microsoft.com/download/A/F/C/AFCCFFB9-9352-4DE7-BBF6-24C4AC520327/Windows6.1-KB3161949-x64.msu
 KB3161958	http://download.microsoft.com/download/9/E/9/9E975F94-E40B-4CB8-8E8E-4661D7F75E3F/Windows6.1-KB3161958-x64.msu
 KB4040980	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/windows6.1-kb4040980-x64_83282fb5210091802984ead0d4175879056d602c.msu
-KB4051034	http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows6.1-kb4051034-x64_cb2abdb4cfd8d92af67411a0ac37044e91815b31.msu
+KB4054518	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/11/windows6.1-kb4054518-x64_290d02e1edc77bd5e809f867fc683d2ff4bf6df8.msu

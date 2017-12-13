@@ -50,5 +50,5 @@ KB3178539	http://download.windowsupdate.com/c/msdownload/update/software/secu/20
 KB3187754-v2	https://download.microsoft.com/download/9/8/D/98D25F92-4F2F-4F90-BF59-0E3D035EC8DC/Windows8.1-KB3187754-v2-x64.msu
 KB4014551	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu
 KB4041777	http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/windows8.1-kb4041777-x64_f2d8c103970302a8530d8a191214cbda3938cd7f.msu
-KB4048951	http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows8.1-kb4048951-x64_bce86ce93a47bd7de74ec5aa981ba156c5f1e6dc.msu
-KB4050946	http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows8.1-kb4050946-x64_76a7169f41c78e8200530d0d16f08ccb405f5645.msu
+KB4053577	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/12/windows8.1-kb4053577-x64_069ca18d46c623dec7bc674b4b55324b623499dd.msu
+KB4054519	http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows8.1-kb4054519-x64_ad78da956d88ae3cd98982c11730240668c0e93f.msu

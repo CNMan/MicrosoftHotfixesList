@@ -1,6 +1,5 @@
-[ Windows 恶意软件删除工具，适用于 Windows 8、8.1、10 和 Windows Server 2012、2012 R2、 2016 x64 版 - 2017 年 11 月 (KB890830) ]
-http://download.windowsupdate.com/d/msdownload/update/software/uprl/2017/11/windows-kb890830-x64-v5.54_ef22d1ab155e6463d05dd1a3d1bd6b069ffa2415.exe
-http://download.windowsupdate.com/d/msdownload/update/software/uprl/2017/11/windows-kb890830-x64-v5.54-delta_56816c5257a3fe942c70b10c96da3caa2a7ae1eb.exe
+[ Windows 恶意软件删除工具，适用于 Windows 8、8.1、10 和 Windows Server 2012、2012 R2、 2016 x64 版 - 2017 年 12 月 (KB890830) ]
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2017/12/windows-kb890830-x64-v5.55-delta_d2f8ba4a54704d52869bac616988f7f0efe11fc5.exe
 
 [ Update for Japanese Microsoft IME Postal Code Dictionary (KB2734786) ]
 http://download.windowsupdate.com/c/msdownload/update/software/defu/2014/10/imjpzp_7735dba7ac13b0023c33b7c988f6cbd690d7c60c.cab
@@ -25,24 +24,19 @@ http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/micr
 [ 用于基于 x64 的系统的 Windows 10 Version 1607 更新程序 (KB4023057) ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/11/windows10.0-kb4023057-x64_bb12aa09ed415a98b3aedba3f1da3a8f4865989a.cab
 
-[ 用于基于 x64 的系统的 Windows 10 Version 1607 更新程序 (KB4033637) ]
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/windows10.0-kb4033637-x64_09ed30fbf734047d0e31f131b776eeca91ff09c5.cab
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/windows10.0-kb4033637-x64-express_445cb94b7f4b1fb1600d06b1dd8471d3adbb6bc1.cab
-http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/08/windows10.0-kb4033637-x64_d156036eff9190e7cfd0da645a034799b223f152.psf
-
-[ 2017-适用于 Adobe Flash Player for Windows 10 Version 1607 的 11 安全更新，适用于基于 x64 的系统 (KB4048951) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/windows10.0-kb4048951-x64_959c531fc954def026519e23b0e62a5d99aa1058.cab
-
 [ 2017-适用于 Windows 10 Version 1607 的 11 更新，适用于基于 x64 的系统 (KB4049065) ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_6dd6809631cd889c40dd457c04ee018e9b4a1f47.cab
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64-express_85ef18290e19317d86e3a7b4c868891b675bfa08.cab
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_f86680e4b5c6f121e243409d5521b31d4ee59372.psf
 
-[ 2017-适用于 Windows 10 Version 1607 的 11 累积更新，适合基于 x64 的系统 (KB4051033) ]
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_c6d700248a41a67b077a3993b3efbb09ce35ced7.cab
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64-express_fbca0fe631b4e6d04270b752ece39147f11420bc.cab
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_1_08eb9e2a6c4df941e7b0b79f8b7143cbde209fe2.psf
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_2_580f6a52e6b3e6d1466eabdc2ba8e75d2cb3a463.psf
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_3_922f04b3edda1d7c543b96eadbaac395d1cc6e71.psf
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_4_974ea095990ed497b2191d48ba1faa379503c28e.psf
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/11/windows10.0-kb4051033-x64_5_f31665bfced52593e9e178d1d8e7f17c162d3081.psf
+[ 2017-适用于 Adobe Flash Player for Windows 10 Version 1607 的 12 安全更新，适用于基于 x64 的系统 (KB4053577) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/12/windows10.0-kb4053577-x64_74eec4a01f929e52e39d28ea39ea1371a3047637.cab
+
+[ 2017-适用于 Windows 10 Version 1607 的 12 累积更新，适合基于 x64 的系统 (KB4053579) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/12/windows10.0-kb4053579-x64_dbaff8fe4f6c2cc8391937858bcc7004ecc64877.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/12/windows10.0-kb4053579-x64-express_d4679ec52d136c1e0eb2854f630634309010744b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/12/windows10.0-kb4053579-x64_1_2e1e079d0e8a9ebe541298f3166bc095a244cb45.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/12/windows10.0-kb4053579-x64_2_b339e0dd98d68e9a4e248db03e4e89694e2d328d.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/12/windows10.0-kb4053579-x64_3_42a206fdc5fe3a42dcb4642c4f845657bc011cad.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/12/windows10.0-kb4053579-x64_4_20d181caaaf12f8639963f760cada8e96e887f66.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/12/windows10.0-kb4053579-x64_5_cc085d7375cf24dd151cee84be04d8e0ecad7f80.psf
