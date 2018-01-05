@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/12/12" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/02" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
-			<kb>KB4011142</kb>
-			<date>2017/09/13</date>
+			<kb>KB4011221</kb>
+			<date>2017/12/22</date>
 			<size>19.89 MB</size>
 			<category>General</category>
-			<name>access2016-kb4011142-fullfile-x64-glb.exe</name>
+			<name>access2016-kb4011221-fullfile-x64-glb.exe</name>
 			<description>Microsoft Access 2016</description>
-			<url>http://download.microsoft.com/download/A/1/3/A133E66C-DF7E-4703-8A97-B4A6E5D757FB/access2016-kb4011142-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/C/F/2CF01DF9-976F-47BB-9208-C3C94EABD0FC/access2016-kb4011221-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191924</kb>
@@ -29,13 +29,13 @@
 			<url>http://download.microsoft.com/download/8/B/D/8BD87795-E88D-4B4D-A14B-31123E273087/acewss2016-kb4011259-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011095</kb>
-			<date>2017/11/15</date>
+			<kb>KB4011644</kb>
+			<date>2017/12/18</date>
 			<size>5.61 MB</size>
-			<category>Security</category>
-			<name>chart2016-kb4011095-fullfile-x64-glb.exe</name>
+			<category>General</category>
+			<name>chart2016-kb4011644-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Office Chart)</description>
-			<url>http://download.microsoft.com/download/8/F/C/8FCA66B4-8B78-4F54-B41F-356EC3F324EC/chart2016-kb4011095-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/5/7/257863E8-A42C-44C3-817B-B3D5180A1A34/chart2016-kb4011644-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213551</kb>
@@ -45,15 +45,6 @@
 			<name>conv2016-kb3213551-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (File Format Converters)</description>
 			<url>http://download.microsoft.com/download/4/A/D/4AD4C749-912C-422D-93A9-7F70F7E287E1/conv2016-kb3213551-fullfile-x64-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB3191928</kb>
-			<date>2017/06/15</date>
-			<size>11.19 MB</size>
-			<category>General</category>
-			<name>csi2016-kb3191928-fullfile-x64-glb.exe</name>
-			<description>Microsoft Office 2016 (Document Cache)</description>
-			<url>http://download.microsoft.com/download/A/5/E/A5E4C644-BE38-42E8-94C8-6E6D9A0E6ABB/csi2016-kb3191928-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011031</kb>
@@ -182,13 +173,13 @@
 			<url>http://download.microsoft.com/download/4/6/8/468DFFE2-286E-4B2F-A761-74573768503B/kohhc2016-kb3191929-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011563</kb>
-			<date>2017/11/15</date>
-			<size>94.15 MB</size>
+			<kb>KB4011623</kb>
+			<date>2017/12/18</date>
+			<size>94.18 MB</size>
 			<category>General</category>
-			<name>lync2016-kb4011563-fullfile-x64-glb.exe</name>
+			<name>lync2016-kb4011623-fullfile-x64-glb.exe</name>
 			<description>Microsoft Skype for Business 2016</description>
-			<url>http://download.microsoft.com/download/D/D/E/DDE93A4C-08BB-49AD-94CF-09A64ED7E7B5/lync2016-kb4011563-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/2/0/2206C58E-ED51-4B92-B539-AAB40D51DDAF/lync2016-kb4011623-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3178666</kb>
@@ -209,31 +200,31 @@
 			<url>http://download.microsoft.com/download/1/9/1/191BC41E-62FC-467E-8150-A54EDA112883/mso2016-kb4011567-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3213542</kb>
-			<date>2017/11/15</date>
-			<size>3.36 MB</size>
+			<kb>KB4011630</kb>
+			<date>2017/12/18</date>
+			<size>3.37 MB</size>
 			<category>General</category>
-			<name>msodll202016-kb3213542-fullfile-x64-glb.exe</name>
+			<name>msodll202016-kb4011630-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll20-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/B/5/3/B53456C2-8529-40D3-898E-638EDEF3AC26/msodll202016-kb3213542-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/C/3/6/C3680C66-1F06-4CBC-BE07-456D48667D62/msodll202016-kb4011630-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011568</kb>
-			<date>2017/11/15</date>
-			<size>4.56 MB</size>
+			<kb>KB4011625</kb>
+			<date>2017/12/18</date>
+			<size>4.57 MB</size>
 			<category>General</category>
-			<name>msodll302016-kb4011568-fullfile-x64-glb.exe</name>
+			<name>msodll302016-kb4011625-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll30-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/C/F/F/CFF9FAEA-4D80-4F6B-BFF0-0F5C123B5A29/msodll302016-kb4011568-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/D/0/3D025406-CCC9-4981-8354-80DC8E9D7DEF/msodll302016-kb4011625-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011572</kb>
-			<date>2017/11/15</date>
+			<kb>KB4011631</kb>
+			<date>2017/12/18</date>
 			<size>9.15 MB</size>
 			<category>General</category>
-			<name>msodll40ui2016-kb4011572-fullfile-x64-glb.exe</name>
+			<name>msodll40ui2016-kb4011631-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll40ui-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/3/6/F/36F6CF68-F457-4AA6-9A6D-3631E16FC76A/msodll40ui2016-kb4011572-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/E/3/6/E36DCF64-73A4-430E-9E5B-107CE49F714F/msodll40ui2016-kb4011631-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011163</kb>
@@ -299,13 +290,13 @@
 			<url>http://download.microsoft.com/download/4/9/8/4981D484-E7A2-4039-964B-7E1AC3D9A51B/osetup2016-kb2920723-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3191923</kb>
-			<date>2017/08/15</date>
-			<size>5.79 MB</size>
+			<kb>KB4011146</kb>
+			<date>2017/12/18</date>
+			<size>5.80 MB</size>
 			<category>General</category>
-			<name>osfclient2016-kb3191923-fullfile-x64-glb.exe</name>
+			<name>osfclient2016-kb4011146-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Office Apps)</description>
-			<url>http://download.microsoft.com/download/D/2/4/D24D73E1-E9AC-467E-8F22-6AE990B3635D/osfclient2016-kb3191923-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/2/8/528D3B5C-8ECA-40A0-9AA8-C547A85EE996/osfclient2016-kb4011146-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2920724</kb>
@@ -353,13 +344,13 @@
 			<url>http://download.microsoft.com/download/A/4/0/A40A6125-786B-4BDA-B893-5E09D4D0D79E/policytips2016-kb3115081-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011219</kb>
-			<date>2017/10/18</date>
+			<kb>KB4011564</kb>
+			<date>2017/12/18</date>
 			<size>30.95 MB</size>
 			<category>General</category>
-			<name>powerpoint2016-kb4011219-fullfile-x64-glb.exe</name>
+			<name>powerpoint2016-kb4011564-fullfile-x64-glb.exe</name>
 			<description>Microsoft PowerPoint 2016</description>
-			<url>http://download.microsoft.com/download/C/3/8/C3896689-EF62-43EE-A8EF-30F579FFD402/powerpoint2016-kb4011219-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/5/3/A538C008-C357-4863-A4FB-C1B5D304D357/powerpoint2016-kb4011564-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011225</kb>
@@ -371,22 +362,22 @@
 			<url>http://download.microsoft.com/download/2/D/A/2DA25CFB-AA71-4656-89D3-E5B4D17455AD/ppaddin2016-kb4011225-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011573</kb>
-			<date>2017/11/15</date>
+			<kb>KB4011633</kb>
+			<date>2017/12/18</date>
 			<size>36.17 MB</size>
 			<category>General</category>
-			<name>project2016-kb4011573-fullfile-x64-glb.exe</name>
+			<name>project2016-kb4011633-fullfile-x64-glb.exe</name>
 			<description>Microsoft Project 2016</description>
-			<url>http://download.microsoft.com/download/6/0/7/6071A1EB-30B2-43F3-AABF-347BDAC64A1C/project2016-kb4011573-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/2/B/32BE03B1-EE4B-46AA-91D0-AA455B1D66F6/project2016-kb4011633-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3141509</kb>
-			<date>2017/02/02</date>
-			<size>17.38 MB</size>
+			<kb>KB3178662</kb>
+			<date>2017/12/18</date>
+			<size>19.58 MB</size>
 			<category>General</category>
-			<name>proof2016-kb3141509-fullfile-x64-glb.exe</name>
+			<name>proof2016-kb3178662-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Proofing Tools)</description>
-			<url>http://download.microsoft.com/download/A/4/3/A436763C-6D57-42E0-8200-5DA48746A1C2/proof2016-kb3141509-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/9/D/69DD7870-5ADA-40D2-88C3-004581B0B99F/proof2016-kb3178662-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2910954</kb>
@@ -407,13 +398,13 @@
 			<url>http://download.microsoft.com/download/2/F/4/2F449C08-2F32-4E95-9E08-9D11445F492B/publisher2016-kb3178696-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011036</kb>
-			<date>2017/09/14</date>
+			<kb>KB4011569</kb>
+			<date>2017/12/18</date>
 			<size>2.47 MB</size>
 			<category>General</category>
-			<name>riched202016-kb4011036-fullfile-x64-glb.exe</name>
+			<name>riched202016-kb4011569-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (RichEdit 8.0)</description>
-			<url>http://download.microsoft.com/download/5/C/0/5C0459ED-0780-4081-931A-00EB0B1F33DE/riched202016-kb4011036-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/E/2/3/E23754A1-D726-4110-962E-2985977A937A/riched202016-kb4011569-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3203471</kb>
@@ -452,13 +443,13 @@
 			<url>http://download.microsoft.com/download/B/B/E/BBEF112F-E736-43F7-B70F-5CF7BBF293C6/vbe72016-kb3115135-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011136</kb>
-			<date>2017/09/13</date>
+			<kb>KB4011215</kb>
+			<date>2017/12/18</date>
 			<size>66.82 MB</size>
 			<category>General</category>
-			<name>visio2016-kb4011136-fullfile-x64-glb.exe</name>
+			<name>visio2016-kb4011215-fullfile-x64-glb.exe</name>
 			<description>Microsoft Visio 2016</description>
-			<url>http://download.microsoft.com/download/2/E/2/2E29E560-E06D-4395-BD7B-668129085445/visio2016-kb4011136-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/4/E/24E1A0E5-94FE-40C8-B6DE-DFC5371FD621/visio2016-kb4011215-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011575</kb>
