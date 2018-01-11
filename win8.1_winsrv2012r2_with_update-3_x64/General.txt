@@ -29,7 +29,6 @@ KB3044673-v2	https://download.microsoft.com/download/2/0/C/20CEEC24-A5DF-454E-BA
 KB3045634	https://download.microsoft.com/download/A/9/F/A9F02AC4-6C58-4B07-BADB-AB8D39D5EB55/Windows8.1-KB3045634-x64.msu
 KB3045717	https://download.microsoft.com/download/1/8/D/18D56E7C-280B-4A70-8C39-D7524ACE0AD1/Windows8.1-KB3045717-x64.msu
 KB3045719	https://download.microsoft.com/download/5/D/7/5D722BDA-29F6-42A6-8E00-58091A68F7A9/Windows8.1-KB3045719-x64.msu
-KB3045992	https://download.microsoft.com/download/E/D/9/ED936208-1EA1-4AD6-B963-3B65F6525D51/Windows8.1-KB3045992-x64.msu
 KB3046480	https://download.microsoft.com/download/9/F/E/9FEB45D0-37D4-4E6E-A496-F4DBF4E92251/Windows8.1-KB3046480-x64.msu
 KB3046737	https://download.microsoft.com/download/B/F/8/BF823B79-7EAC-435B-A9D4-58944CC32182/Windows8.1-KB3046737-x64.msu
 KB3047254	https://download.microsoft.com/download/0/F/8/0F8360FB-458A-4F85-AA0B-AAFC9250B318/Windows8.1-KB3047254-x64.msu
@@ -56,7 +55,6 @@ KB3084905-v2	https://download.microsoft.com/download/1/E/8/1E80E9D2-E8D9-404E-92
 KB3087041	https://download.microsoft.com/download/C/A/1/CA1AB50D-A73C-4663-8317-2069E32BB934/Windows8.1-KB3087041-x64.msu
 KB3087137	https://download.microsoft.com/download/8/F/2/8F264D49-0328-4160-92EE-94488A8CDF22/Windows8.1-KB3087137-x64.msu
 KB3091297	https://download.microsoft.com/download/F/A/1/FA16F1CD-8BD7-4FFF-8AAD-DFA8EFF9B240/Windows8.1-KB3091297-x64.msu
-KB3092627	https://download.microsoft.com/download/5/0/B/50B9D6DA-31C4-4AED-B44D-BEA153E48385/Windows8.1-KB3092627-x64.msu
 KB3094486	https://download.microsoft.com/download/B/8/8/B881884D-67B3-4A17-8DC2-0F9BC0C64618/Windows8.1-KB3094486-x64.msu
 KB3095701	https://download.microsoft.com/download/8/5/2/8523F47C-BE72-499A-9F74-6A2A53C9F208/Windows8.1-KB3095701-x64.msu
 KB3099834	https://download.microsoft.com/download/D/E/B/DEBF90B1-245C-42F2-8244-85D703255224/Windows8.1-KB3099834-x64.msu
@@ -71,7 +69,6 @@ KB3115224-v2	https://download.microsoft.com/download/E/8/2/E8270844-2DBE-4883-A0
 KB3121261-v2	https://download.microsoft.com/download/9/F/8/9F83A775-6DFE-4AC2-A63F-870133523667/Windows8.1-KB3121261-v2-x64.msu
 KB3123245	https://download.microsoft.com/download/6/7/1/6717ED57-86DF-4DCA-A0BD-851841A32AD2/Windows8.1-KB3123245-x64.msu
 KB3126030	https://download.microsoft.com/download/3/6/5/3656222A-03A0-47E4-BF72-1CB64B2FBE74/Windows8.1-KB3126030-x64.msu
-KB3126033	https://download.microsoft.com/download/8/A/8/8A8A1F82-D664-4FAD-B7E1-EDC5FFFFD056/Windows8.1-KB3126033-x64.msu
 KB3128650	https://download.microsoft.com/download/9/5/4/95496A3D-A046-4FE7-A38C-928441F5B73D/Windows8.1-KB3128650-x64.msu
 KB3133690	https://download.microsoft.com/download/2/7/0/270AEB24-F2DD-429F-A599-5FCBB17BEEFF/Windows8.1-KB3133690-x64.msu
 KB3134815	https://download.microsoft.com/download/3/E/B/3EBAD613-533B-4EA1-ACAE-85B9AD0073E4/Windows8.1-KB3134815-x64.msu
@@ -86,11 +83,11 @@ KB3145384	http://download.windowsupdate.com/d/msdownload/update/software/updt/20
 KB3145432	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3145432-x64_0fa4848dcd80beb574452ecc7e0088606feb4994.msu
 KB3146604	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146604-x64_f435966967d258fc468c497a3e89b2b85e689ff1.msu
 KB3146751	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146751-x64_e4ef9c374e5474289e69951dd2a5d8745730b97a.msu
-KB3146978	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146978-x64_f26c91b40ce7b6e4ca8935d2958dcb767f1e70db.msu
 KB3147071	https://download.microsoft.com/download/4/9/7/497E178C-087A-40BF-9DEE-31760BFF6345/Windows8.1-KB3147071-x64.msu
 KB3161102	https://download.microsoft.com/download/4/7/C/47CA73B8-E168-4FE5-8FBC-A627C8BBE5B5/Windows8.1-KB3161102-x64.msu
 KB3166740	https://download.microsoft.com/download/C/8/0/C80D277F-D54A-4F26-993B-B29F2D39957D/Windows8.1-KB3166740-x64.msu
 KB3172614	http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/windows8.1-kb3172614-x64_e41365e643b98ab745c21dba17d1d3b6bb73cfcc.msu
 KB3179574	https://download.microsoft.com/download/5/0/B/50BCAD57-700C-4C6F-8E7B-8191182FE52A/Windows8.1-KB3179574-x64.msu
 KB3184143	https://download.microsoft.com/download/E/4/9/E49A0E03-5A4D-4ECE-8E5D-C5559D2F72D6/Windows8.1-KB3184143-x64.msu
-KB3186539	http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/windows8.1-kb3186539-x64_b3e84d9ccb08528df0b5d3b28772a9ccfcfec8a0.msu
+KB4033369	http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2017/11/windows8.1-kb4033369-x64_871c2f1b31b2cd2e34ac3c38c099d621f254a9f7.msu
+KB4054854	http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/01/windows8.1-kb4054854-x64_62091002e3525bd1cc15d5da2da4b039cc71e305.msu

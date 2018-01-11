@@ -1,3 +1,7 @@
+[ Windows 恶意软件删除工具，适用于 Windows 8、8.1、10 和 Windows Server 2012、2012 R2、 2016 x64 版 - 2018 年 1 月 (KB890830) ]
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2018/01/windows-kb890830-x64-v5.56_67c691cf664b117408db0273b43b5af41b6260a5.exe
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2018/01/windows-kb890830-x64-v5.56-delta_2e3fcc39b3bcf0411791948649c974c21e794889.exe
+
 [ Update for Japanese Microsoft IME Postal Code Dictionary (KB2734786) ]
 http://download.windowsupdate.com/c/msdownload/update/software/defu/2014/10/imjpzp_7735dba7ac13b0023c33b7c988f6cbd690d7c60c.cab
 
@@ -6,6 +10,14 @@ http://download.windowsupdate.com/d/msdownload/update/software/defu/2015/09/imjp
 
 [ Japanese Microsoft IME Standard Extended Dictionary 更新 (KB2734786) ]
 http://download.windowsupdate.com/d/msdownload/update/software/defu/2015/09/imjpnw_1b6f125e7c114cbd188c99d90dd9f09bd452dcf0.cab
+
+[ FeatureOnDemandDotNet35 - Windows 10 Version 1607 for AMD64-based Systems - (KB3180030) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/microsoft-windows-netfx3-ondemand-package_59d03aac2d8b4dfabb835cc3fad5dd094fabe24d.cab
+
+[ LanguageFeatureOnDemand - Windows 10 Version 1607 for AMD64-based Systems - (KB3180030) [zh-TW] ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-basic-zh-tw-package_49095822d2165c2a4b326aac8d98dafa52b80685.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-fonts-hant-package_6ab5e4050441a2f0867719f0dc7ea43306c1be77.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-ocr-zh-tw-package_0e2d8e2a33cb32ad163d6cb4fee6316da30c69ab.cab
 
 [ LanguageFeatureOnDemand - Windows 10 Version 1607 for AMD64-based Systems - (KB3180030) [zh-CN] ]
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/microsoft-windows-languagefeatures-basic-zh-cn-package_0f82e0dd3872a22a407bb3af1b566f5857ddaa7e.cab
@@ -23,8 +35,8 @@ http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/wind
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64-express_85ef18290e19317d86e3a7b4c868891b675bfa08.cab
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_f86680e4b5c6f121e243409d5521b31d4ee59372.psf
 
-[ 2017-适用于 Adobe Flash Player for Windows 10 Version 1607 的 12 安全更新，适用于基于 x64 的系统 (KB4053577) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/12/windows10.0-kb4053577-x64_74eec4a01f929e52e39d28ea39ea1371a3047637.cab
+[ 2018-适用于 Adobe Flash Player for Windows 10 Version 1607 的 01 安全更新，适用于基于 x64 的系统 (KB4056887) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows10.0-kb4056887-x64_8ad98c5fb14f2938536d794074a5b901b6eb0d72.cab
 
 [ 2018-适用于 Windows 10 Version 1607 的 01 累积更新，适合基于 x64 的系统 (KB4056890) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows10.0-kb4056890-x64_2d0216b0e6b49f457e5111fbd7d766984af3f6cf.cab

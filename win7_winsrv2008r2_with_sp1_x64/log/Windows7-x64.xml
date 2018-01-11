@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2017/12/12" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/09" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -119,40 +119,40 @@
 			<url>http://download.microsoft.com/download/E/8/D/E8DAA970-1036-447F-B5EA-716D4BA70EC5/Windows6.1-KB947821-v34-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3186499</kb>
-			<date>2017/07/18</date>
-			<size>5.00 KB</size>
-			<category>Additional/NET47</category>
-			<name>NDP47-Info-LangPacks.txt</name>
-			<description>Microsoft .NET Framework 4.7 Info and Language Packs</description>
-			<url>https://dl.dropboxusercontent.com/s/h0mar3w0u98w138/NDP47-Info-LangPacks.txt</url>
+			<kb>KB4033339</kb>
+			<date>2018/01/09</date>
+			<size>4.42 KB</size>
+			<category>Additional/NET471</category>
+			<name>NDP471-Info-LangPacks.txt</name>
+			<description>Microsoft .NET Framework 4.7.1 Info and Language Packs</description>
+			<url>https://dl.dropboxusercontent.com/s/wip6dbmd4hjc4wf/NDP471-Info-LangPacks.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB3186497</kb>
-			<date>2017/04/22</date>
-			<size>47.52 MB</size>
-			<category>Additional/NET47</category>
-			<name>NDP47-KB3186495-x86-x64-ENU.exe</name>
-			<description>Microsoft .NET Framework 4.7</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2017/05/ndp47-kb3186495-x86-x64-enu_e8626e9c79e498df13a551f56f8f617700d61acd.exe</url>
+			<kb>KB4033342</kb>
+			<date>2017/10/04</date>
+			<size>51.10 MB</size>
+			<category>Additional/NET471</category>
+			<name>NDP471-KB4033341-x86-x64-ENU.exe</name>
+			<description>Microsoft .NET Framework 4.7.1</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2017/11/ndp471-kb4033341-x86-x64-enu_9b2e090771d6a46b89dce8e27001fca204128c86.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4041778</kb>
-			<date>2017/10/02</date>
-			<size>40.16 MB</size>
-			<category>Additional/NET47</category>
-			<name>NDP47-KB4041778-x64.exe</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/ndp46-kb4041778-x64_1e36c362f9f6c4dfdef1a3c0abe4fb560ec7f25c.exe</url>
+			<kb>KB4054852</kb>
+			<date>2017/12/15</date>
+			<size>23.27 MB</size>
+			<category>Additional/NET471</category>
+			<name>NDP471-KB4054852-x64.exe</name>
+			<description>Microsoft .NET Framework 4.7.1 Update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/01/ndp471-kb4054852-x64_5857288c78a7aa49276f7d69942a818300bc5547.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4019990</kb>
-			<date>2017/04/28</date>
-			<size>2.74 MB</size>
-			<category>Additional/NET47</category>
-			<name>Windows6.1-KB4019990-x64.msu</name>
-			<description>Update for the D3DCompiler_47.dll component</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/05/windows6.1-kb4019990-x64_35cc310e81ef23439ba0ec1f11d7b71dd34adfe5.msu</url>
+			<kb>KB4055002</kb>
+			<date>2017/12/29</date>
+			<size>40.18 MB</size>
+			<category>Additional/NET471</category>
+			<name>NDP471-KB4055002-x64.exe</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7.1</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/ndp47-kb4055002-x64_6ede64fcd4922eaf426438e69ac6f8e28e185ea4.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -909,15 +909,6 @@
 			<name>Windows6.1-KB3080079-x64.msu</name>
 			<description>Update to add RDS support for TLS 1.1 and TLS 1.2 in Windows 7</description>
 			<url>http://download.microsoft.com/download/5/D/C/5DC203B7-62AF-403D-9D79-E89130736730/Windows6.1-KB3080079-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3092627</kb>
-			<date>2015/08/28</date>
-			<size>2.34 MB</size>
-			<category>Extra/WithoutKB3125574/#General</category>
-			<name>Windows6.1-KB3092627-x64.msu</name>
-			<description>September 2015 update for Windows XML core services</description>
-			<url>http://download.microsoft.com/download/2/6/5/265A92BD-1A85-4218-9FB9-1D8F908B75D9/Windows6.1-KB3092627-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3102429</kb>
@@ -1694,15 +1685,6 @@
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix390901/7600/free/442902_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2668395</kb>
-			<date>2012/03/08</date>
-			<size>225 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2668395-x64.msu</name>
-			<description>32-bit NetBIOS-based application stops responding in an x64-based version of Windows 7 or of Windows Server 2008 R2</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix395741/7600/free/445350_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2674705</kb>
 			<date>2012/03/13</date>
 			<size>512 KB</size>
@@ -1809,15 +1791,6 @@
 			<name>Windows6.1-KB2697479-x64.msu</name>
 			<description>Memory leak in Wmiapsrv.exe on a computer that is running Windows Server 2008, Windows Server 2008 R2, Windows Vista or Windows 7</description>
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396437/7600/free/446445_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2697738</kb>
-			<date>2012/08/23</date>
-			<size>992 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2697738-v3-x64.msu</name>
-			<description>"Unable to check the status of the firewall" error message when you run the "Enable-PSRemoting -force" PowerShell command on a Windows 7-based or Windows Server 2008 R2-based computer that uses Czech as the display language</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix397737/7600/free/446305_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2698888</kb>
@@ -2954,15 +2927,6 @@
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510743/7600/free/476920_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2983488</kb>
-			<date>2014/08/05</date>
-			<size>514 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2983488-x64.msu</name>
-			<description>DRIVER_POWER_STATE_FAILURE (9f) error when you use the native VPN connection and then shut down or suspend the computer</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510421/7600/free/477407_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2984640</kb>
 			<date>2014/07/28</date>
 			<size>274 KB</size>
@@ -3089,15 +3053,6 @@
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524102/7600/free/479186_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB3009621</kb>
-			<date>2014/10/17</date>
-			<size>321 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB3009621-x64.msu</name>
-			<description>VMware virtual machines freeze when they shut down or restart</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix525660/7600/free/479272_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB3009986</kb>
 			<date>2015/05/09</date>
 			<size>6.81 MB</size>
@@ -3141,24 +3096,6 @@
 			<name>Windows6.1-KB3016350-v3-x64.msu</name>
 			<description>Windows Photo Viewer cannot print single pages or custom page ranges</description>
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix526429/7600/free/480008_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB3019282</kb>
-			<date>2014/12/18</date>
-			<size>392 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB3019282-x64.msu</name>
-			<description>Print Spooler service crashes when you print documents on a network shared printer</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix527640/7600/free/480885_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB3027577</kb>
-			<date>2015/02/10</date>
-			<size>11.45 MB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB3027577-v2-x64.msu</name>
-			<description>0x0000007F Stop error when you run both data encryption and antivirus software</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix530466/7600/free/482249_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3029604</kb>
@@ -3701,15 +3638,6 @@
 			<url>http://download.microsoft.com/download/9/B/6/9B6373AF-6E54-4972-BB2B-99048F023632/Windows6.1-KB2972100-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB2973112</kb>
-			<date>2014/07/15</date>
-			<size>5.30 MB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB2973112-x64.msu</name>
-			<description>Security update for the .NET Framework 3.5.1: September 9, 2014</description>
-			<url>http://download.microsoft.com/download/8/2/A/82AADBAA-E72F-4C5C-ABC1-0F43CCB59FB9/Windows6.1-KB2973112-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB2973201</kb>
 			<date>2014/06/18</date>
 			<size>3.61 MB</size>
@@ -3825,15 +3753,6 @@
 			<name>Windows6.1-KB3011780-x64.msu</name>
 			<description>Vulnerability in Kerberos could allow elevation of privilege: November 18, 2014</description>
 			<url>http://download.microsoft.com/download/C/C/3/CC36FA0C-974B-444A-B2C6-8E368250E37F/Windows6.1-KB3011780-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3022777</kb>
-			<date>2014/12/06</date>
-			<size>583 KB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB3022777-x64.msu</name>
-			<description>Vulnerability in Network Location Awareness service could allow security feature bypass: January 13, 2015</description>
-			<url>http://download.microsoft.com/download/F/2/B/F2B99C41-B715-41B4-BCC6-AA9452CDBCAC/Windows6.1-KB3022777-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3023215</kb>
@@ -3962,15 +3881,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows6.1-kb3078601-x64_df86415b7464c74c360cc7d2f2d9a3e49509bcf1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3084135</kb>
-			<date>2015/08/05</date>
-			<size>454 KB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB3084135-x64.msu</name>
-			<description>Vulnerability in Task Scheduler Service could allow remote code execution: September 8, 2015</description>
-			<url>http://download.microsoft.com/download/3/5/5/3553449F-7393-44A2-A940-2E6A72AA6238/Windows6.1-KB3084135-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3086255</kb>
 			<date>2015/08/24</date>
 			<size>219 KB</size>
@@ -3996,15 +3906,6 @@
 			<name>Windows6.1-KB3097989-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: November 10, 2015</description>
 			<url>http://download.microsoft.com/download/6/3/B/63BA727C-1C1D-49AE-985F-B8F9B57614B4/Windows6.1-KB3097989-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3101722</kb>
-			<date>2015/10/13</date>
-			<size>700 KB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB3101722-x64.msu</name>
-			<description>Security update for NDIS to address elevation of privilege: November 10, 2015</description>
-			<url>http://download.microsoft.com/download/A/4/1/A411A667-8B15-44EC-92FF-D5AF797F93BE/Windows6.1-KB3101722-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3108371</kb>
@@ -4059,15 +3960,6 @@
 			<name>Windows6.1-KB3110329-x64.msu</name>
 			<description>Security update for Windows Media Foundation: January 12, 2016</description>
 			<url>http://download.microsoft.com/download/6/4/F/64F42EC7-F88B-41B7-99F6-BC83ECE4105E/Windows6.1-KB3110329-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3122648</kb>
-			<date>2015/12/08</date>
-			<size>1.80 MB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB3122648-x64.msu</name>
-			<description>Security update for the .NET Framework 3.5.1: February 9, 2016</description>
-			<url>http://download.microsoft.com/download/D/C/8/DC82FFD8-F3F8-4FD1-8D98-4545FE315B15/Windows6.1-KB3122648-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3126587</kb>
@@ -4223,15 +4115,6 @@
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix393288/7600/free/443207_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2688203</kb>
-			<date>2012/04/05</date>
-			<size>259 KB</size>
-			<category>Extra/WithoutKB3125574/_Features</category>
-			<name>Windows6.1-KB2688203-x64.msu</name>
-			<description>"0x000000D1" and "0x000000C9" Stop errors when Message Queuing moves unsent messages to a dead-letter queue</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399283/7600/free/446380_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2701239</kb>
 			<date>2012/04/27</date>
 			<size>239 KB</size>
@@ -4257,15 +4140,6 @@
 			<name>Windows6.1-KB2786454-x64.msu</name>
 			<description>Incorrect source IP address is returned in the SNMP response</description>
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix417164/7600/free/455850_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2824770</kb>
-			<date>2013/09/30</date>
-			<size>728 KB</size>
-			<category>Extra/WithoutKB3125574/_Features</category>
-			<name>Windows6.1-KB2824770-x64.msu</name>
-			<description>Delayed delivery when you send many messages in Message Queuing server</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix474787/7600/free/468881_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2870705</kb>
@@ -5213,22 +5087,22 @@
 			<url>http://download.microsoft.com/download/9/E/9/9E975F94-E40B-4CB8-8E8E-4661D7F75E3F/Windows6.1-KB3161958-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4040980</kb>
-			<date>2017/08/31</date>
-			<size>19.06 MB</size>
+			<kb>KB4054998</kb>
+			<date>2017/12/18</date>
+			<size>24.73 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4040980-x64.msu</name>
+			<name>Windows6.1-KB4054998-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/windows6.1-kb4040980-x64_83282fb5210091802984ead0d4175879056d602c.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows6.1-kb4054998-x64_fdb3bfc09e13ab94900d7feb7e04480c09a32ada.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4054518</kb>
-			<date>2017/11/29</date>
-			<size>204.69 MB</size>
+			<kb>KB4056894</kb>
+			<date>2018/01/02</date>
+			<size>231.10 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4054518-x64.msu</name>
+			<name>Windows6.1-KB4056894-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/11/windows6.1-kb4054518-x64_290d02e1edc77bd5e809f867fc683d2ff4bf6df8.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows6.1-kb4056894-x64_4ddb21dbf40b3a7c41e17b4bf04242d8b48a5ac3.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
