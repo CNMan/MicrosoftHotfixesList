@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/09" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/17" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB3133719</kb>
@@ -74,13 +74,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows10.0-kb4056887-x64_c790fc9c5b2d6f4946487f8fce064f91aba45bda.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4056890</kb>
-			<date>2018/01/02</date>
+			<kb>KB4057142</kb>
+			<date>2018/01/14</date>
 			<size>1.17 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4056890-x64.msu</name>
+			<name>Windows10.0-KB4057142-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows10.0-KB4056890-x64_1d0f5115833be3d736caeba63c97cfa42cae8c47.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/01/windows10.0-kb4057142-x64_0a8e8c498fbfa742048e911fa9c20bb33844c4c4.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4073562</kb>
@@ -94,7 +94,7 @@
 		<update extract="0">
 			<kb>KB4033418</kb>
 			<date>2018/01/09</date>
-			<size>9.00 KB</size>
+			<size>8.46 KB</size>
 			<category>General/15063</category>
 			<name>NET471-LanguagePackages.txt</name>
 			<description>Microsoft .NET Framework 4.7.1 Languages Packs</description>
@@ -119,13 +119,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows10.0-kb4056887-x64_8d14585b5615f3c636070fe569371f3d3f75c684.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4056891</kb>
-			<date>2018/01/02</date>
+			<kb>KB4057144</kb>
+			<date>2018/01/12</date>
 			<size>1.00 GB</size>
 			<category>General/15063</category>
-			<name>Windows10.0-KB4056891-x64.msu</name>
+			<name>Windows10.0-KB4057144-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows10.0-KB4056891-x64_59726a743b65a221849572757d660f624ed6ca9e.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows10.0-kb4057144-x64_7d8b395bfe62bd9961489763c15ba097ff296432.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4033393</kb>
@@ -155,13 +155,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows10.0-kb4056887-x64_1f812e471d170d2faaef2800ee3fae2de60ea1e9.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4056892</kb>
-			<date>2018/01/02</date>
-			<size>601.77 MB</size>
+			<kb>KB4073290</kb>
+			<date>2018/01/12</date>
+			<size>602.85 MB</size>
 			<category>General/16299</category>
-			<name>Windows10.0-KB4056892-x64.msu</name>
+			<name>Windows10.0-KB4073290-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows10.0-KB4056892-x64_a41a378cf9ae609152b505c40e691ca1228e28ea.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows10.0-kb4073290-x64_5119daced3c80d539e79cf52a5fb5bc9cea61eb8.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4058702</kb>

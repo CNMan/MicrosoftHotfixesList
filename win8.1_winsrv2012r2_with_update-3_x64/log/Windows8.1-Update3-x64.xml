@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/09" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/17" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1331,7 +1331,7 @@
 			<category>Hotfix</category>
 			<name>windows6.2-hypervintegrationservices-x64.cab</name>
 			<description>June 2017 Hyper-V guest integration components</description>
-			<url>https://fv3.failiem.lv/down.php?i=ct973vty&amp;n=windows6.2-hypervintegrationservices-x64.cab</url>
+			<url>http://abbodi1406.square7.ch/WU/windows6.2-hypervintegrationservices-x64.cab</url>
 		</update>
 		<update extract="1">
 			<kb>KB2908802</kb>
@@ -2279,13 +2279,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4055001</kb>
-			<date>2017/12/16</date>
-			<size>53.50 MB</size>
+			<kb>KB4054980</kb>
+			<date>2017/12/20</date>
+			<size>53.29 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4055001-x64.msu</name>
+			<name>Windows8.1-KB4054980-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows8.1-kb4055001-x64_82ab78415dd1350b2e28198cebaf407797e00332.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4054980-x64_793be8c35ea387b1c6c1565d84a760ee0a2fdd44.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4056887</kb>
@@ -2297,22 +2297,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows8.1-kb4056887-x64_22b8588f500373f224e0cfcb5bdd15f8d8c5f345.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4056895</kb>
-			<date>2018/01/04</date>
-			<size>306.94 MB</size>
+			<kb>KB4057401</kb>
+			<date>2018/01/12</date>
+			<size>307.48 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4056895-x64.msu</name>
+			<name>Windows8.1-KB4057401-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4056895-x64_0cdcb10e40aa019d4934d74cca93f6c36a11e07a.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4073576</kb>
-			<date>2018/01/09</date>
-			<size>111.27 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4073576-x64.msu</name>
-			<description>Fix for unbootable state for AMD devices</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4073576-x64_cc8904a7fb2b091e8d220b12a792b2d035e9a779.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4057401-x64_8d29b472be5466788675ee257355773a4fb4cbff.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

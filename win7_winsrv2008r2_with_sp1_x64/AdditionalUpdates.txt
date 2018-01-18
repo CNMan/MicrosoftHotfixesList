@@ -14,5 +14,5 @@ KB3046269	http://download.microsoft.com/download/8/6/6/866F143B-55ED-4308-81EA-2
 KB3177467	http://download.microsoft.com/download/2/4/7/247BDD8A-6AAE-4466-B137-3B2918D0CEAB/Windows6.1-KB3177467-x64.msu
 KB3191566	http://download.microsoft.com/download/6/F/5/6F5FF66C-6775-42B0-86C4-47D41F2DA187/Win7AndW2K8R2-KB3191566-x64.zip
 KB4033341	http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2017/11/ndp471-kb4033341-x86-x64-enu_9b2e090771d6a46b89dce8e27001fca204128c86.exe
+KB4054183	http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/ndp47-kb4054183-x64_a022ad5109b1208dff502d1be4477668b4fa258d.exe
 KB4054852	http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/01/ndp471-kb4054852-x64_5857288c78a7aa49276f7d69942a818300bc5547.exe
-KB4055002	http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/ndp47-kb4055002-x64_6ede64fcd4922eaf426438e69ac6f8e28e185ea4.exe
