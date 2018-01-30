@@ -49,3 +49,4 @@ KB4014551	http://download.windowsupdate.com/c/msdownload/update/software/secu/20
 KB4054980	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4054980-x64_793be8c35ea387b1c6c1565d84a760ee0a2fdd44.msu
 KB4056887	http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows8.1-kb4056887-x64_22b8588f500373f224e0cfcb5bdd15f8d8c5f345.msu
 KB4057401	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4057401-x64_8d29b472be5466788675ee257355773a4fb4cbff.msu
+KB4077561	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4077561-x64_4314281e18803089adaa14dae02d940bd95bfd88.msu

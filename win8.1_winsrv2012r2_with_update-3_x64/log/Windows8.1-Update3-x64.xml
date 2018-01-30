@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/17" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/24" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -2304,6 +2304,15 @@
 			<name>Windows8.1-KB4057401-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4057401-x64_8d29b472be5466788675ee257355773a4fb4cbff.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4077561</kb>
+			<date>2018/01/23</date>
+			<size>112.01 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4077561-x64.msu</name>
+			<description>Fix for stop errors caused by spurious interrupt on systems PIC and APIC interrupt controllers</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4077561-x64_4314281e18803089adaa14dae02d940bd95bfd88.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
