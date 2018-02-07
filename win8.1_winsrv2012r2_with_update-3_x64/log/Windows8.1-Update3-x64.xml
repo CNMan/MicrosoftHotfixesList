@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/24" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/06" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -2288,13 +2288,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4054980-x64_793be8c35ea387b1c6c1565d84a760ee0a2fdd44.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4056887</kb>
-			<date>2017/12/20</date>
-			<size>20.81 MB</size>
+			<kb>KB4074595</kb>
+			<date>2018/02/05</date>
+			<size>20.83 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4056887-x64.msu</name>
+			<name>Windows8.1-KB4074595-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows8.1-kb4056887-x64_22b8588f500373f224e0cfcb5bdd15f8d8c5f345.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows8.1-kb4074595-x64_12a95d152fce8b4aa2a23630a1658afb0a7d2305.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4057401</kb>

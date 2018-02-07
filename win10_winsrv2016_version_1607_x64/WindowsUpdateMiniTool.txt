@@ -35,9 +35,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/wind
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64-express_85ef18290e19317d86e3a7b4c868891b675bfa08.cab
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_f86680e4b5c6f121e243409d5521b31d4ee59372.psf
 
-[ 2018-适用于 Adobe Flash Player for Windows 10 Version 1607 的 01 安全更新，适用于基于 x64 的系统 (KB4056887) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows10.0-kb4056887-x64_8ad98c5fb14f2938536d794074a5b901b6eb0d72.cab
-
 [ 2018-适用于 Windows 10 Version 1607 的 01 累积更新，适合基于 x64 的系统 (KB4057142) ]
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/01/windows10.0-kb4057142-x64_fe15dfb50cc5a23bb60b28e5a369f5ced32bff4e.cab
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows10.0-kb4057142-x64-express_b345026345534c386e4ce96eb7ef98a401435ee3.cab
@@ -46,3 +43,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/wind
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows10.0-kb4057142-x64_3_bfe8521f8366aa76930c0c9b188b7d710c296e2e.psf
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows10.0-kb4057142-x64_4_0f251187f76a756754fed256d20a808671a8cd49.psf
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows10.0-kb4057142-x64_5_6ef2a36dcf4ba9e765b412e4fac41dc167d8356c.psf
+
+[ 2018-适用于 Adobe Flash Player for Windows 10 Version 1607 的 02 安全更新，适用于基于 x64 的系统 (KB4074595) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows10.0-kb4074595-x64_7618abcec7b2b36c64092009575e54ef76fc0aef.cab
