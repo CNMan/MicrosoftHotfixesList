@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/06" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/13" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -201,12 +201,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
-			<date>2017/10/12</date>
-			<size>5.80 MB</size>
+			<date>2018/01/22</date>
+			<size>5.90 MB</size>
 			<category>Additional/Windows10</category>
-			<name>windows8.1-kb2976978-v22-x64_46b5032eae14dd1d934a2d35ef39a49df24b64c8.msu</name>
+			<name>Windows8.1-KB2976978-v23-x64.msu</name>
 			<description>Compatibility update for upgrading Windows 8.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows8.1-kb2976978-v22-x64_46b5032eae14dd1d934a2d35ef39a49df24b64c8.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/01/windows8.1-kb2976978-v23-x64_97ef985013e730e8d81412c5a77b883bc6d6a99b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3044374</kb>
@@ -2207,15 +2207,6 @@
 			<url>http://download.microsoft.com/download/F/0/9/F09B0ECE-22F5-42C8-985D-5ECF9C4C39C6/Windows8.1-KB3161949-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3161958</kb>
-			<date>2016/05/06</date>
-			<size>720 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3161958-x64.msu</name>
-			<description>Security update for Windows Search Component: June 14, 2016</description>
-			<url>http://download.microsoft.com/download/7/1/E/71E2DACA-6729-4794-97F3-65346177F43F/Windows8.1-KB3161958-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3162343</kb>
 			<date>2016/05/06</date>
 			<size>380 KB</size>
@@ -2297,22 +2288,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows8.1-kb4074595-x64_12a95d152fce8b4aa2a23630a1658afb0a7d2305.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4057401</kb>
-			<date>2018/01/12</date>
-			<size>307.48 MB</size>
+			<kb>KB4074594</kb>
+			<date>2018/02/11</date>
+			<size>310.75 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4057401-x64.msu</name>
+			<name>Windows8.1-KB4074594-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4057401-x64_8d29b472be5466788675ee257355773a4fb4cbff.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4077561</kb>
-			<date>2018/01/23</date>
-			<size>112.01 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4077561-x64.msu</name>
-			<description>Fix for stop errors caused by spurious interrupt on systems PIC and APIC interrupt controllers</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4077561-x64_4314281e18803089adaa14dae02d940bd95bfd88.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/02/windows8.1-kb4074594-x64_0fe335abd0bf462dedb4dc867eb82cd7f575fec7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

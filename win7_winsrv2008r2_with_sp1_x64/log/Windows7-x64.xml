@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/19" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/13" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -210,12 +210,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB2952664</kb>
-			<date>2017/10/20</date>
-			<size>6.46 MB</size>
+			<date>2018/01/22</date>
+			<size>6.55 MB</size>
 			<category>Additional/Windows10</category>
-			<name>windows6.1-kb2952664-v23-x64_3d7183f85e23d0173ac8cc5d12d66521e61d238f.msu</name>
+			<name>Windows6.1-KB2952664-v24-x64.msu</name>
 			<description>Compatibility update for upgrading Windows 7</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/windows6.1-kb2952664-v23-x64_3d7183f85e23d0173ac8cc5d12d66521e61d238f.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/01/windows6.1-kb2952664-v24-x64_8e62212ff6bf2c4e47162f6afcee525a71e85445.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3021917</kb>
@@ -1098,15 +1098,6 @@
 			<name>Windows6.1-KB2477932-x64.msu</name>
 			<description>You cannot deploy advanced security audit policy settings to Windows Server 2008 R2 Server Core</description>
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix359206/7600/free/427098_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2480641</kb>
-			<date>2010/12/20</date>
-			<size>2.21 MB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2480641-v2-x64.msu</name>
-			<description>XPS Viewer does not handle permissions for a group named "Anyone" correctly in Windows 7 or in Windows Server 2008 R2</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix347599/7600/free/425400_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2480994</kb>
@@ -2925,15 +2916,6 @@
 			<name>Windows6.1-KB2981841-x64.msu</name>
 			<description>Internet Explorer freezes for several minutes and loads websites slowly in Windows 7</description>
 			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510743/7600/free/476920_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2984640</kb>
-			<date>2014/07/28</date>
-			<size>274 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2984640-x64.msu</name>
-			<description>Stop Error 0x0000000A when you try to resume a Windows 7-based computer from sleep or hibernation</description>
-			<url>http://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix512976/7600/free/477190_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2987452</kb>
@@ -5078,15 +5060,6 @@
 			<url>http://download.microsoft.com/download/A/F/C/AFCCFFB9-9352-4DE7-BBF6-24C4AC520327/Windows6.1-KB3161949-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3161958</kb>
-			<date>2016/05/12</date>
-			<size>541 KB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB3161958-x64.msu</name>
-			<description>Security update for Windows Search Component: June 14, 2016</description>
-			<url>http://download.microsoft.com/download/9/E/9/9E975F94-E40B-4CB8-8E8E-4661D7F75E3F/Windows6.1-KB3161958-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4054998</kb>
 			<date>2017/12/18</date>
 			<size>24.73 MB</size>
@@ -5096,13 +5069,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows6.1-kb4054998-x64_fdb3bfc09e13ab94900d7feb7e04480c09a32ada.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4057400</kb>
-			<date>2018/01/17</date>
-			<size>231.44 MB</size>
+			<kb>KB4074598</kb>
+			<date>2018/02/11</date>
+			<size>233.89 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4057400-x64.msu</name>
+			<name>Windows6.1-KB4074598-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows6.1-kb4057400-x64_56c23d8d8ebda0a9345166a786aef250d95e1733.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/02/windows6.1-kb4074598-x64_87a0c86bfb4c01d9c32d2cd3717b73c1b83cb798.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

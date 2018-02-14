@@ -38,7 +38,6 @@ KB3155784	https://download.microsoft.com/download/B/5/8/B58EA850-C7EC-4176-B2E2-
 KB3156059	https://download.microsoft.com/download/3/0/A/30AE0A1B-917B-43F2-B475-5C16D48A7CB8/Windows8.1-KB3156059-x64.msu
 KB3159398	https://download.microsoft.com/download/8/8/D/88DA97CB-4372-41D0-93B4-C18EB61345FA/Windows8.1-KB3159398-x64.msu
 KB3161949	https://download.microsoft.com/download/6/E/C/6ECCE92A-1DA2-41A7-866F-8DE80AE1524F/Windows8.1-KB3161949-x64.msu
-KB3161958	https://download.microsoft.com/download/C/5/1/C513C90A-B225-4104-B2A6-47A64959440E/Windows8.1-KB3161958-x64.msu
 KB3162343	https://download.microsoft.com/download/8/2/B/82B7A728-3B9A-42E0-8435-A7AFF535F219/Windows8.1-KB3162343-x64.msu
 KB3164294	https://download.microsoft.com/download/E/B/1/EB1EA564-1F6C-4132-AEA0-D195B634A4FA/Windows8.1-KB3164294-x64.msu
 KB3172729	https://download.microsoft.com/download/2/0/C/20CFE970-1686-498D-B7FB-CE038176DC43/Windows8.1-KB3172729-x64.msu
@@ -47,6 +46,5 @@ KB3178539	http://download.windowsupdate.com/c/msdownload/update/software/secu/20
 KB3187754-v2	https://download.microsoft.com/download/9/8/D/98D25F92-4F2F-4F90-BF59-0E3D035EC8DC/Windows8.1-KB3187754-v2-x64.msu
 KB4014551	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu
 KB4054980	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4054980-x64_793be8c35ea387b1c6c1565d84a760ee0a2fdd44.msu
-KB4057401	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4057401-x64_8d29b472be5466788675ee257355773a4fb4cbff.msu
+KB4074594	http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/02/windows8.1-kb4074594-x64_0fe335abd0bf462dedb4dc867eb82cd7f575fec7.msu
 KB4074595	http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows8.1-kb4074595-x64_12a95d152fce8b4aa2a23630a1658afb0a7d2305.msu
-KB4077561	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4077561-x64_4314281e18803089adaa14dae02d940bd95bfd88.msu
