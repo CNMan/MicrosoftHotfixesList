@@ -1,6 +1,5 @@
 KB2898850	https://download.microsoft.com/download/C/6/9/C690CC33-18F7-405D-B18A-0A8E199E531C/Windows8.1-KB2898850-x64.msu
 KB3000483	https://download.microsoft.com/download/A/2/E/A2E8CE6F-FEB8-4E8A-B02B-D2D75B88D966/Windows8.1-KB3000483-x64.msu
-KB3004361	https://download.microsoft.com/download/1/2/2/122F0D93-11E4-4FE5-960E-C9B1B6CF93AC/Windows8.1-KB3004361-x64.msu
 KB3004365-v2	https://download.microsoft.com/download/B/D/9/BD938738-53B9-4671-8EC5-8BFF91990BDA/Windows8.1-KB3004365-v2-x64.msu
 KB3019978	https://download.microsoft.com/download/B/8/2/B82D2464-2530-49AE-9520-797BCD95BAF6/Windows8.1-KB3019978-x64.msu
 KB3020393	https://download.microsoft.com/download/5/8/E/58E30250-611A-452A-9D85-CF1C8264EDAA/Windows8.1-KB3020393-x64.msu
@@ -45,6 +44,6 @@ KB3175024	https://download.microsoft.com/download/1/1/7/11757669-2E56-4FFA-B624-
 KB3178539	http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/09/windows8.1-kb3178539-x64_60a85967f423ac37429757d8fbf7212540dea922.msu
 KB3187754-v2	https://download.microsoft.com/download/9/8/D/98D25F92-4F2F-4F90-BF59-0E3D035EC8DC/Windows8.1-KB3187754-v2-x64.msu
 KB4014551	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu
-KB4054980	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4054980-x64_793be8c35ea387b1c6c1565d84a760ee0a2fdd44.msu
-KB4074594	http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/02/windows8.1-kb4074594-x64_0fe335abd0bf462dedb4dc867eb82cd7f575fec7.msu
+KB4073700	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/02/windows8.1-kb4073700-x64_e223f5398b67f7aa5b005b3247eaee6dad91c9e6.msu
 KB4074595	http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows8.1-kb4074595-x64_12a95d152fce8b4aa2a23630a1658afb0a7d2305.msu
+KB4075212	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/02/windows8.1-kb4075212-x64_519ce01b4d822730602710fb73acfd449123f221.msu

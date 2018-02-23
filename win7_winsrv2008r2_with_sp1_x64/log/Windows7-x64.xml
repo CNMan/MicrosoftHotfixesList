@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/13" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/22" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -146,13 +146,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/01/ndp471-kb4054852-x64_5857288c78a7aa49276f7d69942a818300bc5547.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4054981</kb>
-			<date>2018/01/17</date>
-			<size>40.62 MB</size>
+			<kb>KB4073701</kb>
+			<date>2018/02/07</date>
+			<size>40.78 MB</size>
 			<category>Additional/NET471</category>
-			<name>NDP471-KB4054981-x64.exe</name>
+			<name>NDP471-KB4073701-x64.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/01/ndp47-kb4054981-x64_d914b57cbeb1bc28c01e173fd612a05de3521c7b.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/02/ndp47-kb4073701-x64_8d3084d3e898d99b8898b1a938d0cacb2977e2d6.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -3701,15 +3701,6 @@
 			<url>http://download.microsoft.com/download/0/6/5/0650766E-8E73-4E78-B0D2-90DEB578E05B/Windows6.1-KB3003743-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3004361</kb>
-			<date>2014/12/08</date>
-			<size>521 KB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB3004361-x64.msu</name>
-			<description>Vulnerability in Group Policy could allow security feature bypass: February 10, 2015</description>
-			<url>http://download.microsoft.com/download/4/E/C/4EC83CC7-1CF7-46C0-80FE-627412DDAC8C/Windows6.1-KB3004361-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3004375</kb>
 			<date>2015/01/15</date>
 			<size>11.63 MB</size>
@@ -5069,13 +5060,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows6.1-kb4054998-x64_fdb3bfc09e13ab94900d7feb7e04480c09a32ada.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4074598</kb>
-			<date>2018/02/11</date>
-			<size>233.89 MB</size>
+			<kb>KB4075211</kb>
+			<date>2018/02/16</date>
+			<size>234.16 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4074598-x64.msu</name>
+			<name>Windows6.1-KB4075211-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/02/windows6.1-kb4074598-x64_87a0c86bfb4c01d9c32d2cd3717b73c1b83cb798.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/02/windows6.1-kb4075211-x64_9646e0d8f06be65f567e554cf7e985b35d5ae269.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

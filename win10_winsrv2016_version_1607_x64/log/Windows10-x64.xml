@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/13" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/21" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB3133719</kb>
@@ -74,15 +74,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/01/windows10.0-kb4073562-x64_8500be3b8bb4df5571ddb0b5c3a285b117d6205a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4074590</kb>
-			<date>2018/02/13</date>
-			<size>1.10 GB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4074590-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows10.0-kb4074590-x64_44a8151ce3f68ca2ca8c30ef30e1d0626300d1ea.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4074595</kb>
 			<date>2018/02/02</date>
 			<size>20.83 MB</size>
@@ -90,6 +81,15 @@
 			<name>windows10.0-kb4074595-x64_cce072db9687a1e719d7ce663650febdadceb751.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1607</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows10.0-kb4074595-x64_cce072db9687a1e719d7ce663650febdadceb751.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4077525</kb>
+			<date>2018/02/16</date>
+			<size>1.11 GB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4077525-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/02/windows10.0-kb4077525-x64_c12a49a72b532c0403d400c6d637265dc0a1a9cd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4033418</kb>
@@ -101,6 +101,15 @@
 			<url>https://dl.dropboxusercontent.com/s/cfg7fj76gj2qsro/NET471-LanguagePackages.txt</url>
 		</update>
 		<update extract="0">
+			<kb>KB4033393</kb>
+			<date>2017/10/04</date>
+			<size>68.09 MB</size>
+			<category>General/15063</category>
+			<name>Windows10.0-KB4033393-x64.msu</name>
+			<description>Microsoft .NET Framework 4.7.1</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2017/11/windows10.0-kb4033393-x64_2a569b5822abf71975ca7f9b0c8dd3791f326f40.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4049011</kb>
 			<date>2017/10/27</date>
 			<size>11.75 MB</size>
@@ -108,6 +117,15 @@
 			<name>Windows10.0-KB4049011-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1703</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049011-x64_a58e4c340939a7b23b86055a18abdc9c59308094.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4054855</kb>
+			<date>2017/12/15</date>
+			<size>34.58 MB</size>
+			<category>General/15063</category>
+			<name>Windows10.0-KB4054855-x64.msu</name>
+			<description>Microsoft .NET Framework 4.7.1 Update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/01/windows10.0-kb4054855-x64_a36af872bda88e39b3b2182bc26f78c6ce3aa8ad.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4074592</kb>
@@ -126,24 +144,6 @@
 			<name>windows10.0-kb4074595-x64_e2a24c298d059c4aed6bc8388b4d6c2685f3b42d.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1703</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows10.0-kb4074595-x64_e2a24c298d059c4aed6bc8388b4d6c2685f3b42d.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4033393</kb>
-			<date>2017/10/04</date>
-			<size>68.09 MB</size>
-			<category>General/15063</category>
-			<name>Windows10-KB4033393-x64.msu</name>
-			<description>Microsoft .NET Framework 4.7.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2017/11/windows10.0-kb4033393-x64_2a569b5822abf71975ca7f9b0c8dd3791f326f40.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4054855</kb>
-			<date>2017/12/15</date>
-			<size>34.58 MB</size>
-			<category>General/15063</category>
-			<name>Windows10-KB4054855-x64.msu</name>
-			<description>Microsoft .NET Framework 4.7.1 Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/01/windows10.0-kb4054855-x64_a36af872bda88e39b3b2182bc26f78c6ce3aa8ad.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4074588</kb>

@@ -2,5 +2,5 @@ KB4033393	http://download.windowsupdate.com/d/msdownload/update/software/ftpk/20
 KB4033395	http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2017/11/windows10.0-kb4033395-x64_d522e182087910ba40062b1ab9cc3e49364e55e8.msu
 KB4049065	http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_f92abbe03d011154d52cf13be7fb60e2c6feb35b.msu
 KB4073562	http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/01/windows10.0-kb4073562-x64_8500be3b8bb4df5571ddb0b5c3a285b117d6205a.msu
-KB4074590	http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows10.0-kb4074590-x64_44a8151ce3f68ca2ca8c30ef30e1d0626300d1ea.msu
 KB4074595	http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows10.0-kb4074595-x64_cce072db9687a1e719d7ce663650febdadceb751.msu
+KB4077525	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/02/windows10.0-kb4077525-x64_c12a49a72b532c0403d400c6d637265dc0a1a9cd.msu

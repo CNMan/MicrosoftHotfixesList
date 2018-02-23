@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/13" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/22" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -432,15 +432,6 @@
 			<name>Windows8.1-KB3092002-v3-x64.msu</name>
 			<description>Set-Acl cmdlet fails although delegated admins have "Change Permissions" enabled</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/11/windows8.1-kb3092002-v3-x64_a764e373325b44a2677e284e87169bcf729928f9.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3092005</kb>
-			<date>2015/09/05</date>
-			<size>2.98 MB</size>
-			<category>Extra/RSAT/Updates</category>
-			<name>Windows8.1-KB3092005-x64.msu</name>
-			<description>Group Policy settings are set back to factory settings in GPMC</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/10/windows8.1-kb3092005-x64_6b40ebb408c718eb3cf4d4c321337c5abdf3cec2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3092688</kb>
@@ -1892,15 +1883,6 @@
 			<url>http://download.microsoft.com/download/A/2/E/A2E8CE6F-FEB8-4E8A-B02B-D2D75B88D966/Windows8.1-KB3000483-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3004361</kb>
-			<date>2014/12/09</date>
-			<size>581 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3004361-x64.msu</name>
-			<description>Vulnerability in Group Policy could allow security feature bypass: February 10, 2015</description>
-			<url>http://download.microsoft.com/download/1/2/2/122F0D93-11E4-4FE5-960E-C9B1B6CF93AC/Windows8.1-KB3004361-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3004365</kb>
 			<date>2015/05/31</date>
 			<size>3.00 MB</size>
@@ -2270,13 +2252,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4054980</kb>
-			<date>2017/12/20</date>
-			<size>53.29 MB</size>
+			<kb>KB4073700</kb>
+			<date>2018/02/02</date>
+			<size>51.81 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4054980-x64.msu</name>
+			<name>Windows8.1-KB4073700-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/01/windows8.1-kb4054980-x64_793be8c35ea387b1c6c1565d84a760ee0a2fdd44.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/02/windows8.1-kb4073700-x64_e223f5398b67f7aa5b005b3247eaee6dad91c9e6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4074595</kb>
@@ -2288,13 +2270,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windows8.1-kb4074595-x64_12a95d152fce8b4aa2a23630a1658afb0a7d2305.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4074594</kb>
-			<date>2018/02/11</date>
-			<size>310.75 MB</size>
+			<kb>KB4075212</kb>
+			<date>2018/02/20</date>
+			<size>317.10 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4074594-x64.msu</name>
+			<name>Windows8.1-KB4075212-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/02/windows8.1-kb4074594-x64_0fe335abd0bf462dedb4dc867eb82cd7f575fec7.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/02/windows8.1-kb4075212-x64_519ce01b4d822730602710fb73acfd449123f221.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
