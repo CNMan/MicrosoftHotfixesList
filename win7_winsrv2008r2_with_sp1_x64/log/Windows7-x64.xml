@@ -210,12 +210,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB2952664</kb>
-			<date>2018/01/22</date>
-			<size>6.55 MB</size>
+			<date>2018/02/14</date>
+			<size>6.54 MB</size>
 			<category>Additional/Windows10</category>
-			<name>Windows6.1-KB2952664-v24-x64.msu</name>
+			<name>windows6.1-kb2952664-v24-x64_d5c5ddff818eff5b5739b40713e850fa5a147c5f.msu</name>
 			<description>Compatibility update for upgrading Windows 7</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/01/windows6.1-kb2952664-v24-x64_8e62212ff6bf2c4e47162f6afcee525a71e85445.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/02/windows6.1-kb2952664-v24-x64_d5c5ddff818eff5b5739b40713e850fa5a147c5f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3021917</kb>

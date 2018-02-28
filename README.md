@@ -2,11 +2,11 @@
 
 http://update.microsoft.com/windowsupdate
 
-#### Microsof Update
+#### Microsoft Update
 
 http://update.microsoft.com/microsoftupdate
 
-#### Microsoft®Update Catalog
+#### Microsoft Update Catalog
 
 http://www.catalog.update.microsoft.com
 

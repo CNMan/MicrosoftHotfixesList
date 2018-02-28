@@ -1,4 +1,4 @@
-Visual Studio 2005 (VC++ 8.0) 8.0.61001
+Visual Studio 2005 (VC++ 8.0) 8.0.61001/8.0.61000
 
 https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x64.EXE
 
@@ -72,7 +72,7 @@ https://download.microsoft.com/download/2/D/F/2DFCD7D9-821C-4637-8F94-3FAD73BDD1
 
 XNA Framework Redistribuatable 4.0
 
-https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi
+https://download.microsoft.com/download/5/3/A/53A804C8-EC78-43CD-A0F0-2FB4D45603D3/xnafx40_redist.msi
 
 DirectX End-User Runtimes (June 2010)
 

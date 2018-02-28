@@ -17,7 +17,6 @@ start /wait ndp40-kb2901110-v2-x86_9e9c5c03aefbf129dda5f03906d920c5b5f2b36f.exe 
 start /wait ndp40-kb2931365-x86_99d59cfc6e59f2c5d406b61f06172dca0a89286d.exe /q /norestart
 start /wait ndp40-kb2972215-x86_e29cbc6c4dd603c8965aca1ce75528fe1b345a30.exe /q /norestart
 start /wait ndp40-kb2894842-v2-x86_5ce3160ba23ace5b2137c87a1ded990e4503b3f1.exe /q /norestart
-start /wait ndp40-kb3122653-x86_8c9689520d867dbf0521e252e4229c6f212a20c4.exe /q /norestart
 start /wait ndp40-kb3135993-x86_d7f3f1d40b58935f52381123d60f19b22cfcc872.exe /q /norestart
 start /wait ndp40-kb3142029-x86_78ec90fdf9239c367f154a347cf026a1c27f3e9a.exe /q /norestart
 start /wait ndp40-kb3127225-x86_6086071d07278955e22366990a3f8ffbfdccda85.exe /q /norestart
@@ -26,4 +25,6 @@ start /wait ndp40-kb3189017-x86_3100ea6231780b202c1bbc764cd460a8d84bc542.exe /q 
 start /wait ndp40-kb4014570-x86_da912e6659c218306c1850642966ae13ac114051.exe /q /norestart
 start /wait ndp40-kb4014605-x86_e9b8f1c169c032585d0a74e16aabbbf7d227417d.exe /q /norestart
 start /wait ndp40-kb4021915-x86_e520b6b35c1e6461d73ace5c130ab7ba077296a6.exe /q /norestart
+start /wait ndp40-kb4040962-x86_976f8849c17de7a0cab333c0081e9858a6407a85.exe /q /norestart
+start /wait ndp40-kb4054173-x86_a223c7d77b86086e3fd412e816edc47e31458f96.exe /q /norestart
 shutdown -r

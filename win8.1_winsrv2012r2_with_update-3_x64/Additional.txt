@@ -5,7 +5,7 @@ KB2966828	https://download.microsoft.com/download/4/3/F/43F0465E-45AC-4901-8CE2-
 KB2968296	https://download.microsoft.com/download/8/8/C/88C26123-A81A-45A9-8411-BEBEA6D00C24/Windows8.1-KB2968296-x64.msu
 KB2972103-v2	https://download.microsoft.com/download/8/3/F/83F4E6D4-A590-4FC5-ACE3-0615D5A640FF/Windows8.1-KB2972103-v2-x64.msu
 KB2973201	https://download.microsoft.com/download/5/C/A/5CAD372C-42AA-4F5A-AFCA-CE5656D6D4ED/Windows8.1-KB2973201-x64.msu
-KB2976978-v23	http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/01/windows8.1-kb2976978-v23-x64_97ef985013e730e8d81412c5a77b883bc6d6a99b.msu
+KB2976978-v23	http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/02/windows8.1-kb2976978-v23-x64_4f8d5c485d7dd3f53128648bd07904a261aeabf5.msu
 KB2978122	https://download.microsoft.com/download/6/F/4/6F4C5155-934B-4DEC-87AE-62EB7A00069D/Windows8.1-KB2978122-x64.msu
 KB2990967	https://download.microsoft.com/download/2/A/F/2AFFA0E8-B4BA-4B3A-A872-A44736940A63/Windows8.1-KB2990967-x64.msu
 KB3000059-v3	hotfix

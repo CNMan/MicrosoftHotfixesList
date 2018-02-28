@@ -24,7 +24,7 @@
 
 [Windows Installer 4.5](https://download.microsoft.com/download/2/6/1/261fca42-22c0-4f91-9451-0e0f2e08356d/WindowsXP-KB942288-v3-x86.exe)
 
-[ MSXML 6.0 RTM 安全性更新 (925673) ](http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/msxml6-kb925673-enu-x86_571e99946aa6674ee6a70cf5801682ec323c7ae0.exe)
+[ MSXML 6.0 RTM 安全性更新 (925673) ](http://download.microsoft.com/download/1/9/2/192290ae-adf5-46e3-867c-8d70f0967c23/msxml6-KB925673-chs-x86.exe)
 
 [Microsoft Visual C++ Redistributable Package 2005/2008/2010/2012/2013/2015/2017](https://github.com/CNMan/MicrosoftHotfixesList/tree/master/Microsoft_Visual_C++_Redistributable_Package)
 

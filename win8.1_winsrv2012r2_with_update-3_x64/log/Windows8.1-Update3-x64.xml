@@ -201,12 +201,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
-			<date>2018/01/22</date>
-			<size>5.90 MB</size>
+			<date>2018/02/14</date>
+			<size>5.89 MB</size>
 			<category>Additional/Windows10</category>
-			<name>Windows8.1-KB2976978-v23-x64.msu</name>
+			<name>windows8.1-kb2976978-v23-x64_4f8d5c485d7dd3f53128648bd07904a261aeabf5.msu</name>
 			<description>Compatibility update for upgrading Windows 8.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/01/windows8.1-kb2976978-v23-x64_97ef985013e730e8d81412c5a77b883bc6d6a99b.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/02/windows8.1-kb2976978-v23-x64_4f8d5c485d7dd3f53128648bd07904a261aeabf5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3044374</kb>

@@ -69,6 +69,7 @@ http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/07/publ
 
 [ Microsoft OneDrive for Business 更新 (KB3178707) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/07/groove-x-none_54d0147a2bd878991c015b306b4693a9fc89a572.cab
+
 [ Microsoft Office 2016 更新 (KB3191929) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/05/kohhc-x-none_64e730cdbb9703c44db2fbc8e9cb9cbca8078fde.cab
 

@@ -1,5 +1,4 @@
 start /wait ndp35sp1-kb963707-x86_301b6cf8eaf5d2212895fcd9fc566414fb033e3e.exe /q /norestart
-start /wait ndp20sp1-kb953300-v2-x86_b19b1a3f0ff00153e0ee2a71f6707803ef482046.exe /q /norestart
 start /wait ndp30sp2-kb976570-x86_dcff59f3947e2c3d4f88e72959e6b5bb40c5b1d7.exe /q /norestart
 start /wait ndp20sp2-kb976576-x86_8e8121a8bddfb2095453335c593ffa22ef8e95ec.exe /q /norestart
 start /wait ndp20sp2-kb976569-x86_dd5f498a00cff2addd29b7f9e5ea8b1054ac2d73.exe /q /norestart
@@ -24,7 +23,6 @@ start /wait ndp20sp2-kb2901111-x86_610083bd9139a2bc3fbdcd026e2d0cce11cafbc0.exe 
 start /wait ndp20sp2-kb2932079-x86_62d2a448718d1a1343055d53eb722e8c72aafaeb.exe /q /norestart
 start /wait ndp20sp2-kb2894843-x86_36228a0825744e86a31a0d0d020ada3b2d0da9fa.exe /q /norestart
 start /wait ndp20sp2-kb2979574-v2-x86_e9d7e292cff96f768a99c2f2dbeba9ca14784c70.exe /q /norestart
-start /wait ndp20sp2-kb3123055-x86_986a8adc8b1b765775779d655084708c3a64c9fc.exe /q /norestart
 start /wait ndp20sp2-kb3127223-x86_297ce3410a8ae6d50522d3da7d2f926af3329439.exe /q /norestart
 start /wait ndp20sp2-kb3135986-x86_3c143b65f9e2cc3ab1f140fbd71a50f34af88a49.exe /q /norestart
 start /wait ndp20sp2-kb3142027-x86_dfb224d16b27f203dedc393678a150e887b98e84.exe /q /norestart
@@ -33,4 +31,7 @@ start /wait ndp30sp2-kb3188734-x86_1a1e2f42b2aaf963a2d79a8072f08e29243a3330.exe 
 start /wait ndp20sp2-kb4014580-x86_00bc481a903b582272cae81e76334295a1209f73.exe /q /norestart
 start /wait ndp20sp2-kb4014585-x86_4e8fac1a909fd3443b5a1ddd4ae2af5601f1d407.exe /q /norestart
 start /wait ndp30sp2-kb4017101-x86_d96aaad1352c554a2740fe30d371144cdb5a5ffa.exe /q /norestart
+start /wait ndp20sp2-kb4040968-x86_627a7d41e164c26280b1db64fefbba23c754ebc4.exe /q /norestart
+start /wait ndp20sp2-kb4054178-x86_c0d933409d0128ad7df07c0eaf71ae01f49c48c3.exe /q /norestart
+start /wait ndp30sp2-kb4055229-x86_45c6c6c58de4c40a6ab5c31cca4c685e289493ad.exe /q /norestart
 shutdown -r
