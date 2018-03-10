@@ -107,7 +107,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3000059-v3-x64.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.5: October 14, 2014</description>
-			<url>http://hotfixv4.microsoft.com/.NET%20Framework%203.5,%20Windows%208.1%20RTM,%20Windows%20Server%202012%20R2%20RTM/sp2/DevDiv1049799/50727.8643/free/479178_intl_x64_zip.exe</url>
+			<url>https://hotfixv4.microsoft.com/.NET%20Framework%203.5,%20Windows%208.1%20RTM,%20Windows%20Server%202012%20R2%20RTM/sp2/DevDiv1049799/50727.8643/free/479178_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3023219</kb>
@@ -143,7 +143,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3048803-x64.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.0 SP2: April 14, 2015</description>
-			<url>http://hotfixv4.microsoft.com/.NET%20Framework%203.5,%20Windows%208.1%20RTM,%20Windows%20Server%202012%20R2%20RTM/nosp/DevDiv1060564/30729.8664/free/483869_intl_x64_zip.exe</url>
+			<url>https://hotfixv4.microsoft.com/.NET%20Framework%203.5,%20Windows%208.1%20RTM,%20Windows%20Server%202012%20R2%20RTM/nosp/DevDiv1060564/30729.8664/free/483869_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3072307</kb>
@@ -1331,7 +1331,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB2908802-x64.msu</name>
 			<description>"Installation Prevented by Policy" warning is not displayed when you install a device</description>
-			<url>http://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix526307/9600/free/481887_intl_x64_zip.exe</url>
+			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix526307/9600/free/481887_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2966038</kb>
@@ -1430,7 +1430,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3022776-v3-x64.msu</name>
 			<description>Update to add support for Generic Routing Encapsulation in Windows 8.1</description>
-			<url>http://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix527713/9600/free/481141_intl_x64_zip.exe</url>
+			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix527713/9600/free/481141_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3023869</kb>
@@ -1457,7 +1457,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3024680-v2-x64.msu</name>
 			<description>The tile of an upgraded side-loaded app is not updated</description>
-			<url>http://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix528704/9600/free/481934_intl_x64_zip.exe</url>
+			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix528704/9600/free/481934_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3024681</kb>
@@ -1664,7 +1664,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3067699-x64.msu</name>
 			<description>Application can't receive data in the serialized order through a Bluetooth LE device</description>
-			<url>http://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3362128/9600/free/485832_intl_x64_zip.exe</url>
+			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3362128/9600/free/485832_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3071675</kb>
@@ -1673,7 +1673,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3071675-x64.msu</name>
 			<description>Windows Fabric traces stop working on virtual machines</description>
-			<url>http://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix92958/9600/free/485273_intl_x64_zip.exe</url>
+			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix92958/9600/free/485273_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3071787</kb>
@@ -1754,7 +1754,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3080734-x64.msu</name>
 			<description>Network adapters may not connect after you resume a computer that is out of docking station range</description>
-			<url>http://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3504722/9600/free/486020_intl_x64_zip.exe</url>
+			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3504722/9600/free/486020_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3082808</kb>
@@ -1844,7 +1844,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3116302-x64.msu</name>
 			<description>Throttling policy is ignored for BITS traffic</description>
-			<url>http://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix5343171/9600/free/488376_intl_x64_zip.exe</url>
+			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix5343171/9600/free/488376_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3133689</kb>
