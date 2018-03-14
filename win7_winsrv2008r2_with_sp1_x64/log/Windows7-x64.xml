@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/03/01" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/03/13" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -1190,15 +1190,6 @@
 			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510687/7600/free/475535_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2519735</kb>
-			<date>2011/03/11</date>
-			<size>414 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2519735-x64.msu</name>
-			<description>Mouse drawing is displayed incorrectly when the screen resolution is restored after a full-screen application stops on a Windows 7-based computer that has a multitouch screen installed</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix360599/7600/free/429935_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2521416</kb>
 			<date>2011/03/18</date>
 			<size>1.32 MB</size>
@@ -1829,15 +1820,6 @@
 			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix398080/7600/free/447693_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2704299</kb>
-			<date>2012/05/28</date>
-			<size>459 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2704299-v2-x64.msu</name>
-			<description>File names are corrupted after you decompress a .zip file in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix387976/7600/free/448095_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2706168</kb>
 			<date>2012/05/11</date>
 			<size>716 KB</size>
@@ -1854,15 +1836,6 @@
 			<name>Windows6.1-KB2707135-x64.msu</name>
 			<description>An IEEE 1394 isochronous device does not function in Windows 7 SP1 or in Windows Server 2008 R2 SP1</description>
 			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix401728/7600/free/447977_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2708857</kb>
-			<date>2012/05/05</date>
-			<size>476 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2708857-x64.msu</name>
-			<description>RDX cartridge disks are not recognized correctly in Windows 7, in Windows Vista, in Windows Server 2008, or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix402541/7600/free/447984_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2710832</kb>
@@ -2043,15 +2016,6 @@
 			<name>Windows6.1-KB2750692-x64.msu</name>
 			<description>TIFF image files are not compressed correctly when you merge them into a multipage TIFF file on a computer that is running Windows 7 or Windows Server 2008 R2</description>
 			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407605/7600/free/452779_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2752407</kb>
-			<date>2012/09/07</date>
-			<size>368 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2752407-x64.msu</name>
-			<description>Screen brightness changes and you cannot adjust the screen brightness after you resume a laptop from sleep mode in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407282/7600/free/452861_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2755625</kb>
@@ -2781,15 +2745,6 @@
 			<name>Windows6.1-KB2931129-x64.msu</name>
 			<description>0x0000007E Stop error on IPMIDrv!KCSRequestResponseEngine in Windows</description>
 			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498123/7600/free/473151_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2939399</kb>
-			<date>2014/03/06</date>
-			<size>1.06 MB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2939399-x64.msu</name>
-			<description>An update to disable the Chat feature in Remote Assistance (MSRA.exe) is available for Windows 7 SP1 and Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490333/7600/free/473662_intl_x64_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2939652</kb>
@@ -3627,15 +3582,6 @@
 			<name>Windows6.1-KB2973201-x64.msu</name>
 			<description>Security update for Windows on-screen keyboard: July 8, 2014</description>
 			<url>http://download.microsoft.com/download/3/6/9/36913442-62B2-4115-8D60-EE379CE4A881/Windows6.1-KB2973201-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB2973351</kb>
-			<date>2014/06/06</date>
-			<size>5.56 MB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB2973351-x64.msu</name>
-			<description>Registry update to improve credentials protection and management: July 8, 2014</description>
-			<url>http://download.microsoft.com/download/8/C/3/8C3AF47C-D937-4019-8CF5-8735E906E2A6/Windows6.1-KB2973351-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2977292</kb>
@@ -5060,13 +5006,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows6.1-kb4054998-x64_fdb3bfc09e13ab94900d7feb7e04480c09a32ada.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4091290</kb>
-			<date>2018/02/28</date>
-			<size>234.63 MB</size>
+			<kb>KB4088875</kb>
+			<date>2018/03/11</date>
+			<size>236.45 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4091290-x64.msu</name>
+			<name>Windows6.1-KB4088875-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/03/windows6.1-kb4091290-x64_ad76507f49015fc85b1dfb3c062175135bd7b413.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/03/windows6.1-kb4088875-x64_8a9779c594fec5a8ec70e49de467de3c67cf5829.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

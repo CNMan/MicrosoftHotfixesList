@@ -1,6 +1,6 @@
-[ Windows 恶意软件删除工具 x64 - 2018 年 2 月 (KB890830) ]
-http://download.windowsupdate.com/d/msdownload/update/software/uprl/2018/02/windows-kb890830-x64-v5.57_3838ac9bf6d2f5785035ab4c8fd79ba505c5011e.exe
-http://download.windowsupdate.com/d/msdownload/update/software/uprl/2018/02/windows-kb890830-x64-v5.57-delta_1b30f2d804abaeb9cae8d9e720e36c90713bacdb.exe
+[ Windows 恶意软件删除工具 x64 - 2018 年 3 月 (KB890830) ]
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2018/03/windows-kb890830-x64-v5.58_83692b6e0bf4960554b3273d9d3e01e8442b538f.exe
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2018/03/windows-kb890830-x64-v5.58-delta_3ea3c19c7ffec04e47df1375c28aaf6d56bff6d4.exe
 
 [ Update for Japanese Microsoft IME Postal Code Dictionary (KB2734786) ]
 http://download.windowsupdate.com/c/msdownload/update/software/defu/2014/10/imjpzp_7735dba7ac13b0023c33b7c988f6cbd690d7c60c.cab
@@ -33,3 +33,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/07/micr
 
 [ 2017-适用于 Windows Server 2016 的 11 更新，适用于基于 x64 的系统 (KB4049065) ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/10/windows10.0-kb4049065-x64_6dd6809631cd889c40dd457c04ee018e9b4a1f47.cab
+
+[ 2018-适用于 Windows Server 2016 的 03 累积更新，适合基于 x64 的系统 (KB4088787) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/03/windows10.0-kb4088787-x64_244232923c0ea43acc05107cf9df4454ae56bc88.cab

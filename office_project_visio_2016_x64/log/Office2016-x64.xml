@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/03/06" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/03/13" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
-			<kb>KB4011221</kb>
-			<date>2017/12/22</date>
-			<size>19.89 MB</size>
-			<category>General</category>
-			<name>access2016-kb4011221-fullfile-x64-glb.exe</name>
+			<kb>KB4011665</kb>
+			<date>2018/02/14</date>
+			<size>19.90 MB</size>
+			<category>Security</category>
+			<name>access2016-kb4011665-fullfile-x64-glb.exe</name>
 			<description>Microsoft Access 2016</description>
-			<url>http://download.microsoft.com/download/2/C/F/2CF01DF9-976F-47BB-9208-C3C94EABD0FC/access2016-kb4011221-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/8/1/081EEB00-BF13-45DC-8B19-0C283FA308C4/access2016-kb4011665-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011143</kb>
@@ -83,13 +83,13 @@
 			<url>http://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011684</kb>
-			<date>2018/01/18</date>
-			<size>130.58 MB</size>
-			<category>General</category>
-			<name>excel2016-kb4011684-fullfile-x64-glb.exe</name>
+			<kb>KB4011727</kb>
+			<date>2018/02/14</date>
+			<size>131.65 MB</size>
+			<category>Security</category>
+			<name>excel2016-kb4011727-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>http://download.microsoft.com/download/3/9/A/39AC188A-3731-4286-8E1B-38584DB8D581/excel2016-kb4011684-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/6/D/A6DAA37F-8EE5-41DA-9869-EB708D31BF5C/excel2016-kb4011727-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011218</kb>
@@ -452,13 +452,13 @@
 			<url>http://download.microsoft.com/download/D/5/0/D50F7B11-1111-4A60-907B-196BA51CC1C0/visio2016-kb4011661-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011681</kb>
-			<date>2018/01/18</date>
-			<size>46.86 MB</size>
-			<category>General</category>
-			<name>word2016-kb4011681-fullfile-x64-glb.exe</name>
+			<kb>KB4011730</kb>
+			<date>2018/02/14</date>
+			<size>46.83 MB</size>
+			<category>Security</category>
+			<name>word2016-kb4011730-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>http://download.microsoft.com/download/9/2/0/920607AB-707B-458E-8738-A193C5D06E06/word2016-kb4011681-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/3/B/03B20BE1-5354-4198-AE88-451A760F2AF1/word2016-kb4011730-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>
