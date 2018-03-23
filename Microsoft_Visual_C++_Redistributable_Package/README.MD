@@ -77,3 +77,11 @@ https://download.microsoft.com/download/5/3/A/53A804C8-EC78-43CD-A0F0-2FB4D45603
 DirectX End-User Runtimes (June 2010)
 
 https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe
+
+Microsoft Visual C++ Compiler for Python 2.7
+
+https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D907B/VCForPython27.msi
+
+Word、Excel 和 PowerPoint 文件格式适用的 Microsoft Office 兼容包
+
+https://download.microsoft.com/download/6/5/6/6568c67b-822d-4c51-bf3f-c6cabb99ec02/FileFormatConverters.exe
