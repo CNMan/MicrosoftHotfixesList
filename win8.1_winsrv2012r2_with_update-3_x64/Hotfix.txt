@@ -54,5 +54,4 @@ KB3102770	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/F
 KB3109156	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix3756246/9600/free/488252_intl_x64_zip.exe
 KB3114025-v2	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix5039369/9600/free/488301_intl_x64_zip.exe
 KB3116302	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix5343171/9600/free/488376_intl_x64_zip.exe
-KB3133689	http://hotfixv4.microsoft.com/Windows 8.1/Windows Server 2012 R2/sp1/Fix4591808/9600/free/489308_intl_x64_zip.exe
 windows6.2-hypervintegrationservices-x64.cab	https://fv3.failiem.lv/down.php?i=ct973vty&amp;n=windows6.2-hypervintegrationservices-x64.cab

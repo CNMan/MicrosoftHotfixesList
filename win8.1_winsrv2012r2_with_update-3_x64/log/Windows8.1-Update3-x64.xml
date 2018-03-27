@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/03/13" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/03/26" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1820,15 +1820,6 @@
 			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix5343171/9600/free/488376_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3133689</kb>
-			<date>2016/01/07</date>
-			<size>294 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3133689-x64.msu</name>
-			<description>Scheduled Task Background Process Manager doesn't set environmental variables correctly</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2016/02/windows8.1-kb3133689-x64_79117be08f9592c5908c010d8b795609227bad04.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3080149</kb>
 			<date>2016/10/20</date>
 			<size>3.00 KB</size>
@@ -2243,13 +2234,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/03/windows8.1-kb4088785-x64_42514ebc8a59e9c71eaf0f747e03336b008bfc0d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4088876</kb>
-			<date>2018/03/06</date>
-			<size>318.03 MB</size>
+			<kb>KB4088882</kb>
+			<date>2018/03/13</date>
+			<size>321.56 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4088876-x64.msu</name>
+			<name>Windows8.1-KB4088882-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/03/windows8.1-kb4088876-x64_a8781d13f3690e94357211cb7ee4fed46385d0b4.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/03/windows8.1-kb4088882-x64_ea939ce486b5250ef12bbac15a9206a500238c6d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
