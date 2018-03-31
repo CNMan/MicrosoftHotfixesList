@@ -65,13 +65,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/03/windows10.0-kb4088785-x64_9a396aa915b1ddb81f9faf608a1732f88fee71fe.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4088889</kb>
-			<date>2018/03/19</date>
+			<kb>KB4096309</kb>
+			<date>2018/03/26</date>
 			<size>1.19 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4088889-x64.msu</name>
+			<name>Windows10.0-KB4096309-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/03/windows10.0-kb4088889-x64_eee5b352932e9d20d228f56b74dd4c23313d2955.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/03/windows10.0-kb4096309-x64_fdfc206803fd7451cfb083c74420fda5b2754d1f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4089510</kb>
