@@ -8,7 +8,7 @@ KB2830477	http://download.microsoft.com/download/D/0/7/D07A8332-3B08-4919-9683-B
 KB2841134	http://download.microsoft.com/download/5/C/7/5C7074F0-CE81-4612-902F-DAAF3061B959/IE11-Windows6.1-KB2841134-x64.cab
 KB2849696	http://download.microsoft.com/download/B/D/9/BD9A7786-6C54-4425-BE04-7914E5D77FBC/IE-Spelling-en.msu
 KB2849697	http://download.microsoft.com/download/4/0/E/40E0AF15-3404-4C1E-8FB3-2DE7087F01F7/IE-Hyphenation-en.msu
-KB2952664-v24	http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/02/windows6.1-kb2952664-v24-x64_d5c5ddff818eff5b5739b40713e850fa5a147c5f.msu
+KB2952664-v24	http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/03/windows6.1-kb2952664-v24-x64_cd95eff6a0b4dc190709f9a0e7a00f782a74ee5c.msu
 KB3021917	http://download.microsoft.com/download/2/3/0/230B52C5-A0AD-493D-892E-DD8C5D31D358/Windows6.1-KB3021917-x64.msu
 KB3046269	http://download.microsoft.com/download/8/6/6/866F143B-55ED-4308-81EA-20EE4167A639/Windows6.1-KB3046269-x64.msu
 KB3177467	http://download.microsoft.com/download/2/4/7/247BDD8A-6AAE-4466-B137-3B2918D0CEAB/Windows6.1-KB3177467-x64.msu

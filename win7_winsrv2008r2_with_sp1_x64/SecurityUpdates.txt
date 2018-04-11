@@ -7,6 +7,4 @@ KB3156019	http://download.microsoft.com/download/0/B/A/0BA6BBFB-F52B-4B1B-92F5-4
 KB3159398	http://download.microsoft.com/download/C/4/0/C4032BF7-2912-467F-A75A-58B8123205B3/Windows6.1-KB3159398-x64.msu
 KB3161949	http://download.microsoft.com/download/A/F/C/AFCCFFB9-9352-4DE7-BBF6-24C4AC520327/Windows6.1-KB3161949-x64.msu
 KB4054998	http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows6.1-kb4054998-x64_fdb3bfc09e13ab94900d7feb7e04480c09a32ada.msu
-KB4088881	http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/03/windows6.1-kb4088881-x64_2976efcb3f915221d24535de3d84dd0af31019da.msu
-KB4099467	http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/03/windows6.1-kb4099467-x64_50cc1986b24d15e127748b11cf49b6afaecbac7e.msu
-KB4100480	http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/03/windows6.1-kb4100480-x64_8ee0dd707a58fb4fd089c4ac9e8c66403fce4421.msu
+KB4093118	http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windows6.1-kb4093118-x64_5ea1778b896fcc764e0db8da7d094f62dc98d82f.msu

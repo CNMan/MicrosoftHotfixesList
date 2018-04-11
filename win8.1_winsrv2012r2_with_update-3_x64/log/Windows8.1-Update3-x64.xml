@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/03/26" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/04/10" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -201,12 +201,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
-			<date>2018/02/14</date>
+			<date>2018/03/16</date>
 			<size>5.89 MB</size>
 			<category>Additional/Windows10</category>
-			<name>windows8.1-kb2976978-v23-x64_4f8d5c485d7dd3f53128648bd07904a261aeabf5.msu</name>
+			<name>windows8.1-kb2976978-v23-x64_42b071cfbd39bda38dd1d753c053eea22ea4a919.msu</name>
 			<description>Compatibility update for upgrading Windows 8.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/02/windows8.1-kb2976978-v23-x64_4f8d5c485d7dd3f53128648bd07904a261aeabf5.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/03/windows8.1-kb2976978-v23-x64_42b071cfbd39bda38dd1d753c053eea22ea4a919.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3044374</kb>
@@ -2225,22 +2225,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/02/windows8.1-kb4073700-x64_e223f5398b67f7aa5b005b3247eaee6dad91c9e6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4088785</kb>
-			<date>2018/03/02</date>
-			<size>20.82 MB</size>
+			<kb>KB4093110</kb>
+			<date>2018/04/05</date>
+			<size>20.84 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4088785-x64.msu</name>
+			<name>Windows8.1-KB4093110-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/03/windows8.1-kb4088785-x64_42514ebc8a59e9c71eaf0f747e03336b008bfc0d.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windows8.1-kb4093110-x64_f9fa6d929d13b7d71670b3c79162c14321e6ac8c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4088882</kb>
-			<date>2018/03/13</date>
-			<size>321.56 MB</size>
+			<kb>KB4093114</kb>
+			<date>2018/04/02</date>
+			<size>321.47 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4088882-x64.msu</name>
+			<name>Windows8.1-KB4093114-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/03/windows8.1-kb4088882-x64_ea939ce486b5250ef12bbac15a9206a500238c6d.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/04/windows8.1-kb4093114-x64_9946bc9008c14c5eefba036dbc7beb5ecb98337a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

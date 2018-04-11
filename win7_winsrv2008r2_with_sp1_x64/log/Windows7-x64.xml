@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/03/26" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/04/10" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -219,12 +219,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB2952664</kb>
-			<date>2018/02/14</date>
-			<size>6.54 MB</size>
+			<date>2018/03/16</date>
+			<size>6.55 MB</size>
 			<category>Additional/Windows10</category>
-			<name>windows6.1-kb2952664-v24-x64_d5c5ddff818eff5b5739b40713e850fa5a147c5f.msu</name>
+			<name>windows6.1-kb2952664-v24-x64_cd95eff6a0b4dc190709f9a0e7a00f782a74ee5c.msu</name>
 			<description>Compatibility update for upgrading Windows 7</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/02/windows6.1-kb2952664-v24-x64_d5c5ddff818eff5b5739b40713e850fa5a147c5f.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/03/windows6.1-kb2952664-v24-x64_cd95eff6a0b4dc190709f9a0e7a00f782a74ee5c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3021917</kb>
@@ -1917,15 +1917,6 @@
 			<name>Windows6.1-KB2724133-v2-x64.msu</name>
 			<description>Improvements are available for the Windows Security dialog box that is displayed when you open an encrypted email message in Windows 7 or in Windows Server 2008 R2</description>
 			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399945/7600/free/450366_intl_x64_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2724137</kb>
-			<date>2012/09/14</date>
-			<size>420 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2724137-v2-x64.msu</name>
-			<description>PIN dialog box appears unexpectedly when you open an encrypted email message after you remove and reinsert a Base CSP smart card in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix405473/7600/free/450367_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2732072</kb>
@@ -5015,31 +5006,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows6.1-kb4054998-x64_fdb3bfc09e13ab94900d7feb7e04480c09a32ada.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4088881</kb>
-			<date>2018/03/22</date>
-			<size>236.48 MB</size>
+			<kb>KB4093118</kb>
+			<date>2018/04/02</date>
+			<size>218.90 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4088881-x64.msu</name>
+			<name>Windows6.1-KB4093118-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/03/windows6.1-kb4088881-x64_2976efcb3f915221d24535de3d84dd0af31019da.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4099467</kb>
-			<date>2018/03/26</date>
-			<size>30.19 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4099467-x64.msu</name>
-			<description>Update to fix Stop error 0xAB when you log off</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/03/windows6.1-kb4099467-x64_50cc1986b24d15e127748b11cf49b6afaecbac7e.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4100480</kb>
-			<date>2018/03/29</date>
-			<size>22.10 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4100480-x64.msu</name>
-			<description>Security update for Windows Kernel</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/03/windows6.1-kb4100480-x64_8ee0dd707a58fb4fd089c4ac9e8c66403fce4421.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windows6.1-kb4093118-x64_5ea1778b896fcc764e0db8da7d094f62dc98d82f.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
