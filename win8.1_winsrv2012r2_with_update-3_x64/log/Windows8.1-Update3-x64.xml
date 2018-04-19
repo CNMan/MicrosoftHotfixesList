@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/04/10" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/04/17" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1973,15 +1973,6 @@
 			<url>http://download.microsoft.com/download/6/C/9/6C9BD93A-BDEE-41B7-B747-38962E40CBB3/Windows8.1-KB3071756-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3075220</kb>
-			<date>2015/07/10</date>
-			<size>5.20 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3075220-x64.msu</name>
-			<description>Security update for Windows RDP: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/7/7/D/77DF0192-A01D-46FA-848E-F09D8A67C651/Windows8.1-KB3075220-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3076949</kb>
 			<date>2015/07/02</date>
 			<size>485 KB</size>
@@ -2234,13 +2225,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windows8.1-kb4093110-x64_f9fa6d929d13b7d71670b3c79162c14321e6ac8c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4093114</kb>
-			<date>2018/04/02</date>
-			<size>321.47 MB</size>
+			<kb>KB4093121</kb>
+			<date>2018/04/03</date>
+			<size>328.76 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4093114-x64.msu</name>
+			<name>Windows8.1-KB4093121-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/04/windows8.1-kb4093114-x64_9946bc9008c14c5eefba036dbc7beb5ecb98337a.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/windows8.1-kb4093121-x64_4e8483bcb4ad56a5b63959af8c3fc0dba9f93d48.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/04/10" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/04/17" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB3133719</kb>
@@ -65,13 +65,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/04/windows10.0-kb4093110-x64_eff0507571f44efc72b9cd2e910e53482ad60e16.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4093119</kb>
-			<date>2018/04/01</date>
-			<size>1.19 GB</size>
+			<kb>KB4093120</kb>
+			<date>2018/04/10</date>
+			<size>1.20 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4093119-x64.msu</name>
+			<name>Windows10.0-KB4093120-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/04/windows10.0-kb4093119-x64_553b6ac77ec6100784cdf1947b3fb83403aa5d1c.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/04/windows10.0-kb4093120-x64_72c7d6ce20eb42c0df760cd13a917bbc1e57c0b7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4093137</kb>
@@ -110,15 +110,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/01/windows10.0-kb4054855-x64_a36af872bda88e39b3b2182bc26f78c6ce3aa8ad.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4093107</kb>
-			<date>2018/04/03</date>
-			<size>1.05 GB</size>
-			<category>General/15063</category>
-			<name>Windows10.0-KB4093107-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/04/windows10.0-kb4093107-x64_dbd1251f8d3ee36401dbd10f21606431ef78098c.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4093110</kb>
 			<date>2018/04/05</date>
 			<size>20.84 MB</size>
@@ -126,6 +117,15 @@
 			<name>windows10.0-kb4093110-x64_a3a616bb49ea036e42c41e56fd2bfc12950dd769.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1703</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/04/windows10.0-kb4093110-x64_a3a616bb49ea036e42c41e56fd2bfc12950dd769.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4093117</kb>
+			<date>2018/04/10</date>
+			<size>1.06 GB</size>
+			<category>General/15063</category>
+			<name>Windows10.0-KB4093117-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/04/windows10.0-kb4093117-x64_e91aa7f9c9af0ab25cc98787d5e3244b0e292f59.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4093432</kb>
@@ -162,24 +162,6 @@
 			<name>Windows10.0-KB4099989-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1709</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/04/windows10.0-kb4099989-x64_92747a09f1eb45b52276c8f0b301202e54e9c6d8.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4093110</kb>
-			<date>2018/04/05</date>
-			<size>20.68 MB</size>
-			<category>General/17133</category>
-			<name>windows10.0-kb4093110-x64_32f751842bb2993a267c7827d9cbc1676e130b41.cab</name>
-			<description>Adobe Flash Player Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/04/windows10.0-kb4093110-x64_32f751842bb2993a267c7827d9cbc1676e130b41.cab</url>
-		</update>
-		<update extract="0">
-			<kb>KB4100375</kb>
-			<date>2018/04/05</date>
-			<size>211.25 MB</size>
-			<category>General/17133</category>
-			<name>Windows10.0-KB4100375-x64.cab</name>
-			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windows10.0-kb4100375-x64_1df891e137e7b949c68013166ce2fdb6b28f230b.cab</url>
 		</update>
 	</updates>
 </hotfixlist>
