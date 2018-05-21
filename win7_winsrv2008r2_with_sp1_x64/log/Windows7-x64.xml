@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/05/08" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/05/15" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -155,13 +155,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/01/ndp471-kb4054852-x64_5857288c78a7aa49276f7d69942a818300bc5547.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4096418</kb>
-			<date>2018/04/02</date>
+			<kb>KB4096234</kb>
+			<date>2018/04/12</date>
 			<size>40.78 MB</size>
 			<category>Additional/NET471</category>
-			<name>NDP471-KB4096418-x64.exe</name>
+			<name>NDP471-KB4096234-x64.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/05/ndp47-kb4096418-x64_09433765a4d90e1a2295da0a1a1cf9b1b8a64f56.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/05/ndp47-kb4096234-x64_5fc137891e93e4f4f39dc940781cc0184ff72ecc.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>

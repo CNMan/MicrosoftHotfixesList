@@ -39,6 +39,8 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/ndp4
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/06/ndp40-kb3163249-x86_c30a31e9c3f8b8c3d0a43887da18486f1f7cc3de.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/09/ndp40-kb3189017-x86_3100ea6231780b202c1bbc764cd460a8d84bc542.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/09/ndp40-kb4040962-x86_976f8849c17de7a0cab333c0081e9858a6407a85.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/ndp20sp2-kb4095516-x86_c5111ba0c2003141ee07c8cd75932e98f0d80948.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/ndp40-kb4095528-x86_169b199b7738982df1df89dc8951cf087695165a.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/ndp40-kb2836939-x86_cef77927432048cd36340da5d972e349d57764f6.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/08/ndp20sp2-kb2836941-v2-x86_9e8d176f3476dc920c9ac845647ec47fdbfc5d38.exe
 http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp20sp2-kb958481-x86_04fcde4b28dd4f6db7548831d35d1c6bf38e1335.exe
