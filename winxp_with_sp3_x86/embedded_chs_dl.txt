@@ -33,13 +33,14 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/wind
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/windowsxp-kb4034775-x86-embedded-chs_d3a69cf2b3f10ac192e7e7d603941093811f16a8.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/09/windowsxp-kb4042121-x86-embedded-chs_3ddbc57c5e84f38c1fab9b07e07b69ba3e889551.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/12/windowsxp-kb4056941-x86-embedded-chs_526e5c1bef82d1278cc0561c7a9be8d791a3a8a7.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windowsxp-kb4074836-x86-embedded-chs_060997c9f9f95f92b128354713235e673841163e.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/02/windowsxp-kb4087398-x86-embedded-chs_eae82dd36f4a9bf48cc8a4526d0077f12d0dda9e.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/02/windowsxp-kb4089694-x86-embedded-chs_6e5e1f6cc93f394edfec0a4d35b740544daf693b.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/03/windowsxp-kb4091756-x86-embedded-chs_f5844cea0c2f72c7789dabdbb03c03a846c8ac28.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/03/windowsxp-kb4093257-x86-embedded-chs_043705ed1d81707a88506ea5a70f8f051c6ad720.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/04/windowsxp-kb4056564-v2-x86-embedded-chs_1f66fd869774e14b8a47552762f67e136bc5c810.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/05/windowsxp-kb4101477-x86-embedded-chs_2466bf83e689900d85fceb5e177e5b78962d4686.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/05/windowsxp-kb4293928-x86-embedded-chs_89fff6285c8ef203b612b875209f386e18e0db3d.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/ie8-windowsxp-kb4230450-x86-embedded-chs_716e8b2564e957f9fc17ce01c130e9d0470bcc33.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windowsxp-kb4039111-x86-embedded-chs_498333600055de6933ce090eded7da0dffa085b1.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/windowsxp-kb4019276-x86-embedded-chs_ee3cfa70df143266959b276395529eae17178821.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windowsxp-kb2926765-x86-embedded-chs_a7a0e41eceb6fe754844a41eadf1dad55f4d5a64.exe
@@ -57,7 +58,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/02/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/ie7-windowsxp-kb3148198-x86-embedded-chs_87016ef27889e0247032121c49f0dfff09c06f4d.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/windowsxp-kb3149090-x86-embedded-chs_1cf7cbf502951334c582fe0374f0379f03b3df58.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windowsxp-kb3145739-x86-embedded-chs_c6ced647223fe3aaccda9903a0db3baa630859b8.exe
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windowsxp-kb3153704-x86-embedded-chs_e49828bb4d341f404f2a44ffd81b6a2748bed882.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windowsxp-kb3161949-x86-embedded-chs_f42d8c9260d172f514f41012df287c2e85e48a1e.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/06/windowsxp-kb3170455-x86-embedded-chs_37a78b484207d8f0dee7352ecdf4aa8b5ab4e738.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/07/windowsxp-kb3178034-x86-embedded-chs_adba416900086452753890038d114daf2b0437f7.exe
@@ -80,7 +80,8 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windowsxp-kb4101864-x86-embedded-chs_69520205154532afe045f3b4ea87e2a59bae1c0a.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windowsxp-kb4131188-x86-embedded-chs_1794f538e0e55e8ae9c6c0c42e4534e14e6aa917.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windowsxp-kb4134651-x86-embedded-chs_10d6dcdafe4ea4dbe1c796a8fcddd3c49c0a5865.exe
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/ie8-windowsxp-kb4103768-x86-embedded-chs_4ea4126669e242c051147a14de3f33573d1eac91.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/windowsxp-kb4130957-x86-embedded-chs_745789e1e5818929b20a01dbe4d5442e8d1499a1.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/windowsxp-kb4294413-x86-embedded-chs_d9ac553a44214ef6fccc47bbb7d24ceaba675481.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windowsxp-kb4230467-x86-embedded-chs_4368c8846d48f6ac80bdb41d57400d9d461d9cf2.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windowsxp-kb3065979-x86-embedded-chs_1f6dcc9f8ffd123612b4043f8705c90c6ee33df0.exe
 http://download.windowsupdate.com/d/msdownload/update/software/uprl/2018/05/windowsxp-kb4130978-x86-embedded-chs_b494b3ad7ce14a86d2341b895429082e6f138b5e.exe

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/06/05" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/06/12" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB4011665</kb>
@@ -83,13 +83,13 @@
 			<url>http://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018382</kb>
-			<date>2018/04/11</date>
-			<size>131.90 MB</size>
+			<kb>KB4022174</kb>
+			<date>2018/05/16</date>
+			<size>132.36 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb4018382-fullfile-x64-glb.exe</name>
+			<name>excel2016-kb4022174-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>http://download.microsoft.com/download/4/6/6/466E1C87-FF41-4D6C-8D65-11666BD6BADB/excel2016-kb4018382-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/D/F/ADF8BF1C-4BD3-4F5E-8E7D-D0DE288E47F1/excel2016-kb4022174-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011218</kb>
@@ -137,13 +137,13 @@
 			<url>http://download.microsoft.com/download/2/6/B/26B31C61-B2CF-46F9-9C2B-F507581C3620/gkall2016-kb3115276-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018327</kb>
-			<date>2018/04/11</date>
+			<kb>KB4022177</kb>
+			<date>2018/05/16</date>
 			<size>3.63 MB</size>
 			<category>Security</category>
-			<name>graph2016-kb4018327-fullfile-x64-glb.exe</name>
+			<name>graph2016-kb4022177-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/0/0/9/00926FF0-34B3-4814-AF39-FD002EAF7C9E/graph2016-kb4018327-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/E/2/1E2ED9E3-A229-4717-9DAC-6633F157952B/graph2016-kb4022177-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011100</kb>
@@ -344,13 +344,13 @@
 			<url>http://download.microsoft.com/download/C/A/B/CABA6265-DE0E-4458-A701-0BE43690D8F1/outlfltr2016-kb3115407-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018372</kb>
-			<date>2018/04/11</date>
-			<size>95.61 MB</size>
-			<category>General</category>
-			<name>outlook2016-kb4018372-fullfile-x64-glb.exe</name>
+			<kb>KB4022160</kb>
+			<date>2018/05/23</date>
+			<size>95.66 MB</size>
+			<category>Security</category>
+			<name>outlook2016-kb4022160-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>http://download.microsoft.com/download/E/B/4/EB42FFCC-8770-4E34-8233-CC14E4D71EDC/outlook2016-kb4018372-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/5/A/15A4BF1A-E411-4568-8384-8143173F7DEC/outlook2016-kb4022160-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
