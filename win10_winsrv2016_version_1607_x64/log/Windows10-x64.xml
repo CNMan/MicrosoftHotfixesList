@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/06/21" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/06/28" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -128,13 +128,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windows10.0-kb4287903-x64_3ee0c75448196537d080e9a9b1100b0fe7657538.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4284835</kb>
-			<date>2018/06/11</date>
-			<size>533.34 MB</size>
+			<kb>KB4284848</kb>
+			<date>2018/06/19</date>
+			<size>633.39 MB</size>
 			<category>General/17134</category>
-			<name>Windows10.0-KB4284835-x64.msu</name>
+			<name>Windows10.0-KB4284848-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windows10.0-kb4284835-x64_c019a11f02ce7ff6a946434f02442fe86b6dfa3c.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/06/windows10.0-kb4284848-x64_c0f16e1e5fe0f81c17a8bfaa547b0b7140c5debc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4287903</kb>
@@ -144,6 +144,15 @@
 			<name>windows10.0-kb4287903-x64_18d33efe00668b8f9b0d89cd203b6d76a8f4c66e.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1803</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windows10.0-kb4287903-x64_18d33efe00668b8f9b0d89cd203b6d76a8f4c66e.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4338853</kb>
+			<date>2018/06/13</date>
+			<size>13.14 MB</size>
+			<category>General/17134</category>
+			<name>Windows10.0-KB4338853-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1803</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/06/windows10.0-kb4338853-x64_80cfbdddcd6b20f1230efdf19ce7eac1400e55e9.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
