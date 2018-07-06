@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/06/12" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/03" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4011234</kb>
@@ -92,13 +92,13 @@
 			<url>http://download.microsoft.com/download/A/5/8/A588276E-D83D-4B67-A60A-3CEA9F67B191/eqnedt322013-kb4011580-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022191</kb>
-			<date>2018/05/16</date>
-			<size>89.66 MB</size>
-			<category>Security</category>
-			<name>excel2013-kb4022191-fullfile-x86-glb.exe</name>
+			<kb>KB4022244</kb>
+			<date>2017/06/14</date>
+			<size>89.67 MB</size>
+			<category>General</category>
+			<name>excel2013-kb4022244-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/4/4/8/448C2C8A-F343-4706-B53D-D2FC1CD0CF90/excel2013-kb4022191-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/6/F/A6F624B6-BBF5-40F2-A9DE-DFE5E9898824/excel2013-kb4022244-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -263,22 +263,22 @@
 			<url>http://download.microsoft.com/download/6/9/5/6955ECA7-6A0C-428A-A298-6B6FE9291537/msmipc2013-kb3172523-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018389</kb>
-			<date>2018/04/11</date>
-			<size>153.46 MB</size>
+			<kb>KB4022166</kb>
+			<date>2017/06/14</date>
+			<size>153.47 MB</size>
 			<category>General</category>
-			<name>mso2013-kb4018389-fullfile-x86-glb.exe</name>
+			<name>mso2013-kb4022166-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/F/F/F/FFFCBE7A-1C25-4D50-88E0-23FEBA743593/mso2013-kb4018389-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/A/B/2AB90FE1-3A55-469F-B2A0-E2F66449AEC9/mso2013-kb4022166-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3178636</kb>
-			<date>2018/03/14</date>
+			<kb>KB4018378</kb>
+			<date>2017/06/14</date>
 			<size>1.81 MB</size>
 			<category>General</category>
-			<name>msptls2013-kb3178636-fullfile-x86-glb.exe</name>
+			<name>msptls2013-kb4018378-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (msptls-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/A/7/F/A7FB6008-11ED-4A4B-B04B-4330D54E914A/msptls2013-kb3178636-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/0/6/20639114-BAFF-47C2-89F0-D1E0D4E10931/msptls2013-kb4018378-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2889863</kb>
@@ -434,13 +434,13 @@
 			<url>http://download.microsoft.com/download/0/A/2/0A23AFBE-375F-4262-AADD-188782E4DA8F/outlfltr2013-kb3115404-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022169</kb>
-			<date>2018/05/30</date>
-			<size>87.59 MB</size>
-			<category>Security</category>
-			<name>outlook2013-kb4022169-fullfile-x86-glb.exe</name>
+			<kb>KB4022242</kb>
+			<date>2017/06/14</date>
+			<size>87.60 MB</size>
+			<category>General</category>
+			<name>outlook2013-kb4022242-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>http://download.microsoft.com/download/9/9/C/99C54FBE-5DEE-42D9-8515-ACC89A5BE7A0/outlook2013-kb4022169-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/4/0/5/40556F6C-0612-4A26-AB22-22F03621BBC1/outlook2013-kb4022242-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>
