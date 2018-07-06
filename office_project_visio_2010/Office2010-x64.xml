@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/06/12" architecture="x64" version="Office 2010">
+	<updates>
+		<update extract="0">
+			<kb>KB3114416</kb>
+			<date>2018/02/20</date>
+			<size>16.99 MB</size>
+			<category>Security</category>
+			<name>access2010-kb3114416-fullfile-x64-glb.exe</name>
+			<description>Microsoft Access 2010</description>
+			<url>http://download.microsoft.com/download/C/6/3/C63D5713-12F0-45C1-935F-25CE9664F299/access2010-kb3114416-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2791057</kb>
+			<date>2015/10/17</date>
+			<size>1.32 MB</size>
+			<category>General</category>
+			<name>accessolkaddin2010-kb2791057-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Access Outlook Data Collection Addin)</description>
+			<url>http://download.microsoft.com/download/0/F/A/0FA13B01-4914-4DB7-B31E-E1DB8D4E3193/accessolkaddin2010-kb2791057-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3114874</kb>
+			<date>2018/01/19</date>
+			<size>4.81 MB</size>
+			<category>Security</category>
+			<name>ace2010-kb3114874-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Access Database Engine)</description>
+			<url>http://download.microsoft.com/download/3/2/C/32CEE5B3-6CB1-41C0-8F35-39F6F9BF3019/ace2010-kb3114874-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3213626</kb>
+			<date>2017/08/25</date>
+			<size>26.71 MB</size>
+			<category>Security</category>
+			<name>convloc2010-kb3213626-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (File Format Converters)</description>
+			<url>http://download.microsoft.com/download/0/1/0/0108A748-0CAA-4A66-AF33-4979A4C20017/convloc2010-kb3213626-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3054886</kb>
+			<date>2015/09/25</date>
+			<size>6.00 MB</size>
+			<category>General</category>
+			<name>csi2010-kb3054886-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Document Cache)</description>
+			<url>http://download.microsoft.com/download/B/6/F/B6F713F5-A339-4C2F-BECC-DA673EB368A7/csi2010-kb3054886-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011610</kb>
+			<date>2017/12/19</date>
+			<size>21.49 KB</size>
+			<category>Security</category>
+			<name>eqnedt322010-kb4011610.txt</name>
+			<description>Microsoft Office 2010 (Equation Editor)</description>
+			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022209</kb>
+			<date>2018/05/17</date>
+			<size>38.74 MB</size>
+			<category>Security</category>
+			<name>excel2010-kb4022209-fullfile-x64-glb.exe</name>
+			<description>Microsoft Excel 2010</description>
+			<url>http://download.microsoft.com/download/9/E/5/9E511E1C-F1D9-445E-9D03-EE143C09A46C/excel2010-kb4022209-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2956084</kb>
+			<date>2015/03/23</date>
+			<size>72.15 MB</size>
+			<category>General</category>
+			<name>excelloc2010-kb2956084-fullfile-x64-glb.exe</name>
+			<description>Microsoft Excel 2010 (Localizations)</description>
+			<url>http://download.microsoft.com/download/E/F/8/EF880C6A-5CB5-4046-A5E0-C3733088BE0B/excelloc2010-kb2956084-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3055047</kb>
+			<date>2015/08/13</date>
+			<size>1.34 MB</size>
+			<category>General</category>
+			<name>exppdf2010-kb3055047-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (PDF Export)</description>
+			<url>http://download.microsoft.com/download/3/E/5/3E5DF55C-27B2-4684-887C-7120305E2E55/exppdf2010-kb3055047-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2999508</kb>
+			<date>2016/01/14</date>
+			<size>4.05 MB</size>
+			<category>General</category>
+			<name>filterpack2010-kb2999508-fullfile-x64-glb.exe</name>
+			<description>Microsoft Filter Pack 2.0</description>
+			<url>http://download.microsoft.com/download/E/F/C/EFC40D42-E4FB-492D-9F09-CA63EEE829A4/filterpack2010-kb2999508-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3054873</kb>
+			<date>2015/06/23</date>
+			<size>2.43 MB</size>
+			<category>General</category>
+			<name>fm202010-kb3054873-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Microsoft Forms 2.0)</description>
+			<url>http://download.microsoft.com/download/A/8/D/A8DB6BF0-8B9A-4FF4-9DA8-35CDCE3B8F7B/fm202010-kb3054873-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2589386</kb>
+			<date>2014/10/03</date>
+			<size>1.60 MB</size>
+			<category>General</category>
+			<name>gfonts2010-kb2589386-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Arial Narrow Font)</description>
+			<url>http://download.microsoft.com/download/7/A/1/7A17E78F-F286-4874-A4A0-C83B15A7B43B/gfonts2010-kb2589386-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="1">
+			<kb>KB2760787</kb>
+			<date>2014/03/13</date>
+			<size>2.11 MB</size>
+			<category>Hotfix</category>
+			<name>gfx2010-kb2760787-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (gfx-x-none.msp)</description>
+			<url>https://hotfixv4.microsoft.com/Microsoft%20Office%202010/sp2/gfx2010kb2760787fullfilex64glb/14.0.7121.5000/free/474435_intl_x64_zip.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2881030</kb>
+			<date>2016/05/17</date>
+			<size>4.01 MB</size>
+			<category>General</category>
+			<name>gkall2010-kb2881030-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (File Verification)</description>
+			<url>http://download.microsoft.com/download/3/B/4/3B4DEB77-D418-40DF-BC5C-9E1227A0BE87/gkall2010-kb2881030-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022199</kb>
+			<date>2018/05/17</date>
+			<size>4.09 MB</size>
+			<category>Security</category>
+			<name>graph2010-kb4022199-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Microsoft Graph)</description>
+			<url>http://download.microsoft.com/download/9/3/1/931D4904-F3B0-4518-B6E0-3E264546330D/graph2010-kb4022199-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2878231</kb>
+			<date>2014/12/03</date>
+			<size>22.57 MB</size>
+			<category>General</category>
+			<name>groove2010-kb2878231-fullfile-x64-glb.exe</name>
+			<description>Microsoft SharePoint Workspace 2010</description>
+			<url>http://download.microsoft.com/download/E/7/0/E70009BA-0420-4CC8-9359-30AAB874C7C8/groove2010-kb2878231-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2553313</kb>
+			<date>2015/07/16</date>
+			<size>1.46 MB</size>
+			<category>Security</category>
+			<name>ieawsdc2010-kb2553313-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Template and Media Control)</description>
+			<url>http://download.microsoft.com/download/D/4/2/D42174F9-B900-4094-ADF7-0E0A2B64DAB1/ieawsdc2010-kb2553313-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2899516</kb>
+			<date>2015/10/17</date>
+			<size>22.90 MB</size>
+			<category>Security</category>
+			<name>imeloc2010-kb2899516-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Pinyin IME)</description>
+			<url>http://download.microsoft.com/download/5/7/B/57BE6CCC-867F-464E-8F3B-495A91CBE6B2/imeloc2010-kb2899516-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3114414</kb>
+			<date>2016/02/10</date>
+			<size>6.53 MB</size>
+			<category>Security</category>
+			<name>infopath2010-kb3114414-fullfile-x64-glb.exe</name>
+			<description>Microsoft InfoPath 2010</description>
+			<url>http://download.microsoft.com/download/1/E/B/1EB53187-0C07-4A60-8AA9-8384A93FD94C/infopath2010-kb3114414-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2817369</kb>
+			<date>2013/12/19</date>
+			<size>4.51 MB</size>
+			<category>General</category>
+			<name>ipeditor2010-kb2817369-fullfile-x64-glb.exe</name>
+			<description>Microsoft InfoPath 2010 (InfoPath Editor)</description>
+			<url>http://download.microsoft.com/download/3/2/D/32D75E13-CABC-40B4-99BE-B330FBFB0533/ipeditor2010-kb2817369-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="1">
+			<kb>KB2553398</kb>
+			<date>2014/05/22</date>
+			<size>2.05 MB</size>
+			<category>Hotfix</category>
+			<name>lobi2010-kb2553398-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (lobi-x-none.msp)</description>
+			<url>https://hotfixv4.microsoft.com/Microsoft%20Office%202010/sp2/lobi2010kb2553398fullfilex64glb/14.0.7126.5000/free/476685_intl_x64_zip.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2880971</kb>
+			<date>2014/04/17</date>
+			<size>1.30 MB</size>
+			<category>Security</category>
+			<name>msaddndr2010-kb2880971-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (msaddndr-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/6/7/2/6726FA11-F4F5-4975-94EB-9D9B6A631D64/msaddndr2010-kb2880971-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2589288</kb>
+			<date>2014/04/17</date>
+			<size>1.56 MB</size>
+			<category>Security</category>
+			<name>mscomct22010-kb2589288-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Global Controls)</description>
+			<url>http://download.microsoft.com/download/1/B/C/1BC59C3B-7691-423D-BC68-98C608C3CD30/mscomct22010-kb2589288-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2589288</kb>
+			<date>2014/04/17</date>
+			<size>1.00 KB</size>
+			<category>Security</category>
+			<name>mscomct22010-kb2589288-info.txt</name>
+			<description>Microsoft Office 2010 (Global Controls)</description>
+			<url>https://dl.dropboxusercontent.com/s/03no9lvcq27i2zp/mscomct22010-kb2589288-info.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB2850016</kb>
+			<date>2013/10/26</date>
+			<size>2.45 MB</size>
+			<category>Security</category>
+			<name>mshelp2010-kb2850016-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (mshelp-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/C/8/2/C820D7BC-BE4F-4A91-860C-CA7C7A20F177/mshelp2010-kb2850016-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022137</kb>
+			<date>2018/04/17</date>
+			<size>18.65 MB</size>
+			<category>Security</category>
+			<name>mso2010-kb4022137-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (mso-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/D/3/3/D332D47A-7991-406E-96E3-A9610206F17E/mso2010-kb4022137-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2589375</kb>
+			<date>2013/08/15</date>
+			<size>1.56 MB</size>
+			<category>General</category>
+			<name>msocf2010-kb2589375-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (msocf-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/A/C/4/AC485AF9-4D3A-4B78-9F57-120B46C65162/msocf2010-kb2589375-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2956076</kb>
+			<date>2015/02/17</date>
+			<size>111.02 MB</size>
+			<category>Security</category>
+			<name>msoloc2010-kb2956076-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Msointl-x.msp)</description>
+			<url>http://download.microsoft.com/download/6/0/0/6009EAF9-D4D5-4651-9ED2-43CA60AE5ED3/msoloc2010-kb2956076-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2597087</kb>
+			<date>2013/09/07</date>
+			<size>21.51 MB</size>
+			<category>General</category>
+			<name>msores2010-kb2597087-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (msores-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/F/4/B/F4BF7808-EC68-40AA-8600-3C421E498FA5/msores2010-kb2597087-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3085528</kb>
+			<date>2015/11/11</date>
+			<size>1.76 MB</size>
+			<category>Security</category>
+			<name>msptls2010-kb3085528-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (msptls-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/1/2/0/1206C4A5-DE51-4265-82AF-12139B9C3CB6/msptls2010-kb3085528-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2553140</kb>
+			<date>2014/11/11</date>
+			<size>3.09 MB</size>
+			<category>General</category>
+			<name>mstore2010-kb2553140-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (mstore-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/8/6/B/86BA015D-898C-4D6F-B7F5-B658F49C3E17/mstore2010-kb2553140-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3115197</kb>
+			<date>2018/05/17</date>
+			<size>10.01 MB</size>
+			<category>Security</category>
+			<name>oart2010-kb3115197-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (OfficeArt)</description>
+			<url>http://download.microsoft.com/download/A/9/2/A92CA617-AC81-4DB0-BD19-45FAB43A45D1/oart2010-kb3115197-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3115248</kb>
+			<date>2018/05/17</date>
+			<size>6.22 MB</size>
+			<category>Security</category>
+			<name>oartconv2010-kb3115248-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (OfficeArt Converter)</description>
+			<url>http://download.microsoft.com/download/F/2/A/F2A5F026-8336-4F90-BB01-06F8E9098BBE/oartconv2010-kb3115248-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2553347</kb>
+			<date>2015/06/17</date>
+			<size>1.50 MB</size>
+			<category>General</category>
+			<name>ocfxca2010-kb2553347-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (ocfxca-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/E/6/1/E61D9E63-8589-4DB4-A1C4-E409FD8C7EB5/ocfxca2010-kb2553347-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2879953</kb>
+			<date>2014/04/02</date>
+			<size>33.26 MB</size>
+			<category>General</category>
+			<name>office2010-kb2879953-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (rmaddlocal-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/A/A/8/AA80555E-C9D5-4D86-81CE-782CDD3EA239/office2010-kb2879953-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3118389</kb>
+			<date>2017/06/05</date>
+			<size>4.46 MB</size>
+			<category>Security</category>
+			<name>offowc2010-kb3118389-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Office Web Components)</description>
+			<url>http://download.microsoft.com/download/9/7/9/97902387-B8F1-46FF-9BF7-31CBD97C7210/offowc2010-kb3118389-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3213638</kb>
+			<date>2017/08/25</date>
+			<size>2.96 MB</size>
+			<category>Security</category>
+			<name>ogl2010-kb3213638-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Office Graphics Library)</description>
+			<url>http://download.microsoft.com/download/5/5/8/5584BD6B-BD9B-43D1-8DF2-A4A0FB3E44F7/ogl2010-kb3213638-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="1">
+			<kb>KB2726880</kb>
+			<date>2014/10/15</date>
+			<size>19.59 MB</size>
+			<category>Hotfix</category>
+			<name>olcoscoutlook2010-kb2726880-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Outlook Hotmail Connector)</description>
+			<url>https://hotfixv4.microsoft.com/Microsoft%20Office%202010/sp2/olcoscoutlook2010kb2726880fullfilex64glb/14.0.7137.5000/free/479948_intl_x64_zip.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2589352</kb>
+			<date>2013/09/07</date>
+			<size>2.73 MB</size>
+			<category>General</category>
+			<name>oleo2010-kb2589352-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Open Document Format)</description>
+			<url>http://download.microsoft.com/download/7/F/A/7FA4CD52-DF4B-4B2B-8A55-35B7F0118945/oleo2010-kb2589352-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3114885</kb>
+			<date>2016/07/13</date>
+			<size>65.39 MB</size>
+			<category>Security</category>
+			<name>onenoteloc2010-kb3114885-fullfile-x64-glb.exe</name>
+			<description>Microsoft OneNote 2010 (Localizations)</description>
+			<url>http://download.microsoft.com/download/6/6/6/666512D1-CE04-49AC-BFCE-9A47EA838AC5/onenoteloc2010-kb3114885-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2553308</kb>
+			<date>2015/05/14</date>
+			<size>2.57 MB</size>
+			<category>General</category>
+			<name>osc2010-kb2553308-fullfile-x64-glb.exe</name>
+			<description>Microsoft Outlook Social Connector 2010</description>
+			<url>http://download.microsoft.com/download/F/C/B/FCB3043D-35AD-4B76-93A6-5C1C2106ED36/osc2010-kb2553308-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011274</kb>
+			<date>2018/04/17</date>
+			<size>1.37 MB</size>
+			<category>Security</category>
+			<name>ose2010-kb4011274-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Office Source Engine)</description>
+			<url>http://download.microsoft.com/download/3/8/D/38DF1A97-2BF5-4756-9E4A-BAA03E49DE31/ose2010-kb4011274-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011275</kb>
+			<date>2018/04/17</date>
+			<size>3.45 MB</size>
+			<category>Security</category>
+			<name>osetup2010-kb4011275-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Office Setup Engine)</description>
+			<url>http://download.microsoft.com/download/F/F/2/FF297520-803F-44F2-A7FF-C1720B1A49E3/osetup2010-kb4011275-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2883019</kb>
+			<date>2014/11/11</date>
+			<size>1.44 MB</size>
+			<category>General</category>
+			<name>ospp2010-kb2883019-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (License Management Tool)</description>
+			<url>http://download.microsoft.com/download/6/1/9/61967A34-8C86-42C2-8285-60FD35D715CA/ospp2010-kb2883019-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2920748</kb>
+			<date>2014/11/20</date>
+			<size>1.33 MB</size>
+			<category>Security</category>
+			<name>otkruntimertl2010-kb2920748-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (otkruntimertl-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/F/C/5/FC5C15DF-D7A3-459E-BCBD-AC6F279CBC42/otkruntimertl2010-kb2920748-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2760779</kb>
+			<date>2015/11/11</date>
+			<size>1.70 MB</size>
+			<category>General</category>
+			<name>outexum2010-kb2760779-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Exchange Outlook Addin)</description>
+			<url>http://download.microsoft.com/download/7/5/F/75F80DF7-0A3B-453A-BFE6-A80A8AE5D12A/outexum2010-kb2760779-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3115475</kb>
+			<date>2016/07/13</date>
+			<size>4.39 MB</size>
+			<category>General</category>
+			<name>outlfltr2010-kb3115475-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Junk Email and malicious links Filter)</description>
+			<url>http://download.microsoft.com/download/7/D/7/7D71F243-CFBB-4750-9F30-4DBE2B755A02/outlfltr2010-kb3115475-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022205</kb>
+			<date>2018/05/17</date>
+			<size>87.49 MB</size>
+			<category>Security</category>
+			<name>outlookloc2010-kb4022205-fullfile-x64-glb.exe</name>
+			<description>Microsoft Outlook 2010</description>
+			<url>http://download.microsoft.com/download/7/2/D/72D75970-9607-48DA-9E04-EE8FD77C3600/outlookloc2010-kb4022205-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="1">
+			<kb>KB2553170</kb>
+			<date>2013/11/09</date>
+			<size>1.32 MB</size>
+			<category>Hotfix</category>
+			<name>owssupp2010-kb2553170-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Owssupp-x-none.msp)</description>
+			<url>https://hotfixv4.microsoft.com/Microsoft%20Office%202010/sp2/owssupp2010kb2553170fullfilex64glb/14.0.7113.5000/free/471219_intl_x64_zip.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3054882</kb>
+			<date>2015/09/25</date>
+			<size>27.24 MB</size>
+			<category>General</category>
+			<name>pjloc2010-kb3054882-fullfile-x64-glb.exe</name>
+			<description>Microsoft Project 2010 (Localizations)</description>
+			<url>http://download.microsoft.com/download/B/D/C/BDC220BD-412F-475D-B892-964824E2B368/pjloc2010-kb3054882-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2965234</kb>
+			<date>2018/03/26</date>
+			<size>44.09 MB</size>
+			<category>General</category>
+			<name>powerpointloc2010-kb2965234-fullfile-x64-glb.exe</name>
+			<description>Microsoft PowerPoint 2010 (Localizations)</description>
+			<url>http://download.microsoft.com/download/7/9/D/79DF59E7-B79D-4716-B482-62887F280E3F/powerpointloc2010-kb2965234-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3128038</kb>
+			<date>2018/03/26</date>
+			<size>9.93 MB</size>
+			<category>General</category>
+			<name>project2010-kb3128038-fullfile-x64-glb.exe</name>
+			<description>Microsoft Project 2010</description>
+			<url>http://download.microsoft.com/download/4/0/6/40626F6E-F474-48AD-A5CB-89DFBA2C35F9/project2010-kb3128038-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3203468</kb>
+			<date>2017/06/05</date>
+			<size>102.31 MB</size>
+			<category>Security</category>
+			<name>proofloc2010-kb3203468-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Proofing Tools)</description>
+			<url>http://download.microsoft.com/download/D/4/1/D4173859-30C8-4A43-BBFA-9D8898E6391D/proofloc2010-kb3203468-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011186</kb>
+			<date>2018/05/17</date>
+			<size>8.55 MB</size>
+			<category>Security</category>
+			<name>publisher2010-kb4011186-fullfile-x64-glb.exe</name>
+			<description>Microsoft Publisher 2010</description>
+			<url>http://download.microsoft.com/download/7/0/6/706782A0-EC92-4C5C-A6F0-C089DB433348/publisher2010-kb4011186-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2589318</kb>
+			<date>2015/07/16</date>
+			<size>2.12 MB</size>
+			<category>General</category>
+			<name>riched202010-kb2589318-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (RichEdit 8.0)</description>
+			<url>http://download.microsoft.com/download/2/B/3/2B3C828C-BF96-4B27-A916-D8EBD8C0E0D6/riched202010-kb2589318-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2825640</kb>
+			<date>2013/08/15</date>
+			<size>1.28 MB</size>
+			<category>General</category>
+			<name>targetdir2010-kb2825640-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (targetdir-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/5/8/7/587A83A3-E0CA-4865-96C8-475636E7B6B9/targetdir2010-kb2825640-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3213631</kb>
+			<date>2017/08/25</date>
+			<size>1.59 MB</size>
+			<category>Security</category>
+			<name>usp102010-kb3213631-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Unicode Script Processor)</description>
+			<url>http://download.microsoft.com/download/7/5/E/75E53C3E-FAE4-40FC-B69D-9D38B8CFCBA0/usp102010-kb3213631-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3128031</kb>
+			<date>2017/04/12</date>
+			<size>2.94 MB</size>
+			<category>General</category>
+			<name>vbe72010-kb3128031-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Visual Basic for Applications)</description>
+			<url>http://download.microsoft.com/download/B/F/1/BF1FDD08-798E-4154-A716-ACD2BB78D2FE/vbe72010-kb3128031-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3114872</kb>
+			<date>2016/05/17</date>
+			<size>26.57 MB</size>
+			<category>Security</category>
+			<name>visio2010-kb3114872-fullfile-x64-glb.exe</name>
+			<description>Microsoft Visio 2010</description>
+			<url>http://download.microsoft.com/download/5/8/3/583D14FE-14D7-4CE2-98B5-C3C2883DAA07/visio2010-kb3114872-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2881025</kb>
+			<date>2015/03/23</date>
+			<size>34.04 MB</size>
+			<category>General</category>
+			<name>visioloc2010-kb2881025-fullfile-x64-glb.exe</name>
+			<description>Microsoft Visio 2010 (Localizations)</description>
+			<url>http://download.microsoft.com/download/3/7/6/3761E693-7A2A-406E-983F-B0339C4C7B19/visioloc2010-kb2881025-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2999465</kb>
+			<date>2016/05/17</date>
+			<size>10.36 MB</size>
+			<category>Security</category>
+			<name>vviewer2010-kb2999465-fullfile-x64-glb.exe</name>
+			<description>Microsoft Visio Viewer 2010</description>
+			<url>http://download.microsoft.com/download/1/5/8/158254DD-CC1D-41D2-8D62-0DC933866862/vviewer2010-kb2999465-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3191908</kb>
+			<date>2017/06/05</date>
+			<size>1.65 MB</size>
+			<category>Security</category>
+			<name>wce2010-kb3191908-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (OneNote Mobile ActiveSync)</description>
+			<url>http://download.microsoft.com/download/5/4/2/542E88CB-660B-4D09-B0FE-16171C53C88A/wce2010-kb3191908-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2553388</kb>
+			<date>2015/09/25</date>
+			<size>1.99 MB</size>
+			<category>General</category>
+			<name>wec2010-kb2553388-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (FrontPage Client)</description>
+			<url>http://download.microsoft.com/download/8/E/4/8E4B6B83-4AF6-4FB9-9101-7BF4A2B81DFC/wec2010-kb2553388-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022141</kb>
+			<date>2018/04/17</date>
+			<size>27.16 MB</size>
+			<category>Security</category>
+			<name>word2010-kb4022141-fullfile-x64-glb.exe</name>
+			<description>Microsoft Word 2010</description>
+			<url>http://download.microsoft.com/download/3/B/F/3BFEAA81-E4AB-45A8-8537-37C7CCACEC57/word2010-kb4022141-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2965313</kb>
+			<date>2015/10/19</date>
+			<size>42.62 MB</size>
+			<category>Security</category>
+			<name>wordloc2010-kb2965313-fullfile-x64-glb.exe</name>
+			<description>Microsoft Word 2010 (Localizations)</description>
+			<url>http://download.microsoft.com/download/9/3/2/932F9D8F-0A5C-4DD9-9A8E-FD3FF9B7B02C/wordloc2010-kb2965313-fullfile-x64-glb.exe</url>
+		</update>
+	</updates>
+</hotfixlist>

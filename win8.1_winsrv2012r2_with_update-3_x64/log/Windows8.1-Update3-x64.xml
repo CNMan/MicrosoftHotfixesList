@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/06/12" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/06/21" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -666,15 +666,6 @@
 			<name>Windows8.1-KB3024755-x64.msu</name>
 			<description>Multi-touch gesture does not work after you exit the Calculator</description>
 			<url>http://download.microsoft.com/download/5/3/8/538DBFFE-417B-4A7B-9F73-6A3960ED3F29/Windows8.1-KB3024755-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3029603</kb>
-			<date>2015/04/15</date>
-			<size>386 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3029603-v2-x64.msu</name>
-			<description>xHCI driver crashes after you resume computer from sleep mode</description>
-			<url>http://download.microsoft.com/download/E/D/C/EDC9CF83-181F-4248-9AFF-92B3788CA30C/Windows8.1-KB3029603-v2-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3029606</kb>
@@ -2207,22 +2198,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/05/windows8.1-kb4096417-x64_1b282552cd180525267a4c890ac9ece7afb85bc8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4098972</kb>
-			<date>2018/04/11</date>
+			<kb>KB4229727</kb>
+			<date>2018/05/31</date>
 			<size>49.96 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4098972-x64.msu</name>
+			<name>Windows8.1-KB4229727-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/05/windows8.1-kb4098972-x64_4569b436c6cf1a0b70273977e200cdd4ef471cd7.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/06/windows8.1-kb4229727-x64_880799857948418fdca866bc0d3ce457604a6d7e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4284815</kb>
-			<date>2018/05/31</date>
-			<size>336.71 MB</size>
+			<kb>KB4284863</kb>
+			<date>2018/06/13</date>
+			<size>345.28 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4284815-x64.msu</name>
+			<name>Windows8.1-KB4284863-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/windows8.1-kb4284815-x64_de8e97e6dc682c72e556329be2baaec1fbf046e1.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/06/windows8.1-kb4284863-x64_6a0c81c218113ce80f106583b7f853c460d529f9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4287903</kb>
