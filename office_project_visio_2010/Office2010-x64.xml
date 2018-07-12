@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/03" architecture="x64" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/10" architecture="x64" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB3114416</kb>
@@ -371,22 +371,22 @@
 			<url>http://download.microsoft.com/download/F/C/B/FCB3043D-35AD-4B76-93A6-5C1C2106ED36/osc2010-kb2553308-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011274</kb>
-			<date>2018/04/17</date>
-			<size>1.37 MB</size>
+			<kb>KB4022206</kb>
+			<date>2018/06/26</date>
+			<size>1.38 MM</size>
 			<category>Security</category>
-			<name>ose2010-kb4011274-fullfile-x64-glb.exe</name>
+			<name>ose2010-kb4022206-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (Office Source Engine)</description>
-			<url>http://download.microsoft.com/download/3/8/D/38DF1A97-2BF5-4756-9E4A-BAA03E49DE31/ose2010-kb4011274-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/0/1/901D9393-AB8E-4018-BF2D-78341A0B60BE/ose2010-kb4022206-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011275</kb>
-			<date>2018/04/17</date>
+			<kb>KB4022208</kb>
+			<date>2018/06/26</date>
 			<size>3.45 MB</size>
 			<category>Security</category>
-			<name>osetup2010-kb4011275-fullfile-x64-glb.exe</name>
+			<name>osetup2010-kb4022208-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (Office Setup Engine)</description>
-			<url>http://download.microsoft.com/download/F/F/2/FF297520-803F-44F2-A7FF-C1720B1A49E3/osetup2010-kb4011275-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/7/0/6703678B-8270-41ED-B16B-5F7D08D05A84/osetup2010-kb4022208-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2883019</kb>
@@ -453,7 +453,7 @@
 		</update>
 		<update extract="0">
 			<kb>KB4022136</kb>
-			<date>2017/06/26</date>
+			<date>2018/06/26</date>
 			<size>44.10 MB</size>
 			<category>General</category>
 			<name>powerpointloc2010-kb4022136-fullfile-x64-glb.exe</name>
@@ -569,13 +569,13 @@
 			<url>http://download.microsoft.com/download/8/E/4/8E4B6B83-4AF6-4FB9-9101-7BF4A2B81DFC/wec2010-kb2553388-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022141</kb>
-			<date>2018/04/17</date>
+			<kb>KB4022202</kb>
+			<date>2018/06/26</date>
 			<size>27.16 MB</size>
 			<category>Security</category>
-			<name>word2010-kb4022141-fullfile-x64-glb.exe</name>
+			<name>word2010-kb4022202-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2010</description>
-			<url>http://download.microsoft.com/download/3/B/F/3BFEAA81-E4AB-45A8-8537-37C7CCACEC57/word2010-kb4022141-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/F/9/6F942FAD-BC51-4B9F-BF9B-D0EC7DB65578/word2010-kb4022202-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2965313</kb>

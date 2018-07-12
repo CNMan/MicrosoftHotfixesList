@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/03" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/10" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
-			<kb>KB4011234</kb>
-			<date>2018/02/20</date>
+			<kb>KB4018351</kb>
+			<date>2018/06/14</date>
 			<size>29.30 MB</size>
 			<category>Security</category>
-			<name>access2013-kb4011234-fullfile-x86-glb.exe</name>
+			<name>access2013-kb4018351-fullfile-x86-glb.exe</name>
 			<description>Microsoft Access 2013</description>
-			<url>http://download.microsoft.com/download/F/F/F/FFFF78DA-A4F8-4374-BA9A-F5D1B0C7BA49/access2013-kb4011234-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/B/6/9B67457C-7C2E-4D0B-BB8B-360372BD732B/access2013-kb4018351-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172459</kb>
@@ -93,7 +93,7 @@
 		</update>
 		<update extract="0">
 			<kb>KB4022244</kb>
-			<date>2017/06/14</date>
+			<date>2018/06/14</date>
 			<size>89.67 MB</size>
 			<category>General</category>
 			<name>excel2013-kb4022244-fullfile-x86-glb.exe</name>
@@ -218,13 +218,13 @@
 			<url>http://download.microsoft.com/download/A/B/3/AB32BFC1-7128-491C-B25C-AC7A1446779E/ipeditor2013-kb3162075-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022170</kb>
-			<date>2018/05/16</date>
-			<size>95.87 MB</size>
-			<category>General</category>
-			<name>lync2013-kb4022170-fullfile-x86-glb.exe</name>
+			<kb>KB4022225</kb>
+			<date>2018/06/14</date>
+			<size>95.84 MB</size>
+			<category>Security</category>
+			<name>lync2013-kb4022225-fullfile-x86-glb.exe</name>
 			<description>Microsoft Skype for Business 2015</description>
-			<url>http://download.microsoft.com/download/6/B/F/6BFA3C4A-4A98-456C-AE5F-14D381AE92BD/lync2013-kb4022170-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/C/6/2/C62131C2-0EA4-467F-A5A2-45EE42CE91A5/lync2013-kb4022225-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191937</kb>
@@ -264,7 +264,7 @@
 		</update>
 		<update extract="0">
 			<kb>KB4022166</kb>
-			<date>2017/06/14</date>
+			<date>2018/06/14</date>
 			<size>153.47 MB</size>
 			<category>General</category>
 			<name>mso2013-kb4022166-fullfile-x86-glb.exe</name>
@@ -273,7 +273,7 @@
 		</update>
 		<update extract="0">
 			<kb>KB4018378</kb>
-			<date>2017/06/14</date>
+			<date>2018/06/14</date>
 			<size>1.81 MB</size>
 			<category>General</category>
 			<name>msptls2013-kb4018378-fullfile-x86-glb.exe</name>
@@ -371,22 +371,22 @@
 			<url>http://download.microsoft.com/download/A/A/1/AA1ABD47-D218-4186-9BCC-9DE4E9A09B92/oscfb2013-kb3054856-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011253</kb>
-			<date>2018/04/11</date>
+			<kb>KB4022188</kb>
+			<date>2018/06/14</date>
 			<size>1.39 MB</size>
 			<category>Security</category>
-			<name>ose2013-kb4011253-fullfile-x86-glb.exe</name>
+			<name>ose2013-kb4022188-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Source Engine)</description>
-			<url>http://download.microsoft.com/download/B/A/A/BAA4D9CE-27EB-4219-B1F6-C32D7C834C39/ose2013-kb4011253-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/5/F/55FCBF33-3302-435C-BF96-051A6F8FBF51/ose2013-kb4022188-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011254</kb>
-			<date>2018/04/11</date>
-			<size>3.66 MB</size>
+			<kb>KB4022189</kb>
+			<date>2018/06/14</date>
+			<size>3.65 MB</size>
 			<category>Security</category>
-			<name>osetup2013-kb4011254-fullfile-x86-glb.exe</name>
+			<name>osetup2013-kb4022189-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Setup Engine)</description>
-			<url>http://download.microsoft.com/download/D/F/4/DF43CFEF-B35B-46BE-A3C2-600CDA724B5B/osetup2013-kb4011254-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/B/9/0/B90E2ADE-9BF4-4C66-ABF3-EBABB5049BF7/osetup2013-kb4022189-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4018333</kb>
@@ -435,7 +435,7 @@
 		</update>
 		<update extract="0">
 			<kb>KB4022242</kb>
-			<date>2017/06/14</date>
+			<date>2018/06/14</date>
 			<size>87.60 MB</size>
 			<category>General</category>
 			<name>outlook2013-kb4022242-fullfile-x86-glb.exe</name>
@@ -578,13 +578,13 @@
 			<url>http://download.microsoft.com/download/1/6/E/16E6EBD1-B8D4-4BC7-838A-E8B75C3A9401/wec2013-kb3172533-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022186</kb>
-			<date>2018/05/16</date>
-			<size>162.78 MB</size>
-			<category>General</category>
-			<name>word2013-kb4022186-fullfile-x86-glb.exe</name>
+			<kb>KB4022224</kb>
+			<date>2018/06/14</date>
+			<size>162.76 MB</size>
+			<category>Security</category>
+			<name>word2013-kb4022224-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>http://download.microsoft.com/download/5/3/F/53FF6F94-4043-4B6E-9A69-F4689FDCFB9E/word2013-kb4022186-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/E/7/C/E7C37623-6325-4BFD-87AB-A7A89D3210F5/word2013-kb4022224-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>

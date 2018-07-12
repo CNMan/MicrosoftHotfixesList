@@ -35,4 +35,6 @@ start /wait ndp20sp2-kb4040968-x86_627a7d41e164c26280b1db64fefbba23c754ebc4.exe 
 start /wait ndp20sp2-kb4054178-x86_c0d933409d0128ad7df07c0eaf71ae01f49c48c3.exe /q /norestart
 start /wait ndp30sp2-kb4055229-x86_45c6c6c58de4c40a6ab5c31cca4c685e289493ad.exe /q /norestart
 start /wait ndp20sp2-kb4095516-x86_c5111ba0c2003141ee07c8cd75932e98f0d80948.exe /q /norestart
+start /wait ndp30sp2-kb4338597-x86_7eefe88d95fcdb3b2e2941fdc555d4baeeab5864.exe /q /norestart
+start /wait ndp20sp2-kb4338615-x86_2efbd12454fd3710958d88de466e1902eefca318.exe /q /norestart
 shutdown -r

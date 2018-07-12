@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/10" architecture="x86" version="Windows10">
+	<updates>
+		<update extract="0">
+			<kb>KB1000000</kb>
+			<date>2018/05/08</date>
+			<size>1.00 KB</size>
+			<category>General</category>
+			<name>Information-PleaseRead.txt</name>
+			<description>Info to differentiate updates based on build number</description>
+			<url>https://dl.dropboxusercontent.com/s/bdr1sp6k6f0fu7m/Information-PleaseRead.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB4033418</kb>
+			<date>2018/07/10</date>
+			<size>8.10 KB</size>
+			<category>General/14393</category>
+			<name>NET472-LanguagePackages.txt</name>
+			<description>Microsoft .NET Framework 4.7.2 Languages Packs</description>
+			<url>https://dl.dropboxusercontent.com/s/epmsj64axn1wslf/NET472-LanguagePackages.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB4054590</kb>
+			<date>2018/06/07</date>
+			<size>41.81 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4054590-x86.msu</name>
+			<description>Microsoft .NET Framework 4.7.2</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/07/windows10.0-kb4054590-x86_819cee600ccd8935d005b1d6fcc5148ea7b24201.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4132216</kb>
+			<date>2018/04/26</date>
+			<size>5.31 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4132216-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132216-x86_397ebbe49d273429a3e0ce8d6ced13fdb83e1718.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4338814</kb>
+			<date>2018/06/29</date>
+			<size>676.62 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4338814-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windows10.0-kb4338814-x86_63e958d1e4abc262524acc9076597c699345985d.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4338832</kb>
+			<date>2018/06/29</date>
+			<size>10.20 MB</size>
+			<category>General/14393</category>
+			<name>windows10.0-kb4338832-x86_ede9dd17a82d97ce41ac91ce9310c68ecd0ed2b7.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windows10.0-kb4338832-x86_ede9dd17a82d97ce41ac91ce9310c68ecd0ed2b7.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4054590</kb>
+			<date>2018/07/10</date>
+			<size>1.00 KB</size>
+			<category>General/15063</category>
+			<name>NET472-Info.txt</name>
+			<description>Microsoft .NET Framework 4.7.2</description>
+			<url>https://dl.dropboxusercontent.com/s/fqkl1uzh0fr7s2b/NET472-Info.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB4132649</kb>
+			<date>2018/04/26</date>
+			<size>5.34 MB</size>
+			<category>General/15063</category>
+			<name>Windows10.0-KB4132649-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132649-x86_ea616942f1348d22aeaf07ebee1759b3a8aa708a.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4338826</kb>
+			<date>2018/06/29</date>
+			<size>678.26 MB</size>
+			<category>General/15063</category>
+			<name>Windows10.0-KB4338826-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/windows10.0-kb4338826-x86_5d88dcbdaea9fdb25c15e565add861eb4759bdb4.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4338832</kb>
+			<date>2018/06/29</date>
+			<size>10.20 MB</size>
+			<category>General/15063</category>
+			<name>windows10.0-kb4338832-x86_a185aaf4cc10fc4c155691534e123f308bade794.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windows10.0-kb4338832-x86_a185aaf4cc10fc4c155691534e123f308bade794.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4338825</kb>
+			<date>2018/07/01</date>
+			<size>460.34 MB</size>
+			<category>General/16299</category>
+			<name>Windows10.0-KB4338825-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1709</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows10.0-kb4338825-x86_ef2e8524318a9bbd5cb0b383d3077dc269c9cd9d.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4338832</kb>
+			<date>2018/06/29</date>
+			<size>10.19 MB</size>
+			<category>General/16299</category>
+			<name>windows10.0-kb4338832-x86_cd9926c792b671cb1f2e35ebdee60b45f9d9990a.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 1709</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windows10.0-kb4338832-x86_cd9926c792b671cb1f2e35ebdee60b45f9d9990a.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4339420</kb>
+			<date>2018/07/02</date>
+			<size>5.94 MB</size>
+			<category>General/16299</category>
+			<name>Windows10.0-KB4339420-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1709</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/07/windows10.0-kb4339420-x86_e55a3d3a16a4f22d03cef5032c67fede610fc0fb.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4338819</kb>
+			<date>2018/07/07</date>
+			<size>374.11 MB</size>
+			<category>General/17134</category>
+			<name>Windows10.0-KB4284848-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1803</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows10.0-kb4338819-x86_9e9e0d42752a528f2c13464c861e8bd8a50ba9ef.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4338832</kb>
+			<date>2018/06/29</date>
+			<size>10.19 MB</size>
+			<category>General/17134</category>
+			<name>windows10.0-kb4338832-x86_cd2d7de85e8811748070b5701e560feb78384a0c.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 1803</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windows10.0-kb4338832-x86_cd2d7de85e8811748070b5701e560feb78384a0c.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4343669</kb>
+			<date>2018/07/07</date>
+			<size>6.00 MB</size>
+			<category>General/17134</category>
+			<name>Windows10.0-KB4343669-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1803</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/07/windows10.0-kb4343669-x86_007e2da4899083bc01c78f625a6458e8643e2bb0.msu</url>
+		</update>
+	</updates>
+</hotfixlist>

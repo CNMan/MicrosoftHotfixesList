@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/10" architecture="x86" version="Office 2016">
+	<updates>
+		<update extract="0">
+			<kb>KB4018338</kb>
+			<date>2018/06/13</date>
+			<size>18.31 MB</size>
+			<category>Security</category>
+			<name>access2016-kb4018338-fullfile-x86-glb.exe</name>
+			<description>Microsoft Access 2016</description>
+			<url>http://download.microsoft.com/download/2/8/4/284BDE66-7DB8-4188-8BCE-831E02885AE0/access2016-kb4018338-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011143</kb>
+			<date>2018/01/18</date>
+			<size>3.40 MB</size>
+			<category>Security</category>
+			<name>ace2016-kb4011143-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Access Database Engine)</description>
+			<url>http://download.microsoft.com/download/1/3/F/13F845DD-A89C-463B-8859-E7DD26902F72/ace2016-kb4011143-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011259</kb>
+			<date>2017/10/18</date>
+			<size>1.51 MB</size>
+			<category>General</category>
+			<name>acewss2016-kb4011259-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Access Database Engine SharePoint ISAM)</description>
+			<url>http://download.microsoft.com/download/E/C/A/ECABDFF2-AFA2-49F4-9865-8783B6DE03C7/acewss2016-kb4011259-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4018385</kb>
+			<date>2018/06/13</date>
+			<size>4.63 MB</size>
+			<category>General</category>
+			<name>chart2016-kb4018385-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Office Chart)</description>
+			<url>http://download.microsoft.com/download/D/A/F/DAFE2D74-5458-41A8-ABA5-BD28F5959377/chart2016-kb4018385-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3213551</kb>
+			<date>2017/08/15</date>
+			<size>25.76 MB</size>
+			<category>Security</category>
+			<name>conv2016-kb3213551-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (File Format Converters)</description>
+			<url>http://download.microsoft.com/download/F/7/C/F7C4E06B-26A9-4A8B-8AD4-672FCF8355DD/conv2016-kb3213551-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011634</kb>
+			<date>2018/04/11</date>
+			<size>11.20 MB</size>
+			<category>General</category>
+			<name>csi2016-kb4011634-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Document Cache)</description>
+			<url>http://download.microsoft.com/download/7/4/7/74726F58-2E78-4ADD-B3F3-305488360399/csi2016-kb4011634-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3118264</kb>
+			<date>2016/09/13</date>
+			<size>1.38 MB</size>
+			<category>General</category>
+			<name>csisyncclient2016-kb3118264-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Document Cache Sync Client)</description>
+			<url>http://download.microsoft.com/download/E/0/E/E0E58FB9-A099-4E81-B134-B1190F4352C2/csisyncclient2016-kb3118264-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2910990</kb>
+			<date>2016/01/13</date>
+			<size>3.58 MB</size>
+			<category>General</category>
+			<name>dcf2016-kb2910990-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (dcf-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/B/D/E/BDEB1462-49EA-45EC-8418-ADFC6899B3B7/dcf2016-kb2910990-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011574</kb>
+			<date>2017/12/18</date>
+			<size>1.37 MB</size>
+			<category>Security</category>
+			<name>eqnedt322016-kb4011574-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Equation Editor)</description>
+			<url>http://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022229</kb>
+			<date>2018/06/13</date>
+			<size>127.64 MB</size>
+			<category>General</category>
+			<name>excel2016-kb4022229-fullfile-x86-glb.exe</name>
+			<description>Microsoft Excel 2016</description>
+			<url>http://download.microsoft.com/download/F/D/E/FDE709A1-4208-41B0-A5B0-3E88184758B4/excel2016-kb4022229-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011218</kb>
+			<date>2017/11/15</date>
+			<size>38.46 MB</size>
+			<category>General</category>
+			<name>excelpp2016-kb4011218-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Excel Data Model Engine)</description>
+			<url>http://download.microsoft.com/download/A/4/B/A4B21087-3C09-4C84-ADE5-C49B98B2C701/excelpp2016-kb4011218-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2920720</kb>
+			<date>2016/03/16</date>
+			<size>1.41 MB</size>
+			<category>General</category>
+			<name>exppdf2016-kb2920720-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (PDF Export)</description>
+			<url>http://download.microsoft.com/download/D/E/E/DEE029FA-B808-4316-AEE0-2A950B024990/exppdf2016-kb2920720-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2920684</kb>
+			<date>2015/11/19</date>
+			<size>7.88 MB</size>
+			<category>General</category>
+			<name>filterpack2016-kb2920684-fullfile-x86-glb.exe</name>
+			<description>Microsoft Filter Pack 2.0</description>
+			<url>http://download.microsoft.com/download/3/B/4/3B4E2A5E-E1EF-4E9D-B7F0-B7336F48719D/filterpack2016-kb2920684-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3114903</kb>
+			<date>2016/03/16</date>
+			<size>30.11 MB</size>
+			<category>General</category>
+			<name>fonts2016-kb3114903-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Dengxian Fonts)</description>
+			<url>http://download.microsoft.com/download/4/5/8/458FBDA4-7F57-4BFF-B43D-44468D24452D/fonts2016-kb3114903-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3115276</kb>
+			<date>2016/08/17</date>
+			<size>4.34 MB</size>
+			<category>General</category>
+			<name>gkall2016-kb3115276-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (File Verification)</description>
+			<url>http://download.microsoft.com/download/5/0/3/503C678A-FC9B-433C-BD93-4ECD55B3A295/gkall2016-kb3115276-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022177</kb>
+			<date>2018/05/16</date>
+			<size>3.31 MB</size>
+			<category>Security</category>
+			<name>graph2016-kb4022177-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Microsoft Graph)</description>
+			<url>http://download.microsoft.com/download/F/4/8/F48C5EEE-C04E-4033-B42D-D8D30C8CF09C/graph2016-kb4022177-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011100</kb>
+			<date>2018/05/16</date>
+			<size>77.71 MB</size>
+			<category>General</category>
+			<name>groove2016-kb4011100-fullfile-x86-glb.exe</name>
+			<description>Microsoft OneDrive for Business 2016</description>
+			<url>http://download.microsoft.com/download/9/D/8/9D8F5E72-A4C5-4C20-A61D-A01507D61F45/groove2016-kb4011100-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3085538</kb>
+			<date>2015/09/20</date>
+			<size>1.57 MB</size>
+			<category>Security</category>
+			<name>ieawsdc2016-kb3085538-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Template and Media Control)</description>
+			<url>http://download.microsoft.com/download/6/4/5/645215A1-F17C-484E-AC78-D27221A1BC7F/ieawsdc2016-kb3085538-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3191929</kb>
+			<date>2017/05/17</date>
+			<size>1.41 MB</size>
+			<category>General</category>
+			<name>kohhc2016-kb3191929-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Korean Text Converter)</description>
+			<url>http://download.microsoft.com/download/F/2/F/F2F098E4-E25C-4F2D-A11B-B29F37512AC9/kohhc2016-kb3191929-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022221</kb>
+			<date>2018/06/13</date>
+			<size>84.12 MB</size>
+			<category>Security</category>
+			<name>lync2016-kb4022221-fullfile-x86-glb.exe</name>
+			<description>Microsoft Skype for Business 2016</description>
+			<url>http://download.microsoft.com/download/B/8/9/B89F89DF-97AC-4A0D-944D-8A685204DB9A/lync2016-kb4022221-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2920727</kb>
+			<date>2015/12/11</date>
+			<size>1.79 MB</size>
+			<category>Security</category>
+			<name>mscomctlocx2016-kb2920727-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (ActiveX Control)</description>
+			<url>http://download.microsoft.com/download/8/6/3/8633BDA9-DE5B-4520-A900-73462E96BE97/mscomctlocx2016-kb2920727-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3178666</kb>
+			<date>2017/03/15</date>
+			<size>8.21 MB</size>
+			<category>General</category>
+			<name>msmipc2016-kb3178666-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Active Directory RMS)</description>
+			<url>http://download.microsoft.com/download/1/7/7/17728583-D4F3-4EF4-99D3-7B4BA5BF2395/msmipc2016-kb3178666-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022214</kb>
+			<date>2018/06/13</date>
+			<size>128.05 MB</size>
+			<category>General</category>
+			<name>mso2016-kb4022214-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/C/4/4/C4410924-B8A5-4374-938E-C456986726BD/mso2016-kb4022214-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011630</kb>
+			<date>2017/12/18</date>
+			<size>3.36 MB</size>
+			<category>General</category>
+			<name>msodll202016-kb4011630-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (msodll20-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/0/A/B/0AB97838-6D37-4D74-BCB6-8231EA8FE2D9/msodll202016-kb4011630-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011667</kb>
+			<date>2018/03/14</date>
+			<size>4.44 MB</size>
+			<category>General</category>
+			<name>msodll302016-kb4011667-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (msodll30-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/5/1/2/5126D4EC-7BCD-49AA-B186-F499EB99B0D7/msodll302016-kb4011667-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4018324</kb>
+			<date>2018/06/13</date>
+			<size>7.90 MB</size>
+			<category>General</category>
+			<name>msodll40ui2016-kb4018324-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (msodll40ui-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/5/3/8/5388ECC4-C2E2-4D40-8C21-D1EA26FEA0CA/msodll40ui2016-kb4018324-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022158</kb>
+			<date>2018/05/16</date>
+			<size>9.94 MB</size>
+			<category>General</category>
+			<name>msodll99l2016-kb4022158-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (msodll99l-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/6/2/3/6236FD1E-D026-4089-A725-182C2FA49902/msodll99l2016-kb4022158-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022133</kb>
+			<date>2018/04/11</date>
+			<size>1.33 MB</size>
+			<category>General</category>
+			<name>msohevi2016-kb4022133-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (msohevi-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/2/7/D/27D3EAC8-37D5-4E0B-934A-CB19D7A75F1B/msohevi2016-kb4022133-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022193</kb>
+			<date>2018/05/16</date>
+			<size>1.33 MB</size>
+			<category>General</category>
+			<name>mtextra2016-kb4022193-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (MT Extra Font)</description>
+			<url>http://download.microsoft.com/download/7/3/A/73AF522A-470D-4E0D-A181-7898B435E180/mtextra2016-kb4022193-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011628</kb>
+			<date>2018/03/14</date>
+			<size>10.41 MB</size>
+			<category>Security</category>
+			<name>oart2016-kb4011628-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Office Art)</description>
+			<url>http://download.microsoft.com/download/A/1/0/A1075091-A108-4518-AABD-90B7FA208D35/oart2016-kb4011628-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3141457</kb>
+			<date>2017/05/17</date>
+			<size>3.30 MB</size>
+			<category>General</category>
+			<name>oleo2016-kb3141457-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Open Document Format)</description>
+			<url>http://download.microsoft.com/download/3/6/5/365AE5E5-426F-4CFF-B658-76BDC59271FB/oleo2016-kb3141457-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022163</kb>
+			<date>2018/05/16</date>
+			<size>39.89 MB</size>
+			<category>General</category>
+			<name>onenote2016-kb4022163-fullfile-x86-glb.exe</name>
+			<description>Microsoft OneNote 2016</description>
+			<url>http://download.microsoft.com/download/F/5/3/F532625A-65B8-41A5-910B-7E94F0BF909E/onenote2016-kb4022163-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2920712</kb>
+			<date>2015/11/12</date>
+			<size>1.62 MB</size>
+			<category>General</category>
+			<name>orgidcrl2016-kb2920712-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Online Services Control)</description>
+			<url>http://download.microsoft.com/download/5/9/C/59C41F84-D3BC-4E01-93A8-633AF7DF133B/orgidcrl2016-kb2920712-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022176</kb>
+			<date>2018/06/13</date>
+			<size>1.49 MB</size>
+			<category>Security</category>
+			<name>ose2016-kb4022176-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Office Source Engine)</description>
+			<url>http://download.microsoft.com/download/E/7/A/E7A73C84-60CC-4FDD-ABA2-C0FFA5F06C27/ose2016-kb4022176-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022172</kb>
+			<date>2018/06/13</date>
+			<size>4.20 MB</size>
+			<category>Security</category>
+			<name>osetup2016-kb4022172-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Office Setup Engine)</description>
+			<url>http://download.microsoft.com/download/5/B/D/5BD34E3A-567A-4FAC-A69D-41C74DDCD929/osetup2016-kb4022172-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022223</kb>
+			<date>2018/06/13</date>
+			<size>5.38 MB</size>
+			<category>General</category>
+			<name>osfclient2016-kb4022223-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Office Apps)</description>
+			<url>http://download.microsoft.com/download/8/0/6/80608C78-00C3-4E0C-A180-3E1709C5FF1D/osfclient2016-kb4022223-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2920724</kb>
+			<date>2015/11/12</date>
+			<size>1.53 MB</size>
+			<category>General</category>
+			<name>ospp2016-kb2920724-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (License Management Tool)</description>
+			<url>http://download.microsoft.com/download/C/9/5/C9520737-0897-4639-B449-E4055C51FC16/ospp2016-kb2920724-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3114690</kb>
+			<date>2016/02/10</date>
+			<size>1.36 MB</size>
+			<category>Security</category>
+			<name>otkruntimertl2016-kb3114690-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (otkruntimertl-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/2/8/F/28F53CDA-8DCD-484B-9BDB-34D7555B9D65/otkruntimertl2016-kb3114690-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3191864</kb>
+			<date>2018/06/13</date>
+			<size>1.70 MB</size>
+			<category>General</category>
+			<name>outexum2016-kb3191864-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Exchange Outlook Addin)</description>
+			<url>http://download.microsoft.com/download/1/E/B/1EB30C4C-C38F-4468-BBDA-D45BF5BC2683/outexum2016-kb3191864-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3115407</kb>
+			<date>2016/07/13</date>
+			<size>4.57 MB</size>
+			<category>General</category>
+			<name>outlfltr2016-kb3115407-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Junk Email Links Filter)</description>
+			<url>http://download.microsoft.com/download/B/4/8/B480C326-8984-4D40-BAA2-33F3A44F20CB/outlfltr2016-kb3115407-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022230</kb>
+			<date>2018/06/13</date>
+			<size>90.59 MB</size>
+			<category>General</category>
+			<name>outlook2016-kb4022230-fullfile-x86-glb.exe</name>
+			<description>Microsoft Outlook 2016</description>
+			<url>http://download.microsoft.com/download/2/F/7/2F7A3E5F-A696-4A1F-A440-C363AA9B1FA4/outlook2016-kb4022230-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3115081</kb>
+			<date>2016/05/18</date>
+			<size>1.48 MB</size>
+			<category>General</category>
+			<name>policytips2016-kb3115081-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Office Policy Tips)</description>
+			<url>http://download.microsoft.com/download/D/C/3/DC346591-A593-4FCB-9B76-B1104DD4D35E/policytips2016-kb3115081-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011726</kb>
+			<date>2018/03/14</date>
+			<size>29.37 MB</size>
+			<category>General</category>
+			<name>powerpoint2016-kb4011726-fullfile-x86-glb.exe</name>
+			<description>Microsoft PowerPoint 2016</description>
+			<url>http://download.microsoft.com/download/6/1/D/61DA10E5-4A11-45FB-B37D-944B6D98F0FF/powerpoint2016-kb4011726-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011225</kb>
+			<date>2017/11/15</date>
+			<size>59.00 MB</size>
+			<category>General</category>
+			<name>ppaddin2016-kb4011225-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (ppaddin-x-none.msp)</description>
+			<url>http://download.microsoft.com/download/8/3/E/83E7FD4B-A543-4DD8-8C73-A111B60EDD10/ppaddin2016-kb4011225-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022217</kb>
+			<date>2018/06/13</date>
+			<size>34.24 MB</size>
+			<category>General</category>
+			<name>project2016-kb4022217-fullfile-x86-glb.exe</name>
+			<description>Microsoft Project 2016</description>
+			<url>http://download.microsoft.com/download/E/1/0/E10B24A2-D8A9-42E9-8A9A-F755EDC29EC2/project2016-kb4022217-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3178662</kb>
+			<date>2017/12/18</date>
+			<size>18.07 MB</size>
+			<category>General</category>
+			<name>proof2016-kb3178662-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Proofing Tools)</description>
+			<url>http://download.microsoft.com/download/5/F/C/5FC9F807-9F14-45D6-8D00-F44A8FF34675/proof2016-kb3178662-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2910954</kb>
+			<date>2016/01/13</date>
+			<size>1.58 MB</size>
+			<category>General</category>
+			<name>protocolhndlr2016-kb2910954-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Office Protocol Handler)</description>
+			<url>http://download.microsoft.com/download/5/6/0/560FA934-92F9-4B93-8D9F-F774DCF86C0A/protocolhndlr2016-kb2910954-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3178696</kb>
+			<date>2017/07/12</date>
+			<size>33.79 MB</size>
+			<category>General</category>
+			<name>publisher2016-kb3178696-fullfile-x86-glb.exe</name>
+			<description>Microsoft Publisher 2016</description>
+			<url>http://download.microsoft.com/download/C/8/0/C80A50AD-6B25-4ED8-B3A0-17E96DCA9DD0/publisher2016-kb3178696-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011569</kb>
+			<date>2017/12/18</date>
+			<size>2.29 MB</size>
+			<category>General</category>
+			<name>riched202016-kb4011569-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (RichEdit 8.0)</description>
+			<url>http://download.microsoft.com/download/D/4/8/D4863C0A-24B6-4C23-AC50-3D657E791226/riched202016-kb4011569-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011035</kb>
+			<date>2018/06/13</date>
+			<size>2.20 MB</size>
+			<category>General</category>
+			<name>seguiemj2016-kb4011035-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Segoe UI Emoji Font)</description>
+			<url>http://download.microsoft.com/download/6/C/5/6C56FECF-B030-4BF9-A4F8-C9B20FBBA117/seguiemj2016-kb4011035-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3203479</kb>
+			<date>2018/04/11</date>
+			<size>2.53 MB</size>
+			<category>General</category>
+			<name>stslist2016-kb3203479-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Access Web Datasheet)</description>
+			<url>http://download.microsoft.com/download/6/9/E/69EBA8B9-5066-490C-9B7A-0790624964C8/stslist2016-kb3203479-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2920678</kb>
+			<date>2016/02/10</date>
+			<size>1.80 MB</size>
+			<category>General</category>
+			<name>stsupld2016-kb2920678-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (SharePoint Upload Support)</description>
+			<url>http://download.microsoft.com/download/7/C/6/7C6A468C-9208-483B-ABF5-DB7A501BBCB1/stsupld2016-kb2920678-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3115135</kb>
+			<date>2016/10/19</date>
+			<size>2.77 MB</size>
+			<category>Security</category>
+			<name>vbe72016-kb3115135-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Visual Basic for Applications)</description>
+			<url>http://download.microsoft.com/download/B/7/5/B7538B66-537E-4D91-BA66-25B7F02075EC/vbe72016-kb3115135-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4018325</kb>
+			<date>2018/06/13</date>
+			<size>59.87 MB</size>
+			<category>General</category>
+			<name>visio2016-kb4018325-fullfile-x86-glb.exe</name>
+			<description>Microsoft Visio 2016</description>
+			<url>http://download.microsoft.com/download/7/B/8/7B8A7546-EF45-4431-83C9-A6EAAD4DA35B/visio2016-kb4018325-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4022218</kb>
+			<date>2018/06/13</date>
+			<size>42.11 MB</size>
+			<category>Security</category>
+			<name>word2016-kb4022218-fullfile-x86-glb.exe</name>
+			<description>Microsoft Word 2016</description>
+			<url>http://download.microsoft.com/download/8/2/A/82A8FFF9-27ED-4E8B-A089-187F6C63CFA2/word2016-kb4022218-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3118263</kb>
+			<date>2016/09/13</date>
+			<size>1.85 MB</size>
+			<category>General</category>
+			<name>wxpcore2016-kb3118263-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Upload Center)</description>
+			<url>http://download.microsoft.com/download/B/E/4/BE4B7C0C-3BFA-45C8-8DBB-04726A951A79/wxpcore2016-kb3118263-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3118262</kb>
+			<date>2016/09/13</date>
+			<size>1.57 MB</size>
+			<category>General</category>
+			<name>wxpnse2016-kb3118262-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Upload Center Extension)</description>
+			<url>http://download.microsoft.com/download/7/5/A/75AE3158-3DFF-4C4B-80D2-89DB1F413A69/wxpnse2016-kb3118262-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB3213650</kb>
+			<date>2017/07/12</date>
+			<size>1.55 MB</size>
+			<category>General</category>
+			<name>xdext2016-kb3213650-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Office XML Handler)</description>
+			<url>http://download.microsoft.com/download/2/F/4/2F47A43E-92F3-4F5A-843A-7AD2C041B0F0/xdext2016-kb3213650-fullfile-x86-glb.exe</url>
+		</update>
+	</updates>
+</hotfixlist>
