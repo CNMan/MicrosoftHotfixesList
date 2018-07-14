@@ -29,13 +29,13 @@
 			<url>http://download.microsoft.com/download/8/B/D/8BD87795-E88D-4B4D-A14B-31123E273087/acewss2016-kb4011259-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018385</kb>
-			<date>2018/06/13</date>
+			<kb>KB4011128</kb>
+			<date>2018/05/16</date>
 			<size>5.61 MB</size>
 			<category>General</category>
-			<name>chart2016-kb4018385-fullfile-x64-glb.exe</name>
+			<name>chart2016-kb4011128-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Office Chart)</description>
-			<url>http://download.microsoft.com/download/2/6/7/26782B5F-9BAB-429C-8E97-9CCE2AEFC9E4/chart2016-kb4018385-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/A/6/1A69A731-CEC8-4D3F-BA81-0E801E8B0C7D/chart2016-kb4011128-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213551</kb>
