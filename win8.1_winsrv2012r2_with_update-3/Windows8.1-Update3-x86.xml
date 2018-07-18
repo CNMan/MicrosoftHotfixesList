@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/10" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/17" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -125,7 +125,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3048803-x86.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.0 SP2: April 14, 2015</description>
-			<url>https://hotfixv4.microsoft.com/.NET%20Framework%203.5,%20Windows%208.1%20RTM,%20Windows%20Server%202012%20R2%20RTM/nosp/DevDiv1060564/30729.8664/free/483868_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/.NET%20Framework%203.5,%20Windows%208.1%20RTM,%20Windows%20Server%202012%20R2%20RTM/nosp/DevDiv1060564/30729.8664/free/483868_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3072307</kb>
@@ -152,7 +152,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3096438-v2-x86.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.5: October 13, 2015</description>
-			<url>https://hotfixv4.microsoft.com/.NET%20Framework%203.5,%20Windows%208.1%20RTM,%20Windows%20Server%202012%20R2%20RTM/nosp/DevDiv1087089/50727.8669/free/488092_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/.NET%20Framework%203.5,%20Windows%208.1%20RTM,%20Windows%20Server%202012%20R2%20RTM/nosp/DevDiv1087089/50727.8669/free/488092_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097992</kb>
@@ -1232,7 +1232,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB2908802-x86.msu</name>
 			<description>"Installation Prevented by Policy" warning is not displayed when you install a device</description>
-			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix526307/9600/free/481886_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix526307/9600/free/481886_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2966038</kb>
@@ -1331,7 +1331,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3022776-v3-x86.msu</name>
 			<description>Update to add support for Generic Routing Encapsulation in Windows 8.1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix527713/9600/free/481142_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix527713/9600/free/481142_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3024260</kb>
@@ -1349,7 +1349,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3024680-v2-x86.msu</name>
 			<description>The tile of an upgraded side-loaded app is not updated</description>
-			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix528704/9600/free/481935_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix528704/9600/free/481935_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3024681</kb>
@@ -1547,7 +1547,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3067699-x86.msu</name>
 			<description>Application can't receive data in the serialized order through a Bluetooth LE device</description>
-			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3362128/9600/free/485831_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3362128/9600/free/485831_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3071675</kb>
@@ -1556,7 +1556,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3071675-x86.msu</name>
 			<description>Windows Fabric traces stop working on virtual machines</description>
-			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix92958/9600/free/485271_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix92958/9600/free/485271_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3071787</kb>
@@ -1637,7 +1637,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3080734-x86.msu</name>
 			<description>Network adapters may not connect after you resume a computer that is out of docking station range</description>
-			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3504722/9600/free/486019_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3504722/9600/free/486019_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3082808</kb>
@@ -1673,7 +1673,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3093571-x86.msu</name>
 			<description>Update to replicate multiple VM groups and VMs that use shared VHDs</description>
-			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3364121/9600/free/487086_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3364121/9600/free/487086_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3102770</kb>
@@ -1709,7 +1709,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3116302-x86.msu</name>
 			<description>Throttling policy is ignored for BITS traffic</description>
-			<url>https://hotfixv4.microsoft.com/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix5343171/9600/free/488377_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix5343171/9600/free/488377_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080149</kb>
@@ -2088,6 +2088,15 @@
 			<name>Windows8.1-KB4338832-x86.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windows8.1-kb4338832-x86_0720f718d57123d49609559ec30c456c731c2bed.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4345424</kb>
+			<date>2018/07/13</date>
+			<size>24.14 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4345424-x86.msu</name>
+			<description>Update to fix stop error in Monthly Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/07/windows8.1-kb4345424-x86_2aa56140d049af322a5693a6ff28be6f5e6d1210.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

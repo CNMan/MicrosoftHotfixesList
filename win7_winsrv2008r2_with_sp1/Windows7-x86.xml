@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/10" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/17" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -80,7 +80,7 @@
 			<category>Additional/_NotAllowedOffline</category>
 			<name>Windows6.1-KB2646060-v3-x86.msu</name>
 			<description>An update that selectively disables the Core Parking feature</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix391262/7600/free/441279_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix391262/7600/free/441279_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3046269</kb>
@@ -260,7 +260,7 @@
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB2462137-v2-x86.msu</name>
 			<description>AD MMC snap-in and Administrative Center display Serbia and Montenegro as one country instead of as two countries</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354590/7600/free/425813_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354590/7600/free/425813_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2539513</kb>
@@ -269,7 +269,7 @@
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB2539513-x86.msu</name>
 			<description>The repadmin command keeps running when you try to look up the users who have their passwords stored on the RODC</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368782/7600/free/432667_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368782/7600/free/432667_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2589154</kb>
@@ -278,7 +278,7 @@
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB2589154-x86.msu</name>
 			<description>Active Directory Users and Computers MMC snap-in crashes when you try to delete an RODC</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378680/7600/free/436291_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378680/7600/free/436291_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2647644</kb>
@@ -287,7 +287,7 @@
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB2647644-v2-x86.msu</name>
 			<description>You cannot clear the "Use Issuer for alternate security identity" check box</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix386410/7600/free/440990_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix386410/7600/free/440990_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2898997</kb>
@@ -296,7 +296,7 @@
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB2898997-x86.msu</name>
 			<description>Adamsync fails when you synchronize tombstoned objects</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix476839/7600/free/471141_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix476839/7600/free/471141_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3012660</kb>
@@ -305,7 +305,7 @@
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB3012660-x86.msu</name>
 			<description>The update is not applicable to your computer error when you install AD LDS update</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix525740/7600/free/481921_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix525740/7600/free/481921_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2666914</kb>
@@ -332,7 +332,7 @@
 			<category>Extra/Addons/MicrosoftAgent</category>
 			<name>Windows6.1-KB969168-x86.msu</name>
 			<description>Microsoft Agent-enabled programs do not work in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Microsoft%20Agent/latest/MSAgentWin7/200909210200/free/395039_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Agent/latest/MSAgentWin7/200909210200/free/395039_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB974150</kb>
@@ -341,7 +341,7 @@
 			<category>Extra/Addons/NTBackup_en-us</category>
 			<name>Windows6.1-KB974150-x86.msu</name>
 			<description>Windows NT Backup Utility for Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows7.0/nosp/NTBACKUPforWin7/1.000/free/396582_ENU_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows7.0/nosp/NTBACKUPforWin7/1.000/free/396582_ENU_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB974674</kb>
@@ -350,7 +350,7 @@
 			<category>Extra/Addons/NTBackup_en-us</category>
 			<name>Windows6.1-KB974674-x86.msu</name>
 			<description>Windows NT Backup Restore Utility for Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server%202008%20R2/nosp/NTBackupRestoreOnlyVersion/1.000/free/400507_ENU_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server%202008%20R2/nosp/NTBackupRestoreOnlyVersion/1.000/free/400507_ENU_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2503351</kb>
@@ -359,7 +359,7 @@
 			<category>Extra/Addons/WIF</category>
 			<name>Windows6.1-KB2503351-x86.msu</name>
 			<description>AD FS 2.0 does not parse non-string XML attribute values in SAML 2.0 assertions</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix363096/7600/free/427363_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix363096/7600/free/427363_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB974405</kb>
@@ -530,7 +530,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2461631-x86.msu</name>
 			<description>DirectX 11 device is displayed incorrectly as a DirectX 10.1 device in Performance Information and Tools</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/latest/Fix353108/7600/free/433578_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/latest/Fix353108/7600/free/433578_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2496898</kb>
@@ -782,7 +782,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2973474-x86.msu</name>
 			<description>Computer may freeze when you search files in a Korean version of Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix505794/7600/free/476289_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix505794/7600/free/476289_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2978795</kb>
@@ -791,7 +791,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2978795-x86.msu</name>
 			<description>Text is blurry when you magnify the text in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix511428/7600/free/477108_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix511428/7600/free/477108_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2990941</kb>
@@ -800,7 +800,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2990941-v3-x86.msu</name>
 			<description>Update to add native driver support for NVM Express (NVMe) that uses the PCI Express (PCIe)</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix487764/7600/free/477474_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix487764/7600/free/477474_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3006121</kb>
@@ -971,7 +971,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2276594-x86.msu</name>
 			<description>"Error – Sent to Printer" error when you try to send a large print job to a Web Services for Devices-based printer in Windows Server 2008 R2 or in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354908/7600/free/426999_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354908/7600/free/426999_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2443643</kb>
@@ -980,7 +980,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2443643-x86.msu</name>
 			<description>A hotfix is available that improves the SpeechSynthesizer class in the .NET Framework 4.0</description>
-			<url>https://hotfixv4.microsoft.com/.Net%20Framework%203.0%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp2/DevDiv947147/30729.5675/free/431600_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/.Net%20Framework%203.0%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp2/DevDiv947147/30729.5675/free/431600_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2457458</kb>
@@ -989,7 +989,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2457458-x86.msu</name>
 			<description>Windows backup fails when you back up data from the root folder of a mount point</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix347789/7600/free/426751_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix347789/7600/free/426751_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2462182</kb>
@@ -998,7 +998,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2462182-x86.msu</name>
 			<description>The "Load a specific theme" Group Policy setting is not applied correctly for a new user in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix346730/7600/free/427872_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix346730/7600/free/427872_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2465285</kb>
@@ -1016,7 +1016,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2466048-v2-x86.msu</name>
 			<description>Previous versions of a file or of a folder in a DFS share are not listed if you access the share through a nested DFS link from a computer that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix355620/7600/free/425381_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix355620/7600/free/425381_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2466493</kb>
@@ -1025,7 +1025,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2466493-x86.msu</name>
 			<description>An access violation occurs in glu32.dll, and the application crashes when you run an application that uses OpenGL in Windows 7 and in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix353941/7600/free/426310_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix353941/7600/free/426310_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2467167</kb>
@@ -1034,7 +1034,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2467167-v3-x86.msu</name>
 			<description>An assistive technology product does not detect Windows events in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix356773/7600/free/432647_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix356773/7600/free/432647_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2472264</kb>
@@ -1043,7 +1043,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2472264-v3-x86.msu</name>
 			<description>You cannot customize some TCP configurations by using the netsh command in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354400/7600/free/427084_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354400/7600/free/427084_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2477932</kb>
@@ -1052,7 +1052,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2477932-x86.msu</name>
 			<description>You cannot deploy advanced security audit policy settings to Windows Server 2008 R2 Server Core</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix359206/7600/free/426825_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix359206/7600/free/426825_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2480994</kb>
@@ -1061,7 +1061,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2480994-v2-x86.msu</name>
 			<description>"ASN1 out of memory" error when the CryptMsgUpdate function decodes a message that is larger than 5 MB in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354919/7600/free/425404_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354919/7600/free/425404_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2486635</kb>
@@ -1070,7 +1070,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2486635-v2-x86.msu</name>
 			<description>The Devices and Printers window stops responding (hangs) after you disable the Bluetooth Support service in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix391995/7600/free/441767_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix391995/7600/free/441767_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2486644</kb>
@@ -1079,7 +1079,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2486644-x86.msu</name>
 			<description>Outlook does not send fax receipts from a Windows 7-based computer when you manually input the destination number by using the following format: FAX:[+xxxxxxxxxx]</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix357079/7600/free/426543_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix357079/7600/free/426543_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2493006</kb>
@@ -1088,7 +1088,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2493006-x86.msu</name>
 			<description>Time synchronization is not performed even though the W32Time service is successfully started in Windows Server 2008 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369595/7600/free/431212_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369595/7600/free/431212_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2495313</kb>
@@ -1097,7 +1097,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2495313-x86.msu</name>
 			<description>A "0x000000D1" Stop error occurs when you run a telephony application that uses the RAS PPPoE driver in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix360486/7600/free/426838_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix360486/7600/free/426838_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2503784</kb>
@@ -1106,7 +1106,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2503784-x86.msu</name>
 			<description>Components: Detection And Sharing API</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix355358/7600/free/430361_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix355358/7600/free/430361_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2508120</kb>
@@ -1115,7 +1115,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2508120-x86.msu</name>
 			<description>An update that adds the ActiveX Installer Service to Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix362399/7600/free/430200_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix362399/7600/free/430200_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2509318</kb>
@@ -1124,7 +1124,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2509318-x86.msu</name>
 			<description>The mouse, USB ports, and PCI-E devices do not work when you move a Bluetooth mouse during startup in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix363178/7600/free/429999_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix363178/7600/free/429999_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2514642</kb>
@@ -1133,7 +1133,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2514642-v2-x86.msu</name>
 			<description>Windows Installer package that requires the SeBackupPrivilege user right fails in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix363219/7600/free/429889_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix363219/7600/free/429889_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2516889</kb>
@@ -1142,7 +1142,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2516889-v2-x86.msu</name>
 			<description>The high-contrast mode accessibility option does not persist with a mandatory profile</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510687/7600/free/475532_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510687/7600/free/475532_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2521416</kb>
@@ -1151,7 +1151,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2521416-v2-x86.msu</name>
 			<description>You cannot join a home group on a computer that is running Windows 7 or Windows Server 2008 R2 and that has the TPM setting enabled</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368082/7600/free/430044_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368082/7600/free/430044_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2524840</kb>
@@ -1160,7 +1160,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2524840-x86.msu</name>
 			<description>0x000000C4 Stop error occurs when you run the "Common Scenario Stress with IO" test on a Windows 7-based computer on which Windows Virtual PC and Windows Logo Kit are installed</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368797/7600/free/430363_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368797/7600/free/430363_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2526629</kb>
@@ -1169,7 +1169,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2526629-v3-x86.msu</name>
 			<description>The logon message is not displayed correctly when you connect to a RemoteApp application from a computer that has multiple monitors and that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368697/7600/free/430541_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368697/7600/free/430541_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2529781</kb>
@@ -1178,7 +1178,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2529781-x86.msu</name>
 			<description>The parameter is incorrect error message when you run a logman command that starts an event trace</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix367559/7600/free/434859_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix367559/7600/free/434859_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2529825</kb>
@@ -1187,7 +1187,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2529825-x86.msu</name>
 			<description>A video is not played smoothly on a Windows 7-based computer that supports MFT</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix356998/7600/free/431317_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix356998/7600/free/431317_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2535158</kb>
@@ -1196,7 +1196,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2535158-x86.msu</name>
 			<description>An application that uses the Fax Service Extended COM API only enumerates the fax jobs of the current user account in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368849/7600/free/431320_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368849/7600/free/431320_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2537203</kb>
@@ -1205,7 +1205,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2537203-x86.msu</name>
 			<description>QAM channels are not detected if you set your region to Korea in Windows Media Center on a Windows 7-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369044/7600/free/431248_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369044/7600/free/431248_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2538047</kb>
@@ -1214,7 +1214,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2538047-x86.msu</name>
 			<description>Audio capture redirection feature does not work after a second remote desktop connection is created in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix363421/7600/free/432638_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix363421/7600/free/432638_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2545561</kb>
@@ -1223,7 +1223,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2545561-x86.msu</name>
 			<description>Serviced component assemblies are not exported to an .msi package when you export a COM+ application that contains a 32-bit version of a serviced component from a 64-bit version of Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369359/7600/free/432387_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369359/7600/free/432387_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2546868</kb>
@@ -1241,7 +1241,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2549067-v2-x86.msu</name>
 			<description>A user who has administrator permission can delete printers on a computer that is running Windows 7 or Windows Server 2008 R2 after you deploy the "Prevent deletion of printers" Group Policy</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix390861/7600/free/443007_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix390861/7600/free/443007_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2549079</kb>
@@ -1250,7 +1250,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2549079-x86.msu</name>
 			<description>Local user accounts incorrectly trigger domain account logon auditing events when they view history of scheduled tasks in Windows Vista, in Windows Server 2008, in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix377339/7600/free/435324_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix377339/7600/free/435324_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2550648</kb>
@@ -1259,7 +1259,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2550648-v2-x86.msu</name>
 			<description>The English (India) keyboard is not listed after you add the Rupee supplement to an English image</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix373143/7600/free/433434_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix373143/7600/free/433434_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2554859</kb>
@@ -1268,7 +1268,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2554859-x86.msu</name>
 			<description>The "skipassource" flag of IP addresses is cleared after you use the GUI to change IP settings of a network adapter in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369447/7600/free/433350_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369447/7600/free/433350_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2575866</kb>
@@ -1277,7 +1277,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2575866-x86.msu</name>
 			<description>RSoP shows a red X on the icons for registry settings in 64-bit Windows Vista, in 64-bit Windows 7, in 64-bit Windows Server 2008 or in 64-bit Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix387728/7600/free/440879_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix387728/7600/free/440879_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2575928</kb>
@@ -1286,7 +1286,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2575928-x86.msu</name>
 			<description>FIX: The caption is shown for a BorderStyle-0 style frame control that is put in a Visual Basic 6-based ActiveX control when you load the control in Internet Explorer 9</description>
-			<url>https://hotfixv4.microsoft.com/Visual%20Basic%206.0/sp6/DevDiv953621/9832/free/440602_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Visual%20Basic%206.0/sp6/DevDiv953621/9832/free/440602_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2578214</kb>
@@ -1304,7 +1304,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2581608-x86.msu</name>
 			<description>Logon scripts take a long time to run in Windows Vista, in Windows Server 2008, in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385782/7600/free/438172_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385782/7600/free/438172_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2582679</kb>
@@ -1313,7 +1313,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2582679-x86.msu</name>
 			<description>Msdtc.exe may crash when an MSDTC transaction runs in Windows 7 or in Windows Server 2008 R2 if slow network performance occurs</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378401/7600/free/435524_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378401/7600/free/435524_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2584475</kb>
@@ -1331,7 +1331,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2584577-x86.msu</name>
 			<description>FIX: An application that uses objects that are derived from the CArchive class may crash after you install Security update 2506212</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378685/7600/free/435589_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378685/7600/free/435589_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2591271</kb>
@@ -1340,7 +1340,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2591271-v2-x86.msu</name>
 			<description>"0x0000007E" Stop error when you restart a computer that is running Windows Server 2008 R2 or Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix381774/7600/free/437585_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix381774/7600/free/437585_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2591857</kb>
@@ -1349,7 +1349,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2591857-x86.msu</name>
 			<description>Incorrect values are updated after an application calls the UpdateBacth() method in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378646/7600/free/437758_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378646/7600/free/437758_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2600100</kb>
@@ -1358,7 +1358,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2600100-x86.msu</name>
 			<description>A hotfix is available for the ASP.NET browser definition files in the .NET Framework 2.0 SP2 and in the .NET Framework 3.5 SP1</description>
-			<url>https://hotfixv4.microsoft.com/.Net%20Framework%202.0%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp2/DevDiv953290/50727.5692/free/437211_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/.Net%20Framework%202.0%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp2/DevDiv953290/50727.5692/free/437211_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2601207</kb>
@@ -1367,7 +1367,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2601207-x86.msu</name>
 			<description>The code page changes after you start a Windows-based application at a Command Prompt in Windows 7 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378533/7600/free/436833_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378533/7600/free/436833_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2603203</kb>
@@ -1376,7 +1376,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2603203-x86.msu</name>
 			<description>The REAgentC command does not disable WinRE on a Windows 7-based or Windows Server 2008 R2-based computer that has spanned volumes</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix381219/7600/free/437591_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix381219/7600/free/437591_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2615327</kb>
@@ -1385,7 +1385,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2615327-x86.msu</name>
 			<description>You cannot cancel a shrink operation on a volume in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix380944/7600/free/437173_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix380944/7600/free/437173_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2616386</kb>
@@ -1394,7 +1394,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2616386-x86.msu</name>
 			<description>Windows Explorer displays wrong access control entries for migrated user accounts</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix381055/7600/free/437529_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix381055/7600/free/437529_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2616879</kb>
@@ -1403,7 +1403,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2616879-x86.msu</name>
 			<description>Nested tables in an RTF document are displayed incorrectly in Windows Vista, in Windows Server 2008, in Windows 7, or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix383784/7600/free/437747_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix383784/7600/free/437747_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2618535</kb>
@@ -1412,7 +1412,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2618535-x86.msu</name>
 			<description>USB HID keyboard incorrectly reports the previous auto-repeat scan code in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix381769/7600/free/437809_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix381769/7600/free/437809_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2618640</kb>
@@ -1421,7 +1421,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2618640-x86.msu</name>
 			<description>You cannot calibrate a second touch screen in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix380930/7600/free/437744_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix380930/7600/free/437744_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2619260</kb>
@@ -1430,7 +1430,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2619260-v2-x86.msu</name>
 			<description>"Play To" feature does not work when two network adapters are on different subnets or when you enable Wi-Fi Direct concurrent mode in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378653/7600/free/437858_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378653/7600/free/437858_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2619836</kb>
@@ -1439,7 +1439,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2619836-x86.msu</name>
 			<description>A hotfix is available that provides an updated Tape.inf file in Windows Server 2008 and in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix394857/7600/free/443025_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix394857/7600/free/443025_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2624868</kb>
@@ -1448,7 +1448,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2624868-x86.msu</name>
 			<description>FIX: A non-empty and all-white-space value is updated with an empty string in WCF Data Services in the .NET Framework 3.5</description>
-			<url>https://hotfixv4.microsoft.com/.Net%20Framework%203.5%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp1/DevDiv955628/30729.5760/free/441559_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/.Net%20Framework%203.5%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp1/DevDiv955628/30729.5760/free/441559_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2625737</kb>
@@ -1457,7 +1457,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2625737-x86.msu</name>
 			<description>A Windows Server 2008 R2-based RRAS server stops responding if a PPTP connection from a portable device is torn down</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385319/7600/free/438137_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385319/7600/free/438137_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2627489</kb>
@@ -1466,7 +1466,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2627489-v3-x86.msu</name>
 			<description>Event 1073 is logged after you cancel the logoff process in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385802/7600/free/440646_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385802/7600/free/440646_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2635500</kb>
@@ -1475,7 +1475,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2635500-x86.msu</name>
 			<description>Issues when you try to display a large TIFF file that contains multiple pages by using Windows Photo Viewer in Windows Vista, in Windows 7, in Windows Server 2008 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385513/7600/free/440349_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385513/7600/free/440349_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2636963</kb>
@@ -1484,7 +1484,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2636963-v2-x86.msu</name>
 			<description>Windows tries to create HTTP printer connections instead of Point and Print printer connections when scripting unsafe ActiveX controls is enabled in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix386154/7600/free/440139_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix386154/7600/free/440139_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2638018</kb>
@@ -1493,7 +1493,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2638018-x86.msu</name>
 			<description>Windows Explorer crashes randomly in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix384276/7600/free/440194_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix384276/7600/free/440194_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2639043</kb>
@@ -1502,7 +1502,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2639043-v5-x86.msu</name>
 			<description>A robocopy command updates DACLs incorrectly in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378677/7600/free/440402_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378677/7600/free/440402_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2639077</kb>
@@ -1511,7 +1511,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2639077-v2-x86.msu</name>
 			<description>Handle leak in Svchost.exe when a WMI query is triggered by using the Win32_PowerSettingCapabilities class in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix484587/7600/free/470909_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix484587/7600/free/470909_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2640472</kb>
@@ -1520,7 +1520,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2640472-x86.msu</name>
 			<description>The CMAK profile icon appears only the first time that you connect to an intranet in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385892/7600/free/440505_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385892/7600/free/440505_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2642357</kb>
@@ -1529,7 +1529,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2642357-x86.msu</name>
 			<description>Broken shortcuts are deleted from the desktop in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385439/7600/free/441240_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385439/7600/free/441240_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2644491</kb>
@@ -1538,7 +1538,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2644491-x86.msu</name>
 			<description>You cannot view or manage outgoing faxes in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix391121/7600/free/443398_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix391121/7600/free/443398_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2645594</kb>
@@ -1547,7 +1547,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2645594-x86.msu</name>
 			<description>An update is available for computers that have an AMD FX, AMD Opteron 4200, AMD Opteron 6200, or AMD Bulldozer series processor installed and that are running Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix387870/7600/free/441064_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix387870/7600/free/441064_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2648039</kb>
@@ -1556,7 +1556,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2648039-v2-x86.msu</name>
 			<description>"0x00000101" Stop error occurs in Windows 7 or in Windows Server 2008 R2 if a USB 2.0 debug cable is attached</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix384398/7600/free/441148_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix384398/7600/free/441148_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2649904</kb>
@@ -1565,7 +1565,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2649904-x86.msu</name>
 			<description>It takes a long time for Games Explorer to be displayed in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix388098/7600/free/441304_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix388098/7600/free/441304_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2652029</kb>
@@ -1574,7 +1574,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2652029-x86.msu</name>
 			<description>Computer name is displayed in the wrong language in the "Devices and Printers" Control Panel item in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385998/7600/free/443009_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385998/7600/free/443009_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2653312</kb>
@@ -1583,7 +1583,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2653312-x86.msu</name>
 			<description>Audio file sounds distorted after you convert the sample rate in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix389997/7600/free/441951_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix389997/7600/free/441951_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2659158</kb>
@@ -1592,7 +1592,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2659158-x86.msu</name>
 			<description>You cannot log on to a domain that uses a disjoint namespace in Windows 7 SP1 or in Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix389805/7600/free/442391_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix389805/7600/free/442391_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2662288</kb>
@@ -1601,7 +1601,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2662288-x86.msu</name>
 			<description>A differencing VHD file that is created by using Microsoft iSCSI Software Target 3.3 becomes corrupted when you mount or attach it in Windows Server 2008 R2 or in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix389960/7600/free/442633_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix389960/7600/free/442633_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2662585</kb>
@@ -1610,7 +1610,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2662585-x86.msu</name>
 			<description>Printer redirection is not applied to client computers that connect to a Windows Server 2008 R2 SP1-based Terminal Services server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix391409/7600/free/442975_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix391409/7600/free/442975_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2663607</kb>
@@ -1619,7 +1619,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2663607-x86.msu</name>
 			<description>A TIFF file that is created by using the fax printer is not sent correctly in Windows Server 2008 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix453308/7600/free/464496_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix453308/7600/free/464496_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2664203</kb>
@@ -1628,7 +1628,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2664203-v2-x86.msu</name>
 			<description>"Invalid XML content" error message when you run a WMIC command in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix390901/7600/free/442896_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix390901/7600/free/442896_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2674705</kb>
@@ -1637,7 +1637,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2674705-x86.msu</name>
 			<description>Slow startup if the Traditional Chinese language pack is installed on a Windows 7-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix393384/7600/free/445468_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix393384/7600/free/445468_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2675806</kb>
@@ -1646,7 +1646,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2675806-x86.msu</name>
 			<description>"0x000000F4" Stop error when you try to start a ClickOnce application in Windows Vista, in Windows 7, in Windows Server 2008 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix388736/7600/free/444225_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix388736/7600/free/444225_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2680097</kb>
@@ -1655,7 +1655,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2680097-v2-x86.msu</name>
 			<description>Iscsilog.dll is not included in the system state backup files on a Windows Server 2008 R2 SP1-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396221/7600/free/445191_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396221/7600/free/445191_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2680243</kb>
@@ -1664,7 +1664,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2680243-v2-x86.msu</name>
 			<description>Keyboard shortcuts are incorrect in the Problem Steps Recorder tool in a localized version of Windows 7 or of Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix395665/7600/free/444477_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix395665/7600/free/444477_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2683913</kb>
@@ -1673,7 +1673,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2683913-x86.msu</name>
 			<description>Random exceptions occur when you use an application that uses the System.DirectoryServices.Accountmanagement namespace on a computer that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix395909/7600/free/444836_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix395909/7600/free/444836_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2684982</kb>
@@ -1682,7 +1682,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2684982-x86.msu</name>
 			<description>The Lsass.exe process crashes on Windows Server 2008 R2-based domain controllers</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix394276/7600/free/445055_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix394276/7600/free/445055_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2685893</kb>
@@ -1691,7 +1691,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2685893-x86.msu</name>
 			<description>Error messages after you change the 2047 character limit in an environment variable on a computer that is running Windows Vista, Windows 7, Windows Server 2008 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396171/7600/free/445237_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396171/7600/free/445237_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2686795</kb>
@@ -1700,7 +1700,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2686795-v2-x86.msu</name>
 			<description>Gaiji IME pad does not appear in the Japanese IME when you press F5 in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix389803/7600/free/445461_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix389803/7600/free/445461_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2687862</kb>
@@ -1709,7 +1709,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2687862-x86.msu</name>
 			<description>"The parameter is incorrect" error message when you run WinSAT in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396542/7600/free/445429_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396542/7600/free/445429_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2690750</kb>
@@ -1718,7 +1718,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2690750-x86.msu</name>
 			<description>"0x000000F4" Stop error when you stop a PowerShell script in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix397895/7600/free/446312_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix397895/7600/free/446312_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2695426</kb>
@@ -1727,7 +1727,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2695426-v2-x86.msu</name>
 			<description>Fix for Advanced INF Installer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407271/7600/free/450984_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407271/7600/free/450984_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2697479</kb>
@@ -1736,7 +1736,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2697479-x86.msu</name>
 			<description>Memory leak in Wmiapsrv.exe on a computer that is running Windows Server 2008, Windows Server 2008 R2, Windows Vista or Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396437/7600/free/446440_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396437/7600/free/446440_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2698888</kb>
@@ -1745,7 +1745,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2698888-x86.msu</name>
 			<description>Certain Chinese error messages about fingerprint sensors are not translated correctly in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix401703/7600/free/446492_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix401703/7600/free/446492_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2698957</kb>
@@ -1754,7 +1754,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2698957-v2-x86.msu</name>
 			<description>Hibernation feature does not work on certain HP Proliant computers that are running Windows 7 SP1 or Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix400417/7600/free/446476_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix400417/7600/free/446476_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2699780</kb>
@@ -1763,7 +1763,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2699780-x86.msu</name>
 			<description>Memory leak in the Remote Registry service on a computer that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix397920/7600/free/446473_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix397920/7600/free/446473_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2701373</kb>
@@ -1772,7 +1772,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2701373-v4-x86.msu</name>
 			<description>"0xC0000142" or "-1073741502" Stop error when many PowerShell scripts call the Console.Write method or when you try to start many console applications on a PowerShell console in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix398080/7600/free/447692_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix398080/7600/free/447692_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2706168</kb>
@@ -1781,7 +1781,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2706168-x86.msu</name>
 			<description>Applications that use smart card authentication stop responding on a computer that is running Windows 7 SP1 or Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix395667/7600/free/448218_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix395667/7600/free/448218_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2707135</kb>
@@ -1790,7 +1790,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2707135-x86.msu</name>
 			<description>An IEEE 1394 isochronous device does not function in Windows 7 SP1 or in Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix401728/7600/free/447975_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix401728/7600/free/447975_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2710832</kb>
@@ -1799,7 +1799,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2710832-x86.msu</name>
 			<description>The "Allow remote systems to connect without authentication" option does not work on an RRAS server that is running Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix392819/7600/free/448113_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix392819/7600/free/448113_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2712331</kb>
@@ -1808,7 +1808,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2712331-x86.msu</name>
 			<description>Duplicate SID information is added to the MachineLaunchRestriction registry entry when you update the Offer Remote Assistance Group Policy setting in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399108/7600/free/448222_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399108/7600/free/448222_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2718841</kb>
@@ -1817,7 +1817,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2718841-x86.msu</name>
 			<description>"0xc0000005" error message and Windows Explorer stops responding on a computer that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix405052/7600/free/448989_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix405052/7600/free/448989_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2719248</kb>
@@ -1826,7 +1826,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2719248-x86.msu</name>
 			<description>Number of UI and GDI objects increases when an application displays new animated controls in an Aero theme in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix400829/7600/free/448942_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix400829/7600/free/448942_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2719305</kb>
@@ -1835,7 +1835,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2719305-x86.msu</name>
 			<description>"The system cannot execute the specified program" error message and AppLocker incorrectly blocks applications on a Windows 7-based or Windows Server 2008 R2-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399460/7600/free/449208_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399460/7600/free/449208_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2721259</kb>
@@ -1844,7 +1844,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2721259-v2-x86.msu</name>
 			<description>Incorrect conversion routines in Calculator in an international-language version of Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix402370/7600/free/449150_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix402370/7600/free/449150_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2722729</kb>
@@ -1853,7 +1853,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2722729-v2-x86.msu</name>
 			<description>Cannot establish an L2TP VPN connection between an Android device and a TMG server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix404607/7600/free/450531_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix404607/7600/free/450531_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2724133</kb>
@@ -1862,7 +1862,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2724133-v2-x86.msu</name>
 			<description>Improvements are available for the Windows Security dialog box that is displayed when you open an encrypted email message in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399945/7600/free/450375_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399945/7600/free/450375_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2732072</kb>
@@ -1880,7 +1880,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2732840-v3-x86.msu</name>
 			<description>Tasklist.exe tool displays no process information on a computer that is running Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix426383/7600/free/458466_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix426383/7600/free/458466_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2733955</kb>
@@ -1889,7 +1889,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2733955-v2-x86.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.5 SP1</description>
-			<url>https://hotfixv4.microsoft.com/.Net%20Framework%203.5%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp1/DevDiv979642/30729.5836/free/453724_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/.Net%20Framework%203.5%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp1/DevDiv979642/30729.5836/free/453724_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2735433</kb>
@@ -1898,7 +1898,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2735433-x86.msu</name>
 			<description>SNMPv2 traps are not received by the SnmpMgrTrapListen function in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix409112/7600/free/452834_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix409112/7600/free/452834_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2738898</kb>
@@ -1907,7 +1907,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2738898-v2-x86.msu</name>
 			<description>Users cannot access removable devices after you enable and then disable a Group Policy setting in Windows Vista, in Windows Server 2008, in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix406863/7600/free/452773_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix406863/7600/free/452773_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2740180</kb>
@@ -1916,7 +1916,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2740180-v2-x86.msu</name>
 			<description>Performance Monitor or a PDH function takes longer than expected to collect performance data on a computer that is running Windows 7 SP1 or Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix405923/7600/free/451452_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix405923/7600/free/451452_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2740232</kb>
@@ -1925,7 +1925,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2740232-v2-x86.msu</name>
 			<description>Bluetooth devices cannot be enumerated after you restart a computer that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407220/7600/free/451373_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407220/7600/free/451373_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2741416</kb>
@@ -1934,7 +1934,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2741416-v2-x86.msu</name>
 			<description>Cannot automatically connect to a mobile broadband network after you unblock a PIN-based mobile broadband device in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407394/7600/free/451831_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407394/7600/free/451831_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2742185</kb>
@@ -1943,7 +1943,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2742185-v2-x86.msu</name>
 			<description>Outlook 2013 crashes when you search for email messages in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407723/7600/free/451799_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407723/7600/free/451799_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2742483</kb>
@@ -1952,7 +1952,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2742483-v2-x86.msu</name>
 			<description>Dithering or moiré effect is applied to a video that you created by using a DV Encoder filter in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix406168/7600/free/451726_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix406168/7600/free/451726_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2750692</kb>
@@ -1961,7 +1961,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2750692-x86.msu</name>
 			<description>TIFF image files are not compressed correctly when you merge them into a multipage TIFF file on a computer that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407605/7600/free/452775_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407605/7600/free/452775_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2755625</kb>
@@ -1979,7 +1979,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2756263-x86.msu</name>
 			<description>Narrator crashes when you try to access the Start menu or open Windows Explorer Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix412349/7600/free/453221_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix412349/7600/free/453221_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2756651</kb>
@@ -1988,7 +1988,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2756651-x86.msu</name>
 			<description>An update that adds support for the new currency symbol for the Turkish Lira</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix414125/7600/free/453049_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix414125/7600/free/453049_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2763342</kb>
@@ -1997,7 +1997,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2763342-v2-x86.msu</name>
 			<description>Telephone line information is not updated in a Tsec.ini file after you assign more than five telephone lines to a user in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix410209/7600/free/453436_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix410209/7600/free/453436_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2765067</kb>
@@ -2006,7 +2006,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2765067-x86.msu</name>
 			<description>The "Network access: Named Pipes that can be accessed anonymously" Group Policy setting cannot be saved if you delete all listed named pipes by using the GPMC in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix414203/7600/free/453567_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix414203/7600/free/453567_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2767652</kb>
@@ -2015,7 +2015,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2767652-x86.msu</name>
 			<description>Shadow copy storage area is created on the wrong disk when you create a volume snapshot of a CSV by using VSS in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix413763/7600/free/456234_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix413763/7600/free/456234_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2767671</kb>
@@ -2024,7 +2024,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2767671-x86.msu</name>
 			<description>MPEG-2 Demultiplexer filter or MPEG-2 Splitter filter does not correctly play an MPEG-2 TS-encoded file in Windows 7, Windows 8, Windows Server 2008 R2 or Windows Server 2012</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix404760/7600/free/453692_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix404760/7600/free/453692_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2768486</kb>
@@ -2033,7 +2033,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2768486-x86.msu</name>
 			<description>No dialog box to confirm end of Ftp.exe process on Windows Task Manager in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix410211/7600/free/456186_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix410211/7600/free/456186_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2768494</kb>
@@ -2042,7 +2042,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2768494-x86.msu</name>
 			<description>You cannot log on to a Windows 7-based or Windows Server 2008 R2-based client computer after you disable AES encryption for Kerberos authentication</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix412754/7600/free/453912_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix412754/7600/free/453912_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2769791</kb>
@@ -2051,7 +2051,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2769791-x86.msu</name>
 			<description>Windows Audio service stops on Windows Server 2008 R2-based computer after you configure remote audio playback</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix411890/7600/free/455216_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix411890/7600/free/455216_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2777201</kb>
@@ -2060,7 +2060,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2777201-x86.msu</name>
 			<description>SQL Server 2012 service shuts down unexpectedly upon availability group replica role transition on a Windows Server 2008 R2-based failover cluster</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix415200/7600/free/455166_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix415200/7600/free/455166_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2780124</kb>
@@ -2078,7 +2078,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2780130-v2-x86.msu</name>
 			<description>"0x00000027" Stop error when you try to use a redirected smart card to log on to a Windows 7 or Windows Server 2008 R2-based remote computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix474661/7600/free/467251_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix474661/7600/free/467251_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2782486</kb>
@@ -2087,7 +2087,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2782486-v2-x86.msu</name>
 			<description>PPTP VPN that was created by using CMAK is unavailable on a Windows 7-based or Windows Server 2008 R2-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix415664/7600/free/455437_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix415664/7600/free/455437_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2783429</kb>
@@ -2096,7 +2096,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2783429-x86.msu</name>
 			<description>High CPU utilization when you use the Print Management snap-in to add a printer in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix416675/7600/free/455734_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix416675/7600/free/455734_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2787046</kb>
@@ -2105,7 +2105,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2787046-x86.msu</name>
 			<description>Task that is created by using the "AT" command is not deleted after it is executed</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix417115/7600/free/456105_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix417115/7600/free/456105_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2794422</kb>
@@ -2114,7 +2114,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2794422-x86.msu</name>
 			<description>English text is displayed in the search bar in Outlook in Dutch versions of Windows 7 SP1 or of Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix421691/7600/free/456647_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix421691/7600/free/456647_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2796725</kb>
@@ -2123,7 +2123,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2796725-x86.msu</name>
 			<description>Wireless Hosted Network feature does not work in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix420068/7600/free/456863_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix420068/7600/free/456863_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2796764</kb>
@@ -2132,7 +2132,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2796764-v2-x86.msu</name>
 			<description>The "New" option in the shortcut menu is missing for the root folder of a redirected drive in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix421049/7600/free/457895_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix421049/7600/free/457895_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2797749</kb>
@@ -2141,7 +2141,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2797749-x86.msu</name>
 			<description>Explorer.exe process may crash after you add custom properties to a .doc file in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix419295/7600/free/457994_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix419295/7600/free/457994_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2797789</kb>
@@ -2159,7 +2159,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2797822-x86.msu</name>
 			<description>Hotfix is available that adds support for NIST SP 800-73-3 specification in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407669/7600/free/458233_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix407669/7600/free/458233_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2798040</kb>
@@ -2168,7 +2168,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2798040-v2-x86.msu</name>
 			<description>You cannot stop a process by using the Taskkill.exe utility in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix423521/7600/free/457888_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix423521/7600/free/457888_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2800170</kb>
@@ -2177,7 +2177,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2800170-x86.msu</name>
 			<description>Mouse class installer crashes when you try to update drivers for USB HID devices in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix418845/7600/free/457421_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix418845/7600/free/457421_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2800422</kb>
@@ -2186,7 +2186,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2800422-x86.msu</name>
 			<description>"0x00000034" Stop error and file corruption when you burn a Live File System formatted disc on a Windows-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix422379/7600/free/457787_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix422379/7600/free/457787_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2801423</kb>
@@ -2195,7 +2195,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2801423-x86.msu</name>
 			<description>NTFS permission information for a DFS share takes longer than expected to display in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix417419/7600/free/458907_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix417419/7600/free/458907_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2801662</kb>
@@ -2204,7 +2204,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2801662-x86.msu</name>
 			<description>"0x000000C4" Stop error when you run the WDF Fault Injection Logo Test in Windows 7 and Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix419078/7600/free/457883_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix419078/7600/free/457883_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2809097</kb>
@@ -2213,7 +2213,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2809097-x86.msu</name>
 			<description>An application that calls the CloseHandle function on a serial port cannot be exited in Windows Vista, Windows 7, Windows Server 2008, or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix426956/7600/free/462565_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix426956/7600/free/462565_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2809808</kb>
@@ -2222,7 +2222,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2809808-x86.msu</name>
 			<description>Takes longer than expected to log off from a Windows Server 2008 R2 SP1-based RDS server remotely</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix421402/7600/free/459050_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix421402/7600/free/459050_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2810177</kb>
@@ -2240,7 +2240,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2812463-x86.msu</name>
 			<description>High CPU usage after you perform an operation in an application that uses common dialog boxes and browses a mapped drive in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix421397/7600/free/459020_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix421397/7600/free/459020_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2824560</kb>
@@ -2249,7 +2249,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2824560-x86.msu</name>
 			<description>The NPS server locks a user account after four tries on a Windows Server 2008 R2-based computer that performs authentication for RADIUS clients</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix428681/7600/free/463609_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix428681/7600/free/463609_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2826164</kb>
@@ -2258,7 +2258,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2826164-x86.msu</name>
 			<description>The remote access connection status is connected after the connection times out in Windows 7 and Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix402267/7600/free/460517_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix402267/7600/free/460517_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2826910</kb>
@@ -2267,7 +2267,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2826910-x86.msu</name>
 			<description>Secondary dump data is limited to 256 MB in Windows 7 and Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix426503/7600/free/460637_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix426503/7600/free/460637_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2831347</kb>
@@ -2276,7 +2276,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2831347-x86.msu</name>
 			<description>Roaming user profiles are corrupted when a monitoring program executes a WMI query on a Windows Server 2008 R2 SP1-based RDS server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix450963/7600/free/464304_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix450963/7600/free/464304_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2832829</kb>
@@ -2285,7 +2285,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2832829-x86.msu</name>
 			<description>"0x00000019" Stop error when you try to shut down a Windows-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix430281/7600/free/462333_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix430281/7600/free/462333_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2833914</kb>
@@ -2294,7 +2294,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2833914-v2-x86.msu</name>
 			<description>"Interactive Logon: Smart card removal behavior" Group Policy setting doesn't work as expected in Windows 7 SP1 or Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix427222/7600/free/461318_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix427222/7600/free/461318_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2834911</kb>
@@ -2303,7 +2303,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2834911-x86.msu</name>
 			<description>Help information is displayed when you use the Reg.exe utility to query some flags in Windows 7 SP1 or Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix427158/7600/free/461474_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix427158/7600/free/461474_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2834976</kb>
@@ -2312,7 +2312,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2834976-v2-x86.msu</name>
 			<description>Authenticated users are removed from the Remote Desktop Users group after you set the drain mode on a Windows Server 2008 R2-based RDS server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix428774/7600/free/461993_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix428774/7600/free/461993_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2835595</kb>
@@ -2321,7 +2321,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2835595-v2-x86.msu</name>
 			<description>The logon pop-up dialog box does not appear when you connect a Windows 7 SP1-based or Windows Server 2008 R2-based computer to a network</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix428728/7600/free/462198_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix428728/7600/free/462198_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2843376</kb>
@@ -2330,7 +2330,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2843376-x86.msu</name>
 			<description>Chkdsk tool incorrectly reports exFAT volume file system as corrupted in Windows 7 and Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix449168/7600/free/463611_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix449168/7600/free/463611_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2846340</kb>
@@ -2339,7 +2339,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2846340-v3-x86.msu</name>
 			<description>Duplicate friendly names of network adapters are displayed in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix501433/7600/free/474430_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix501433/7600/free/474430_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2847295</kb>
@@ -2348,7 +2348,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2847295-v3-x86.msu</name>
 			<description>NAT functionality fails on a Windows Server 2008 R2 SP1-based RRAS server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix452304/7600/free/463503_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix452304/7600/free/463503_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2847625</kb>
@@ -2357,7 +2357,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2847625-x86.msu</name>
 			<description>High CPU usage on a client computer when you start the "gwmi win32_serverconnection" WMI query in Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix452950/7600/free/463767_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix452950/7600/free/463767_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2847635</kb>
@@ -2366,7 +2366,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2847635-x86.msu</name>
 			<description>The number of ifXTable entries does not match the number of ifNumber objects in Windows Server 2008 R2 Service Pack 1 as defined by the SNMP MIB agent</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix444504/7600/free/463608_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix444504/7600/free/463608_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2848576</kb>
@@ -2375,7 +2375,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2848576-x86.msu</name>
 			<description>Variant data type is overwritten after you use a Visual Basic script to call an RDS component in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix452952/7600/free/463768_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix452952/7600/free/463768_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2855028</kb>
@@ -2384,7 +2384,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2855028-x86.msu</name>
 			<description>Svchost.exe process that hosts the RasMan service crashes in Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix463202/7600/free/465939_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix463202/7600/free/465939_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2858684</kb>
@@ -2393,7 +2393,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2858684-x86.msu</name>
 			<description>Not all results are returned by file content search from Windows Explorer in Windows 7 SP1 and Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix449740/7600/free/464460_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix449740/7600/free/464460_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2866086</kb>
@@ -2402,7 +2402,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2866086-x86.msu</name>
 			<description>A user profile folder is unexpectedly re-created after you delete the profile in Windows 7 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix450592/7600/free/465560_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix450592/7600/free/465560_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2866772</kb>
@@ -2411,7 +2411,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2866772-x86.msu</name>
 			<description>"Rdrleakdiag.exe -snap" command fails on a computer that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix462501/7600/free/465669_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix462501/7600/free/465669_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2870165</kb>
@@ -2420,7 +2420,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2870165-v3-x86.msu</name>
 			<description>Unknown time zone information in a remote desktop session when you try to query the time zone information from a Windows 7 SP1-based client computer to a Windows Server 2008 R2-based RDS server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix451420/7600/free/465744_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix451420/7600/free/465744_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2876213</kb>
@@ -2429,7 +2429,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2876213-x86.msu</name>
 			<description>Error message when you click New Scan in Windows Fax and Scan on a Windows-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix470475/7600/free/466472_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix470475/7600/free/466472_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2878035</kb>
@@ -2438,7 +2438,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2878035-x86.msu</name>
 			<description>FIX: Original files that are burned to a DVD-RW by using IMAPIv2.0 cannot be changed in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix474349/7600/free/467870_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix474349/7600/free/467870_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2878391</kb>
@@ -2447,7 +2447,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2878391-x86.msu</name>
 			<description>An incorrect value is returned for the ifOutDiscards object when an SNMP application queries the ifOutDiscards object in MIB2 in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix471256/7600/free/466645_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix471256/7600/free/466645_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2878563</kb>
@@ -2456,7 +2456,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2878563-x86.msu</name>
 			<description>Applications experience up to three seconds of AD DS or AD LDS query latency in Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix471715/7600/free/467891_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix471715/7600/free/467891_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2882780</kb>
@@ -2465,7 +2465,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2882780-x86.msu</name>
 			<description>Incorrect UI color rendering when an application uses the D3D11CreateDevice or D3D10CreateDevice function in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix465010/7600/free/467481_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix465010/7600/free/467481_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2884284</kb>
@@ -2474,7 +2474,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2884284-x86.msu</name>
 			<description>New certificate is generated whenever you start a Windows 7 SP1 or Windows Server 2008 R2 SP1-based computer that uses NAP 802.</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix473996/7600/free/467862_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix473996/7600/free/467862_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2885210</kb>
@@ -2483,7 +2483,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2885210-v3-x86.msu</name>
 			<description>Error message when you try to download a file by using Internet Explorer in Windows 7 SP1 or Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix475213/7600/free/468049_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix475213/7600/free/468049_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2886366</kb>
@@ -2492,7 +2492,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2886366-x86.msu</name>
 			<description>FIX: You are instructed to restart the computer when you log on to a Windows 7 SP1 virtual-machine-based image</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix449790/7600/free/467853_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix449790/7600/free/467853_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2895044</kb>
@@ -2501,7 +2501,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2895044-x86.msu</name>
 			<description>"0x0000007F" Stop error when you run a stress test on a Windows Server 2008 R2 SP1-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix470726/7600/free/469496_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix470726/7600/free/469496_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2896146</kb>
@@ -2510,7 +2510,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2896146-x86.msu</name>
 			<description>Packet loss occurs when MTU is below 576 and PMTU discovery is enabled on your Windows 7 SP1 or Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix472319/7600/free/469428_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix472319/7600/free/469428_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2905407</kb>
@@ -2519,7 +2519,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2905407-x86.msu</name>
 			<description>Stop error 0xD1 when you download uTorrent content through an RNDIS 6.0 connection</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix473912/7600/free/470144_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix473912/7600/free/470144_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2911204</kb>
@@ -2528,7 +2528,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2911204-x86.msu</name>
 			<description>Stop error 0x9F in the mf.sys driver occurs in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix482517/7600/free/470925_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix482517/7600/free/470925_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2912821</kb>
@@ -2537,7 +2537,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2912821-x86.msu</name>
 			<description>The "w32tm /monitor" command output cannot be redirected to a file correctly in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix484201/7600/free/470694_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix484201/7600/free/470694_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2913763</kb>
@@ -2546,7 +2546,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2913763-x86.msu</name>
 			<description>Biometric fingerprint device does not work on a Windows 7 SP1 or Windows Server 2008 R2 SP1-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix479749/7600/free/470752_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix479749/7600/free/470752_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2917033</kb>
@@ -2555,7 +2555,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2917033-x86.msu</name>
 			<description>An update is available to enable the use of Local ADMX files for Group Policy Editor</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix502345/7600/free/474308_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix502345/7600/free/474308_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2918893</kb>
@@ -2564,7 +2564,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2918893-v2-x86.msu</name>
 			<description>User profile corruption after you lose network connectivity or hibernate a Windows 7-based computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix492691/7600/free/472701_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix492691/7600/free/472701_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2919139</kb>
@@ -2573,7 +2573,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2919139-x86.msu</name>
 			<description>Sound is lost for a while on a MIDI device in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix500742/7600/free/475954_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix500742/7600/free/475954_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2920486</kb>
@@ -2582,7 +2582,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2920486-x86.msu</name>
 			<description>Cannot edit Group Policy settings on a site in Windows 7 and Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix485437/7600/free/471665_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix485437/7600/free/471665_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2921916</kb>
@@ -2591,7 +2591,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2921916-x86.msu</name>
 			<description>The "Untrusted publisher" dialog box appears when you install a driver in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix485407/7600/free/471833_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix485407/7600/free/471833_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2922059</kb>
@@ -2600,7 +2600,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2922059-x86.msu</name>
 			<description>A Windows 7-based tablet that uses the Intel Atom processor may stop responding for two minutes</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix487326/7600/free/471615_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix487326/7600/free/471615_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2922514</kb>
@@ -2609,7 +2609,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2922514-v2-x86.msu</name>
 			<description>White line appears when printing an image by using an XPS printer driver in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix473171/7600/free/471777_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix473171/7600/free/471777_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2922852</kb>
@@ -2618,7 +2618,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2922852-x86.msu</name>
 			<description>Update resolves a problem in which LDAP, Kerberos and DC locator responses are slow or time out with Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix479742/7600/free/472490_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix479742/7600/free/472490_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2923388</kb>
@@ -2627,7 +2627,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2923388-x86.msu</name>
 			<description>Plain text displayed when XSLT style sheet used to transform an XML document into HTML in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490647/7600/free/471755_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490647/7600/free/471755_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2927901</kb>
@@ -2636,7 +2636,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2927901-x86.msu</name>
 			<description>SetDefaultPrinter sets a wrong default printer in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490357/7600/free/472636_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490357/7600/free/472636_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2928496</kb>
@@ -2645,7 +2645,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2928496-x86.msu</name>
 			<description>Wmiprvse.exe freezes in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix489701/7600/free/472635_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix489701/7600/free/472635_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2928800</kb>
@@ -2654,7 +2654,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2928800-x86.msu</name>
 			<description>Incorrect group name is displayed in folder permission list in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix489122/7600/free/472699_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix489122/7600/free/472699_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2930287</kb>
@@ -2663,7 +2663,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2930287-x86.msu</name>
 			<description>WSD scan fails when you scan many pages in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix502090/7600/free/474963_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix502090/7600/free/474963_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2931129</kb>
@@ -2672,7 +2672,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2931129-x86.msu</name>
 			<description>0x0000007E Stop error on IPMIDrv!KCSRequestResponseEngine in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498123/7600/free/473138_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498123/7600/free/473138_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2939652</kb>
@@ -2681,7 +2681,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2939652-v2-x86.msu</name>
 			<description>WM_DEVICECHANGE messages are delayed after a SATA hard disk is removed</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490720/7600/free/473653_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490720/7600/free/473653_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2951611</kb>
@@ -2690,7 +2690,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2951611-x86.msu</name>
 			<description>DirectAccess is used for internal network connections</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix502261/7600/free/475003_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix502261/7600/free/475003_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2953722</kb>
@@ -2699,7 +2699,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2953722-x86.msu</name>
 			<description>Drive Maps preferences are still displayed in Group Policy RSoP after they are removed or disabled</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix483697/7600/free/474405_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix483697/7600/free/474405_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2956344</kb>
@@ -2708,7 +2708,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2956344-x86.msu</name>
 			<description>Clients randomly lose connection to a Network Policy Server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix500165/7600/free/475038_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix500165/7600/free/475038_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2956701</kb>
@@ -2717,7 +2717,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2956701-x86.msu</name>
 			<description>You receive multiple authentication prompts when PEAP-MS-CHAP v2 is used</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix499568/7600/free/474427_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix499568/7600/free/474427_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2957560</kb>
@@ -2726,7 +2726,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2957560-x86.msu</name>
 			<description>Computer that is running Windows freezes after stress testing in iSCSI initiator for many hours</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix496042/7600/free/474343_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix496042/7600/free/474343_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2964073</kb>
@@ -2735,7 +2735,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2964073-v2-x86.msu</name>
 			<description>Stop error 7E or Stop error D1 occurs during read operations on a Usbser device</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix502275/7600/free/475149_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix502275/7600/free/475149_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2964487</kb>
@@ -2744,7 +2744,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2964487-x86.msu</name>
 			<description>Some application windows and taskbar previews are blank or transparent on a computer that is running Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix499291/7600/free/475103_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix499291/7600/free/475103_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2964511</kb>
@@ -2753,7 +2753,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2964511-v2-x86.msu</name>
 			<description>Stop Error DRIVER_POWER_STATE_FAILURE occurs when you put your computer into standby or hibernation mode</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix504602/7600/free/475178_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix504602/7600/free/475178_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2966148</kb>
@@ -2762,7 +2762,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2966148-x86.msu</name>
 			<description>Excel hangs if a spreadsheet pathname includes special character</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix502079/7600/free/475230_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix502079/7600/free/475230_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2966921</kb>
@@ -2771,7 +2771,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2966921-x86.msu</name>
 			<description>No event ID 100 is logged in the Diagnostics-Performance log when you start Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix501764/7600/free/475284_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix501764/7600/free/475284_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2967567</kb>
@@ -2780,7 +2780,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2967567-x86.msu</name>
 			<description>Cannot access DFS root when the DFS path is offline and you log on to a Windows-based computer for the first time</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix503587/7600/free/475636_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix503587/7600/free/475636_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2968363</kb>
@@ -2789,7 +2789,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2968363-v3-x86.msu</name>
 			<description>Fix for TV Video components</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix511910/7600/free/475539_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix511910/7600/free/475539_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2981841</kb>
@@ -2798,7 +2798,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2981841-x86.msu</name>
 			<description>Internet Explorer freezes for several minutes and loads websites slowly in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510743/7600/free/476919_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510743/7600/free/476919_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2983488</kb>
@@ -2807,7 +2807,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2983488-x86.msu</name>
 			<description>DRIVER_POWER_STATE_FAILURE (9f) error when you use the native VPN connection and then shut down or suspend the computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510421/7600/free/477406_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510421/7600/free/477406_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2987452</kb>
@@ -2816,7 +2816,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2987452-x86.msu</name>
 			<description>Performance issues when you use credential roaming on RD Session Host servers</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix515857/7600/free/477152_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix515857/7600/free/477152_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2989007</kb>
@@ -2825,7 +2825,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2989007-x86.msu</name>
 			<description>Update to support Ultra HD resolution for RDP sessions</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix509647/7600/free/477329_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix509647/7600/free/477329_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2990372</kb>
@@ -2834,7 +2834,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2990372-x86.msu</name>
 			<description>Device does not exist error after you reinsert a USB COM port device</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510991/7600/free/477481_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510991/7600/free/477481_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2996928</kb>
@@ -2843,7 +2843,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2996928-v2-x86.msu</name>
 			<description>Backup task fails with a time-out error in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix523263/7600/free/478702_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix523263/7600/free/478702_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2998530</kb>
@@ -2852,7 +2852,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2998530-v2-x86.msu</name>
 			<description>Disc is ejected unexpectedly when an application is writing to a CD or DVD drive</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix523299/7600/free/478604_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix523299/7600/free/478604_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3000056</kb>
@@ -2861,7 +2861,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3000056-v3-x86.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.5.1: October 14, 2014</description>
-			<url>https://hotfixv4.microsoft.com/.Net%20Framework%202.0%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp2/devdv1049797/50727.8643/free/479202_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/.Net%20Framework%202.0%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp2/devdv1049797/50727.8643/free/479202_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3001264</kb>
@@ -2870,7 +2870,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3001264-x86.msu</name>
 			<description>0x80073B92 error when you perform a Bare Metal Recovery on UEFI computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix522508/7600/free/478526_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix522508/7600/free/478526_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3001526</kb>
@@ -2879,7 +2879,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3001526-x86.msu</name>
 			<description>The input of Chinese (Traditional) Quick characters is very slow in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524004/7600/free/478921_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524004/7600/free/478921_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3003385</kb>
@@ -2888,7 +2888,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3003385-x86.msu</name>
 			<description>Access Violation error when AzMan processes business rules</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524098/7600/free/478986_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524098/7600/free/478986_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3004145</kb>
@@ -2897,7 +2897,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3004145-x86.msu</name>
 			<description>SSRS freezes when you access SSRS reports in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix523671/7600/free/478756_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix523671/7600/free/478756_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3005770</kb>
@@ -2906,7 +2906,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3005770-x86.msu</name>
 			<description>Fix for UIAutomation Client</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix522770/7600/free/483009_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix522770/7600/free/483009_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3007006</kb>
@@ -2915,7 +2915,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3007006-x86.msu</name>
 			<description>Memory usage of the Msdtc.exe process increases on Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524162/7600/free/479040_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524162/7600/free/479040_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3009197</kb>
@@ -2924,7 +2924,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3009197-x86.msu</name>
 			<description>Stop error 0x0000009F because the Trusted Platform Module (TPM) does not respond the power I/O request packets (IRPs) in time.</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524373/7600/free/479180_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524373/7600/free/479180_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3009986</kb>
@@ -2933,7 +2933,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3009986-x86.msu</name>
 			<description>A copy or move operation is unsuccessful if a symbolic link is included</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix58363/7600/free/484378_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix58363/7600/free/484378_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3014300</kb>
@@ -2942,7 +2942,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3014300-x86.msu</name>
 			<description>CredUIPromptForWindowsCredentials API does not select the smart card logon certificate from the pvInAuthBuffer parameter</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix526381/7600/free/479851_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix526381/7600/free/479851_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3014783</kb>
@@ -2951,7 +2951,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3014783-v3-x86.msu</name>
 			<description>RDS busy or "The Group Policy Client failed logon" error when you log on to an application using RDP</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix527870/7600/free/481187_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix527870/7600/free/481187_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3015999</kb>
@@ -2960,7 +2960,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3015999-x86.msu</name>
 			<description>Stop Error 0x27 occurs when you try to move a folder on a network share from one place to another</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix526393/7600/free/479839_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix526393/7600/free/479839_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3016350</kb>
@@ -2969,7 +2969,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3016350-v3-x86.msu</name>
 			<description>Windows Photo Viewer cannot print single pages or custom page ranges</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix526429/7600/free/479995_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix526429/7600/free/479995_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3029604</kb>
@@ -2978,7 +2978,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3029604-x86.msu</name>
 			<description>Fix for USB Easy Transfer Cable</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524456/7600/free/481541_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix524456/7600/free/481541_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3031311</kb>
@@ -2987,7 +2987,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3031311-x86.msu</name>
 			<description>Duplicate Service Principal Names (SPNs) cannot be detected in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix528214/7600/free/481519_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix528214/7600/free/481519_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3031987</kb>
@@ -2996,7 +2996,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3031987-x86.msu</name>
 			<description>Hotfix for the .NET Framework 3.5.1: February 10, 2015</description>
-			<url>https://hotfixv4.microsoft.com/.Net%20Framework%203.5%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/nosp/DevDiv1057567/30729.8655/free/482233_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/.Net%20Framework%203.5%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/nosp/DevDiv1057567/30729.8655/free/482233_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3036149</kb>
@@ -3005,7 +3005,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3036149-x86.msu</name>
 			<description>BITS might ignore the throttling policy and consume the WAN circuits</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix528579/7600/free/482008_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix528579/7600/free/482008_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3036150</kb>
@@ -3014,7 +3014,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3036150-x86.msu</name>
 			<description>Remote desktop users can see the printers of the other users in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix530012/7600/free/482105_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix530012/7600/free/482105_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3036155</kb>
@@ -3023,7 +3023,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3036155-x86.msu</name>
 			<description>Scanning application crashes upon close after you perform a scan in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix530013/7600/free/483263_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix530013/7600/free/483263_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3040017</kb>
@@ -3041,7 +3041,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3045882-x86.msu</name>
 			<description>Private key is not exported when you export a certificate in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix521076/7600/free/483113_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix521076/7600/free/483113_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3048801</kb>
@@ -3050,7 +3050,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3048801-x86.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.0 SP2: April 14, 2015</description>
-			<url>https://hotfixv4.microsoft.com/.Net%20Framework%203.0%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp2/DevDiv1060562/30729.8664/free/483864_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/.Net%20Framework%203.0%20–%20Win7%20SP1,%20Windows%20Server%202008%20R2%20SP1%20(CBS)/sp2/DevDiv1060562/30729.8664/free/483864_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3056066</kb>
@@ -3059,7 +3059,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3056066-x86.msu</name>
 			<description>Backups fail for VMs with pre-existing software snapshots that use shadow storage set to a different drive</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix532434/7600/free/483747_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix532434/7600/free/483747_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3060738</kb>
@@ -3068,7 +3068,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3060738-x86.msu</name>
 			<description>Significant delays occur when obtaining data from Active Directory in Excel 2013</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix530042/7600/free/484149_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix530042/7600/free/484149_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3063060</kb>
@@ -3077,7 +3077,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3063060-x86.msu</name>
 			<description>Network connectivity dropped when time is adjusted on a DHCP client</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix532663/7600/free/484332_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix532663/7600/free/484332_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3067902</kb>
@@ -3095,7 +3095,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3070714-v3-x86.msu</name>
 			<description>0x000000B8 Stop error during MPIO path failover</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix110748/7600/free/485180_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix110748/7600/free/485180_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3075623</kb>
@@ -3131,7 +3131,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB911589-v2-x86.msu</name>
 			<description>The Proquota.exe process uses lots of memory when you enable a profile quota on a computer that is running Windows XP Service Pack 2 or Windows 2000</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix408621/7600/free/451695_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix408621/7600/free/451695_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB949843</kb>
@@ -3140,7 +3140,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB949843-v2-x86.msu</name>
 			<description>After you put a Windows Explorer window into full-screen mode on a secondary monitor, the navigation bar does not appear on a computer that is running Windows Vista, Windows Server 2008, Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix353772/7600/free/425224_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix353772/7600/free/425224_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB967351</kb>
@@ -3149,7 +3149,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB967351-v2-x86.msu</name>
 			<description>A heavily fragmented file in an NTFS volume may not grow beyond a certain size</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385766/7600/free/441349_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385766/7600/free/441349_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB976042</kb>
@@ -3158,7 +3158,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB976042-v2-x86.msu</name>
 			<description>Windows may fail to boot from an iSCSI drive if networking hardware is changed</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix386007/7600/free/440168_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix386007/7600/free/440168_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB981538</kb>
@@ -3167,7 +3167,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB981538-x86.msu</name>
 			<description>You receive broken messages in the Ftp command output logs</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix530041/7600/free/482107_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix530041/7600/free/482107_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2479943</kb>
@@ -3869,7 +3869,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2519454-v2-x86.msu</name>
 			<description>FIX: Memory leak in WmiPrvSe.exe when you run a script to connect to the WMI WebAdministration namespace</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix360285/7600/free/428836_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix360285/7600/free/428836_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2520513</kb>
@@ -3878,7 +3878,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2520513-x86.msu</name>
 			<description>FIX: "HTTP/1.1 500 Internal Server Error" error when you download a large file from an IIS 7.5 website if the SF_NOTIFY_SEND_RAW_DATA notification is registered in an ISAPI filter</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix359994/7600/free/429883_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix359994/7600/free/429883_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2551090</kb>
@@ -3887,7 +3887,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2551090-v2-x86.msu</name>
 			<description>FIX: IIS Manager does not display IP addresses that are assigned to the network adapter together with the skipassource flag</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix371973/7600/free/433939_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix371973/7600/free/433939_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2551687</kb>
@@ -3896,7 +3896,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2551687-x86.msu</name>
 			<description>FIX: An ISAPI extension that calls the WriteClient function 65,535 or more times sends an incomplete response in IIS 7.</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/fix373019/7600/free/435397_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/fix373019/7600/free/435397_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2560289</kb>
@@ -3905,7 +3905,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2560289-x86.msu</name>
 			<description>FIX: Slow performance when you request access to files in an IIS 7.5 virtual directory that points to a UNC share</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369459/7600/free/433556_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369459/7600/free/433556_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2566314</kb>
@@ -3914,7 +3914,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2566314-x86.msu</name>
 			<description>FIX: Memory leak when the IIS ADSI provider retrieves some metabase properties in IIS 7.</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369549/7600/free/433891_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369549/7600/free/433891_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2594586</kb>
@@ -3923,7 +3923,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2594586-x86.msu</name>
 			<description>FIX: A POST request to a webpage that should redirect responses to a different webpage does not redirect responses in IIS 7.0 or in IIS 7.5</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix373241/7600/free/440506_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix373241/7600/free/440506_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2618752</kb>
@@ -3932,7 +3932,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2618752-x86.msu</name>
 			<description>FIX: WebDAV deletes a file instead of sending an “Access Denied” message</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix384686/7600/free/440230_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix384686/7600/free/440230_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2701239</kb>
@@ -3941,7 +3941,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2701239-x86.msu</name>
 			<description>The Lpq.exe tool crashes in Windows 7</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399264/7600/free/447518_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399264/7600/free/447518_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2719033</kb>
@@ -3959,7 +3959,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2786454-x86.msu</name>
 			<description>Incorrect source IP address is returned in the SNMP response</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix417164/7600/free/455849_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix417164/7600/free/455849_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2824770</kb>
@@ -3968,7 +3968,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2824770-x86.msu</name>
 			<description>Delayed delivery when you send many messages in Message Queuing server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix474787/7600/free/468880_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix474787/7600/free/468880_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2870705</kb>
@@ -3977,7 +3977,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2870705-x86.msu</name>
 			<description>IIS 7.5 or IIS 8.0 process crashes in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix470375/7600/free/467868_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix470375/7600/free/467868_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2877816</kb>
@@ -3986,7 +3986,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2877816-x86.msu</name>
 			<description>Vary header is overwritten as "Accept-Encoding" after you enable dynamic content compression in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix424235/7600/free/470249_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix424235/7600/free/470249_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2895312</kb>
@@ -3995,7 +3995,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2895312-x86.msu</name>
 			<description>A certificate mapping rule in IIS does not work for a client certificate that contains more than 64 characters in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix482305/7600/free/471891_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix482305/7600/free/471891_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2897066</kb>
@@ -4004,7 +4004,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2897066-x86.msu</name>
 			<description>Property ID value is overwritten when you add custom Metabase properties to the IIS settings schema</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix484016/7600/free/469714_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix484016/7600/free/469714_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2898092</kb>
@@ -4013,7 +4013,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2898092-x86.msu</name>
 			<description>Tlntsvr.exe process crashes on a telnet server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix476012/7600/free/469564_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix476012/7600/free/469564_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2956990</kb>
@@ -4022,7 +4022,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2956990-x86.msu</name>
 			<description>NFS client can’t reconnect to NFS server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix504314/7600/free/475436_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix504314/7600/free/475436_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2957486</kb>
@@ -4031,7 +4031,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2957486-v2-x86.msu</name>
 			<description>Ls command takes a long time to list shared files in 2 windows on NFS server</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix516233/7600/free/477879_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix516233/7600/free/477879_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3020393</kb>
@@ -4049,7 +4049,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB3023569-x86.msu</name>
 			<description>Windows Process Activation Service crashes with an access violation</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix527104/7600/free/480651_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix527104/7600/free/480651_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3030736</kb>
@@ -4058,7 +4058,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB3030736-x86.msu</name>
 			<description>550 The process cannot access the file error when you try to download a file in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix531717/7600/free/482737_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix531717/7600/free/482737_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3042826</kb>
@@ -4067,7 +4067,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB3042826-x86.msu</name>
 			<description>POSIX subsystem crashes when you try to create a Telnet session in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix522519/7600/free/483586_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix522519/7600/free/483586_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2923545</kb>
@@ -4121,7 +4121,7 @@
 			<category>Extra/WithoutKB3125574/_RDP</category>
 			<name>Windows6.1-KB3024260-x86.msu</name>
 			<description>OK and Cancel buttons are missing from the Local Devices and Resources dialog box</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix527430/7600/free/480781_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix527430/7600/free/480781_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3075222</kb>
@@ -4166,7 +4166,7 @@
 			<category>Extra/WithoutKB3125574/DCA2.0</category>
 			<name>Windows6.1-KB2882659-v4-x86.msu</name>
 			<description>FIX: "Corporate connectivity is not working" tooltip is displayed for the DirectAccess Assistant 2.0 tray icon</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix474000/7600/free/468396_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix474000/7600/free/468396_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2939489</kb>
@@ -4175,7 +4175,7 @@
 			<category>Extra/WithoutKB3125574/DCA2.0</category>
 			<name>Windows6.1-KB2939489-v2-x86.msu</name>
 			<description>HTTP 403 or "0x80040001" error when you connect to a DirectAccess server from a DCA tool</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix496789/7600/free/474588_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix496789/7600/free/474588_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2462585</kb>
@@ -4184,7 +4184,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2462585-v2-x86.msu</name>
 			<description>You cannot save changes to the Dial-in property settings of a user account on a Windows domain controller that has RSAT installed</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354044/7600/free/425806_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354044/7600/free/425806_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2466373</kb>
@@ -4193,7 +4193,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2466373-v2-x86.msu</name>
 			<description>BACKSPACE or arrow keys do not work in MMC</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix347454/7600/free/425523_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix347454/7600/free/425523_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2512715</kb>
@@ -4211,7 +4211,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2545735-x86.msu</name>
 			<description>The home folder could not be created error when an administrator tries to set Remote Desktop Services Home Folder for a user account</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368166/7600/free/433287_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368166/7600/free/433287_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2559392</kb>
@@ -4220,7 +4220,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2559392-x86.msu</name>
 			<description>The List Running Processes test fails when you run the Failover Cluster Validation Wizard</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix401189/7600/free/447240_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix401189/7600/free/447240_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2581690</kb>
@@ -4229,7 +4229,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2581690-x86.msu</name>
 			<description>DNS Management snap-in console stops responding when you edit the Name Servers tab</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369923/7600/free/435544_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix369923/7600/free/435544_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2607047</kb>
@@ -4247,7 +4247,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2619082-x86.msu</name>
 			<description>Active Directory Certificate Services service cannot handle cross-forest certificate enrollment requests from a Windows computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378128/7600/free/437868_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378128/7600/free/437868_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2647644</kb>
@@ -4265,7 +4265,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2656946-x86.msu</name>
 			<description>Ldifde.exe crashes if the data of a directory object contains "%20"</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix389774/7600/free/442907_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix389774/7600/free/442907_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2685909</kb>
@@ -4274,7 +4274,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2685909-x86.msu</name>
 			<description>Poor performance occurs when you shadow a Remote Desktop session</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix395428/7600/free/446011_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix395428/7600/free/446011_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2740278</kb>
@@ -4283,7 +4283,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2740278-v3-x86.msu</name>
 			<description>File Server Resource Manager service crashes intermittently</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix405068/7600/free/452763_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix405068/7600/free/452763_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2741618</kb>
@@ -4292,7 +4292,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2741618-v2-x86.msu</name>
 			<description>The given key was not present in the dictionary error when you try to run the Get-ADObject cmdlet</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix405673/7600/free/451622_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix405673/7600/free/451622_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2780453</kb>
@@ -4301,7 +4301,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2780453-v2-x86.msu</name>
 			<description>Event ID 4114 and Event ID 4008 are logged in the DFS Replication log</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix413575/7600/free/455285_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix413575/7600/free/455285_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2782558</kb>
@@ -4310,7 +4310,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2782558-v2-x86.msu</name>
 			<description>DNS settings of a DHCP reservation revert to the settings at the scope level</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix413680/7600/free/455527_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix413680/7600/free/455527_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2783031</kb>
@@ -4319,7 +4319,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2783031-x86.msu</name>
 			<description>You cannot set the active DFS folder by using the DFS utility (Dfsutil.exe)</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix420551/7600/free/456102_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix420551/7600/free/456102_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2812416</kb>
@@ -4328,7 +4328,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2812416-x86.msu</name>
 			<description>You cannot schedule a File Management task accurately</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix422625/7600/free/459079_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix422625/7600/free/459079_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2884866</kb>
@@ -4337,7 +4337,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2884866-v2-x86.msu</name>
 			<description>SCVMM refreshes a virtual machine and causes errors on clustered Hyper-V hosts that are running Windows Server 2008 R2 SP1</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix475407/7600/free/469975_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix475407/7600/free/469975_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2928120</kb>
@@ -4355,7 +4355,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2934562-x86.msu</name>
 			<description>The home folder could not be created error when using a non-exist folder path in Windows</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix495178/7600/free/473109_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix495178/7600/free/473109_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2950080</kb>
@@ -4364,7 +4364,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2950080-x86.msu</name>
 			<description>The CA certificate could not be retrieved, element not found error occurs when the CA server host name is longer than 52 characters</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498723/7600/free/474603_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498723/7600/free/474603_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2960124</kb>
@@ -4373,7 +4373,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2960124-v3-x86.msu</name>
 			<description>The Online Responder service incorrectly returns GOOD for all certificates that are not included in the CRL</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix487215/7600/free/474641_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix487215/7600/free/474641_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2965904</kb>
@@ -4382,7 +4382,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2965904-x86.msu</name>
 			<description>Task name is deleted after you link a storage report to a scheduled task</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix507966/7600/free/475166_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix507966/7600/free/475166_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2983975</kb>
@@ -4391,7 +4391,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2983975-x86.msu</name>
 			<description>You cannot add Active Directory users to the Unix attribute tab of a group</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498620/7600/free/476800_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498620/7600/free/476800_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2996911</kb>
@@ -4400,7 +4400,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2996911-x86.msu</name>
 			<description>DFSR stops replication after a dirty shutdown</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix520198/7600/free/478094_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix520198/7600/free/478094_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB3001265</kb>
@@ -4409,7 +4409,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB3001265-x86.msu</name>
 			<description>Access Denied error and all objects and child OUs under OU are deleted in GPMC</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix522768/7600/free/478540_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix522768/7600/free/478540_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2737681</kb>
@@ -4418,7 +4418,7 @@
 			<category>Extra/WithoutKB3125574/SL/French.Enterprise</category>
 			<name>Windows6.1-KB2737681-x86.msu</name>
 			<description>You cannot deploy a client agent by using System Center 2012 Configuration Manager on French version</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix406402/7600/free/451384_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix406402/7600/free/451384_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2835174</kb>
@@ -4445,7 +4445,7 @@
 			<category>Extra/WithoutKB3125574/VirtualPC</category>
 			<name>Windows6.1-KB2652034-v2-x86.msu</name>
 			<description>0x0000008E Stop error when Windows 7 enters and then resumes from standby repeatedly if Windows XP Mode is running</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix392829/7600/free/443662_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix392829/7600/free/443662_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2697737</kb>
@@ -4454,7 +4454,7 @@
 			<category>Extra/WithoutKB3125574/VirtualPC</category>
 			<name>Windows6.1-KB2697737-x86.msu</name>
 			<description>Slow performance when you copy files to a file server from a virtual machine that is running Windows XP Mode</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396882/7600/free/446307_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix396882/7600/free/446307_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2801466</kb>
@@ -4463,7 +4463,7 @@
 			<category>Extra/WithoutKB3125574/VirtualPC</category>
 			<name>Windows6.1-KB2801466-x86.msu</name>
 			<description>Windows logo key remains pressed in Windows XP Mode after you unlock a computer</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix415240/7600/free/457871_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix415240/7600/free/457871_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2584449</kb>
@@ -4481,7 +4481,7 @@
 			<category>Extra/WithoutKB3125574/WithoutPlatform</category>
 			<name>Windows6.1-KB2591500-v3-x86.msu</name>
 			<description>Update to enable the Albany AMT and Thorndale AMT fonts to be displayed correctly in Internet Explorer </description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378656/7600/free/437435_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378656/7600/free/437435_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2647169</kb>
@@ -4490,7 +4490,7 @@
 			<category>Extra/WithoutKB3125574/WithoutPlatform</category>
 			<name>Windows6.1-KB2647169-x86.msu</name>
 			<description>Windows Fax and Scan cannot send a fax if Internet Explorer 9 is installed</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix388898/7600/free/441143_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix388898/7600/free/441143_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2916266</kb>
@@ -4499,7 +4499,7 @@
 			<category>Extra/WithoutKB3125574/WithoutPlatform</category>
 			<name>Windows6.1-KB2916266-v3-x86.msu</name>
 			<description>Mstsc.exe crashes when you print a large document from an RDS session</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix492941/7600/free/472439_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix492941/7600/free/472439_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3019978</kb>
@@ -4535,7 +4535,7 @@
 			<category>Extra/WMF3.0/Updates</category>
 			<name>Windows6.1-KB2802886-v2-x86.msu</name>
 			<description>You cannot register an SPN from a client computer in a disjoint namespace</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix456621/7600/free/464004_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix456621/7600/free/464004_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2823180</kb>
@@ -4553,7 +4553,7 @@
 			<category>Extra/WMF3.0/Updates</category>
 			<name>Windows6.1-KB2842230-x86.msu</name>
 			<description>"Out of memory" error on a computer that has a customized MaxMemoryPerShellMB quota set and has WMF 3.0 installed</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix467402/7600/free/463983_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix467402/7600/free/463983_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2887064</kb>
@@ -4562,7 +4562,7 @@
 			<category>Extra/WMF3.0/Updates</category>
 			<name>Windows6.1-KB2887064-x86.msu</name>
 			<description>FIX: The Start-Process cmdlet ignores the "-Wait" parameter when the cmdlet is started remotely on a computer that has WMF 3.0 installed</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix473965/7600/free/468334_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix473965/7600/free/468334_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2889748</kb>
@@ -4571,7 +4571,7 @@
 			<category>Extra/WMF3.0/Updates</category>
 			<name>Windows6.1-KB2889748-x86.msu</name>
 			<description>High memory usage by the Svchost.exe process after you install WMF 3.0</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix475191/7600/free/468848_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix475191/7600/free/468848_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2819745</kb>
@@ -4589,7 +4589,7 @@
 			<category>Extra/WMF4.0/Updates</category>
 			<name>Windows6.1-KB3109118-v4-x86.msu</name>
 			<description>WMF 4.0 Update package</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix3352135/7600/free/488938_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix3352135/7600/free/488938_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2887535</kb>
@@ -4742,7 +4742,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2695321-v2-x86.msu</name>
 			<description>IPsec session takes 5 to 6 minutes to connect to a storage controller</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399800/7600/free/449909_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399800/7600/free/449909_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2727994</kb>
@@ -4760,7 +4760,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2728738-v3-x86.msu</name>
 			<description>You experience a long logon time when on a computer with roaming profiles</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix465791/7600/free/465887_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix465791/7600/free/465887_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2752259</kb>
@@ -4769,7 +4769,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2752259-x86.msu</name>
 			<description>An update that improves the performance of the Printbrm.exe command-line tool</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix403744/7600/free/452682_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix403744/7600/free/452682_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2891144</kb>
@@ -4778,7 +4778,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2891144-x86.msu</name>
 			<description>Application does not draw polylines correctly when you run it through an RD Session</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix458381/7600/free/468389_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix458381/7600/free/468389_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2907020</kb>
@@ -4787,7 +4787,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2907020-x86.msu</name>
 			<description>Location is not available error when you access a mapped network drive after Windows standby or resume</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix480275/7600/free/471626_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix480275/7600/free/471626_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2918833</kb>
@@ -4796,7 +4796,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2918833-v2-x86.msu</name>
 			<description>Third-party IMEs give users unprotected access to your system</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490641/7600/free/472696_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490641/7600/free/472696_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2923766</kb>
@@ -4805,7 +4805,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2923766-v5-x86.msu</name>
 			<description>Black screen when you plug in a monitor on a computer or open a lid of a laptop</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix485015/7600/free/471897_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix485015/7600/free/471897_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2925489</kb>
@@ -4814,7 +4814,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2925489-v3-x86.msu</name>
 			<description>You cannot establish an IPsec connection with certain third-party devices</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix486093/7600/free/471856_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix486093/7600/free/471856_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2990184</kb>
@@ -4823,7 +4823,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2990184-v2-x86.msu</name>
 			<description>A FIPS-compliant recovery password cannot be saved to AD DS for BitLocker</description>
-			<url>https://hotfixv4.microsoft.com/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498634/7600/free/483150_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498634/7600/free/483150_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4021918</kb>
@@ -4932,6 +4932,15 @@
 			<name>Windows6.1-KB4338818-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows6.1-kb4338818-x86_259a449211c1ff2f3a2d7193ea0930bd3ca334a9.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4345459</kb>
+			<date>2018/07/13</date>
+			<size>23.86 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4345459-x86.msu</name>
+			<description>Update to fix stop error in Monthly Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows6.1-kb4345459-x86_022e33c702492e68ceec50725fea6fe6bdeba88e.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
