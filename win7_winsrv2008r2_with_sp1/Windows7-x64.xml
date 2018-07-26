@@ -4961,22 +4961,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/windows6.1-kb4338423-x64_58b34908c283746456dd4b2b8c8b4d8e6b98fcf8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4338818</kb>
-			<date>2018/07/06</date>
-			<size>227.90 MB</size>
+			<kb>KB4338821</kb>
+			<date>2018/07/18</date>
+			<size>228.31 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4338818-x64.msu</name>
+			<name>Windows6.1-KB4338821-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows6.1-kb4338818-x64_87dc4cd46105dca91ce457affa99d007e07104c6.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4345459</kb>
-			<date>2018/07/13</date>
-			<size>37.70 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4345459-x64.msu</name>
-			<description>Update to fix stop error in Monthly Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows6.1-kb4345459-x64_b25787ba69cb98de9f4c82588c306c48d0d2ae9b.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/07/windows6.1-kb4338821-x64_e39559571bb50e6e6a819da616a912ebf4862039.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

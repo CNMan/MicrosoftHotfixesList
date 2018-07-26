@@ -2180,13 +2180,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows8.1-kb4338419-x64_25b29dae3367bf661444fb387f460b417930167d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4338815</kb>
-			<date>2018/07/05</date>
-			<size>345.22 MB</size>
+			<kb>KB4338831</kb>
+			<date>2018/07/18</date>
+			<size>345.85 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4338815-x64.msu</name>
+			<name>Windows8.1-KB4338831-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/windows8.1-kb4338815-x64_9d87e0119193e0d35d0f3a1952e0ce4e15ae6113.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows8.1-kb4338831-x64_c5f105fa1349fa534f19035aa8a0796985c6be58.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4338832</kb>
@@ -2196,15 +2196,6 @@
 			<name>Windows8.1-KB4338832-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windows8.1-kb4338832-x64_d79d852a6d071a90851021d636c1f765e3c3c77f.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4345424</kb>
-			<date>2018/07/13</date>
-			<size>38.95 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4345424-x64.msu</name>
-			<description>Update to fix stop error in Monthly Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows8.1-kb4345424-x64_5e9e057b130d4cadea5f719d795fc8d8f4cf4310.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
