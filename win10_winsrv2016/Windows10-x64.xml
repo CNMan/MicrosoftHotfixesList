@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/17" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/24" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -38,6 +38,15 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132216-x64_9cbeb1024166bdeceff90cd564714e1dcd01296e.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4338822</kb>
+			<date>2018/07/20</date>
+			<size>1.27 GB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4338822-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4338822-x64_2db60cf228eca5137700178e0e7b2d6d3d19f78b.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4338832</kb>
 			<date>2018/06/29</date>
 			<size>20.85 MB</size>
@@ -45,15 +54,6 @@
 			<name>windows10.0-kb4338832-x64_46a1be0715d09cb4b7054b9652faa6ac915c50fb.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1607</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windows10.0-kb4338832-x64_46a1be0715d09cb4b7054b9652faa6ac915c50fb.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4345418</kb>
-			<date>2018/07/14</date>
-			<size>1.26 GB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4345418-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/07/windows10.0-kb4345418-x64_a636a1048a2601d9218463107bc5fde558a1055e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4054590</kb>
@@ -74,6 +74,15 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132649-x64_7b1001d846a7a14b752a7ea4c7dd444d4c05b39b.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4338827</kb>
+			<date>2018/07/23</date>
+			<size>1.19 GB</size>
+			<category>General/15063</category>
+			<name>Windows10.0-KB4338827-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4338827-x64_f8b2e62b66e5135fe058e896b32786149f945c89.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4338832</kb>
 			<date>2018/06/29</date>
 			<size>20.84 MB</size>
@@ -83,13 +92,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windows10.0-kb4338832-x64_1de2233119889fcdb5fa960c348f7fdabf7e1d66.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4345419</kb>
-			<date>2018/07/14</date>
-			<size>1.18 GB</size>
-			<category>General/15063</category>
-			<name>Windows10.0-KB4345419-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4345419-x64_e7b0d7fecb953ceb4109db83ad861525ef3b1bfd.msu</url>
+			<kb>KB4338817</kb>
+			<date>2018/07/20</date>
+			<size>840.89 MB</size>
+			<category>General/16299</category>
+			<name>Windows10.0-KB4338817-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1709</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4338817-x64_8e9a3f093879f88d1e9c22d1b133d38fa44a3ede.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4338832</kb>
@@ -110,15 +119,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/07/windows10.0-kb4339420-x64_18d8c2fb077e113d43931e6eb8f8cdbb23538157.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4345420</kb>
-			<date>2018/07/14</date>
-			<size>836.14 MB</size>
-			<category>General/16299</category>
-			<name>Windows10.0-KB4345420-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4345420-x64_94968c844473fcbbb4329808d5d3c9b06dcd3dbc.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4338832</kb>
 			<date>2018/06/29</date>
 			<size>20.85 MB</size>
@@ -128,6 +128,15 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windows10.0-kb4338832-x64_961806f0d9d52c7df32346349c5101f1ab2032a0.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4340917</kb>
+			<date>2018/07/17</date>
+			<size>713.10 MB</size>
+			<category>General/17134</category>
+			<name>Windows10.0-KB4340917-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1803</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4340917-x64_ed5f586fa9d7064d61e45c523f20ba7fc1ff142a.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4343669</kb>
 			<date>2018/07/07</date>
 			<size>13.29 MB</size>
@@ -135,15 +144,6 @@
 			<name>Windows10.0-KB4343669-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1803</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/07/windows10.0-kb4343669-x64_2a58320e44d3ff803bc7016b5d02f3e85482b46f.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4345421</kb>
-			<date>2018/07/14</date>
-			<size>678.24 MB</size>
-			<category>General/17134</category>
-			<name>Windows10.0-KB4345421-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4345421-x64_c5a035dc1ec030a5be0626c8b019b9c4f6e8a1a6.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
