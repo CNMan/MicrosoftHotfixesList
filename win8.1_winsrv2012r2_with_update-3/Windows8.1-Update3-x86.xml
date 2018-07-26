@@ -2064,12 +2064,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB4338419</kb>
-			<date>2018/05/31</date>
+			<date>2018/07/13</date>
 			<size>29.07 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4338419-x86.msu</name>
+			<name>windows8.1-kb4338419-x86_65daa8e1ee3543ad29351062ab54cf6f6a665913.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/windows8.1-kb4338419-x86_6c6b49d9cd570c0ad41dfd9624355e1b34f52592.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows8.1-kb4338419-x86_65daa8e1ee3543ad29351062ab54cf6f6a665913.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4338831</kb>
