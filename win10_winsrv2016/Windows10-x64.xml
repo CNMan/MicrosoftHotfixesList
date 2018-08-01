@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/24" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/30" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -38,13 +38,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132216-x64_9cbeb1024166bdeceff90cd564714e1dcd01296e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4338822</kb>
-			<date>2018/07/20</date>
-			<size>1.27 GB</size>
+			<kb>KB4346877</kb>
+			<date>2018/07/27</date>
+			<size>1.28 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4338822-x64.msu</name>
+			<name>Windows10.0-KB4346877-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4338822-x64_2db60cf228eca5137700178e0e7b2d6d3d19f78b.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows10.0-kb4346877-x64_374c04ab4fce5134b8c95faab72be4e527c86824.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4338832</kb>

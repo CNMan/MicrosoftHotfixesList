@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/17" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/30" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -153,6 +153,15 @@
 			<name>NDP472-KB4338420-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/ndp46-kb4338420-x86_50f4ce73b0b99d2d50a16256d9e3ecd5dda0e398.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4346407</kb>
+			<date>2018/07/26</date>
+			<size>7.71 MB</size>
+			<category>Additional/NET472</category>
+			<name>NDP472-KB4346407-x86.exe</name>
+			<description>Update for .NET Framework 4.7.2</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/ndp46-kb4346407-x86_0f65a94f088a27b6e8a406e5180f2d1c71550900.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -4932,6 +4941,15 @@
 			<name>Windows6.1-KB4338821-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows6.1-kb4338821-x86_dbb4a373fd04129aa50dfd4bb8ad3ea1b535151f.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4346744</kb>
+			<date>2018/07/26</date>
+			<size>4.63 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4346744-x86.msu</name>
+			<description>Update for .NET Framework 3.5.1</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows6.1-kb4346744-x86_18aee9410994ab6671257df6f7c14c35ec5f6ebd.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
