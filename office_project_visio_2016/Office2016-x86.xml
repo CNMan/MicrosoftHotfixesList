@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/08/07" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/08/14" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB4018338</kb>
@@ -83,13 +83,13 @@
 			<url>http://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022229</kb>
-			<date>2018/06/13</date>
-			<size>127.64 MB</size>
-			<category>General</category>
-			<name>excel2016-kb4022229-fullfile-x86-glb.exe</name>
+			<kb>KB4032229</kb>
+			<date>2018/07/22</date>
+			<size>127.65 MB</size>
+			<category>Security</category>
+			<name>excel2016-kb4032229-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>http://download.microsoft.com/download/F/D/E/FDE709A1-4208-41B0-A5B0-3E88184758B4/excel2016-kb4022229-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/C/1/6/C168E5B3-8FCC-4355-BF16-5165325BA388/excel2016-kb4032229-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011218</kb>
@@ -200,13 +200,13 @@
 			<url>http://download.microsoft.com/download/1/7/7/17728583-D4F3-4EF4-99D3-7B4BA5BF2395/msmipc2016-kb3178666-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022214</kb>
-			<date>2018/06/13</date>
+			<kb>KB4032233</kb>
+			<date>2018/07/22</date>
 			<size>128.05 MB</size>
-			<category>General</category>
-			<name>mso2016-kb4022214-fullfile-x86-glb.exe</name>
+			<category>Security</category>
+			<name>mso2016-kb4032233-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/C/4/4/C4410924-B8A5-4374-938E-C456986726BD/mso2016-kb4022214-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/D/4/C/D4C0E392-6C38-44A1-A084-90ECC8F4DFC4/mso2016-kb4032233-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011630</kb>
@@ -362,13 +362,13 @@
 			<url>http://download.microsoft.com/download/B/4/8/B480C326-8984-4D40-BAA2-33F3A44F20CB/outlfltr2016-kb3115407-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022230</kb>
-			<date>2018/06/13</date>
-			<size>90.59 MB</size>
-			<category>General</category>
-			<name>outlook2016-kb4022230-fullfile-x86-glb.exe</name>
+			<kb>KB4032235</kb>
+			<date>2018/07/22</date>
+			<size>90.60 MB</size>
+			<category>Security</category>
+			<name>outlook2016-kb4032235-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>http://download.microsoft.com/download/2/F/7/2F7A3E5F-A696-4A1F-A440-C363AA9B1FA4/outlook2016-kb4022230-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/7/E/8/7E8036A1-9A48-46F8-8106-06503B383FB1/outlook2016-kb4032235-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>

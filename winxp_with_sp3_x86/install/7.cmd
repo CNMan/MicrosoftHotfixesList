@@ -111,4 +111,9 @@ start /wait windowsxp-kb4339854-x86-embedded-chs_b8bb28c9d7dc25d01bc30daf9c1b4f6
 start /wait windowsxp-kb4134651-v2-x86-embedded-chs_c334ecd8d8a86d78594e17e32c116f117ec29c14.exe /q /z /n /o
 start /wait windowsxp-kb4339291-x86-embedded-chs_384701d4d909c5406455b15c9006cfc8e382473c.exe /q /z /n /o
 start /wait ie8-windowsxp-kb4339093-x86-embedded-chs_b4743859f9e6d7c8e4ed06a5f2aa9c170b676308.exe /q /z /n /o
+start /wait windowsxp-kb4340937-x86-embedded-chs_c936321f02731abd988b3672b2ad5acaac8287fe.exe /q /z /n /o
+start /wait windowsxp-kb4343674-x86-embedded-chs_aa9af59777cdebcde8310c81db734278e9c0d051.exe /q /z /n /o
+start /wait windowsxp-kb4344104-x86-embedded-chs_d12fcf7402a2f5701ab165d0ecaacccdfadcd615.exe /q /z /n /o
+start /wait windowsxp-kb4339284-x86-embedded-chs_62235dec813b46c4e709a38ee3af35c662ad4498.exe /q /z /n /o
+start /wait ie8-windowsxp-kb4343205-x86-embedded-chs_9bf7759f07634b0226871ba6bb8fe6ef0a1a1e6e.exe /q /z /n /o
 shutdown -r

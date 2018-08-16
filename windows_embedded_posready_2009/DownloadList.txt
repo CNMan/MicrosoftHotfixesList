@@ -61,7 +61,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/12/wind
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/ndp20sp2-kb4054178-x86_c0d933409d0128ad7df07c0eaf71ae01f49c48c3.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/ndp30sp2-kb4055229-x86_45c6c6c58de4c40a6ab5c31cca4c685e289493ad.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/ndp40-kb4054173-x86_a223c7d77b86086e3fd412e816edc47e31458f96.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/02/windowsxp-kb4087398-x86-embedded-enu_a20bce534494db1303efeff6f2abae8cb15f4861.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/02/windowsxp-kb4089694-x86-embedded-enu_f0698bdbb2c0dbaf56d7c4071061046865ec3526.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/03/windowsxp-kb4091756-x86-embedded-enu_4084e5a3bf76e0a22d8d33b0c5e8ff3b57e3faf3.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/03/windowsxp-kb4093257-x86-embedded-enu_9c72fc51be7a7eb68e2c603b309a9c0163949cb8.exe
@@ -72,11 +71,15 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/wind
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windowsxp-kb4291391-x86-embedded-enu_a48bc4ba244b5a49d0191900c5f65f60e1568579.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/ndp20sp2-kb4338615-x86_2efbd12454fd3710958d88de466e1902eefca318.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/ndp30sp2-kb4338597-x86_7eefe88d95fcdb3b2e2941fdc555d4baeeab5864.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windowsxp-kb4340937-x86-embedded-enu_055b6495b6799ac6e75755cb1f7947feb4ca199d.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windowsxp-kb4344104-x86-embedded-enu_24812351d008b3bde988cc02339b23e2a738db69.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/ndp20sp2-kb4344180-x86_d0f73b32fe800b37b11cb66c2f0cc07f047a7b0f.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/06/ndp35sp1-kb2836940-x86_43c873339b256d55a01b8e0303d53153949fdec3.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/10/ndp40-kb2836939-v3-x86_5f7e7f9811136bd3dfeb994d75a96aece646ea3d.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windowsxp-kb4039111-x86-embedded-enu_9b517bb7a6b7459d5c4c7159e4b8f247cf094feb.exe
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/windowsxp-kb4019276-x86-embedded-enu_3822fc1692076429a7dc051b00213d5e1240ce3d.exe
 http://download.windowsupdate.com/c/msdownload/update/software/uprl/2013/12/windowsxp-kb2904266-x86-enu_dbb1b301ba862c02e0b34570e3c78a719144f823.exe
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2018/07/windowsxp-kb4339284-x86-embedded-enu_2a06b4e2d2bafea70a1f56eb3fd1ee2dc5717bbd.exe
 http://download.windowsupdate.com/d/csa/csa/secu/2016/03/ndp20sp2-kb3135986-x86_3c143b65f9e2cc3ab1f140fbd71a50f34af88a49.exe
 http://download.windowsupdate.com/d/csa/csa/secu/2016/04/ndp20sp2-kb3142027-x86_dfb224d16b27f203dedc393678a150e887b98e84.exe
 http://download.windowsupdate.com/d/csa/csa/secu/2016/04/ndp40-kb3127225-x86_6086071d07278955e22366990a3f8ffbfdccda85.exe
@@ -140,7 +143,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/11/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windowsxp-kb4034044-x86-embedded-enu_2eed2f8234cf7d6326ece957d4309979faf9d84a.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windowsxp-kb4089082-x86-embedded-enu_56a4c587452f40f8e91f3192168f4cf1193e801c.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/02/windowsxp-kb4089175-x86-embedded-enu_1caf7f6ec0b27d38070eb0385f1548776bc65e6d.exe
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/03/windowsxp-kb4093223-x86-embedded-enu_3f5c77a133aaed66cb1dc3ffc1e60f2c61e12b52.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windowsxp-kb4089453-v2-x86-embedded-enu_23b1aec8d9e41242c20799e66045dc75c089df61.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windowsxp-kb4101864-x86-embedded-enu_26071c559b2766e6b0af5434429d2dcddd9d96db.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/04/windowsxp-kb4134651-x86-embedded-enu_ba2c6637491967e459b9f24b9939618dbcdc8978.exe
@@ -152,11 +154,12 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windowsxp-kb4339291-x86-embedded-enu_093848f3c816e2814c7cda1baab07f00e0ac5917.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windowsxp-kb4339854-x86-embedded-enu_6bdb535d3fb5f646d9a3313a9fe805f9e7b54927.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/ndp40-kb4338598-x86_0c01ff2ae51080f9ba371861795bba423b957b1b.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/windowsxp-kb4343674-x86-embedded-enu_ca27aebe8d7a210ffbc67934c144627a9d6f5463.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/ndp40-kb4344159-x86_09a215c8c6c8cb73b78a806cc03ffa7b4bd9787b.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/ndp40-kb2836939-x86_cef77927432048cd36340da5d972e349d57764f6.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/windowsxp-kb2808679-x86-enu_3b48f4913204d1d3353a4831f1b3e2e7d74cf26e.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/08/ndp20sp2-kb2836941-v2-x86_9e8d176f3476dc920c9ac845647ec47fdbfc5d38.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windowsxp-kb3065979-x86-embedded-enu_fe0a4fbb1fcb7c6062ae3ff88dcbf388f1ec4b07.exe
-http://download.windowsupdate.com/d/msdownload/update/software/uprl/2018/05/windowsxp-kb4130978-x86-embedded-enu_62fd7dad516fbe3c9c55e4f38db7f24f00b1666c.exe
 http://download.windowsupdate.com/msdownload/update/software/crup/2008/07/windowsxp-kb952287-x86-enu_5bee5928c09f4ee44bc41cab109022cec820e5ff.exe
 http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp20sp2-kb958481-x86_04fcde4b28dd4f6db7548831d35d1c6bf38e1335.exe
 http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp30sp2-kb958483-x86_2b03b54c0972c16ab6ce75f42ac4877af87ce844.exe

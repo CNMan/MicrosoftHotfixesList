@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/30" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/08/14" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -200,22 +200,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows8.1-kb4054999-x64_f556f8b785508499cc63e684fe51a6764f8e3993.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4338424</kb>
-			<date>2018/06/12</date>
-			<size>24.31 MB</size>
+			<kb>KB4344153</kb>
+			<date>2018/07/26</date>
+			<size>24.43 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4338424-x64.msu</name>
+			<name>Windows8.1-KB4344153-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows8.1-kb4338424-x64_e3d28f90c6b9dd7e80217b6fb0869e7b6dfe6738.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4346745</kb>
-			<date>2018/07/25</date>
-			<size>9.29 MB</size>
-			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4346745-x64.msu</name>
-			<description>Update for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows8.1-kb4346745-x64_9af1174a8b65cc32413ce9663888ab6add0227a1.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows8.1-kb4344153-x64_be2840f79f50b30e571b229863d5993dfcda0e0d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -2189,31 +2180,31 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows8.1-kb4338419-x64_4d257a38e38b6b8e3d9e4763dba2ae7506b2754d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4338831</kb>
-			<date>2018/07/18</date>
-			<size>345.85 MB</size>
+			<kb>KB4343898</kb>
+			<date>2018/08/09</date>
+			<size>346.54 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4338831-x64.msu</name>
+			<name>Windows8.1-KB4343898-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows8.1-kb4338831-x64_c5f105fa1349fa534f19035aa8a0796985c6be58.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows8.1-kb4343898-x64_8f81f13e3e111d81e2f965e73ec7f0cc38c54dad.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4338832</kb>
-			<date>2018/06/29</date>
-			<size>20.85 MB</size>
+			<kb>KB4343902</kb>
+			<date>2018/08/03</date>
+			<size>20.87 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4338832-x64.msu</name>
+			<name>Windows8.1-KB4343902-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windows8.1-kb4338832-x64_d79d852a6d071a90851021d636c1f765e3c3c77f.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows8.1-kb4343902-x64_e4c37ac5a5971615b67c18d4702752060e55fe39.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4346406</kb>
-			<date>2018/07/26</date>
-			<size>24.45 MB</size>
+			<kb>KB4344145</kb>
+			<date>2018/07/27</date>
+			<size>49.86 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4346406-x64.msu</name>
-			<description>Update for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows8.1-kb4346406-x64_03d960444b42b5838683d4791c9f782b2c242593.msu</url>
+			<name>Windows8.1-KB4344145-x64.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows8.1-kb4344145-x64_a8ab9af74e4ff58bb942494ac0d442b9fa2138ca.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

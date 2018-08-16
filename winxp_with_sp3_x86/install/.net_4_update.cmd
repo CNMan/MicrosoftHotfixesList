@@ -29,4 +29,5 @@ start /wait ndp40-kb4040962-x86_976f8849c17de7a0cab333c0081e9858a6407a85.exe /q 
 start /wait ndp40-kb4054173-x86_a223c7d77b86086e3fd412e816edc47e31458f96.exe /q /norestart
 start /wait ndp40-kb4095528-x86_169b199b7738982df1df89dc8951cf087695165a.exe /q /norestart
 start /wait ndp40-kb4338598-x86_0c01ff2ae51080f9ba371861795bba423b957b1b.exe /q /norestart
+start /wait ndp40-kb4344159-x86_09a215c8c6c8cb73b78a806cc03ffa7b4bd9787b.exe /q /norestart
 shutdown -r

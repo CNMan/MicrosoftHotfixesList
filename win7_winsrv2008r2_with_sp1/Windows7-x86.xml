@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/07/30" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/08/14" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -146,22 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4338420</kb>
-			<date>2018/06/15</date>
-			<size>27.01 MB</size>
+			<kb>KB4344146</kb>
+			<date>2018/08/02</date>
+			<size>27.02 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4338420-x86.exe</name>
+			<name>NDP472-KB4344146-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/ndp46-kb4338420-x86_50f4ce73b0b99d2d50a16256d9e3ecd5dda0e398.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4346407</kb>
-			<date>2018/07/26</date>
-			<size>7.71 MB</size>
-			<category>Additional/NET472</category>
-			<name>NDP472-KB4346407-x86.exe</name>
-			<description>Update for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/ndp46-kb4346407-x86_0f65a94f088a27b6e8a406e5180f2d1c71550900.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/ndp46-kb4344146-x86_d6c46793517826c9e3bc8327bfbeab6fd64ccb0b.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -2963,15 +2954,6 @@
 			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix527870/7600/free/481187_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB3015999</kb>
-			<date>2014/11/07</date>
-			<size>637 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB3015999-x86.msu</name>
-			<description>Stop Error 0x27 occurs when you try to move a folder on a network share from one place to another</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix526393/7600/free/479839_intl_i386_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB3016350</kb>
 			<date>2014/11/26</date>
 			<size>711 KB</size>
@@ -4925,31 +4907,22 @@
 			<url>http://download.microsoft.com/download/7/E/D/7EDECDBB-54F0-412C-AF4C-27FC951BC15B/Windows6.1-KB3161949-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4338423</kb>
-			<date>2018/06/13</date>
-			<size>15.85 MB</size>
+			<kb>KB4343900</kb>
+			<date>2018/08/05</date>
+			<size>138.34 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4338423-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows6.1-kb4338423-x86_c9d5a67adfdccd5ca6ccd9ec55104c0b7130652d.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4338821</kb>
-			<date>2018/07/18</date>
-			<size>137.70 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4338821-x86.msu</name>
+			<name>Windows6.1-KB4343900-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows6.1-kb4338821-x86_dbb4a373fd04129aa50dfd4bb8ad3ea1b535151f.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows6.1-kb4343900-x86_282b69cd79c8daf7f521d4ad391a0417083a472d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4346744</kb>
-			<date>2018/07/26</date>
-			<size>4.63 MB</size>
+			<kb>KB4344152</kb>
+			<date>2018/07/31</date>
+			<size>15.93 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4346744-x86.msu</name>
-			<description>Update for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/07/windows6.1-kb4346744-x86_18aee9410994ab6671257df6f7c14c35ec5f6ebd.msu</url>
+			<name>Windows6.1-KB4344152-x86.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/windows6.1-kb4344152-x86_a519003f0be0689bce0bad796795c9794309e71f.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
