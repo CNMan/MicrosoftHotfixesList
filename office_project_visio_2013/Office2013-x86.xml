@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/08/14" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/04" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4018351</kb>
@@ -206,7 +206,7 @@
 			<category>Hotfix</category>
 			<name>ipdmctrl2013-kb2825670-fullfile-x86-glb.exe</name>
 			<description>Microsoft InfoPath 2013 (Ipdmctrl-x-none.msp)</description>
-			<url>https://hotfixv4.microsoft.com/Microsoft%20InfoPath%202013/sp1/ipdmctrl2013kb2825670fullfilex86glb/15.0.4605.1000/free/474503_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Microsoft%20InfoPath%202013/sp1/ipdmctrl2013kb2825670fullfilex86glb/15.0.4605.1000/free/474503_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162075</kb>
@@ -218,13 +218,13 @@
 			<url>http://download.microsoft.com/download/A/B/3/AB32BFC1-7128-491C-B25C-AC7A1446779E/ipeditor2013-kb3162075-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4032250</kb>
-			<date>2018/07/21</date>
-			<size>95.98 MB</size>
+			<kb>KB4092457</kb>
+			<date>2018/08/21</date>
+			<size>95.97 MB</size>
 			<category>General</category>
-			<name>lync2013-kb4032250-fullfile-x86-glb.exe</name>
+			<name>lync2013-kb4092457-fullfile-x86-glb.exe</name>
 			<description>Microsoft Skype for Business 2015</description>
-			<url>http://download.microsoft.com/download/F/1/1/F118E24C-A4AF-4AE4-88F3-2D207C54207E/lync2013-kb4032250-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/C/8/9C88BB1E-3476-4002-AA87-1F0A3B7BEE95/lync2013-kb4092457-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191937</kb>
@@ -263,13 +263,13 @@
 			<url>http://download.microsoft.com/download/6/9/5/6955ECA7-6A0C-428A-A298-6B6FE9291537/msmipc2013-kb3172523-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4032239</kb>
-			<date>2018/07/21</date>
+			<kb>KB4092469</kb>
+			<date>2018/08/21</date>
 			<size>153.48 MB</size>
-			<category>Security</category>
-			<name>mso2013-kb4032239-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>mso2013-kb4092469-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/5/F/A/5FA6DCBD-FF3B-4880-8948-0A802C7E850B/mso2013-kb4032239-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/4/B/0/4B01F20A-080A-4050-A759-11E6878A85F4/mso2013-kb4092469-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4018378</kb>
@@ -308,13 +308,13 @@
 			<url>http://download.microsoft.com/download/8/E/4/8E407374-D973-4D9A-94D1-8DF7FFCFD3BD/nlgmsfad2013-kb2883095-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018387</kb>
-			<date>2018/05/16</date>
-			<size>10.13 MB</size>
-			<category>Security</category>
-			<name>oart2013-kb4018387-fullfile-x86-glb.exe</name>
+			<kb>KB4022233</kb>
+			<date>2018/08/21</date>
+			<size>10.15 MB</size>
+			<category>General</category>
+			<name>oart2013-kb4022233-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Art)</description>
-			<url>http://download.microsoft.com/download/D/A/4/DA47BDD7-C360-483B-849D-75934A7C8D0B/oart2013-kb4018387-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/8/A/98ABD974-38E2-4B3A-95F8-2361B7ED79E2/oart2013-kb4022233-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039720</kb>
@@ -341,7 +341,7 @@
 			<category>Hotfix</category>
 			<name>oleo2013-kb2817344-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Open Document Format)</description>
-			<url>https://hotfixv4.microsoft.com/Microsoft%20Office%202013/sp1/oleo2013kb2817344fullfilex86glb/15.0.4605.1000/free/474495_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Office%202013/sp1/oleo2013kb2817344fullfilex86glb/15.0.4605.1000/free/474495_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011281</kb>
@@ -629,7 +629,7 @@
 			<category>Hotfix</category>
 			<name>xmleditverbhandler2013-kb2883063-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Office XML Handler)</description>
-			<url>https://hotfixv4.microsoft.com/Microsoft%20Office%202013/sp1/xmleditverbhandler2013kb2883063fullfilex/15.0.4649.1001/free/478281_intl_i386_zip.exe</url>
+			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Office%202013/sp1/xmleditverbhandler2013kb2883063fullfilex/15.0.4649.1001/free/478281_intl_i386_zip.exe</url>
 		</update>
 	</updates>
 </hotfixlist>
