@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/04" architecture="x86" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/11" architecture="x86" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB3114416</kb>
@@ -56,13 +56,13 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4032223</kb>
-			<date>2018/07/30</date>
+			<kb>KB4227175</kb>
+			<date>2018/08/28</date>
 			<size>36.16 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4032223-fullfile-x86-glb.exe</name>
+			<name>excel2010-kb4227175-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/F/E/B/FEB364DF-E5CA-4E7D-97B5-56E0F14A5B49/excel2010-kb4032223-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/F/C/3FCEE13E-A3A2-4674-B4A8-F09BF2F4C7CB/excel2010-kb4227175-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956084</kb>

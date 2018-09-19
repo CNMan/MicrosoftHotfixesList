@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/04" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/11" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4018351</kb>
@@ -92,13 +92,13 @@
 			<url>http://download.microsoft.com/download/A/5/8/A588276E-D83D-4B67-A60A-3CEA9F67B191/eqnedt322013-kb4011580-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4032241</kb>
-			<date>2018/07/21</date>
+			<kb>KB4092479</kb>
+			<date>2018/08/21</date>
 			<size>89.67 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb4032241-fullfile-x86-glb.exe</name>
+			<name>excel2013-kb4092479-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/E/4/4/E4407464-BD0E-40A1-82B5-E105603FB17C/excel2013-kb4032241-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/E/2/6/E2680B14-7979-4948-A5F7-2C33FDCFE479/excel2013-kb4092479-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -587,13 +587,13 @@
 			<url>http://download.microsoft.com/download/1/6/E/16E6EBD1-B8D4-4BC7-838A-E8B75C3A9401/wec2013-kb3172533-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022224</kb>
-			<date>2018/06/14</date>
+			<kb>KB4032246</kb>
+			<date>2018/08/21</date>
 			<size>162.76 MB</size>
 			<category>Security</category>
-			<name>word2013-kb4022224-fullfile-x86-glb.exe</name>
+			<name>word2013-kb4032246-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>http://download.microsoft.com/download/E/7/C/E7C37623-6325-4BFD-87AB-A7A89D3210F5/word2013-kb4022224-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/F/6/C/F6C12D53-66F0-4453-82AA-38E6CBF2E249/word2013-kb4032246-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>

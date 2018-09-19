@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/08/30" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/11" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -146,13 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4342316</kb>
-			<date>2018/08/04</date>
+			<kb>KB4457035</kb>
+			<date>2018/08/14</date>
 			<size>27.04 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4342316-x86.exe</name>
+			<name>NDP472-KB4457035-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/08/ndp46-kb4342316-x86_9ff503a14470803c8eb4552afe8396fb320040f0.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/ndp46-kb4457035-x86_5b34de6a92d4f3823847b3d96e860e378032e7a4.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -3719,15 +3719,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows6.1-kb3078601-x86_4f9dbab91f23d4f39f6594026a740c0ea8507a7b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3084135</kb>
-			<date>2015/08/05</date>
-			<size>591 KB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB3084135-x86.msu</name>
-			<description>Vulnerability in Task Scheduler Service could allow remote code execution: September 8, 2015</description>
-			<url>http://download.microsoft.com/download/0/7/3/0730C686-0A3D-43BA-9A94-7A46DD671F2D/Windows6.1-KB3084135-x86.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3086255</kb>
 			<date>2015/08/24</date>
 			<size>221 KB</size>
@@ -4880,15 +4871,6 @@
 			<url>http://download.microsoft.com/download/7/A/0/7A088E32-4059-44F6-8B96-B7B7AA8AB350/Windows6.1-KB3156016-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3156019</kb>
-			<date>2016/04/11</date>
-			<size>1.04 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB3156019-x86.msu</name>
-			<description>Security update for Windows Graphics Component (Windows Codecs Library): May 10, 2016</description>
-			<url>http://download.microsoft.com/download/3/D/8/3D88620F-8D7C-414B-9325-A6EFE0203D24/Windows6.1-KB3156019-x86.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3159398</kb>
 			<date>2016/05/13</date>
 			<size>1.16 MB</size>
@@ -4907,22 +4889,22 @@
 			<url>http://download.microsoft.com/download/7/E/D/7EDECDBB-54F0-412C-AF4C-27FC951BC15B/Windows6.1-KB3161949-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4343894</kb>
-			<date>2018/08/23</date>
-			<size>138.37 MB</size>
+			<kb>KB4457044</kb>
+			<date>2018/08/10</date>
+			<size>15.92 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4343894-x86.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/08/windows6.1-kb4343894-x86_8b1d03003b8da50ad006cb6adb564c9d47a53dac.msu</url>
+			<name>Windows6.1-KB4457044-x86.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows6.1-kb4457044-x86_b91e0b7616ea8d6e1a2f7a893a8d6badd8436f77.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4342309</kb>
-			<date>2018/07/27</date>
-			<size>15.93 MB</size>
+			<kb>KB4457144</kb>
+			<date>2018/09/09</date>
+			<size>139.46 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4342309-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/08/windows6.1-kb4342309-x86_1495fd0e88aa24f8917d623db82923fccd538d4b.msu</url>
+			<name>Windows6.1-KB4457144-x86.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows6.1-kb4457144-x86_d2d9bc4f25b27fe28b11b2cd18df9b7835f22df3.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
