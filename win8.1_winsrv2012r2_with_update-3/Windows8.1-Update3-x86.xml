@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/08/14" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/08/30" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -189,6 +189,15 @@
 			<name>Windows8.1-KB4054999-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4054999-x86_ab1d1a2831cdd588de1551786c1372025e2997e8.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4342310</kb>
+			<date>2018/07/27</date>
+			<size>16.56 MB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB4342310-x86.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/08/windows8.1-kb4342310-x86_9f0a2c94c8a76624b8b544005b66642cf08f731f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4344153</kb>
@@ -2063,22 +2072,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x86_a6af9c16d559e00e42ed45cdf1d7a72235edf5f2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4338419</kb>
-			<date>2018/07/13</date>
-			<size>29.07 MB</size>
+			<kb>KB4342315</kb>
+			<date>2018/07/30</date>
+			<size>29.53 MB</size>
 			<category>Security</category>
-			<name>windows8.1-kb4338419-x86_65daa8e1ee3543ad29351062ab54cf6f6a665913.msu</name>
+			<name>Windows8.1-KB4342315-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/windows8.1-kb4338419-x86_65daa8e1ee3543ad29351062ab54cf6f6a665913.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/08/windows8.1-kb4342315-x86_4aaac775e1c720e4e7497f303759eff8791a0082.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4343898</kb>
-			<date>2018/08/09</date>
-			<size>194.31 MB</size>
+			<kb>KB4343891</kb>
+			<date>2018/08/23</date>
+			<size>198.20 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4343898-x86.msu</name>
+			<name>Windows8.1-KB4343891-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows8.1-kb4343898-x86_7dbb33e8145f40477d75980c015ef8bc6483239c.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/08/windows8.1-kb4343891-x86_91b926607292fc1f0cec44bf4e07845018158a57.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4343902</kb>

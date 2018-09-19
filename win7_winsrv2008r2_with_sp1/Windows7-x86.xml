@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/08/14" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/08/30" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -146,13 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4344146</kb>
-			<date>2018/08/02</date>
-			<size>27.02 MB</size>
+			<kb>KB4342316</kb>
+			<date>2018/08/04</date>
+			<size>27.04 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4344146-x86.exe</name>
+			<name>NDP472-KB4342316-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/ndp46-kb4344146-x86_d6c46793517826c9e3bc8327bfbeab6fd64ccb0b.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/08/ndp46-kb4342316-x86_9ff503a14470803c8eb4552afe8396fb320040f0.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -4907,22 +4907,22 @@
 			<url>http://download.microsoft.com/download/7/E/D/7EDECDBB-54F0-412C-AF4C-27FC951BC15B/Windows6.1-KB3161949-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4343900</kb>
-			<date>2018/08/05</date>
-			<size>138.34 MB</size>
+			<kb>KB4343894</kb>
+			<date>2018/08/23</date>
+			<size>138.37 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4343900-x86.msu</name>
+			<name>Windows6.1-KB4343894-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/08/windows6.1-kb4343900-x86_282b69cd79c8daf7f521d4ad391a0417083a472d.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/08/windows6.1-kb4343894-x86_8b1d03003b8da50ad006cb6adb564c9d47a53dac.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4344152</kb>
-			<date>2018/07/31</date>
+			<kb>KB4342309</kb>
+			<date>2018/07/27</date>
 			<size>15.93 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4344152-x86.msu</name>
+			<name>Windows6.1-KB4342309-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/windows6.1-kb4344152-x86_a519003f0be0689bce0bad796795c9794309e71f.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/08/windows6.1-kb4342309-x86_1495fd0e88aa24f8917d623db82923fccd538d4b.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
