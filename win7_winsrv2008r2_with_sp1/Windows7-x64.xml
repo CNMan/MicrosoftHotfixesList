@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/20" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/09" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -102,12 +102,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB3177467</kb>
-			<date>2016/07/27</date>
+			<date>2018/09/15</date>
 			<size>9.09 MB</size>
 			<category>Additional/_NotAllowedOffline</category>
-			<name>Windows6.1-KB3177467-x64.msu</name>
+			<name>Windows6.1-KB3177467-v2-x64.msu</name>
 			<description>Servicing stack update: September 20, 2016</description>
-			<url>http://download.microsoft.com/download/2/4/7/247BDD8A-6AAE-4466-B137-3B2918D0CEAB/Windows6.1-KB3177467-x64.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/09/windows6.1-kb3177467-v2-x64_b9df2405e7e034e3ffda160fff99a36ab96ba187.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4099950</kb>
@@ -4943,13 +4943,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/windows6.1-kb4457008-x64_02a6446f26bcdc813e4a15ed97327398ce42beb6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457139</kb>
-			<date>2018/09/14</date>
-			<size>237.49 MB</size>
+			<kb>KB4462923</kb>
+			<date>2018/09/27</date>
+			<size>238.02 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4457139-x64.msu</name>
+			<name>Windows6.1-KB4462923-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/windows6.1-kb4457139-x64_8f4648b8759db4d12ba83479f686ed8e27bf9345.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows6.1-kb4462923-x64_5c4506692214692bf846da33052edb1dc5752156.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

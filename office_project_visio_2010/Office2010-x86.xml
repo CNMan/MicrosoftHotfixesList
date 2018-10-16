@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/11" architecture="x86" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/09" architecture="x86" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB3114416</kb>
@@ -56,13 +56,13 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4227175</kb>
-			<date>2018/08/28</date>
+			<kb>KB4461466</kb>
+			<date>2018/09/13</date>
 			<size>36.16 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4227175-fullfile-x86-glb.exe</name>
+			<name>excel2010-kb4461466-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/3/F/C/3FCEE13E-A3A2-4674-B4A8-F09BF2F4C7CB/excel2010-kb4227175-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/0/4/50451A3D-B994-41F7-AEA5-8FDA5D38DC57/excel2010-kb4461466-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956084</kb>
@@ -236,13 +236,13 @@
 			<url>http://download.microsoft.com/download/C/D/8/CD8A3590-D8E1-4A7F-AF97-D66DCFC6AEB4/mshelp2010-kb2850016-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022198</kb>
-			<date>2018/07/30</date>
-			<size>9.44 MB</size>
+			<kb>KB4092483</kb>
+			<date>2018/09/13</date>
+			<size>9.42 MB</size>
 			<category>Security</category>
-			<name>mso2010-kb4022198-fullfile-x86-glb.exe</name>
+			<name>mso2010-kb4092483-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/2/A/D/2AD6E25F-799C-4FC0-A634-D3177150BB12/mso2010-kb4022198-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/F/F/5FF4952E-AACE-4CBB-8707-B325BB2A9F54/mso2010-kb4092483-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589375</kb>
@@ -443,13 +443,13 @@
 			<url>http://download.microsoft.com/download/C/3/E/C3E65E20-CAF4-48C5-9176-BF012C1D0F39/outlfltr2010-kb3115475-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4032222</kb>
-			<date>2018/07/30</date>
-			<size>84.42 MB</size>
+			<kb>KB4227170</kb>
+			<date>2018/09/13</date>
+			<size>84.39 MB</size>
 			<category>Security</category>
-			<name>outlookloc2010-kb4032222-fullfile-x86-glb.exe</name>
+			<name>outlookloc2010-kb4227170-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2010</description>
-			<url>http://download.microsoft.com/download/0/1/B/01B247F2-CF42-4DB5-94F1-761DFA2E5EFC/outlookloc2010-kb4032222-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/4/3/543C4BC8-B602-4076-B62C-5E120B823479/outlookloc2010-kb4227170-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2553170</kb>
@@ -470,13 +470,13 @@
 			<url>http://download.microsoft.com/download/7/6/0/760CF00D-39E7-4D7A-BABF-68A90AFA4BFF/pjloc2010-kb3054882-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018310</kb>
-			<date>2018/07/30</date>
-			<size>17.48 MB</size>
+			<kb>KB4092482</kb>
+			<date>2018/09/13</date>
+			<size>17.49 MB</size>
 			<category>Security</category>
-			<name>powerpoint2010-kb4018310-fullfile-x86-glb.exe</name>
+			<name>powerpoint2010-kb4092482-fullfile-x86-glb.exe</name>
 			<description>Microsoft PowerPoint 2010</description>
-			<url>http://download.microsoft.com/download/C/9/0/C9035EE6-C81E-4297-81C4-C8C309F536B9/powerpoint2010-kb4018310-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/E/E/2/EE2F2335-5994-4823-80A1-C55F532F3ECA/powerpoint2010-kb4092482-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022136</kb>
@@ -596,13 +596,13 @@
 			<url>http://download.microsoft.com/download/8/A/5/8A5E84C3-EDE4-4611-9A10-58EDE8714F34/wec2010-kb2553388-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022202</kb>
-			<date>2018/06/26</date>
-			<size>26.96 MB</size>
+			<kb>KB4092439</kb>
+			<date>2018/09/13</date>
+			<size>26.95 MB</size>
 			<category>Security</category>
-			<name>word2010-kb4022202-fullfile-x86-glb.exe</name>
+			<name>word2010-kb4092439-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2010</description>
-			<url>http://download.microsoft.com/download/E/B/E/EBE65E8B-8AF3-4C1C-994F-AFA03A47CCB8/word2010-kb4022202-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/6/5/365BCF8D-45B4-4A09-BD58-28120984FF52/word2010-kb4092439-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2965313</kb>

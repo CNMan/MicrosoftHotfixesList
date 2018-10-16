@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/20" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/09" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -93,12 +93,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB3177467</kb>
-			<date>2016/07/27</date>
+			<date>2018/09/15</date>
 			<size>4.01 MB</size>
 			<category>Additional/_NotAllowedOffline</category>
-			<name>Windows6.1-KB3177467-x86.msu</name>
+			<name>Windows6.1-KB3177467-v2-x86.msu</name>
 			<description>Servicing stack update: September 20, 2016</description>
-			<url>http://download.microsoft.com/download/D/7/A/D7A954C7-DC1F-4339-99BC-CEFDC09A8661/Windows6.1-KB3177467-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/09/windows6.1-kb3177467-v2-x86_abd69a188878d93212486213990c8caab4d6ae57.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4099950</kb>
@@ -4889,13 +4889,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/windows6.1-kb4457008-x86_2b0d9a4dd63b14eb26f67931fac855b75ef7dd4a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457139</kb>
-			<date>2018/09/14</date>
-			<size>145.48 MB</size>
+			<kb>KB4462923</kb>
+			<date>2018/09/27</date>
+			<size>145.47 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4457139-x86.msu</name>
+			<name>Windows6.1-KB4462923-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/windows6.1-kb4457139-x86_96971fbcd82a2c4ea9aab612f1c424fdc330b3ba.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/09/windows6.1-kb4462923-x86_6b5cbfdad6ad48284e5f5ff896edb030f5392949.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
