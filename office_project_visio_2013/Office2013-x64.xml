@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/11" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/02" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4018351</kb>
@@ -218,13 +218,13 @@
 			<url>http://download.microsoft.com/download/A/2/2/A22043F3-F59F-4712-9ADB-79E5FB077267/ipeditor2013-kb3162075-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4092457</kb>
-			<date>2018/08/21</date>
-			<size>105.23 MB</size>
+			<kb>KB4461446</kb>
+			<date>2018/09/17</date>
+			<size>105.20 MB</size>
 			<category>General</category>
-			<name>lync2013-kb4092457-fullfile-x64-glb.exe</name>
+			<name>lync2013-kb4461446-fullfile-x64-glb.exe</name>
 			<description>Microsoft Skype for Business 2015</description>
-			<url>http://download.microsoft.com/download/5/E/3/5E3CAB49-DDAF-41FB-AFCA-4AAECE770BE6/lync2013-kb4092457-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/F/E/7/FE78A0D1-91D1-4829-93E0-66EF96DC5A98/lync2013-kb4461446-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191937</kb>
@@ -461,13 +461,13 @@
 			<url>http://download.microsoft.com/download/A/6/3/A632D7DA-90EF-4A4E-9F9B-1E24086E84BB/ppaddin2013-kb3213536-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022171</kb>
-			<date>2018/05/16</date>
-			<size>32.89 MB</size>
+			<kb>KB4022227</kb>
+			<date>2018/09/17</date>
+			<size>32.84 MB</size>
 			<category>General</category>
-			<name>project2013-kb4022171-fullfile-x64-glb.exe</name>
+			<name>project2013-kb4022227-fullfile-x64-glb.exe</name>
 			<description>Microsoft Project 2013</description>
-			<url>http://download.microsoft.com/download/8/2/7/82756BF4-87D9-40FE-9FEF-1F0A11EC04AA/project2013-kb4022171-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/B/E/2/BE2A5FA1-A00E-47C7-B0D4-36AF4F62BA1F/project2013-kb4022227-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172510</kb>
@@ -533,13 +533,13 @@
 			<url>http://download.microsoft.com/download/B/E/6/BE62383E-3D78-4BE2-9866-C0849293182D/vbe72013-kb3172443-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011230</kb>
-			<date>2018/02/20</date>
-			<size>183.71 MB</size>
+			<kb>KB4018331</kb>
+			<date>2018/09/17</date>
+			<size>183.74 MB</size>
 			<category>General</category>
-			<name>visio2013-kb4011230-fullfile-x64-glb.exe</name>
+			<name>visio2013-kb4018331-fullfile-x64-glb.exe</name>
 			<description>Microsoft Visio 2013</description>
-			<url>http://download.microsoft.com/download/F/1/B/F1B74105-9435-4D83-8DA2-689591616A41/visio2013-kb4011230-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/E/3/1E332E05-76B8-4A4E-99D8-2FE881007B5A/visio2013-kb4018331-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2817301</kb>
