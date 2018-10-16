@@ -28,11 +28,11 @@ https://download.visualstudio.microsoft.com/download/pr/10912041/cee5d6bca2ddbcd
 
 https://download.visualstudio.microsoft.com/download/pr/10912113/5da66ddebb0ad32ebd4b922fd82e8e25/vcredist_x86.exe
 
-Visual Studio 2015/2017 (VC++ 14.0) 14.15.26626.0
+Visual Studio 2015/2017 (VC++ 14.0) 14.15.26706.0
 
-https://download.visualstudio.microsoft.com/download/pr/40540ada-0c94-4fd5-96a0-5f7186628b96/cd4090733c623b9dc71fc2361115c200/vc_redist.x64.exe
+https://download.visualstudio.microsoft.com/download/pr/21ac5efc-11b4-43ff-8c53-5e204b1abdc5/16acba795c9a429c6dd4c26570f40cab/vc_redist.x64.exe
 
-https://download.visualstudio.microsoft.com/download/pr/30fb3093-fd68-4fd2-a89e-5bf9d82d4afe/b64fcef8b6025637adaa30fbc3bf25b7/vc_redist.x86.exe
+https://download.visualstudio.microsoft.com/download/pr/a091cf7f-0c4a-4880-adc7-925046c2d227/fc4906e2d327380e4a320d677795ca8c/vc_redist.x86.exe
 
 Visual F# 2.0 (10.0.40219)
 
@@ -62,9 +62,23 @@ https://download.microsoft.com/download/f/1/7/f175de5b-e7af-4231-9a65-417611bbed
 
 https://download.microsoft.com/download/9/2/3/92338cd0-759f-4815-8981-24b437be74ef/vjredist.exe
 
-Visual Studio 2010 Tools for Office Runtime (10.0.60825)
+[Visual Studio 2010 Tools for Office Runtime (10.0.60724)](https://www.microsoft.com/en-us/download/details.aspx?id=48217)
 
-https://download.microsoft.com/download/F/B/A/FBAB6866-71F8-4A3F-89A4-5BC6AB035C62/vstor_redist.exe
+Windows XP (x86) with Service Pack 3 or Windows Server 2003 (x86 and x64) with Service Pack 2 +
+
+https://download.microsoft.com/download/7/A/F/7AFA5695-2B52-44AA-9A2D-FC431C231EDC/vstor_redist.exe
+
+[Visual Studio 2010 Tools for Office Runtime (10.0.60833)](https://www.microsoft.com/en-US/download/details.aspx?id=56961)
+
+Windows 7 Service Pack 1 (x86 and x64) or Windows Server 2012 (x64) +
+
+https://download.microsoft.com/download/C/A/8/CA86DFA0-81F3-4568-875A-7E7A598D4C1C/vstor_redist.exe
+
+[Microsoft Visual Studio 2010 Tools for Office Language Pack (Version 4.0 Runtime)](https://www.microsoft.com/en-US/download/details.aspx?id=54246)
+
+https://download.microsoft.com/download/A/E/F/AEFD258F-73F4-4A25-BA50-1AF36261B12D/vstor40_LP_x64_chs.exe
+
+https://download.microsoft.com/download/A/E/F/AEFD258F-73F4-4A25-BA50-1AF36261B12D/vstor40_LP_x86_chs.exe
 
 Visual Studio Tools for Applications 2015
 
@@ -85,3 +99,9 @@ https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D90
 Word、Excel 和 PowerPoint 文件格式适用的 Microsoft Office 兼容包
 
 https://download.microsoft.com/download/6/5/6/6568c67b-822d-4c51-bf3f-c6cabb99ec02/FileFormatConverters.exe
+
+
+除了以上官方地址外，也可以安装MDL大神abbodi1406打包的版本
+
+[[Repack] Visual C++ Redistributable Runtimes [2018-07-26]](https://forums.mydigitallife.net/threads/repack-visual-c-redistributable-runtimes-2018-07-26.76588/)
+

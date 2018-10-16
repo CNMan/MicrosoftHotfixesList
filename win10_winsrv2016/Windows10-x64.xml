@@ -161,6 +161,7 @@
 			<category>General/17763</category>
 			<name>Windows10.0-KB4464330-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/10/windows10.0-kb4464330-x64_e459c6bc38265737fe126d589993c325125dd35a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4465477</kb>
