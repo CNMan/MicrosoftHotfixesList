@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/11" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/20" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -189,6 +189,15 @@
 			<name>Windows8.1-KB4054999-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4054999-x86_ab1d1a2831cdd588de1551786c1372025e2997e8.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4457009</kb>
+			<date>2018/08/15</date>
+			<size>16.57 MB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB4457009-x86.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/09/windows8.1-kb4457009-x86_4c7a30a54d2f18d4338d00eba6d829d8a84c954d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4457045</kb>
@@ -1223,7 +1232,7 @@
 			<category>Hotfix</category>
 			<name>windows6.2-hypervintegrationservices-x86.cab</name>
 			<description>June 2017 Hyper-V guest integration components</description>
-			<url>http://abbodi1406.square7.ch/WU/windows6.2-hypervintegrationservices-x86.cab</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/windows6.2-hypervintegrationservices-x86.cab</url>
 		</update>
 		<update extract="1">
 			<kb>KB2908802</kb>
@@ -1485,15 +1494,6 @@
 			<name>Windows8.1-KB3047154-v2-x86.msu</name>
 			<description>Promiscuous mode in Microsoft_Windows_NDIS_PacketCapture provider is not supported</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/06/windows8.1-kb3047154-v2-x86_06bb76dd62c19b452a11f90827ce0376265e0c6c.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3049443</kb>
-			<date>2015/05/02</date>
-			<size>422 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3049443-x86.msu</name>
-			<description>Live migration of virtual machine to another host fails</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/06/windows8.1-kb3049443-x86_46ed4bf94e6262037700b3f34bd91236ea2e3343.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3051658</kb>
@@ -2063,6 +2063,15 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x86_a6af9c16d559e00e42ed45cdf1d7a72235edf5f2.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4457015</kb>
+			<date>2018/08/14</date>
+			<size>29.54 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4457015-x86.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/09/windows8.1-kb4457015-x86_78ace952d07a579248aec5f022b2ce646508b483.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4457034</kb>
 			<date>2018/08/14</date>
 			<size>29.53 MB</size>
@@ -2072,13 +2081,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows8.1-kb4457034-x86_0d1c5d13bf23180083009dfbd82502b6767833e6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457129</kb>
-			<date>2018/09/09</date>
-			<size>198.03 MB</size>
+			<kb>KB4457133</kb>
+			<date>2018/09/13</date>
+			<size>202.76 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4457129-x86.msu</name>
+			<name>Windows8.1-KB4457133-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows8.1-kb4457129-x86_692d096543a8c09f31009177b8ea29637534b32e.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/windows8.1-kb4457133-x86_4486fe1b813ee5dbec5ca9cc76b15ed0724c048d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4457146</kb>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/11" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/20" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -155,13 +155,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x64_25f386d2fb25b200ed7ddba055d008995403f4e6.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457035</kb>
-			<date>2018/08/14</date>
-			<size>40.93 MB</size>
+			<kb>KB4457016</kb>
+			<date>2018/08/15</date>
+			<size>40.90 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4457035-x64.exe</name>
+			<name>NDP472-KB4457016-x64.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/ndp46-kb4457035-x64_4291fe54102413fc8b00eb772951fcf412aec637.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/ndp46-kb4457016-x64_9e500e03c0e83a714082d65268d3b9839eb0234f.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -1052,7 +1052,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2465285-x64.msu</name>
 			<description>IP packets that have a frame size larger than 1,514 bytes are dropped in a bridged VLAN in Windows 7 or in Windows Server 2008 R2</description>
-			<url>http://abbodi1406.square7.ch/WU/Windows6.1-KB2465285-x64.msu</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/Windows6.1-KB2465285-x64.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2466048</kb>
@@ -1367,7 +1367,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2584475-x64.msu</name>
 			<description>"Error IOCTL_SFFDISK_DEVICE_PASSWORD" error message when you try to apply password protection to an SD card in Windows 7 or in Windows Server 2008 R2</description>
-			<url>http://abbodi1406.square7.ch/WU/Windows6.1-KB2584475-x64.msu</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/Windows6.1-KB2584475-x64.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2584577</kb>
@@ -2105,7 +2105,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2780124-x64.msu</name>
 			<description>Components: Remote Applications Client</description>
-			<url>http://abbodi1406.square7.ch/WU/Windows6.1-KB2780124-x64.msu</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/Windows6.1-KB2780124-x64.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2780130</kb>
@@ -3059,7 +3059,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3040017-x64.msu</name>
 			<description>XPS driver is slower than GDI driver to print files in Windows</description>
-			<url>http://abbodi1406.square7.ch/WU/Windows6.1-KB3040017-x64.msu</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/Windows6.1-KB3040017-x64.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB3045882</kb>
@@ -4859,7 +4859,7 @@
 			<category>Hotfix</category>
 			<name>windows6.x-hypervintegrationservices-x64.cab</name>
 			<description>June 2017 Hyper-V guest integration components</description>
-			<url>http://abbodi1406.square7.ch/WU/windows6.x-hypervintegrationservices-x64.cab</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/windows6.x-hypervintegrationservices-x64.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080149</kb>
@@ -4934,22 +4934,22 @@
 			<url>http://download.microsoft.com/download/A/F/C/AFCCFFB9-9352-4DE7-BBF6-24C4AC520327/Windows6.1-KB3161949-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457044</kb>
-			<date>2018/08/10</date>
-			<size>23.03 MB</size>
+			<kb>KB4457008</kb>
+			<date>2018/08/20</date>
+			<size>23.04 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4457044-x64.msu</name>
+			<name>Windows6.1-KB4457008-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows6.1-kb4457044-x64_83ce67142af8ed4af2aabba31bc48c32c82d6e41.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/windows6.1-kb4457008-x64_02a6446f26bcdc813e4a15ed97327398ce42beb6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457144</kb>
-			<date>2018/09/09</date>
-			<size>230.03 MB</size>
+			<kb>KB4457139</kb>
+			<date>2018/09/14</date>
+			<size>237.49 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4457144-x64.msu</name>
+			<name>Windows6.1-KB4457139-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows6.1-kb4457144-x64_5ca467d42deadc2b2f4010c4a26b4a6903790dd5.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/windows6.1-kb4457139-x64_8f4648b8759db4d12ba83479f686ed8e27bf9345.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

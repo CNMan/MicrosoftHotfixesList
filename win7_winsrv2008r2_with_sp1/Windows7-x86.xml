@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/11" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/09/20" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -146,13 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457035</kb>
-			<date>2018/08/14</date>
-			<size>27.04 MB</size>
+			<kb>KB4457016</kb>
+			<date>2018/08/15</date>
+			<size>27.00 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4457035-x86.exe</name>
+			<name>NDP472-KB4457016-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/ndp46-kb4457035-x86_5b34de6a92d4f3823847b3d96e860e378032e7a4.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/ndp46-kb4457016-x86_adf7f845032f44e5c9d5a16971d90aac2445c8ab.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -1007,7 +1007,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2465285-x86.msu</name>
 			<description>IP packets that have a frame size larger than 1,514 bytes are dropped in a bridged VLAN in Windows 7 or in Windows Server 2008 R2</description>
-			<url>http://abbodi1406.square7.ch/WU/Windows6.1-KB2465285-x86.msu</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/Windows6.1-KB2465285-x86.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2466048</kb>
@@ -1322,7 +1322,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2584475-x86.msu</name>
 			<description>"Error IOCTL_SFFDISK_DEVICE_PASSWORD" error message when you try to apply password protection to an SD card in Windows 7 or in Windows Server 2008 R2</description>
-			<url>http://abbodi1406.square7.ch/WU/Windows6.1-KB2584475-x86.msu</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/Windows6.1-KB2584475-x86.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2584577</kb>
@@ -2069,7 +2069,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2780124-x86.msu</name>
 			<description>Components: Remote Applications Client</description>
-			<url>http://abbodi1406.square7.ch/WU/Windows6.1-KB2780124-x86.msu</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/Windows6.1-KB2780124-x86.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2780130</kb>
@@ -3023,7 +3023,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB3040017-x86.msu</name>
 			<description>XPS driver is slower than GDI driver to print files in Windows</description>
-			<url>http://abbodi1406.square7.ch/WU/Windows6.1-KB3040017-x86.msu</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/Windows6.1-KB3040017-x86.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB3045882</kb>
@@ -3537,15 +3537,6 @@
 			<name>Windows6.1-KB3000483-x86.msu</name>
 			<description>Vulnerability in Group Policy could allow remote code execution: February 10, 2015</description>
 			<url>http://download.microsoft.com/download/2/6/A/26A9691F-3D2D-400A-A59A-EBF7123FE5D8/Windows6.1-KB3000483-x86.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3003743</kb>
-			<date>2014/10/15</date>
-			<size>3.44 MB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB3003743-x86.msu</name>
-			<description>Vulnerability in Remote Desktop Protocol could allow security feature bypass: November 11, 2014</description>
-			<url>http://download.microsoft.com/download/1/D/A/1DADEC8A-9C8B-4712-856B-6F5B87C4717F/Windows6.1-KB3003743-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3004375</kb>
@@ -4814,7 +4805,7 @@
 			<category>Hotfix</category>
 			<name>windows6.x-hypervintegrationservices-x86.cab</name>
 			<description>June 2017 Hyper-V guest integration components</description>
-			<url>http://abbodi1406.square7.ch/WU/windows6.x-hypervintegrationservices-x86.cab</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/windows6.x-hypervintegrationservices-x86.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080149</kb>
@@ -4889,22 +4880,22 @@
 			<url>http://download.microsoft.com/download/7/E/D/7EDECDBB-54F0-412C-AF4C-27FC951BC15B/Windows6.1-KB3161949-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457044</kb>
-			<date>2018/08/10</date>
-			<size>15.92 MB</size>
+			<kb>KB4457008</kb>
+			<date>2018/08/20</date>
+			<size>15.93 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4457044-x86.msu</name>
+			<name>Windows6.1-KB4457008-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows6.1-kb4457044-x86_b91e0b7616ea8d6e1a2f7a893a8d6badd8436f77.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/windows6.1-kb4457008-x86_2b0d9a4dd63b14eb26f67931fac855b75ef7dd4a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457144</kb>
-			<date>2018/09/09</date>
-			<size>139.46 MB</size>
+			<kb>KB4457139</kb>
+			<date>2018/09/14</date>
+			<size>145.48 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4457144-x86.msu</name>
+			<name>Windows6.1-KB4457139-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows6.1-kb4457144-x86_d2d9bc4f25b27fe28b11b2cd18df9b7835f22df3.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/windows6.1-kb4457139-x86_96971fbcd82a2c4ea9aab612f1c424fdc330b3ba.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
