@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/09" architecture="x86" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/11/06" architecture="x86" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB3114416</kb>
@@ -236,13 +236,13 @@
 			<url>http://download.microsoft.com/download/C/D/8/CD8A3590-D8E1-4A7F-AF97-D66DCFC6AEB4/mshelp2010-kb2850016-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4092483</kb>
-			<date>2018/09/13</date>
-			<size>9.42 MB</size>
-			<category>Security</category>
-			<name>mso2010-kb4092483-fullfile-x86-glb.exe</name>
+			<kb>KB4461522</kb>
+			<date>2018/10/21</date>
+			<size>9.22 MB</size>
+			<category>General</category>
+			<name>mso2010-kb4461522-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/5/F/F/5FF4952E-AACE-4CBB-8707-B325BB2A9F54/mso2010-kb4092483-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/8/8/188D8576-00ED-43EC-927E-02F559370315/mso2010-kb4461522-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589375</kb>
@@ -362,13 +362,13 @@
 			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Office%202010/sp2/olcoscoutlook2010kb2726880fullfilex86glb/14.0.7137.5000/free/479949_intl_i386_zip.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB2589352</kb>
-			<date>2013/09/07</date>
-			<size>2.76 MB</size>
+			<kb>KB2863821</kb>
+			<date>2018/10/21</date>
+			<size>2.75 MB</size>
 			<category>General</category>
-			<name>oleo2010-kb2589352-fullfile-x86-glb.exe</name>
+			<name>oleo2010-kb2863821-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Open Document Format)</description>
-			<url>http://download.microsoft.com/download/D/C/0/DC0E808B-7AB3-4FBB-AE0E-974EC86FC904/oleo2010-kb2589352-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/7/B/A/7BA6C8F6-5744-412B-8421-5916C58C2432/oleo2010-kb2863821-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114885</kb>

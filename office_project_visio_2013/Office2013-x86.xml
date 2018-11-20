@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/09" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/11/06" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4018351</kb>
@@ -263,13 +263,13 @@
 			<url>http://download.microsoft.com/download/6/9/5/6955ECA7-6A0C-428A-A298-6B6FE9291537/msmipc2013-kb3172523-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461445</kb>
-			<date>2018/09/22</date>
-			<size>153.49 MB</size>
-			<category>Security</category>
-			<name>mso2013-kb4461445-fullfile-x86-glb.exe</name>
+			<kb>KB4461482</kb>
+			<date>2018/11/02</date>
+			<size>154.47 MB</size>
+			<category>General</category>
+			<name>mso2013-kb4461482-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/A/7/C/A7C9F591-4F90-4E20-BB30-470C91385835/mso2013-kb4461445-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/2/E/82EB0B8B-8BFC-484C-B83E-B83F499C6520/mso2013-kb4461482-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4018378</kb>
@@ -334,14 +334,14 @@
 			<description>Microsoft Office 2013 (Optical Character Recognition)</description>
 			<url>http://download.microsoft.com/download/2/C/9/2C9DE5A4-164C-4103-A642-E72FB5DAE234/ocr2013-kb2760344-fullfile-x86-glb.exe</url>
 		</update>
-		<update extract="1">
-			<kb>KB2817344</kb>
-			<date>2014/03/15</date>
-			<size>3.19 MB</size>
-			<category>Hotfix</category>
-			<name>oleo2013-kb2817344-fullfile-x86-glb.exe</name>
+		<update extract="0">
+			<kb>KB3178640</kb>
+			<date>2018/11/02</date>
+			<size>3.20 MB</size>
+			<category>General</category>
+			<name>oleo2013-kb3178640-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Open Document Format)</description>
-			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Office%202013/sp1/oleo2013kb2817344fullfilex86glb/15.0.4605.1000/free/474495_intl_i386_zip.exe</url>
+			<url>http://download.microsoft.com/download/0/4/A/04A4760A-A74D-4A8D-BDA9-0D118F027D50/oleo2013-kb3178640-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011281</kb>

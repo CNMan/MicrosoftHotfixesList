@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/09" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/11/06" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB4018338</kb>
@@ -200,13 +200,13 @@
 			<url>http://download.microsoft.com/download/1/7/7/17728583-D4F3-4EF4-99D3-7B4BA5BF2395/msmipc2016-kb3178666-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461437</kb>
-			<date>2018/09/12</date>
+			<kb>KB4461505</kb>
+			<date>2018/10/17</date>
 			<size>128.04 MB</size>
-			<category>Security</category>
-			<name>mso2016-kb4461437-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>mso2016-kb4461505-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/7/D/3/7D3F92BE-D6CA-46AB-9515-ED93F2722ECE/mso2016-kb4461437-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/F/B/8FB49C0E-93DA-4BB9-BC97-9E356C72F063/mso2016-kb4461505-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011670</kb>
@@ -218,13 +218,13 @@
 			<url>http://download.microsoft.com/download/0/8/3/083FB1D1-8E64-40C6-86CD-8250D19B7352/msodll202016-kb4011670-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018371</kb>
-			<date>2018/08/15</date>
+			<kb>KB4461438</kb>
+			<date>2018/10/17</date>
 			<size>4.49 MB</size>
 			<category>General</category>
-			<name>msodll302016-kb4018371-fullfile-x86-glb.exe</name>
+			<name>msodll302016-kb4461438-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll30-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/6/B/E/6BE67BB2-5842-4723-BED6-D0691EC15FD8/msodll302016-kb4018371-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/E/A/9/EA95D673-D8FF-414A-B3F0-331F60D1EE3F/msodll302016-kb4461438-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461442</kb>
@@ -236,13 +236,13 @@
 			<url>http://download.microsoft.com/download/8/F/2/8F20D5AB-A186-4DCA-8809-DD3A4911E5C3/msodll40ui2016-kb4461442-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461436</kb>
-			<date>2018/09/19</date>
+			<kb>KB4461474</kb>
+			<date>2018/10/17</date>
 			<size>9.94 MB</size>
 			<category>General</category>
-			<name>msodll99l2016-kb4461436-fullfile-x86-glb.exe</name>
+			<name>msodll99l2016-kb4461474-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll99l-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/5/9/8/598277FF-058A-4766-9BE8-9E0D5C3234FD/msodll99l2016-kb4461436-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/D/3/A/D3A0EC39-C621-4C33-A602-BB29719E779A/msodll99l2016-kb4461474-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022133</kb>
@@ -380,13 +380,13 @@
 			<url>http://download.microsoft.com/download/D/C/3/DC346591-A593-4FCB-9B76-B1104DD4D35E/policytips2016-kb3115081-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461434</kb>
-			<date>2018/09/12</date>
+			<kb>KB4461502</kb>
+			<date>2018/10/17</date>
 			<size>29.37 MB</size>
-			<category>Security</category>
-			<name>powerpoint2016-kb4461434-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>powerpoint2016-kb4461502-fullfile-x86-glb.exe</name>
 			<description>Microsoft PowerPoint 2016</description>
-			<url>http://download.microsoft.com/download/8/3/2/832DF6BB-65BE-40C6-B0DA-AF74699E6E43/powerpoint2016-kb4461434-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/4/E/A4EE6ED2-2F6B-4689-9A2F-87854D60EB69/powerpoint2016-kb4461502-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011225</kb>
@@ -479,13 +479,13 @@
 			<url>http://download.microsoft.com/download/B/7/5/B7538B66-537E-4D91-BA66-25B7F02075EC/vbe72016-kb3115135-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4032228</kb>
-			<date>2018/09/12</date>
+			<kb>KB4461472</kb>
+			<date>2018/10/17</date>
 			<size>59.87 MB</size>
 			<category>General</category>
-			<name>visio2016-kb4032228-fullfile-x86-glb.exe</name>
+			<name>visio2016-kb4461472-fullfile-x86-glb.exe</name>
 			<description>Microsoft Visio 2016</description>
-			<url>http://download.microsoft.com/download/9/9/3/99330993-F97B-429A-ADF6-F08E70C38255/visio2016-kb4032228-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/B/F/ABF53E7C-66A0-456C-8510-7E715D3A1E4E/visio2016-kb4461472-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461449</kb>
