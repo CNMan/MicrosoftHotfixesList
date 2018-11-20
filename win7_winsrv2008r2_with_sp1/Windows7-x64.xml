@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/18" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/11/13" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -3449,15 +3449,6 @@
 			<url>http://download.microsoft.com/download/C/7/7/C77BDB45-54E4-485E-82EB-2F424113AA12/Windows6.1-KB2871997-v2-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB2892074</kb>
-			<date>2013/10/15</date>
-			<size>763 KB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB2892074-x64.msu</name>
-			<description>Security update for Windows Script 5.8: December 10, 2013</description>
-			<url>http://download.microsoft.com/download/5/1/5/51562664-BB62-436E-A051-1C130F38D384/Windows6.1-KB2892074-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB2893294</kb>
 			<date>2013/10/21</date>
 			<size>334 KB</size>
@@ -3744,15 +3735,6 @@
 			<name>Windows6.1-KB3074543-x64.msu</name>
 			<description>Security Update for the .NET Framework 2.0 SP2: September 8, 2015</description>
 			<url>http://download.microsoft.com/download/4/6/C/46C9B354-83B1-405D-B28B-842987161999/Windows6.1-KB3074543-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3078601</kb>
-			<date>2015/08/03</date>
-			<size>8.37 MB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>windows6.1-kb3078601-x64_df86415b7464c74c360cc7d2f2d9a3e49509bcf1.msu</name>
-			<description>Security update for Microsoft Graphics Component: August 11, 2015</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows6.1-kb3078601-x64_df86415b7464c74c360cc7d2f2d9a3e49509bcf1.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3086255</kb>
@@ -4529,6 +4511,15 @@
 			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix492941/7600/free/472440_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
+			<kb>KB3078601</kb>
+			<date>2015/08/03</date>
+			<size>8.37 MB</size>
+			<category>Extra/WithoutKB3125574/WithoutPlatform</category>
+			<name>windows6.1-kb3078601-x64_df86415b7464c74c360cc7d2f2d9a3e49509bcf1.msu</name>
+			<description>Security update for Microsoft Graphics Component: August 11, 2015</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows6.1-kb3078601-x64_df86415b7464c74c360cc7d2f2d9a3e49509bcf1.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB3019978</kb>
 			<date>2014/12/31</date>
 			<size>231 KB</size>
@@ -4943,13 +4934,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows6.1-kb4459934-x64_6b64103d45d78666b73d70a002c610f4d8d4c112.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462927</kb>
-			<date>2018/09/29</date>
-			<size>237.63 MB</size>
+			<kb>KB4467107</kb>
+			<date>2018/11/12</date>
+			<size>240.06 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4462927-x64.msu</name>
+			<name>Windows6.1-KB4467107-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/10/windows6.1-kb4462927-x64_0e48346bec6a613756c7ae898959f4a1d2a7d789.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows6.1-kb4467107-x64_1b77580629590e3fab05e08710e04be358a1f765.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
