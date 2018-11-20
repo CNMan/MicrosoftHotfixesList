@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/09" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/18" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -146,13 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457016</kb>
-			<date>2018/08/15</date>
-			<size>27.00 MB</size>
+			<kb>KB4459942</kb>
+			<date>2018/08/31</date>
+			<size>27.03 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4457016-x86.exe</name>
+			<name>NDP472-KB4459942-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/ndp46-kb4457016-x86_adf7f845032f44e5c9d5a16971d90aac2445c8ab.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/ndp46-kb4459942-x86_a913e1a36887bf481ad8cef6d86a31ff44ff0339.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -4880,22 +4880,22 @@
 			<url>http://download.microsoft.com/download/7/E/D/7EDECDBB-54F0-412C-AF4C-27FC951BC15B/Windows6.1-KB3161949-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457008</kb>
-			<date>2018/08/20</date>
+			<kb>KB4459934</kb>
+			<date>2018/09/04</date>
 			<size>15.93 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4457008-x86.msu</name>
+			<name>Windows6.1-KB4459934-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/09/windows6.1-kb4457008-x86_2b0d9a4dd63b14eb26f67931fac855b75ef7dd4a.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows6.1-kb4459934-x86_735c47777fcf4a649f44d81cc33b22934206d5ca.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462923</kb>
-			<date>2018/09/27</date>
-			<size>145.47 MB</size>
+			<kb>KB4462927</kb>
+			<date>2018/09/29</date>
+			<size>145.44 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4462923-x86.msu</name>
+			<name>Windows6.1-KB4462927-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/09/windows6.1-kb4462923-x86_6b5cbfdad6ad48284e5f5ff896edb030f5392949.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/10/windows6.1-kb4462927-x86_ccefd90f830cc37f3d14d9086268b42ade1a5677.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

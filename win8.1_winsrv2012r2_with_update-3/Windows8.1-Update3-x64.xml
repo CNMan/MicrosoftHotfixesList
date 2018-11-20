@@ -218,6 +218,15 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows8.1-kb4457045-x64_3bf25e0eb158fd0a2afc4179e34d356eab936ec1.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4459935</kb>
+			<date>2018/08/31</date>
+			<size>23.52 MB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB4459935-x64.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4459935-x64_bba3433f2d43b5cc8824efd648639e19c08ff449.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB2976978</kb>
 			<date>2016/03/01</date>
 			<size>1.00 KB</size>
@@ -2189,13 +2198,31 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows8.1-kb4457034-x64_e048a14c3227675202ef18396e4a8ace4e73ccd1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462926</kb>
-			<date>2018/10/02</date>
-			<size>363.06 MB</size>
+			<kb>KB4457146</kb>
+			<date>2018/09/04</date>
+			<size>20.88 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4462926-x64.msu</name>
+			<name>Windows8.1-KB4457146-x64.msu</name>
+			<description>Update for Vulnerabilities in Adobe Flash Player</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/09/windows8.1-kb4457146-x64_5fb897b1ff5c155e32f9761cc584fcdbcf8929f8.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4459941</kb>
+			<date>2018/08/30</date>
+			<size>53.82 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4459941-x64.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4459941-x64_8ab76aec3dbb348267a966cd3497d716c6b62397.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4462927</kb>
+			<date>2018/10/02</date>
+			<size>362.40 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4462921-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/10/windows8.1-kb4462926-x64_74188bb9c592fcd70c5fc644dcf88ac4e77c8fb0.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462921-x64_ac21d4ad649316b496483d21ddd89721cf0814d9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4462930</kb>
@@ -2205,15 +2232,6 @@
 			<name>Windows8.1-KB4462930-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x64_bbaadf6e2537a54b7b277ab8349dfd1b7aa354c8.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4457146</kb>
-			<date>2018/09/04</date>
-			<size>20.88 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4457146-x64.msu</name>
-			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/09/windows8.1-kb4457146-x64_5fb897b1ff5c155e32f9761cc584fcdbcf8929f8.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

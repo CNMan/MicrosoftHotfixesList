@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/09" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/10/18" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -11,22 +11,13 @@
 			<url>https://dl.dropboxusercontent.com/s/bdr1sp6k6f0fu7m/Information-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462930</kb>
-			<date>2018/10/02</date>
-			<size>10.22 MB</size>
+			<kb>KB4033418</kb>
+			<date>2018/07/10</date>
+			<size>8.10 KB</size>
 			<category>General/14393</category>
-			<name>windows10.0-kb4462930-x86_380e274de951748a3276fe3db5e864e878737111.msu</name>
-			<description>Adobe Flash Player Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows10.0-kb4462930-x86_380e274de951748a3276fe3db5e864e878737111.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4462917</kb>
-			<date>2018/10/05</date>
-			<size>722.84 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4462917-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/10/windows10.0-kb4462917-x86_f748f8c954ee988c45b7acacad61a85ecb815e53.msu</url>
+			<name>NET472-LanguagePackages.txt</name>
+			<description>Microsoft .NET Framework 4.7.2 Languages Packs</description>
+			<url>https://dl.dropboxusercontent.com/s/epmsj64axn1wslf/NET472-LanguagePackages.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB4054590</kb>
@@ -38,15 +29,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/07/windows10.0-kb4054590-x86_819cee600ccd8935d005b1d6fcc5148ea7b24201.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4033418</kb>
-			<date>2018/07/10</date>
-			<size>8.10 KB</size>
-			<category>General/14393</category>
-			<name>NET472-LanguagePackages.txt</name>
-			<description>Microsoft .NET Framework 4.7.2 Languages Packs</description>
-			<url>https://dl.dropboxusercontent.com/s/epmsj64axn1wslf/NET472-LanguagePackages.txt</url>
-		</update>
-		<update extract="0">
 			<kb>KB4132216</kb>
 			<date>2018/04/26</date>
 			<size>5.31 MB</size>
@@ -56,22 +38,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132216-x86_397ebbe49d273429a3e0ce8d6ced13fdb83e1718.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4462928</kb>
+			<date>2018/10/12</date>
+			<size>723.57 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4462928-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows10.0-kb4462928-x86_209cfeec727d514327f977115bfaf85187b12473.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4462930</kb>
 			<date>2018/10/02</date>
 			<size>10.22 MB</size>
-			<category>General/15063</category>
-			<name>windows10.0-kb4462930-x86_f3fb8219e526d228e9ae9b44973d7d73376f3367.msu</name>
-			<description>Adobe Flash Player Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/10/windows10.0-kb4462930-x86_f3fb8219e526d228e9ae9b44973d7d73376f3367.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4462937</kb>
-			<date>2018/09/28</date>
-			<size>706.79 MB</size>
-			<category>General/15063</category>
-			<name>Windows10.0-KB4462937-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/10/windows10.0-kb4462937-x86_d5e1f834c2009b5f8f5d9b1001603a3be568575d.msu</url>
+			<category>General/14393</category>
+			<name>windows10.0-kb4462930-x86_380e274de951748a3276fe3db5e864e878737111.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows10.0-kb4462930-x86_380e274de951748a3276fe3db5e864e878737111.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4054590</kb>
@@ -95,19 +77,19 @@
 			<kb>KB4462930</kb>
 			<date>2018/10/02</date>
 			<size>10.22 MB</size>
-			<category>General/16299</category>
-			<name>windows10.0-kb4462930-x86_cc8938fa7fd394c8948d1b5dfc84de11715edb8a.msu</name>
-			<description>Adobe Flash Player Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/10/windows10.0-kb4462930-x86_cc8938fa7fd394c8948d1b5dfc84de11715edb8a.msu</url>
+			<category>General/15063</category>
+			<name>windows10.0-kb4462930-x86_f3fb8219e526d228e9ae9b44973d7d73376f3367.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/10/windows10.0-kb4462930-x86_f3fb8219e526d228e9ae9b44973d7d73376f3367.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462918</kb>
-			<date>2018/09/28</date>
-			<size>477.80 MB</size>
-			<category>General/16299</category>
-			<name>Windows10.0-KB4462918-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/10/windows10.0-kb4462918-x86_ef683e5e435c624b597b206dca7655bc492c2294.msu</url>
+			<kb>KB4462939</kb>
+			<date>2018/10/12</date>
+			<size>707.38 MB</size>
+			<category>General/15063</category>
+			<name>Windows10.0-KB4462939-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows10.0-kb4462939-x86_a2d5212fccc2fc37fc1460725a037c64966e63f3.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4339420</kb>
@@ -122,19 +104,19 @@
 			<kb>KB4462930</kb>
 			<date>2018/10/02</date>
 			<size>10.22 MB</size>
-			<category>General/17134</category>
-			<name>windows10.0-kb4462930-x86_b1bd42a524bb4abbd08f66090b69f9432a756de2.msu</name>
-			<description>Adobe Flash Player Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/10/windows10.0-kb4462930-x86_b1bd42a524bb4abbd08f66090b69f9432a756de2.msu</url>
+			<category>General/16299</category>
+			<name>windows10.0-kb4462930-x86_cc8938fa7fd394c8948d1b5dfc84de11715edb8a.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 1709</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/10/windows10.0-kb4462930-x86_cc8938fa7fd394c8948d1b5dfc84de11715edb8a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462919</kb>
-			<date>2018/09/28</date>
-			<size>428.78 MB</size>
-			<category>General/17134</category>
-			<name>Windows10.0-KB4462919-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/10/windows10.0-kb4462919-x86_e96a7d7a4d906441409bd93eb5e1035db352b857.msu</url>
+			<kb>KB4462932</kb>
+			<date>2018/10/12</date>
+			<size>480.52 MB</size>
+			<category>General/16299</category>
+			<name>Windows10.0-KB4462932-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1709</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/10/windows10.0-kb4462932-x86_fd5a173a454178dad96b44d9ca46db31cefb9e1b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4456655</kb>
@@ -146,13 +128,31 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/09/windows10.0-kb4456655-x86_c645a35150e187a62e533d4c877076cb44dc06f6.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4462919</kb>
+			<date>2018/09/28</date>
+			<size>428.78 MB</size>
+			<category>General/17134</category>
+			<name>Windows10.0-KB4462919-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1803</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/10/windows10.0-kb4462919-x86_e96a7d7a4d906441409bd93eb5e1035db352b857.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4462930</kb>
 			<date>2018/10/02</date>
 			<size>10.22 MB</size>
+			<category>General/17134</category>
+			<name>windows10.0-kb4462930-x86_b1bd42a524bb4abbd08f66090b69f9432a756de2.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 1803</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/10/windows10.0-kb4462930-x86_b1bd42a524bb4abbd08f66090b69f9432a756de2.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4462930</kb>
+			<date>2018/10/15</date>
+			<size>10.21 MB</size>
 			<category>General/17763</category>
-			<name>windows10.0-kb4462930-x86_cc3b0f49e1854fe30131fd938392fb916e2bce16.msu</name>
+			<name>windows10.0-kb4462930-x86_ee44cbbd86b3271990ccc472760f0228094131e5.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/10/windows10.0-kb4462930-x86_cc3b0f49e1854fe30131fd938392fb916e2bce16.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows10.0-kb4462930-x86_ee44cbbd86b3271990ccc472760f0228094131e5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4464330</kb>
