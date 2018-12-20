@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/11/20" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/11/27" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -47,13 +47,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/11/windows10.0-kb4465659-x64_af8e00c5ba5117880cbc346278c7742a6efa6db1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4467691</kb>
-			<date>2018/10/29</date>
-			<size>1.34 GB</size>
+			<kb>KB4467684</kb>
+			<date>2018/11/18</date>
+			<size>1.35 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4467691-x64.msu</name>
+			<name>Windows10.0-KB4467684-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/10/windows10.0-kb4467691-x64_c1884b8c61fd7837b4a59a3aa7b87707474a8c12.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/11/windows10.0-kb4467684-x64_14ee0bda136c7be4d8e51689c3c11d3896819f33.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4477029</kb>
@@ -83,13 +83,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/11/windows10.0-kb4465660-x64_8f859a6ee9eeae939a8601d077e35b796da2f397.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4467696</kb>
-			<date>2018/11/01</date>
+			<kb>KB4467699</kb>
+			<date>2018/11/16</date>
 			<size>1.20 GB</size>
 			<category>General/15063</category>
-			<name>Windows10.0-KB4467696-x64.msu</name>
+			<name>Windows10.0-KB4467699-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows10.0-kb4467696-x64_57489dca4044a42831d6db0294bad7a0a122fe71.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/11/windows10.0-kb4467699-x64_52127fe27322a038d8482c263a9bb7b3158c6b5e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4477029</kb>
@@ -110,13 +110,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows10.0-kb4465661-x64_cfebb9c91d4e7f99305be84aa0eb0582c532c272.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4467686</kb>
-			<date>2018/10/31</date>
-			<size>878.18 MB</size>
+			<kb>KB4467681</kb>
+			<date>2018/11/16</date>
+			<size>877.89 MB</size>
 			<category>General/16299</category>
-			<name>Windows10.0-KB4467686-x64.msu</name>
+			<name>Windows10.0-KB4467681-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows10.0-kb4467686-x64_e447ab6583209d513587ca171344f4a660353a63.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/11/windows10.0-kb4467681-x64_092c977b72ae27aab88c65ab31b81d3d861dda3a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4477029</kb>
@@ -137,13 +137,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows10.0-kb4465663-x64_f38417e1deb1550dd84c0d414d325735279acd9c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4467702</kb>
-			<date>2018/11/02</date>
-			<size>784.98 MB</size>
+			<kb>KB4467682</kb>
+			<date>2018/11/16</date>
+			<size>794.70 MB</size>
 			<category>General/17134</category>
-			<name>Windows10.0-KB4467702-x64.msu</name>
+			<name>Windows10.0-KB4467682-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows10.0-kb4467702-x64_0cf6427cd9064cf734b799636f3e52786e6bddb1.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/11/windows10.0-kb4467682-x64_7ef625075cf39550f9e9fa5bb069c0686731c47d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4477029</kb>

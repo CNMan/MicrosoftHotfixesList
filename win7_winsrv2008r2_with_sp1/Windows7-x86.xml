@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/11/13" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/11/27" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -146,13 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4459942</kb>
-			<date>2018/08/31</date>
-			<size>27.03 MB</size>
+			<kb>KB4467088</kb>
+			<date>2018/10/09</date>
+			<size>27.02 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4459942-x86.exe</name>
+			<name>NDP472-KB4467088-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/ndp46-kb4459942-x86_a913e1a36887bf481ad8cef6d86a31ff44ff0339.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/11/ndp46-kb4467088-x86_e46d1fcb7b11b42c3ca83e1b0cb68f545ec6b840.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -4880,13 +4880,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows6.1-kb4459934-x86_735c47777fcf4a649f44d81cc33b22934206d5ca.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4467107</kb>
+			<kb>KB4467108</kb>
 			<date>2018/11/12</date>
 			<size>146.56 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4467107-x86.msu</name>
+			<name>Windows6.1-KB4467108-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows6.1-kb4467107-x86_5514e74cefbba86e8cd070906ab26e661aa56ca1.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/11/windows6.1-kb4467108-x86_1122b77277c7c15205e28c7c7ca0e6b1e276ec6e.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
