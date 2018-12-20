@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/04" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/11" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4018351</kb>
@@ -92,13 +92,13 @@
 			<url>http://download.microsoft.com/download/A/5/8/A588276E-D83D-4B67-A60A-3CEA9F67B191/eqnedt322013-kb4011580-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461488</kb>
-			<date>2018/11/02</date>
+			<kb>KB4461559</kb>
+			<date>2018/11/20</date>
 			<size>89.67 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb4461488-fullfile-x86-glb.exe</name>
+			<name>excel2013-kb4461559-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/D/5/D/D5D06D24-1FE9-4466-A5E3-E668456B8085/excel2013-kb4461488-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/8/A/88ADFE65-D105-4F3A-9521-89B0EE340B25/excel2013-kb4461559-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -443,13 +443,13 @@
 			<url>http://download.microsoft.com/download/0/A/2/0A23AFBE-375F-4262-AADD-188782E4DA8F/outlfltr2013-kb3115404-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461486</kb>
-			<date>2018/11/02</date>
+			<kb>KB4461556</kb>
+			<date>2018/11/20</date>
 			<size>87.64 MB</size>
 			<category>Security</category>
-			<name>outlook2013-kb4461486-fullfile-x86-glb.exe</name>
+			<name>outlook2013-kb4461556-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>http://download.microsoft.com/download/A/A/8/AA8DA773-C60F-432E-B693-83ED940A8970/outlook2013-kb4461486-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/2/3/6232429E-271F-410A-BAA5-01B7C8351B71/outlook2013-kb4461556-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>
@@ -461,13 +461,13 @@
 			<url>http://download.microsoft.com/download/6/C/B/6CBAA1F1-6863-4176-9000-D3D3DB0004F1/peopledata2013-kb3039766-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4092453</kb>
-			<date>2018/09/17</date>
+			<kb>KB4461481</kb>
+			<date>2018/11/20</date>
 			<size>51.47 MB</size>
 			<category>Security</category>
-			<name>powerpoint2013-kb4092453-fullfile-x86-glb.exe</name>
+			<name>powerpoint2013-kb4461481-fullfile-x86-glb.exe</name>
 			<description>Microsoft PowerPoint 2013</description>
-			<url>http://download.microsoft.com/download/6/7/B/67BEBCB0-514D-4EF2-A2F3-91CC986B6F67/powerpoint2013-kb4092453-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/F/3/B/F3B6D54B-E97B-440C-96FA-304B6F3BBB77/powerpoint2013-kb4461481-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213536</kb>

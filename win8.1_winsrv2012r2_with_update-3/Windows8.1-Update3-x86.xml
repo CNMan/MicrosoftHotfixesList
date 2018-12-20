@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/11/27" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/11" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -191,22 +191,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4054999-x86_ab1d1a2831cdd588de1551786c1372025e2997e8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457045</kb>
-			<date>2018/08/12</date>
-			<size>16.55 MB</size>
+			<kb>KB4470630</kb>
+			<date>2018/11/05</date>
+			<size>17.13 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4457045-x86.msu</name>
+			<name>Windows8.1-KB4470630-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows8.1-kb4457045-x86_2c5574d3eeafe76cb407ec02cd601938f9c4ae66.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4459935</kb>
-			<date>2018/08/31</date>
-			<size>16.56 MB</size>
-			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4459935-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4459935-x86_c336931ebbdd5aaf19dfaf0415ce88fd211fe6f6.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows8.1-kb4470630-x86_51d01762e649ee5a2519b34cb0b3df5cf0d5b837.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -2063,24 +2054,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x86_a6af9c16d559e00e42ed45cdf1d7a72235edf5f2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4457034</kb>
-			<date>2018/08/14</date>
-			<size>29.53 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4457034-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/windows8.1-kb4457034-x86_0d1c5d13bf23180083009dfbd82502b6767833e6.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4459941</kb>
-			<date>2018/08/30</date>
-			<size>29.10 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4459941-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4459941-x86_123d8b5840bbf78c8acd65afcef1674584ab8200.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4462930</kb>
 			<date>2018/10/02</date>
 			<size>10.21 MB</size>
@@ -2090,22 +2063,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x86_7762ebdf20fb0b1fb64cbc92ddba4582bc3fac0a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4467087</kb>
-			<date>2018/10/08</date>
+			<kb>KB4470639</kb>
+			<date>2018/11/06</date>
 			<size>29.12 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4467087-x86.msu</name>
+			<name>Windows8.1-KB4470639-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/11/windows8.1-kb4467087-x86_5e812d56f2736326f1e71e00447a83cd61d1addf.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows8.1-kb4470639-x86_3911cd88dfdb54c3be927735f95e3ddc8e60e781.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4467695</kb>
-			<date>2018/11/16</date>
-			<size>206.60 MB</size>
+			<kb>KB4471320</kb>
+			<date>2018/11/30</date>
+			<size>207.46 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4467695-x86.msu</name>
+			<name>Windows8.1-KB4471320-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/11/windows8.1-kb4467695-x86_fae9392c18a1a491f443655edc6d73586bab3038.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/11/windows8.1-kb4471320-x86_59a247061f29dbb8859cd4c8d3e3ecee0ccf1d31.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4471331</kb>
