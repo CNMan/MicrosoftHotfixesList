@@ -2090,13 +2090,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x86_7762ebdf20fb0b1fb64cbc92ddba4582bc3fac0a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4467694</kb>
-			<date>2018/11/05</date>
+			<kb>KB4477029</kb>
+			<date>2018/11/16</date>
 			<size>10.21 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4467694-x86.msu</name>
+			<name>Windows8.1-KB4477029-x86.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/11/windows8.1-kb4467694-x86_59f2c1035fa7c6f6e0d20748383f9ed1a633ce3f.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows8.1-kb4477029-x86_3584f74326956edfdf9593b37cd969da82f554f5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4467697</kb>
