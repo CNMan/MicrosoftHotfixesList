@@ -2216,13 +2216,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2018/11/windows8.1-kb4467695-x64_0dccec9bf1f33fc2b6b1b140ce0890adcb1cb7a6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4477029</kb>
-			<date>2018/11/16</date>
-			<size>20.88 MB</size>
+			<kb>KB4471331</kb>
+			<date>2018/11/30</date>
+			<size>20.89 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4477029-x64.msu</name>
+			<name>Windows8.1-KB4471331-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows8.1-kb4477029-x64_1493b676ecd959642e14d63f0d1663b0ae9899b1.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows8.1-kb4471331-x64_9cde17312f6c348894fda55da76741d5a4ee4805.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
