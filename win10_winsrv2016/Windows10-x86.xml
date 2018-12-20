@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/11" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/19" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -47,15 +47,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windows10.0-kb4465659-x86_7a2b6eccab414862c96702cf6092c67ed540e7f3.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4471321</kb>
-			<date>2018/12/05</date>
-			<size>737.90 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4471321-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4471321-x86_d6ae2ba922fb1ef73ec923c3417a743bf72183d3.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4471331</kb>
 			<date>2018/12/03</date>
 			<size>10.22 MB</size>
@@ -63,6 +54,15 @@
 			<name>windows10.0-kb4471331-x86_59ea46a76e5c932fb7f766661599b278e516218f.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1607</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4471331-x86_59ea46a76e5c932fb7f766661599b278e516218f.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4483229</kb>
+			<date>2018/12/17</date>
+			<size>737.71 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4483229-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4483229-x86_29d78dc80b7d2b8099609b36a6b08c17ccce1f3f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4054590</kb>
@@ -83,15 +83,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/11/windows10.0-kb4465660-x86_f4cd002b4d9cdad44349ddde0d820d4496f8a9f6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4471327</kb>
-			<date>2018/12/05</date>
-			<size>712.72 MB</size>
-			<category>General/15063</category>
-			<name>Windows10.0-KB4471327-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1703</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4471327-x86_016bf8808abbc8943fb4ec14043355fb82c0fc27.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4471331</kb>
 			<date>2018/12/03</date>
 			<size>10.22 MB</size>
@@ -101,13 +92,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4471331-x86_31ab604e3ec4077e01242b0ba24cfd19741a0ad4.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4471329</kb>
-			<date>2018/12/05</date>
-			<size>487.48 MB</size>
-			<category>General/16299</category>
-			<name>Windows10.0-KB4471329-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4471329-x86_af492425a9badf6adffc67b1c758ab57033c08b2.msu</url>
+			<kb>KB4483230</kb>
+			<date>2018/12/17</date>
+			<size>713.19 MB</size>
+			<category>General/15063</category>
+			<name>Windows10.0-KB4483230-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1703</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows10.0-kb4483230-x86_8042681add4c63faa0cb1b5f483a53d08ceb8772.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4471331</kb>
@@ -128,13 +119,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4477136-x86_94279b1a48e88846a80bd00b14b443c8f0cf7084.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4471324</kb>
-			<date>2018/12/09</date>
-			<size>446.22 MB</size>
-			<category>General/17134</category>
-			<name>Windows10.0-KB4471324-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows10.0-kb4471324-x86_9c7ffd07127b7cf900f644c3c53c6aced8c6d431.msu</url>
+			<kb>KB4483232</kb>
+			<date>2018/12/17</date>
+			<size>488.08 MB</size>
+			<category>General/16299</category>
+			<name>Windows10.0-KB4483232-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1709</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows10.0-kb4483232-x86_facace0c867eefc63f07c1bc531c6e09914de8d1.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4471331</kb>
@@ -153,6 +144,15 @@
 			<name>Windows10.0-KB4477137-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1803</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows10.0-kb4477137-x86_f00b7135a3ec4e9686020970f99528e74441928b.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4483234</kb>
+			<date>2018/12/17</date>
+			<size>446.50 MB</size>
+			<category>General/17134</category>
+			<name>Windows10.0-KB4483234-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1803</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4483234-x86_a9f045f0670e361ce540ba86de665c63f17cf819.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4470502</kb>
@@ -182,13 +182,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows10.0-kb4471331-x86_da283dc908e120ac189768f56cf599deca9f3c1e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4471332</kb>
-			<date>2018/12/05</date>
-			<size>37.25 MB</size>
+			<kb>KB4483235</kb>
+			<date>2018/12/17</date>
+			<size>36.32 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4471332-x86.msu</name>
+			<name>Windows10.0-KB4483235-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4471332-x86_f6daff44e1cfe8cff2c20d5d54c59a5f2985837b.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows10.0-kb4483235-x86_651ecd2feec0f84ef346e918a7c50049f0384810.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

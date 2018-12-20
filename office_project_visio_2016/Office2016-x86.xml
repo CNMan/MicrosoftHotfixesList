@@ -362,13 +362,13 @@
 			<url>http://download.microsoft.com/download/B/4/8/B480C326-8984-4D40-BAA2-33F3A44F20CB/outlfltr2016-kb3115407-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461544</kb>
-			<date>2018/11/14</date>
-			<size>90.58 MB</size>
-			<category>Security</category>
-			<name>outlook2016-kb4461544-fullfile-x86-glb.exe</name>
+			<kb>KB4011722</kb>
+			<date>2018/12/11</date>
+			<size>90.57 MB</size>
+			<category>General</category>
+			<name>outlook2016-kb4011722-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>http://download.microsoft.com/download/6/7/9/6799CF06-55BA-421F-A5C6-4AC9B8661983/outlook2016-kb4461544-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/4/E/F/4EFC4442-28EA-44EB-8B57-CB9D9935D8DA/outlook2016-kb4011722-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
