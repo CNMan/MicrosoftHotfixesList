@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/11/13" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/04" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4018351</kb>
@@ -209,13 +209,13 @@
 			<url>https://hotfixv4.trafficmanager.net/Microsoft%20InfoPath%202013/sp1/ipdmctrl2013kb2825670fullfilex64glb/15.0.4605.1000/free/474505_intl_x64_zip.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3162075</kb>
-			<date>2018/04/11</date>
+			<kb>KB4022181</kb>
+			<date>2018/11/20</date>
 			<size>4.34 MB</size>
-			<category>Security</category>
-			<name>ipeditor2013-kb3162075-fullfile-x64-glb.exe</name>
+			<category>General</category>
+			<name>ipeditor2013-kb4022181-fullfile-x64-glb.exe</name>
 			<description>Microsoft InfoPath 2013 (InfoPath Editor)</description>
-			<url>http://download.microsoft.com/download/A/2/2/A22043F3-F59F-4712-9ADB-79E5FB077267/ipeditor2013-kb3162075-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/F/2/1/F2151EA6-684F-4B00-9B64-FB4E2D041C90/ipeditor2013-kb4022181-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461487</kb>
