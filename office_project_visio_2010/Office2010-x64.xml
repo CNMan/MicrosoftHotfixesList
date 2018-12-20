@@ -434,13 +434,13 @@
 			<url>http://download.microsoft.com/download/7/D/7/7D71F243-CFBB-4750-9F30-4DBE2B755A02/outlfltr2010-kb3115475-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461529</kb>
+			<kb>KB4461585</kb>
 			<date>2018/10/20</date>
 			<size>87.20 MB</size>
-			<category>Security</category>
-			<name>outlookloc2010-kb4461529-fullfile-x64-glb.exe</name>
+			<category>General</category>
+			<name>outlookloc2010-kb4461585-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2010</description>
-			<url>http://download.microsoft.com/download/8/C/B/8CBA72B3-1BD4-43AC-9D58-3963CB58129F/outlookloc2010-kb4461529-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/F/3/9F388A9C-EFE2-4797-ABF2-D1CA0E862AE8/outlookloc2010-kb4461585-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2553170</kb>
