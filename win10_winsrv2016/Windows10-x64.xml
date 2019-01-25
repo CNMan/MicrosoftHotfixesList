@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/01/08" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/15" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -74,13 +74,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4477136-x64_5bfa3bb10370a5cee17c6239c99d97cb54464f95.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4480978</kb>
-			<date>2019/01/02</date>
-			<size>885.97 MB</size>
+			<kb>KB4480967</kb>
+			<date>2018/01/06</date>
+			<size>887.70 MB</size>
 			<category>General/16299</category>
-			<name>Windows10.0-KB4480978-x64.msu</name>
+			<name>Windows10.0-KB4480967-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windows10.0-kb4480978-x64_80959e0fe6e23388de8a54e7904880d196dc9be9.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/01/windows10.0-kb4480967-x64_ca7e37d003be1e8015a24d9c1275be3ab5eb6c3e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4480979</kb>
@@ -101,13 +101,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows10.0-kb4477137-x64_0ff345c6c9369636f7814230fbeaf0d844a03858.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4480966</kb>
-			<date>2019/01/04</date>
-			<size>802.97 MB</size>
+			<kb>KB4480976</kb>
+			<date>2018/01/10</date>
+			<size>808.24 MB</size>
 			<category>General/17134</category>
-			<name>Windows10.0-KB4480966-x64.msu</name>
+			<name>Windows10.0-KB4480976-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windows10.0-kb4480966-x64_e92458eb0968b463f1bb84fec0478d542adc5b56.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/01/windows10.0-kb4480976-x64_a829a60355da05addb8369eff7f6d11a5cf88ca9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4480979</kb>

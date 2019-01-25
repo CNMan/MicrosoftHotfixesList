@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/01/08" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/01/15" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -2189,13 +2189,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windows8.1-kb4480054-x64_106490f184a86a302a88d80b902abda4288bd724.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4480963</kb>
-			<date>2018/12/28</date>
-			<size>365.80 MB</size>
+			<kb>KB4480095</kb>
+			<date>2018/12/09</date>
+			<size>52.24 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4480963-x64.msu</name>
+			<name>Windows8.1-KB4480095-x64.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/01/windows8.1-kb4480095-x64_1c0b5e3e61ae0291223cd1a4a712c28ffcd27c58.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4480969</kb>
+			<date>2018/01/10</date>
+			<size>365.85 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4480969-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows8.1-kb4480963-x64_e603973094e2c31c82847884396d1f0f2a30cdaf.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/01/windows8.1-kb4480969-x64_1ff5bb323be4313cc8284c400b166f843d02c201.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4480979</kb>

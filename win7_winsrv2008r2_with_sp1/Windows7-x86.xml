@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/01/08" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/01/15" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -146,13 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4480055</kb>
-			<date>2018/12/04</date>
-			<size>27.04 MB</size>
+			<kb>KB4480096</kb>
+			<date>2018/12/10</date>
+			<size>27.18 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4480055-x86.exe</name>
+			<name>NDP472-KB4480096-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/ndp46-kb4480055-x86_b1bbb0e847f0b9d016b4c998d4ee6c4be95e81df.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/01/ndp46-kb4480096-x86_34fbc81307d5441111a04b1fb3673a044e8006e0.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
