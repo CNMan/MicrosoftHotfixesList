@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/19" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/01/08" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -45,15 +45,6 @@
 			<name>IE11-Windows6.1-KB2849697-x86.msu</name>
 			<description>IE-Hyphenation-en.msu</description>
 			<url>http://download.microsoft.com/download/4/0/E/40E0AF15-3404-4C1E-8FB3-2DE7087F01F7/IE-Hyphenation-en.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4483187</kb>
-			<date>2018/12/14</date>
-			<size>29.05 MB</size>
-			<category>Additional/_IE11</category>
-			<name>IE11-Windows6.1-KB4483187-x86.msu</name>
-			<description>Cumulative security update for Internet Explorer 11: December 19, 2018</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/ie11-windows6.1-kb4483187-x86_8b3486b7d1630461150ff63108a614b716ad36ee.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2841134</kb>
@@ -155,13 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4470640</kb>
-			<date>2018/11/07</date>
-			<size>27.02 MB</size>
+			<kb>KB4480055</kb>
+			<date>2018/12/04</date>
+			<size>27.04 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4470640-x86.exe</name>
+			<name>NDP472-KB4480055-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/ndp46-kb4470640-x86_8331ab3da07fb9ccbe5e600808f38e596bdb1db9.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/ndp46-kb4480055-x86_b1bbb0e847f0b9d016b4c998d4ee6c4be95e81df.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -2810,15 +2801,6 @@
 			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510743/7600/free/476919_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2983488</kb>
-			<date>2014/08/05</date>
-			<size>377 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2983488-x86.msu</name>
-			<description>DRIVER_POWER_STATE_FAILURE (9f) error when you use the native VPN connection and then shut down or suspend the computer</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix510421/7600/free/477406_intl_i386_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2987452</kb>
 			<date>2014/07/24</date>
 			<size>215 KB</size>
@@ -4880,22 +4862,22 @@
 			<url>http://download.microsoft.com/download/7/E/D/7EDECDBB-54F0-412C-AF4C-27FC951BC15B/Windows6.1-KB3161949-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4470641</kb>
-			<date>2018/11/09</date>
-			<size>16.21 MB</size>
+			<kb>KB4480063</kb>
+			<date>2018/12/05</date>
+			<size>16.20 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4470641-x86.msu</name>
+			<name>Windows6.1-KB4480063-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows6.1-kb4470641-x86_3e7897c7d3c0ae0b1c9b89455b7b546746fdf7d6.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windows6.1-kb4480063-x86_c64e7ddb94146889b2414a276562c68b8d3038d3.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4471318</kb>
-			<date>2018/12/07</date>
-			<size>146.41 MB</size>
+			<kb>KB4480970</kb>
+			<date>2019/01/02</date>
+			<size>146.67 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4471318-x86.msu</name>
+			<name>Windows6.1-KB4480970-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windows6.1-kb4471318-x86_bbbcd30c74c6b1eaf7585ef0fc124ffc18a11e3b.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windows6.1-kb4480970-x86_934c9c86b3e10b01396814c92b8eba84600cd457.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
