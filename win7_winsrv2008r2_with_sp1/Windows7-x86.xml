@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/11" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/19" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -45,6 +45,15 @@
 			<name>IE11-Windows6.1-KB2849697-x86.msu</name>
 			<description>IE-Hyphenation-en.msu</description>
 			<url>http://download.microsoft.com/download/4/0/E/40E0AF15-3404-4C1E-8FB3-2DE7087F01F7/IE-Hyphenation-en.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4483187</kb>
+			<date>2018/12/14</date>
+			<size>29.05 MB</size>
+			<category>Additional/_IE11</category>
+			<name>IE11-Windows6.1-KB4483187-x86.msu</name>
+			<description>Cumulative security update for Internet Explorer 11: December 19, 2018</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/ie11-windows6.1-kb4483187-x86_8b3486b7d1630461150ff63108a614b716ad36ee.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2841134</kb>

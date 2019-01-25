@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/11" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/12/19" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -2196,6 +2196,15 @@
 			<name>Windows8.1-KB4471331-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows8.1-kb4471331-x64_9cde17312f6c348894fda55da76741d5a4ee4805.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4483187</kb>
+			<date>2018/12/17</date>
+			<size>54.75 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4483187-x64.msu</name>
+			<description>Cumulative security update for Internet Explorer 11: December 19, 2018</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows8.1-kb4483187-x64_0d12c5bd8526b4034020e6d297668fd472dfff9c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
