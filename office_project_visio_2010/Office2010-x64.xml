@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/01/08" architecture="x64" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/01/18" architecture="x64" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB3114416</kb>
@@ -227,13 +227,13 @@
 			<url>http://download.microsoft.com/download/C/8/2/C820D7BC-BE4F-4A91-860C-CA7C7A20F177/mshelp2010-kb2850016-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461614</kb>
-			<date>2018/12/18</date>
-			<size>18.66 MB</size>
-			<category>Security</category>
-			<name>mso2010-kb4461614-fullfile-x64-glb.exe</name>
+			<kb>KB4462157</kb>
+			<date>2019/01/17</date>
+			<size>18.64 MB</size>
+			<category>General</category>
+			<name>mso2010-kb4462157-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/0/C/B/0CBB010D-D40C-4715-AD9C-82BC7A31A611/mso2010-kb4461614-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/0/7/A07C82B8-DF18-47B8-B64F-89B479FDD5B1/mso2010-kb4462157-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589375</kb>
@@ -250,7 +250,7 @@
 			<size>1.92 MB</size>
 			<category>Security</category>
 			<name>msohevi2010-kb2553332-fullfile-x64-glb.exe</name>
-			<description>Microsoft Office 2010 (Office Protocol Handler)</description>
+			<description>Microsoft Office 2010 (HTML MIME Handler)</description>
 			<url>http://download.microsoft.com/download/8/8/2/88280EE7-D342-4A02-8F6A-E247EC2954E8/msohevi2010-kb2553332-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">

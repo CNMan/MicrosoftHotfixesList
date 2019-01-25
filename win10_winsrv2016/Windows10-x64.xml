@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/15" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/01/17" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -47,13 +47,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/11/windows10.0-kb4465659-x64_af8e00c5ba5117880cbc346278c7742a6efa6db1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4480961</kb>
-			<date>2019/01/02</date>
+			<kb>KB4480977</kb>
+			<date>2019/01/15</date>
 			<size>1.35 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4480961-x64.msu</name>
+			<name>Windows10.0-KB4480977-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windows10.0-kb4480961-x64_ada63f8d66b2c9994e03c3f5bffe56aff77edeb6.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/01/windows10.0-kb4480977-x64_4630376d446938345665e2ce8379d96bb63a84c8.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4480979</kb>
