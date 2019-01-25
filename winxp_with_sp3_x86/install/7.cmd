@@ -143,4 +143,6 @@ start /wait windowsxp-kb4473077-x86-embedded-chs_957641677eec06d57d185b1d976d4ab
 start /wait windowsxp-kb4468323-x86-embedded-chs_1453119aa84b5b5fbc9de587eb262ff2b7bdb6c5.exe /q /z /n /o
 start /wait windowsxp-kb4473078-x86-embedded-chs_66adbfe49bd89868ae3ef332fc90e855cdd0f61f.exe /q /z /n /o
 start /wait ie8-windowsxp-kb4483187-x86-embedded-chs_ebb586fc25a6ccd0bb9acfbb49ad95209df15d03.exe /q /z /n /o
+start /wait windowsxp-kb4481275-x86-embedded-chs_a2b43831bebd918fa977ff326fc9bfd14237cb32.exe /q /z /n /o
+start /wait ie8-windowsxp-kb4480965-x86-embedded-chs_a8ba5bb24128f0e39b44eaa43a4d6121fa14b14d.exe /q /z /n /o
 shutdown -r

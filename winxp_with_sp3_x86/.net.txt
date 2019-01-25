@@ -29,6 +29,7 @@ http://download.windowsupdate.com/d/csa/csa/secu/2016/04/ndp40-kb3127225-x86_608
 http://download.windowsupdate.com/d/csa/csa/secu/2016/09/ndp30sp2-kb3188734-x86_1a1e2f42b2aaf963a2d79a8072f08e29243a3330.exe
 http://download.windowsupdate.com/d/csa/csa/secu/2017/04/ndp20sp2-kb4014580-x86_00bc481a903b582272cae81e76334295a1209f73.exe
 http://download.windowsupdate.com/d/csa/csa/secu/2017/04/ndp40-kb4014570-x86_da912e6659c218306c1850642966ae13ac114051.exe
+http://download.windowsupdate.com/d/csa/csa/secu/2019/01/ndp20sp2-kb4480087-x86_010990466abcf053d7164dffe1bc0812b5a86b96.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/05/ndp1.1sp1-kb2833941-x86_bb00e871d14625ce5324ccdf7ad36ca9016bcaec.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/05/ndp30sp2-kb2832411-x86_5a169c4c0ca3819fe7745faf894e50708008efd1.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/06/ndp35sp1-kb2840629-x86_3a7890d49029e2383d7887b5abbd771cea442edf.exe
@@ -50,6 +51,7 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/ndp4
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/ndp30sp2-kb4457058-x86_bce0ba79f1762a58060ae546882b4e2a1eddc4aa.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/ndp40-kb4457046-x86_407a3efb88f4bdf4974375f288761502e1683155.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/ndp40-kb4470490-x86_ff434d474cd210560f89cef4fda1cbb87224b0db.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/ndp40-kb4480077-x86_05e61336a238a90796bcda78d13f0982075f2a2e.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/06/ndp40-kb2836939-x86_cef77927432048cd36340da5d972e349d57764f6.exe
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/08/ndp20sp2-kb2836941-v2-x86_9e8d176f3476dc920c9ac845647ec47fdbfc5d38.exe
 http://download.windowsupdate.com/msdownload/update/software/crup/2009/01/ndp20sp2-kb958481-x86_04fcde4b28dd4f6db7548831d35d1c6bf38e1335.exe

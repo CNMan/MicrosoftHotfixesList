@@ -1312,3 +1312,14 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windowsxp-kb4473078-x86-embedded-enu_b7e9600b88049b90de2fcc3ae35bd276e146e10a.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windowsxp-kb4473078-x86-embedded-express-enu_582f5fe98b591e3787a2cf7541af9fc1405ab9fd.cab
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/12/windowsxp-kb4473078-x86-embedded-enu_c141d25a02a604544f2ff5753fbdba4ba4efc88e.psf
+
+[ 2019-01 Security Only Update for .NET Framework 4 on WES09 and POSReady 2009 (KB4480077) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/ndp40-kb4480077-x86_05e61336a238a90796bcda78d13f0982075f2a2e.exe
+
+[ 2019-01 Security Only Update for .NET Framework 2.0 SP2 on WES09 and POSReady 2009 (KB4480087) ]
+http://download.windowsupdate.com/d/csa/csa/secu/2019/01/ndp20sp2-kb4480087-x86_010990466abcf053d7164dffe1bc0812b5a86b96.exe
+
+[ 2019-01 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4481275) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windowsxp-kb4481275-x86-embedded-enu_5160cf8226e525f266f39e7279ce39e6176cece9.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windowsxp-kb4481275-x86-embedded-express-enu_8ae92a9f8ee654da5fd8ce5b3fc294a35ef1e973.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windowsxp-kb4481275-x86-embedded-enu_bffbbad6b9f4268f310572b0cc36e17cbf994be9.psf
