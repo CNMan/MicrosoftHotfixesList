@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/12" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/19" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -47,13 +47,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4485447-x64_e9334a6f18fa0b63c95cd62930a058a51bba9a14.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4487026</kb>
-			<date>2019/01/15</date>
-			<size>1.33 GB</size>
+			<kb>KB4487006</kb>
+			<date>2019/02/18</date>
+			<size>1.36 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4487026-x64.msu</name>
+			<name>Windows10.0-KB4487006-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/02/windows10.0-kb4487026-x64_f844b43ca47b1046e4788f756733c78d6b256d50.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/02/windows10.0-kb4487006-x64_464f910dd8b67c3cbd36e2a8da20204b9dd659a6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4487038</kb>
@@ -74,13 +74,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4485448-x64_e43307ad84b7df662be562eafc70e0b081dffc38.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486996</kb>
-			<date>2018/01/06</date>
-			<size>888.70 MB</size>
+			<kb>KB4487021</kb>
+			<date>2019/02/18</date>
+			<size>0.99 GB</size>
 			<category>General/16299</category>
-			<name>Windows10.0-KB4486996-x64.msu</name>
+			<name>Windows10.0-KB4487021-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4486996-x64_1879cae62dcddcea936350f9cb7c196d3ff2b396.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/02/windows10.0-kb4487021-x64_23bb68e07454a4c676baab77838f742de22e117b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4487038</kb>
@@ -101,13 +101,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4485449-x64_a3f4a3fd1a1191921626d9b59783908a4895364c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4487017</kb>
-			<date>2018/01/10</date>
-			<size>810.10 MB</size>
+			<kb>KB4487029</kb>
+			<date>2019/02/18</date>
+			<size>835.82 MB</size>
 			<category>General/17134</category>
-			<name>Windows10.0-KB4487017-x64.msu</name>
+			<name>Windows10.0-KB4487029-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4487017-x64_57e47ba6bfdbaf9ac023ee3f5663110e3262066a.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/02/windows10.0-kb4487029-x64_ae781884db1180f14aab3c8ab8a2deca276f2657.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4487038</kb>

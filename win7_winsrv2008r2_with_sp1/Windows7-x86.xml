@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/02/12" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/02/19" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -146,13 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4483451</kb>
-			<date>2018/12/21</date>
+			<kb>KB4486546</kb>
+			<date>2019/01/08</date>
 			<size>27.18 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4483451-x86.exe</name>
+			<name>NDP472-KB4486546-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/ndp46-kb4483451-x86_256207b98930e48c67f9d76429a951a38ce77e32.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/02/ndp46-kb4486546-x86_1f216fb3cf3a8f0528777e572f41897f098a3fdc.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -793,14 +793,14 @@
 			<description>Text is blurry when you magnify the text in Windows</description>
 			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix511428/7600/free/477108_intl_i386_zip.exe</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2990941</kb>
 			<date>2014/09/29</date>
 			<size>4.86 MB</size>
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2990941-v3-x86.msu</name>
 			<description>Update to add native driver support for NVM Express (NVMe) that uses the PCI Express (PCIe)</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix487764/7600/free/477474_intl_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2990941-v3-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3006121</kb>
@@ -4871,13 +4871,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows6.1-kb4483458-x86_ab9aec3410e464d9e3e388419e50626c0d8298d5.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486563</kb>
-			<date>2019/01/29</date>
+			<kb>KB4486565</kb>
+			<date>2018/02/17</date>
 			<size>146.54 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4486563-x86.msu</name>
+			<name>Windows6.1-KB4486565-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windows6.1-kb4486563-x86_acd5206432777e0b9e3596b847fdc92037b24497.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/02/windows6.1-kb4486565-x86_266bd5512400ef0e38d74cb04abf1c141220ab5c.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
