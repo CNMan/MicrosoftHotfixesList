@@ -206,7 +206,7 @@
 			<category>Hotfix</category>
 			<name>ipdmctrl2013-kb2825670-fullfile-x64-glb.exe</name>
 			<description>Microsoft InfoPath 2013 (Ipdmctrl-x-none.msp)</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/ipdmctrl2013-kb2825670-fullfile-x64-glb.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/ipdmctrl2013-kb2825670-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022181</kb>
@@ -611,7 +611,7 @@
 			<category>Hotfix</category>
 			<name>xmleditverbhandler2013-kb2883063-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Office XML Handler)</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/xmleditverbhandler2013-kb2883063-fullfile-x64-glb.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/xmleditverbhandler2013-kb2883063-fullfile-x64-glb.exe</url>
 		</update>
 	</updates>
 </hotfixlist>

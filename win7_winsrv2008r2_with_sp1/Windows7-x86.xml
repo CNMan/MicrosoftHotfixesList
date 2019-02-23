@@ -80,7 +80,7 @@
 			<category>Additional/_NotAllowedOffline</category>
 			<name>Windows6.1-KB2646060-v3-x86.msu</name>
 			<description>An update that selectively disables the Core Parking feature</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2646060-v3-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2646060-v3-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3046269</kb>
@@ -253,59 +253,59 @@
 			<description>Active Directory Lightweight Directory Services for Windows 7</description>
 			<url>http://download.microsoft.com/download/7/3/9/73982B95-A8C9-4B6C-BD85-6EC620BB0A7A/Windows6.1-KB975541-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2462137</kb>
 			<date>2010/12/22</date>
 			<size>1.77 MB</size>
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB2462137-v2-x86.msu</name>
 			<description>AD MMC snap-in and Administrative Center display Serbia and Montenegro as one country instead of as two countries</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix354590/7600/free/425813_intl_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2462137-v2-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2539513</kb>
 			<date>2011/05/04</date>
 			<size>286 KB</size>
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB2539513-x86.msu</name>
 			<description>The repadmin command keeps running when you try to look up the users who have their passwords stored on the RODC</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix368782/7600/free/432667_intl_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2539513-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2589154</kb>
 			<date>2011/08/17</date>
 			<size>498 KB</size>
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB2589154-x86.msu</name>
 			<description>Active Directory Users and Computers MMC snap-in crashes when you try to delete an RODC</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix378680/7600/free/436291_intl_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2589154-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2647644</kb>
 			<date>2011/12/21</date>
 			<size>581 KB</size>
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB2647644-v2-x86.msu</name>
 			<description>You cannot clear the "Use Issuer for alternate security identity" check box</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix386410/7600/free/440990_intl_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2647644-v2-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2898997</kb>
 			<date>2013/12/09</date>
 			<size>401 KB</size>
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB2898997-x86.msu</name>
 			<description>Adamsync fails when you synchronize tombstoned objects</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix476839/7600/free/471141_intl_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2898997-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3012660</kb>
 			<date>2014/11/18</date>
 			<size>221 KB</size>
 			<category>Extra/AD_LDS/Updates</category>
 			<name>Windows6.1-KB3012660-x86.msu</name>
 			<description>The update is not applicable to your computer error when you install AD LDS update</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix525740/7600/free/481921_intl_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB3012660-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2666914</kb>
@@ -325,41 +325,41 @@
 			<description>Update that extends the File Management APIs to provide discovery and restoration of deleted files</description>
 			<url>http://download.microsoft.com/download/F/6/5/F65647F2-5961-4E9A-82E3-A16ADFA661C6/Windows6.1-KB943790-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB969168</kb>
 			<date>2009/09/21</date>
 			<size>2.36 MB</size>
 			<category>Extra/Addons/MicrosoftAgent</category>
 			<name>Windows6.1-KB969168-x86.msu</name>
 			<description>Microsoft Agent-enabled programs do not work in Windows 7</description>
-			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Agent/latest/MSAgentWin7/200909210200/free/395039_intl_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB969168-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB974150</kb>
 			<date>2009/09/10</date>
 			<size>680 KB</size>
 			<category>Extra/Addons/NTBackup_en-us</category>
 			<name>Windows6.1-KB974150-x86.msu</name>
 			<description>Windows NT Backup Utility for Windows 7</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows7.0/nosp/NTBACKUPforWin7/1.000/free/396582_ENU_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB974150-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB974674</kb>
 			<date>2009/10/20</date>
 			<size>599 KB</size>
 			<category>Extra/Addons/NTBackup_en-us</category>
 			<name>Windows6.1-KB974674-x86.msu</name>
 			<description>Windows NT Backup Restore Utility for Windows 7</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server%202008%20R2/nosp/NTBackupRestoreOnlyVersion/1.000/free/400507_ENU_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB974674-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2503351</kb>
 			<date>2011/01/30</date>
 			<size>489 KB</size>
 			<category>Extra/Addons/WIF</category>
 			<name>Windows6.1-KB2503351-x86.msu</name>
 			<description>AD FS 2.0 does not parse non-string XML attribute values in SAML 2.0 assertions</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix363096/7600/free/427363_intl_i386_zip.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2503351-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB974405</kb>
@@ -4537,14 +4537,14 @@
 			<description>Windows Management Framework 4.0</description>
 			<url>http://download.microsoft.com/download/3/D/6/3D61D262-8549-4769-A660-230B67E15B25/Windows6.1-KB2819745-x86-MultiPkg.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3109118</kb>
 			<date>2016/01/08</date>
 			<size>14.35 MB</size>
 			<category>Extra/WMF4.0/Updates</category>
 			<name>Windows6.1-KB3109118-v4-x86.msu</name>
 			<description>WMF 4.0 Update package</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix3352135/7600/free/488938_intl_i386_zip.exe</url>
+			<url>https://cuckoo.sh/vmcloak/Windows6.1-KB3109118-v4-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2887535</kb>
@@ -4697,7 +4697,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2695321-v2-x86.msu</name>
 			<description>IPsec session takes 5 to 6 minutes to connect to a storage controller</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2695321-v2-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2695321-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2727994</kb>
@@ -4715,7 +4715,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2728738-v3-x86.msu</name>
 			<description>You experience a long logon time when on a computer with roaming profiles</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2728738-v3-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2728738-v3-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2752259</kb>
@@ -4724,7 +4724,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2752259-x86.msu</name>
 			<description>An update that improves the performance of the Printbrm.exe command-line tool</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2752259-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2752259-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2891144</kb>
@@ -4733,7 +4733,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2891144-x86.msu</name>
 			<description>Application does not draw polylines correctly when you run it through an RD Session</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2891144-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2891144-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2907020</kb>
@@ -4742,7 +4742,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2907020-x86.msu</name>
 			<description>Location is not available error when you access a mapped network drive after Windows standby or resume</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2907020-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2907020-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2918833</kb>
@@ -4751,7 +4751,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2918833-v2-x86.msu</name>
 			<description>Third-party IMEs give users unprotected access to your system</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2918833-v2-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2918833-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2923766</kb>
@@ -4760,7 +4760,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2923766-v5-x86.msu</name>
 			<description>Black screen when you plug in a monitor on a computer or open a lid of a laptop</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2923766-v5-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2923766-v5-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2925489</kb>
@@ -4769,7 +4769,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2925489-v3-x86.msu</name>
 			<description>You cannot establish an IPsec connection with certain third-party devices</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2925489-v3-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2925489-v3-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2990184</kb>
@@ -4778,7 +4778,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2990184-v2-x86.msu</name>
 			<description>A FIPS-compliant recovery password cannot be saved to AD DS for BitLocker</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2990184-v2-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2990184-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4021918</kb>

@@ -116,7 +116,7 @@
 			<category>Hotfix</category>
 			<name>gfx2010-kb2760787-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (gfx-x-none.msp)</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/gfx2010-kb2760787-fullfile-x64-glb.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/gfx2010-kb2760787-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2881030</kb>
@@ -188,7 +188,7 @@
 			<category>Hotfix</category>
 			<name>lobi2010-kb2553398-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (lobi-x-none.msp)</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/lobi2010-kb2553398-fullfile-x64-glb.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/lobi2010-kb2553398-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2880971</kb>
@@ -359,7 +359,7 @@
 			<category>Hotfix</category>
 			<name>olc2010-kb2726880-fullfile-x64-glb.msp</name>
 			<description>Microsoft Office 2010 (Outlook Hotmail Connector)</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/olc2010-kb2726880-fullfile-x64-glb.msp</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/olc2010-kb2726880-fullfile-x64-glb.msp</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461579</kb>
@@ -458,7 +458,7 @@
 			<category>Hotfix</category>
 			<name>owssupp2010-kb2553170-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (Owssupp-x-none.msp)</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/owssupp2010-kb2553170-fullfile-x64-glb.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/owssupp2010-kb2553170-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054882</kb>

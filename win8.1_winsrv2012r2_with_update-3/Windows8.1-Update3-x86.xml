@@ -125,7 +125,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3048803-x86.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.0 SP2: April 14, 2015</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3048803-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB3048803-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3072307</kb>
@@ -152,7 +152,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3096438-v2-x86.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.5: October 13, 2015</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3096438-v2-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB3096438-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097992</kb>
@@ -1241,7 +1241,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB2908802-x86.msu</name>
 			<description>"Installation Prevented by Policy" warning is not displayed when you install a device</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB2908802-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB2908802-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2966038</kb>
@@ -1358,7 +1358,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3024680-v2-x86.msu</name>
 			<description>The tile of an upgraded side-loaded app is not updated</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3024680-v2-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB3024680-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3024681</kb>
@@ -1547,7 +1547,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3067699-x86.msu</name>
 			<description>Application can't receive data in the serialized order through a Bluetooth LE device</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3067699-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB3067699-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3071675</kb>
@@ -1556,7 +1556,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3071675-x86.msu</name>
 			<description>Windows Fabric traces stop working on virtual machines</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3071675-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB3071675-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3071787</kb>
@@ -1637,7 +1637,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3080734-x86.msu</name>
 			<description>Network adapters may not connect after you resume a computer that is out of docking station range</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3080734-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB3080734-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3082808</kb>
@@ -1673,7 +1673,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3093571-x86.msu</name>
 			<description>Update to replicate multiple VM groups and VMs that use shared VHDs</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3093571-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB3093571-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3102770</kb>
@@ -1709,7 +1709,7 @@
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3116302-x86.msu</name>
 			<description>Throttling policy is ignored for BITS traffic</description>
-			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3116302-x86.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB3116302-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080149</kb>
