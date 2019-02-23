@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/01/15" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/02/12" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -118,14 +118,14 @@
 			<description>Security update for the .NET Framework 3.5: April 14, 2015</description>
 			<url>http://download.microsoft.com/download/8/1/3/81370BD4-3765-4C17-803D-3A2D483889E2/Windows8.1-KB3037576-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3048803</kb>
 			<date>2015/03/23</date>
 			<size>6.11 MB</size>
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3048803-x86.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.0 SP2: April 14, 2015</description>
-			<url>https://hotfixv4.trafficmanager.net/.NET%20Framework%203.5,%20Windows%208.1%20RTM,%20Windows%20Server%202012%20R2%20RTM/nosp/DevDiv1060564/30729.8664/free/483868_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3048803-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3072307</kb>
@@ -145,14 +145,14 @@
 			<description>Security update for the .NET Framework 3.5: September 8, 2015</description>
 			<url>http://download.microsoft.com/download/1/9/8/198342D8-AA34-4E90-B626-136074B7F749/Windows8.1-KB3074545-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3096438</kb>
 			<date>2015/09/22</date>
 			<size>5.56 MB</size>
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3096438-v2-x86.msu</name>
 			<description>Hotfix rollup for the .NET Framework 3.5: October 13, 2015</description>
-			<url>https://hotfixv4.trafficmanager.net/.NET%20Framework%203.5,%20Windows%208.1%20RTM,%20Windows%20Server%202012%20R2%20RTM/nosp/DevDiv1087089/50727.8669/free/488092_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3096438-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097992</kb>
@@ -191,13 +191,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4054999-x86_ab1d1a2831cdd588de1551786c1372025e2997e8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4480064</kb>
-			<date>2018/12/05</date>
-			<size>17.12 MB</size>
+			<kb>KB4483459</kb>
+			<date>2018/12/27</date>
+			<size>17.27 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4480064-x86.msu</name>
+			<name>Windows8.1-KB4483459-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windows8.1-kb4480064-x86_ab9e5f2c36a2ba06545917b8c41116833ba52a16.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/02/windows8.1-kb4483459-x86_f1f029f670ec49b034976040f2f1600a7ac2691c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -1234,14 +1234,14 @@
 			<description>June 2017 Hyper-V guest integration components</description>
 			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/windows6.2-hypervintegrationservices-x86.cab</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2908802</kb>
 			<date>2015/01/28</date>
 			<size>304 KB</size>
 			<category>Hotfix</category>
 			<name>Windows8.1-KB2908802-x86.msu</name>
 			<description>"Installation Prevented by Policy" warning is not displayed when you install a device</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix526307/9600/free/481886_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB2908802-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2966038</kb>
@@ -1333,14 +1333,14 @@
 			<description>A custom authentication package causes an error on a computer that is running Windows 8.1</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/03/windows8.1-kb3022752-x86_bc1230e83a633ef6e2d4eee327805fa0c530b546.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3022776</kb>
 			<date>2015/02/08</date>
 			<size>5.65 MB</size>
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3022776-v3-x86.msu</name>
 			<description>Update to add support for Generic Routing Encapsulation in Windows 8.1</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix527713/9600/free/481142_intl_i386_zip.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/03/windows8.1-kb3022776-v3-x86_8c62cf8253e464c0edb9a8ce49bf23ff4e1740b2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3024260</kb>
@@ -1351,14 +1351,14 @@
 			<description>OK and Cancel buttons are missing from the Local Devices and Resources dialog box</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/01/windows8.1-kb3024260-x86_89af37a31f870dba5174f55c32a758329d0eeee6.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3024680</kb>
 			<date>2015/01/29</date>
 			<size>347 KB</size>
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3024680-v2-x86.msu</name>
 			<description>The tile of an upgraded side-loaded app is not updated</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix528704/9600/free/481935_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3024680-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3024681</kb>
@@ -1540,23 +1540,23 @@
 			<description>Strong key protection cannot be enforced</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/07/windows8.1-kb3066685-x86_004cb22206e999e23bd76b580b3fe73800763fec.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3067699</kb>
 			<date>2015/07/15</date>
 			<size>294 KB</size>
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3067699-x86.msu</name>
 			<description>Application can't receive data in the serialized order through a Bluetooth LE device</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3362128/9600/free/485831_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3067699-x86.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3071675</kb>
 			<date>2015/06/10</date>
 			<size>602 KB</size>
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3071675-x86.msu</name>
 			<description>Windows Fabric traces stop working on virtual machines</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix92958/9600/free/485271_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3071675-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3071787</kb>
@@ -1630,14 +1630,14 @@
 			<description>eMMC device is not detected as a storage device by Windows</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/08/windows8.1-kb3078919-x86_697df151a605c374e4949834281c7303a0635b4c.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3080734</kb>
 			<date>2015/07/25</date>
 			<size>354 KB</size>
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3080734-x86.msu</name>
 			<description>Network adapters may not connect after you resume a computer that is out of docking station range</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3504722/9600/free/486019_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3080734-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3082808</kb>
@@ -1666,14 +1666,14 @@
 			<description>Site-to-site VPN goes down when you set a VNet-to-VNet connection in Azure</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/10/windows8.1-kb3091402-v4-x86_c203eaa8921145eae18c44e88309ffcabccd32b9.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3093571</kb>
 			<date>2015/09/05</date>
 			<size>396 KB</size>
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3093571-x86.msu</name>
 			<description>Update to replicate multiple VM groups and VMs that use shared VHDs</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix3364121/9600/free/487086_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3093571-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3102770</kb>
@@ -1702,14 +1702,14 @@
 			<description>Slow performance when you access Azure files storage</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/12/windows8.1-kb3114025-v2-x86_3241598889315452426283a8214f36f92773be55.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB3116302</kb>
 			<date>2015/11/11</date>
 			<size>476 KB</size>
 			<category>Hotfix</category>
 			<name>Windows8.1-KB3116302-x86.msu</name>
 			<description>Throttling policy is ignored for BITS traffic</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%208.1/Windows%20Server%202012%20R2/sp1/Fix5343171/9600/free/488377_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W9600/Windows8.1-KB3116302-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080149</kb>
@@ -2072,42 +2072,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x86_7762ebdf20fb0b1fb64cbc92ddba4582bc3fac0a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4480054</kb>
-			<date>2018/12/03</date>
-			<size>29.12 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4480054-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windows8.1-kb4480054-x86_97af28d983f514aef7f3a7258106604fd3992b63.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4480095</kb>
-			<date>2018/12/09</date>
-			<size>29.25 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4480095-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/01/windows8.1-kb4480095-x86_e1ca0e4a46e3f0efdb8969cab40a3cc48f2a4c60.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4480969</kb>
-			<date>2018/01/10</date>
-			<size>207.16 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4480969-x86.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/01/windows8.1-kb4480969-x86_aaf93cc92d9ebd3fda84bfe893d81bd87d75a94b.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4480979</kb>
-			<date>2019/01/02</date>
-			<size>10.22 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4480979-x86.msu</name>
-			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windows8.1-kb4480979-x86_f4e7a2f2038c9703898f50ee4e49ea3c18679b84.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4483187</kb>
 			<date>2018/12/17</date>
 			<size>29.48 MB</size>
@@ -2115,6 +2079,33 @@
 			<name>Windows8.1-KB4483187-x86.msu</name>
 			<description>Cumulative security update for Internet Explorer 11: December 19, 2018</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windows8.1-kb4483187-x86_d656e3f74d87aec03c72aef6ac39e4d4ee9e60bc.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4483450</kb>
+			<date>2018/12/20</date>
+			<size>29.26 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4483450-x86.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/02/windows8.1-kb4483450-x86_667ac8e64a198f901e565de3ccac3ffd33570983.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4487000</kb>
+			<date>2019/02/07</date>
+			<size>207.63 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4487000-x86.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows8.1-kb4487000-x86_6618323ec6e7d9bc6f8cdcf31316a122374fe1cd.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4487038</kb>
+			<date>2019/02/02</date>
+			<size>10.22 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4487038-x86.msu</name>
+			<description>Update for Vulnerabilities in Adobe Flash Player</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows8.1-kb4487038-x86_a5e69da0d3bfba89f0cad95a4935e88c2ebf90e3.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

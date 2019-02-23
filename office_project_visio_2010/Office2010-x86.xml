@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/02/05" architecture="x86" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/02/12" architecture="x86" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB3114416</kb>
@@ -20,13 +20,13 @@
 			<url>http://download.microsoft.com/download/C/6/2/C621D4EC-9D87-4CE2-ABDB-D216F224127F/accessolkaddin2010-kb2791057-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3114874</kb>
-			<date>2018/01/19</date>
-			<size>4.30 MB</size>
+			<kb>KB4018313</kb>
+			<date>2019/01/23</date>
+			<size>4.28 MB</size>
 			<category>Security</category>
-			<name>ace2010-kb3114874-fullfile-x86-glb.exe</name>
+			<name>ace2010-kb4018313-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/1/5/0/150159F1-14BB-456A-AE0D-39F36A20DE9E/ace2010-kb3114874-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/9/7/097269E8-DEF2-40DB-B4F5-58CBB0996722/ace2010-kb4018313-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213626</kb>
@@ -56,13 +56,13 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461577</kb>
-			<date>2018/11/16</date>
+			<kb>KB4462186</kb>
+			<date>2019/01/23</date>
 			<size>36.15 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4461577-fullfile-x86-glb.exe</name>
+			<name>excel2010-kb4462186-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/9/4/E/94E7FA20-47D6-4A05-A47B-045B8151D501/excel2010-kb4461577-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/7/A/A7A5293C-7E16-4CFE-A4B2-A466F1F9C47E/excel2010-kb4462186-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956084</kb>
@@ -109,14 +109,14 @@
 			<description>Microsoft Office 2010 (Arial Narrow Font)</description>
 			<url>http://download.microsoft.com/download/8/B/0/8B04E37D-B53E-4936-9C29-6F92F8EBC162/gfonts2010-kb2589386-fullfile-x86-glb.exe</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2760787</kb>
 			<date>2014/03/13</date>
 			<size>1.96 MB</size>
 			<category>Hotfix</category>
 			<name>gfx2010-kb2760787-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (gfx-x-none.msp)</description>
-			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Office%202010/sp2/gfx2010kb2760787fullfilex86glb/14.0.7121.5000/free/474437_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/gfx2010-kb2760787-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2881030</kb>
@@ -128,13 +128,13 @@
 			<url>http://download.microsoft.com/download/9/0/3/90397B8B-F3B1-43AB-AB07-1E2BF2A04AD8/gkall2010-kb2881030-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461570</kb>
-			<date>2018/11/16</date>
+			<kb>KB4462177</kb>
+			<date>2019/01/23</date>
 			<size>2.95 MB</size>
 			<category>Security</category>
-			<name>graph2010-kb4461570-fullfile-x86-glb.exe</name>
+			<name>graph2010-kb4462177-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/2/A/8/2A86E63D-10BC-4592-A8D3-D50DE070329F/graph2010-kb4461570-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/7/A/4/7A43E31E-51FB-49AB-9523-4A10247D379D/graph2010-kb4462177-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2878231</kb>
@@ -181,14 +181,14 @@
 			<description>Microsoft InfoPath 2010 (InfoPath Editor)</description>
 			<url>http://download.microsoft.com/download/6/8/9/6898AFCC-5636-4F50-BE8A-1C7E93AAA2F3/ipeditor2010-kb2817369-fullfile-x86-glb.exe</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2553398</kb>
 			<date>2014/05/22</date>
 			<size>2.05 MB</size>
 			<category>Hotfix</category>
 			<name>lobi2010-kb2553398-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (lobi-x-none.msp)</description>
-			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Office%202010/sp2/lobi2010kb2553398fullfilex86glb/14.0.7126.5000/free/476683_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/lobi2010-kb2553398-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2880971</kb>
@@ -236,13 +236,13 @@
 			<url>http://download.microsoft.com/download/C/D/8/CD8A3590-D8E1-4A7F-AF97-D66DCFC6AEB4/mshelp2010-kb2850016-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462157</kb>
-			<date>2019/01/17</date>
-			<size>9.42 MB</size>
-			<category>General</category>
-			<name>mso2010-kb4462157-fullfile-x86-glb.exe</name>
+			<kb>KB4462174</kb>
+			<date>2019/01/23</date>
+			<size>9.25 MB</size>
+			<category>Security</category>
+			<name>mso2010-kb4462174-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/6/2/C/62C91290-BBA6-4F84-BE26-02E53B25621D/mso2010-kb4462157-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/0/E/90ECE5C4-6CB7-48FE-89D0-DF9E8E6F0143/mso2010-kb4462174-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589375</kb>
@@ -361,14 +361,14 @@
 			<description>Microsoft Office 2010 (Office Graphics Library)</description>
 			<url>http://download.microsoft.com/download/6/F/1/6F13F16E-458F-420A-BF0E-0A3BA24FC6B2/ogl2010-kb3213638-fullfile-x86-glb.exe</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2726880</kb>
 			<date>2014/10/15</date>
 			<size>16.73 MB</size>
 			<category>Hotfix</category>
-			<name>olcoscoutlook2010-kb2726880-fullfile-x86-glb.exe</name>
+			<name>olc2010-kb2726880-fullfile-x86-glb.msp</name>
 			<description>Microsoft Office 2010 (Outlook Hotmail Connector)</description>
-			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Office%202010/sp2/olcoscoutlook2010kb2726880fullfilex86glb/14.0.7137.5000/free/479949_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/olc2010-kb2726880-fullfile-x86-glb.msp</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461579</kb>
@@ -467,7 +467,7 @@
 			<category>Hotfix</category>
 			<name>owssupp2010-kb2553170-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Owssupp-x-none.msp)</description>
-			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Office%202010/sp2/owssupp2010kb2553170fullfilex86glb/14.0.7113.5000/free/471216_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/owssupp2010-kb2553170-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054882</kb>

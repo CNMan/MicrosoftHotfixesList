@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/02/05" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/02/12" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4032252</kb>
@@ -11,13 +11,13 @@
 			<url>http://download.microsoft.com/download/5/6/0/560E8F0C-4BE7-4CD9-A8B3-28FB25B8CF2F/access2013-kb4032252-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3172459</kb>
-			<date>2018/01/18</date>
+			<kb>KB4018300</kb>
+			<date>2019/01/22</date>
 			<size>10.24 MB</size>
 			<category>Security</category>
-			<name>ace2013-kb3172459-fullfile-x86-glb.exe</name>
+			<name>ace2013-kb4018300-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/7/B/7/7B71ECE2-5933-4D91-BCD4-9F778621858B/ace2013-kb3172459-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/F/B/2/FB29C49F-FCA6-467B-BE2B-8F664EF243ED/ace2013-kb4018300-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2899522</kb>
@@ -92,13 +92,13 @@
 			<url>http://download.microsoft.com/download/A/5/8/A588276E-D83D-4B67-A60A-3CEA9F67B191/eqnedt322013-kb4011580-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461559</kb>
-			<date>2018/11/20</date>
-			<size>89.67 MB</size>
+			<kb>KB4461597</kb>
+			<date>2019/01/22</date>
+			<size>89.66 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb4461559-fullfile-x86-glb.exe</name>
+			<name>excel2013-kb4461597-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/8/8/A/88ADFE65-D105-4F3A-9521-89B0EE340B25/excel2013-kb4461559-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/E/B/D/EBD23C40-55C5-4F30-918F-D12EE45CB4A0/excel2013-kb4461597-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -199,14 +199,14 @@
 			<description>Microsoft Office 2013 (Contact Metadata Picker)</description>
 			<url>http://download.microsoft.com/download/3/E/5/3E5A8B0E-8016-4DDC-8241-4C436FBD0057/infopathpc2013-kb3127916-fullfile-x86-glb.exe</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2825670</kb>
 			<date>2014/03/15</date>
 			<size>1.29 MB</size>
 			<category>Hotfix</category>
 			<name>ipdmctrl2013-kb2825670-fullfile-x86-glb.exe</name>
 			<description>Microsoft InfoPath 2013 (Ipdmctrl-x-none.msp)</description>
-			<url>https://hotfixv4.trafficmanager.net/Microsoft%20InfoPath%202013/sp1/ipdmctrl2013kb2825670fullfilex86glb/15.0.4605.1000/free/474503_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/ipdmctrl2013-kb2825670-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022181</kb>
@@ -263,13 +263,13 @@
 			<url>http://download.microsoft.com/download/6/9/5/6955ECA7-6A0C-428A-A298-6B6FE9291537/msmipc2013-kb3172523-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461537</kb>
-			<date>2018/12/14</date>
+			<kb>KB4462138</kb>
+			<date>2019/01/22</date>
 			<size>153.48 MB</size>
 			<category>Security</category>
-			<name>mso2013-kb4461537-fullfile-x86-glb.exe</name>
+			<name>mso2013-kb4462138-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/2/F/1/2F1E69DF-8DD4-4459-A719-438A2C6811D1/mso2013-kb4461537-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/D/B/A/DBA8581D-E4D3-420B-A056-AA33A8AAE0F6/mso2013-kb4462138-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172522</kb>
@@ -631,14 +631,14 @@
 			<description>Microsoft Office 2013 (Upload Center Extension)</description>
 			<url>http://download.microsoft.com/download/B/4/A/B4ABE186-3DCE-4DE8-AC48-5198AA7F2B15/wxpnse2013-kb3039701-fullfile-x86-glb.exe</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2883063</kb>
 			<date>2014/08/20</date>
 			<size>1.40 MB</size>
 			<category>Hotfix</category>
 			<name>xmleditverbhandler2013-kb2883063-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Office XML Handler)</description>
-			<url>https://hotfixv4.trafficmanager.net/Microsoft%20Office%202013/sp1/xmleditverbhandler2013kb2883063fullfilex/15.0.4649.1001/free/478281_intl_i386_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/Office/xmleditverbhandler2013-kb2883063-fullfile-x86-glb.exe</url>
 		</update>
 	</updates>
 </hotfixlist>
