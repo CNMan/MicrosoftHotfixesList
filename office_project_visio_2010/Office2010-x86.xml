@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/01/18" architecture="x86" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/02/05" architecture="x86" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB3114416</kb>
@@ -308,22 +308,22 @@
 			<url>http://download.microsoft.com/download/D/A/8/DA82D778-6839-4725-8B8C-8B08CEEAB0BD/mtextra2010-kb4092436-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3115197</kb>
-			<date>2018/05/17</date>
-			<size>8.54 MB</size>
-			<category>Security</category>
-			<name>oart2010-kb3115197-fullfile-x86-glb.exe</name>
+			<kb>KB4462172</kb>
+			<date>2019/01/23</date>
+			<size>8.34 MB</size>
+			<category>General</category>
+			<name>oart2010-kb4462172-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (OfficeArt)</description>
-			<url>http://download.microsoft.com/download/B/6/3/B638986D-E803-4488-8F34-6342F8E48E23/oart2010-kb3115197-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/5/0/25069945-0C04-4214-96E4-B5B3210F607F/oart2010-kb4462172-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3115248</kb>
-			<date>2018/05/17</date>
+			<kb>KB4462187</kb>
+			<date>2019/01/23</date>
 			<size>4.70 MB</size>
-			<category>Security</category>
-			<name>oartconv2010-kb3115248-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>oartconv2010-kb4462187-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (OfficeArt Converter)</description>
-			<url>http://download.microsoft.com/download/1/5/D/15DFE136-E8B0-427C-B61A-DF292F0A1991/oartconv2010-kb3115248-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/B/E/6BE0D275-3F94-4DDE-8C9B-F6644A334334/oartconv2010-kb4462187-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2553347</kb>
@@ -452,13 +452,13 @@
 			<url>http://download.microsoft.com/download/C/3/E/C3E65E20-CAF4-48C5-9176-BF012C1D0F39/outlfltr2010-kb3115475-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461623</kb>
-			<date>2018/12/18</date>
+			<kb>KB4462182</kb>
+			<date>2019/01/23</date>
 			<size>84.22 MB</size>
-			<category>Security</category>
-			<name>outlookloc2010-kb4461623-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>outlookloc2010-kb4462182-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2010</description>
-			<url>http://download.microsoft.com/download/2/0/5/205485E9-26EB-4197-8025-98227AF753DA/outlookloc2010-kb4461623-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/5/8/A589EB05-4E4A-4200-9AB6-B0263AE804D8/outlookloc2010-kb4462182-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2553170</kb>
@@ -560,13 +560,13 @@
 			<url>http://download.microsoft.com/download/9/5/C/95CCE159-8D86-41E1-8B67-088C07556538/vbe72010-kb3128031-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3114872</kb>
-			<date>2016/05/17</date>
-			<size>21.02 MB</size>
-			<category>Security</category>
-			<name>visio2010-kb3114872-fullfile-x86-glb.exe</name>
+			<kb>KB3115314</kb>
+			<date>2019/01/23</date>
+			<size>21.10 MB</size>
+			<category>General</category>
+			<name>visio2010-kb3115314-fullfile-x86-glb.exe</name>
 			<description>Microsoft Visio 2010</description>
-			<url>http://download.microsoft.com/download/8/6/0/860C39D6-F177-43F6-9592-80D9AE2F2800/visio2010-kb3114872-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/F/F/B/FFB6EF65-5555-43DA-91E4-8C4B8054AEB1/visio2010-kb3115314-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2881025</kb>
