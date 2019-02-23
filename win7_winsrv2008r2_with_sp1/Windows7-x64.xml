@@ -82,14 +82,14 @@
 			<description>The values of the 32-bit versions of two registry entries are incorrect in 64-bit versions</description>
 			<url>http://download.microsoft.com/download/9/5/9/959A7CAA-CBC1-44F9-B81E-A74348599ABC/Windows6.1-KB2603229-x64.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2646060</kb>
 			<date>2011/12/05</date>
 			<size>184 KB</size>
 			<category>Additional/_NotAllowedOffline</category>
 			<name>Windows6.1-KB2646060-v3-x64.msu</name>
 			<description>An update that selectively disables the Core Parking feature</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix391262/7600/free/441280_intl_x64_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2695321-v2-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3046269</kb>
@@ -4753,14 +4753,14 @@
 			<description>Error opening Help in Windows-based programs: "Feature not included" or "Help not supported"</description>
 			<url>http://download.microsoft.com/download/9/A/8/9A8FCFAA-78A0-49F5-8C8E-4EAE185F515C/Windows6.1-KB917607-x64.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2695321</kb>
 			<date>2012/09/17</date>
 			<size>1.37 MB</size>
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2695321-v2-x64.msu</name>
 			<description>IPsec session takes 5 to 6 minutes to connect to a storage controller</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix399800/7600/free/449908_intl_x64_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2695321-v2-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2727994</kb>
@@ -4771,77 +4771,77 @@
 			<description>You cannot open or save Office 2010 documents on a WebDAV file server</description>
 			<url>http://download.windowsupdate.com/msdownload/update/software/htfx/2013/04/windows6.1-kb2727994-v3-x64_c3ee2b7aec7a02cfe413337703610c1ef062fe49.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2728738</kb>
 			<date>2013/07/12</date>
 			<size>575 KB</size>
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2728738-v3-x64.msu</name>
 			<description>You experience a long logon time when on a computer with roaming profiles</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix465791/7600/free/465888_intl_x64_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2728738-v3-x64.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2752259</kb>
 			<date>2012/09/03</date>
 			<size>0.99 MB</size>
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2752259-x64.msu</name>
 			<description>An update that improves the performance of the Printbrm.exe command-line tool</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix403744/7600/free/452683_intl_x64_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2752259-x64.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2891144</kb>
 			<date>2013/09/19</date>
 			<size>330 KB</size>
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2891144-x64.msu</name>
 			<description>Application does not draw polylines correctly when you run it through an RD Session</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix458381/7600/free/468390_intl_x64_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2891144-x64.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2907020</kb>
 			<date>2013/12/26</date>
 			<size>333 KB</size>
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2907020-x64.msu</name>
 			<description>Location is not available error when you access a mapped network drive after Windows standby or resume</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix480275/7600/free/471627_intl_x64_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2907020-x64.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2918833</kb>
 			<date>2014/02/05</date>
 			<size>952 KB</size>
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2918833-v2-x64.msu</name>
 			<description>Third-party IMEs give users unprotected access to your system</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490641/7600/free/472698_intl_x64_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2918833-v2-x64.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2923766</kb>
 			<date>2014/02/11</date>
 			<size>785 KB</size>
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2923766-v5-x64.msu</name>
 			<description>Black screen when you plug in a monitor on a computer or open a lid of a laptop</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix485015/7600/free/471898_intl_x64_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2923766-v5-x64.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2925489</kb>
 			<date>2014/02/10</date>
 			<size>1.18 MB</size>
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2925489-v3-x64.msu</name>
 			<description>You cannot establish an IPsec connection with certain third-party devices</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix486093/7600/free/471854_intl_x64_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2925489-v3-x64.msu</url>
 		</update>
-		<update extract="1">
+		<update extract="0">
 			<kb>KB2990184</kb>
 			<date>2015/03/19</date>
 			<size>12.23 MB</size>
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2990184-v2-x64.msu</name>
 			<description>A FIPS-compliant recovery password cannot be saved to AD DS for BitLocker</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix498634/7600/free/483151_intl_x64_zip.exe</url>
+			<url>https://gitlab.com/stdout12/htfx/raw/master/W7601/Windows6.1-KB2990184-v2-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4021918</kb>
