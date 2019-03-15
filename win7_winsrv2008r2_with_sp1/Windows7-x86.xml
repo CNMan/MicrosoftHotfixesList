@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/02/19" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/12" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -89,16 +89,7 @@
 			<category>Additional/_NotAllowedOffline</category>
 			<name>Windows6.1-KB3046269-x86.msu</name>
 			<description>Vulnerability in Windows Task Scheduler could allow elevation of privilege: April 14, 2015</description>
-			<url>http://download.microsoft.com/download/B/1/0/B10F8659-77CE-4139-8C34-B046950641A4/Windows6.1-KB3046269-x86.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3177467</kb>
-			<date>2018/09/15</date>
-			<size>4.01 MB</size>
-			<category>Additional/_NotAllowedOffline</category>
-			<name>Windows6.1-KB3177467-v2-x86.msu</name>
-			<description>Servicing stack update: September 20, 2016</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2018/09/windows6.1-kb3177467-v2-x86_abd69a188878d93212486213990c8caab4d6ae57.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows6.1-kb3046269-x86_dad279443dc5e3446bb2b478252c90d5f115faf1.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4099950</kb>
@@ -116,7 +107,7 @@
 			<category>Additional/_NotAllowedOffline</category>
 			<name>Windows6.1-KB947821-v34-x86.msu</name>
 			<description>Use System Update Readiness Tool to fix Windows Update or Packages corruption errors</description>
-			<url>http://download.microsoft.com/download/4/7/A/47A0F7B9-1F0F-41B0-AA42-00FD16337268/Windows6.1-KB947821-v34-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.1-kb947821-v34-x86_49649cb633aa4ff044cd70602ac777a0ec6f8630.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4054529</kb>
@@ -170,7 +161,7 @@
 			<category>Additional/RDP</category>
 			<name>Windows6.1-KB2574819-v2-x86.msu</name>
 			<description>An update to adds support for DTLS in Windows 7 SP1</description>
-			<url>http://download.microsoft.com/download/A/D/4/AD4875AF-38B3-42C7-9915-16C7505C15DE/Windows6.1-KB2574819-v2-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/06/windows6.1-kb2574819-v2-x86_219ef0b5d7e89489e3f0f01e264ec576cc3d66ad.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2592687</kb>
@@ -179,7 +170,7 @@
 			<category>Additional/RDP</category>
 			<name>Windows6.1-KB2592687-x86.msu</name>
 			<description>Remote Desktop Protocol 8.0</description>
-			<url>http://download.microsoft.com/download/1/E/2/1E2A08C9-B87B-4808-94A6-30BC9D65775E/Windows6.1-KB2592687-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows6.1-kb2592687-x86_4c11d26c8e1824643ce1caf60c30693d6536d0a2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2830477</kb>
@@ -188,7 +179,7 @@
 			<category>Additional/RDP</category>
 			<name>Windows6.1-KB2830477-x86.msu</name>
 			<description>Remote Desktop Protocol 8.1</description>
-			<url>http://download.microsoft.com/download/2/B/2/2B280EDD-FDA9-4044-9FB4-A3BE7CBF9AB1/Windows6.1-KB2830477-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/11/windows6.1-kb2830477-x86_1319bd953bf956b82e30f7dee5994f3558ec7fdd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB971033</kb>
@@ -224,7 +215,7 @@
 			<category>Additional/Windows10</category>
 			<name>Windows6.1-KB3021917-x86.msu</name>
 			<description>Update for performance improvements</description>
-			<url>http://download.microsoft.com/download/A/2/E/A2EEE418-C730-4B3C-B7CA-C6E844D041BC/Windows6.1-KB3021917-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/01/windows6.1-kb3021917-x86_ff5000442a7483421b061ba9b01ddd3cfafbaf6c.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB3191566</kb>
@@ -377,7 +368,7 @@
 			<category>Extra/Addons/WorkFolders</category>
 			<name>Windows6.1-KB2891638-x86.msu</name>
 			<description>Work Folders is available on Windows 7 client</description>
-			<url>http://download.microsoft.com/download/B/1/6/B16D8B84-7A77-4D02-A82F-E82DDEEE44A5/Windows6.1-KB2891638-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/06/windows6.1-kb2891638-x86_a91acb62bdfbc6447d1aa4204b426699a01a3e54.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2718695</kb>
@@ -431,7 +422,7 @@
 			<category>Extra/IE10/Updates</category>
 			<name>IE10-Windows6.1-KB3124275-x86.msu</name>
 			<description>Cumulative Security update for Internet Explorer</description>
-			<url>http://download.microsoft.com/download/D/F/A/DFA3EA7B-5DE5-4892-9880-9AD4C6641AEC/IE10-Windows6.1-KB3124275-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/12/ie10-windows6.1-kb3124275-x86_9f4fd4d9e30237b5974388a0072a9d8a21074a11.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2598845</kb>
@@ -440,7 +431,7 @@
 			<category>Extra/IE8</category>
 			<name>Windows6.1-KB2598845-x86.msu</name>
 			<description>Compatibility View list update for Internet Explorer 8: October 25, 2011</description>
-			<url>http://download.microsoft.com/download/D/B/F/DBF33AAC-F152-4813-9A12-EBCBFAF1BCCC/Windows6.1-KB2598845-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2011/10/windows6.1-kb2598845-x86_4919368631096fa3e374241058a52123b644d8e7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3038314</kb>
@@ -449,7 +440,7 @@
 			<category>Extra/IE8</category>
 			<name>Windows6.1-KB3038314-x86.msu</name>
 			<description>Cumulative Security update for Internet Explorer: April 14, 2015</description>
-			<url>http://download.microsoft.com/download/8/5/B/85BC655D-16F7-4F47-BEBE-CA597B398DAF/Windows6.1-KB3038314-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/04/windows6.1-kb3038314-x86_33c4b15b813f97283de9e4a1178f36eb5c099d5d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3124275</kb>
@@ -476,7 +467,7 @@
 			<category>Extra/IE9/Updates</category>
 			<name>IE9-Windows6.1-KB3124275-x86.msu</name>
 			<description>Cumulative Security update for Internet Explorer</description>
-			<url>http://download.microsoft.com/download/C/C/7/CC7341D1-7EBB-477B-9EBA-C60A131640CA/IE9-Windows6.1-KB3124275-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/12/ie9-windows6.1-kb3124275-x86_bd6749602e582dae39c088e06fea2baaa84c2902.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB968211</kb>
@@ -557,7 +548,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2506928-v2-x86.msu</name>
 			<description>A link in an .html file that you open in Outlook does not work</description>
-			<url>http://download.microsoft.com/download/E/8/0/E80B4BAE-058B-4CA8-998B-E88720A0A1C1/Windows6.1-KB2506928-v2-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2011/04/windows6.1-kb2506928-v2-x86_7fe78b5c38e2eef3f17bc04925421b6eddc902dc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2618301</kb>
@@ -575,7 +566,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2640148-v2-x86.msu</name>
 			<description>Windows Explorer stops responding if you try to expand a mapped drive</description>
-			<url>http://download.microsoft.com/download/4/3/E/43ED2C68-E83A-4C6D-ACA4-14CEB79FC487/Windows6.1-KB2640148-v2-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/02/windows6.1-kb2640148-v2-x86_fbd67bb52c3c78a6acdf20fff7c50cdd3809c7ed.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2660075</kb>
@@ -584,7 +575,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2660075-x86.msu</name>
 			<description>You cannot change the time and date if the time zone is set to Samoa (UTC+13:00)</description>
-			<url>http://download.microsoft.com/download/C/5/D/C5D8F0F5-566B-41AF-97FD-06F13E86E855/Windows6.1-KB2660075-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/02/windows6.1-kb2660075-x86_e6431b5444b18281fbb4bbdbebd488f588ee33d1.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2719857</kb>
@@ -593,7 +584,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2719857-x86.msu</name>
 			<description>You cannot use an USB RNDIS device to connect to a 3G or 4G network</description>
-			<url>http://download.microsoft.com/download/8/E/7/8E7B6E7F-D727-4CFC-8F43-8ADF028508FE/Windows6.1-KB2719857-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/09/windows6.1-kb2719857-x86_bbe53b55c9335c6da54aae9c71d9bfbc113e203b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2732059</kb>
@@ -602,7 +593,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2732059-v5-x86.msu</name>
 			<description>You cannot open an .oxps file in Windows 7</description>
-			<url>http://download.microsoft.com/download/B/2/B/B2B29C73-FEF8-433A-BF89-67B84C5D1521/Windows6.1-KB2732059-v5-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/09/windows6.1-kb2732059-v5-x86_dccdcff2975521afd586b44c0f66c6ef7d38b749.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2760730</kb>
@@ -620,7 +611,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2773072-x86.msu</name>
 			<description>Update changes the game rating systems</description>
-			<url>http://download.microsoft.com/download/1/7/1/1718BAD1-874E-48A0-93D2-89EABD15AE79/Windows6.1-KB2773072-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2013/01/windows6.1-kb2773072-x86_2e4f322442fe5f2ca2819f0052b164e9bbcd0f36.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2775511</kb>
@@ -647,7 +638,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2786081-x86.msu</name>
 			<description>Internet Explorer does not save credentials for a website after you log off or restart</description>
-			<url>http://download.microsoft.com/download/4/8/1/481C640E-D3EE-4ADC-AA48-6D0ED2869D37/Windows6.1-KB2786081-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/crup/2013/01/windows6.1-kb2786081-x86_70122aca48659bfb8a06bed08cb7047c0c45c5f4.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2800095</kb>
@@ -656,7 +647,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2800095-v2-x86.msu</name>
 			<description>Wudfhost.exe crashes when you plug in a USB-ICCD-compliant smart card device into a Windows computer</description>
-			<url>http://download.microsoft.com/download/0/F/F/0FFBE790-A853-4C4B-A30A-C74D5BD9C32D/Windows6.1-KB2800095-v2-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/06/windows6.1-kb2800095-v2-x86_b9f45f4653b51bef3b4e314a055e7721a1b75adb.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2808679</kb>
@@ -665,7 +656,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2808679-x86.msu</name>
 			<description>Update that protects from internal URL port scanning</description>
-			<url>http://download.microsoft.com/download/C/4/F/C4FD09E0-E84A-45A8-886B-1D282FBC66BB/Windows6.1-KB2808679-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/06/windows6.1-kb2808679-x86_cc43f0d998ba3b7c9aa170b5c7bdb95d6da4525a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2820331</kb>
@@ -674,7 +665,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2820331-x86.msu</name>
 			<description>Application compatibility update</description>
-			<url>http://download.microsoft.com/download/A/4/5/A45F713F-1809-4D77-8C39-7823E04E0328/Windows6.1-KB2820331-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2013/05/windows6.1-kb2820331-x86_c4c0d6f8a62779262232eb03dc7548bcd7be4c01.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2834140</kb>
@@ -683,7 +674,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2834140-v2-x86.msu</name>
 			<description>"0x00000050" Stop error after you install platform update 2670838 on a computer that is running Windows 7 SP1</description>
-			<url>http://download.microsoft.com/download/F/1/4/F1424AD7-F754-4B6E-B0DA-151C7CBAE859/Windows6.1-KB2834140-v2-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/08/windows6.1-kb2834140-v2-x86_b57c05e9da2c66e1bb27868c92db177a1d62b2fb.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2843630</kb>
@@ -692,7 +683,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2843630-v3-x86.msu</name>
 			<description>Update helps unmanaged Office 2010 users to work with Microsoft RMS in Windows</description>
-			<url>http://download.microsoft.com/download/6/6/1/6611C762-AB1D-4DD0-8F9C-A2353B715C4F/Windows6.1-KB2843630-v3-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/02/windows6.1-kb2843630-v3-x86_ca6936c2c75da01b03895fbdddbc94b8f137d7c0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2852386</kb>
@@ -701,7 +692,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2852386-x86.msu</name>
 			<description>Disk Cleanup Wizard addon lets users delete outdated Windows updates</description>
-			<url>http://download.microsoft.com/download/8/E/1/8E19C5F1-6331-4982-87C2-B714DF8A083A/Windows6.1-KB2852386-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/10/windows6.1-kb2852386-x86_f94486e3eb81ec987c923c76553611ea356de6ce.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2882822</kb>
@@ -710,7 +701,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2882822-x86.msu</name>
 			<description>Update that enables Windows to support the  ITraceRelogger</description>
-			<url>http://download.microsoft.com/download/7/C/E/7CE5D2A0-3A08-427E-9AA9-8A79E47B87B9/Windows6.1-KB2882822-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/10/windows6.1-kb2882822-x86_7fab5b9ca9b5c2395b505d1234ee889941bfb151.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2891804</kb>
@@ -719,7 +710,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2891804-x86.msu</name>
 			<description>Files or folders are removed unexpectedly when you perform a cut-and-paste operation on a Windows FTP client that is connected to an FTP site</description>
-			<url>http://download.microsoft.com/download/C/C/8/CC80F5B2-C937-484C-8EB6-7736C632A756/Windows6.1-KB2891804-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/12/windows6.1-kb2891804-x86_8c124c4915c7eb31bb59c9314b2e367e338796f5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2893519</kb>
@@ -728,7 +719,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2893519-x86.msu</name>
 			<description>"Remember my credentials" option cannot be hidden when the SspiPromptForCredentials function is called</description>
-			<url>http://download.microsoft.com/download/0/8/3/08354FD5-4E2C-4B71-949E-D90E187C96D3/Windows6.1-KB2893519-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/11/windows6.1-kb2893519-x86_2777298fab6999a09b4f7290df3be051fbae04cd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2905454</kb>
@@ -737,7 +728,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2905454-x86.msu</name>
 			<description>An update is available that changes the currency symbol of Latvia to the euro in Windows</description>
-			<url>http://download.microsoft.com/download/3/E/2/3E2F7496-05A7-4BB0-A5EA-89B8FC01F0E8/Windows6.1-KB2905454-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/12/windows6.1-kb2905454-x86_1ba9f42d6b0ac45379b0dd02364483848f230058.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2908783</kb>
@@ -746,7 +737,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2908783-x86.msu</name>
 			<description>Data corruption occurs on iSCSI LUNs in Windows</description>
-			<url>http://download.microsoft.com/download/F/4/1/F41BE5D6-448A-46EF-9224-4ACAB41DC905/Windows6.1-KB2908783-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/04/windows6.1-kb2908783-x86_5b3fd306d0b240dd8cbe72afd1fb41cec99f1519.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2918077</kb>
@@ -755,7 +746,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2918077-x86.msu</name>
 			<description>VAN UI freezes in Windows 7</description>
-			<url>http://download.microsoft.com/download/C/6/8/C684A463-6DBD-4DFA-9479-E97F3626A41D/Windows6.1-KB2918077-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/02/windows6.1-kb2918077-x86_09a23f3c4887f787f50c3047055165a00b108ceb.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2966583</kb>
@@ -764,7 +755,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2966583-x86.msu</name>
 			<description>Improvements for the System Update Readiness tool</description>
-			<url>http://download.microsoft.com/download/B/4/1/B410B6A7-A253-4267-AB9C-6D8EFE7313E6/Windows6.1-KB2966583-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/07/windows6.1-kb2966583-x86_96a855f7ec1bbc6884b185f56578f4a2f0836cfe.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2970228</kb>
@@ -773,7 +764,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2970228-x86.msu</name>
 			<description>Update to support the new currency symbol for the Russian ruble in Windows</description>
-			<url>http://download.microsoft.com/download/F/5/2/F52EAFA8-4B70-4F4B-A8E8-7134442A50C3/Windows6.1-KB2970228-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/08/windows6.1-kb2970228-x86_6b082dc03faaff8a22c6f0146e2779f61be5ec57.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2973474</kb>
@@ -809,7 +800,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3006121-x86.msu</name>
 			<description>Private end-user-defined characters (EUDCs) are not displayed in Character Map</description>
-			<url>http://download.microsoft.com/download/7/5/E/75E7699D-6185-4656-AFDC-6E21FD7B6018/Windows6.1-KB3006121-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows6.1-kb3006121-x86_7c105f97e67172fb07b1f9b19695e8953c7dca9b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3006137</kb>
@@ -818,7 +809,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3006137-x86.msu</name>
 			<description>Hotfix changes the currency symbol of Lithuania</description>
-			<url>http://download.microsoft.com/download/B/7/2/B721C268-01ED-4935-A01D-EDAED044FEBB/Windows6.1-KB3006137-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/02/windows6.1-kb3006137-x86_4a93f03431d6f85334822910e585bc32d5f261d0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3013531</kb>
@@ -827,7 +818,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3013531-v2-x86.msu</name>
 			<description>Update to support copying .mkv files to Windows Phone from a computer that is running Windows</description>
-			<url>http://download.microsoft.com/download/E/F/0/EF0AB03D-416B-4F4B-9E4E-9E264A8C4D1C/Windows6.1-KB3013531-v2-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows6.1-kb3013531-v2-x86_5f598310f9ac1b0ca0ea63a2394d8d7665af5367.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3020370</kb>
@@ -836,7 +827,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3020370-x86.msu</name>
 			<description>Update for the trustinfo installer plugin cmitrust.dll</description>
-			<url>http://download.microsoft.com/download/D/A/7/DA77E488-0588-424C-A3B9-CA6373347DBC/Windows6.1-KB3020370-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows6.1-kb3020370-x86_089ec8da1f8ac3efc80e3d85268dd058749c0067.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054476</kb>
@@ -845,7 +836,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3054476-x86.msu</name>
 			<description>May 2015 update for stream.sys driver-based applications</description>
-			<url>http://download.microsoft.com/download/C/A/6/CA6F1D96-311F-4E5F-BB3A-07C38D93A6BA/Windows6.1-KB3054476-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/05/windows6.1-kb3054476-x86_6557277a54318f9611e77bb3121e4e2718475b0e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3078667</kb>
@@ -854,7 +845,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3078667-x86.msu</name>
 			<description>System malfunction because memory leak occurs in dwm.exe</description>
-			<url>http://download.microsoft.com/download/6/9/D/69DE0996-FFE4-42DE-B726-0B1A937D0C99/Windows6.1-KB3078667-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/08/windows6.1-kb3078667-x86_f17f709bae924d9866be78af4ce3f0dcd6cb81f9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3079821</kb>
@@ -872,7 +863,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3080079-x86.msu</name>
 			<description>Update to add RDS support for TLS 1.1 and TLS 1.2 in Windows 7</description>
-			<url>http://download.microsoft.com/download/1/D/0/1D0487D5-25EB-401B-89F3-A6F322FFD5FC/Windows6.1-KB3080079-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows6.1-kb3080079-x86_1b0379e5731934f6f14456588348e9f371d0c4df.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3102429</kb>
@@ -890,7 +881,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3107998-x86.msu</name>
 			<description>Application compatibility update for Windows 7: November 10, 2015</description>
-			<url>http://download.microsoft.com/download/3/C/1/3C166695-C79E-400E-8C54-19EE54518B71/Windows6.1-KB3107998-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/windows6.1-kb3107998-x86_43ea5c023e0a2138671ab2b6608b7fcbf6f7147e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3133977</kb>
@@ -899,7 +890,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3133977-x86.msu</name>
 			<description>BitLocker can't encrypt drives and the service crashes in svchost.exe process</description>
-			<url>http://download.microsoft.com/download/0/2/7/02706220-62DB-42A4-8C5F-386FE9E5ADBD/Windows6.1-KB3133977-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows6.1-kb3133977-x86_077d2fdbee21af06c2d89fe594e653e8bab6da7e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3137061</kb>
@@ -908,7 +899,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3137061-x86.msu</name>
 			<description>Windows Azure VMs don't recover from a network outage and data corruption issues occur</description>
-			<url>http://download.microsoft.com/download/8/2/D/82DCBB4B-157F-45FC-934D-40CC84D58B3D/Windows6.1-KB3137061-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows6.1-kb3137061-x86_63e793080d225693b7ba988c2d6d5689ab79c7a0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3138378</kb>
@@ -926,7 +917,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3147071-x86.msu</name>
 			<description>Connection to Oracle database fails when you use Microsoft ODBC, OLE DB Driver for Oracle, Microsoft DTC</description>
-			<url>http://download.microsoft.com/download/5/0/5/505D7894-362D-4AB6-BEC3-6A791C15E2D5/Windows6.1-KB3147071-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows6.1-kb3147071-x86_686f6e44770a0c6b15578f25734d95f9b3b69b8b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB982018</kb>
@@ -935,7 +926,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB982018-v3-x86.msu</name>
 			<description>An update that improves the compatibility with Advanced Format Disks</description>
-			<url>http://download.microsoft.com/download/F/8/F/F8FBF87A-3011-4CB7-873F-482571FB11FE/Windows6.1-KB982018-v3-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2011/04/windows6.1-kb982018-v3-x86_b009d84249f14d4eaae7aa522be37c38dd83531b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB999999</kb>
@@ -999,15 +990,6 @@
 			<name>Windows6.1-KB2462182-x86.msu</name>
 			<description>The "Load a specific theme" Group Policy setting is not applied correctly for a new user in Windows 7 or in Windows Server 2008 R2</description>
 			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix346730/7600/free/427872_intl_i386_zip.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB2465285</kb>
-			<date>2010/12/22</date>
-			<size>267 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2465285-x86.msu</name>
-			<description>IP packets that have a frame size larger than 1,514 bytes are dropped in a bridged VLAN in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/Windows6.1-KB2465285-x86.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2466048</kb>
@@ -2180,15 +2162,6 @@
 			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix418845/7600/free/457421_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2800422</kb>
-			<date>2013/01/10</date>
-			<size>336 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2800422-x86.msu</name>
-			<description>"0x00000034" Stop error and file corruption when you burn a Live File System formatted disc on a Windows-based computer</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix422379/7600/free/457787_intl_i386_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2801423</kb>
 			<date>2013/02/06</date>
 			<size>219 KB</size>
@@ -2628,15 +2601,6 @@
 			<name>Windows6.1-KB2923388-x86.msu</name>
 			<description>Plain text displayed when XSLT style sheet used to transform an XML document into HTML in Windows 7 or Windows Server 2008 R2</description>
 			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490647/7600/free/471755_intl_i386_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2927901</kb>
-			<date>2014/01/30</date>
-			<size>309 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2927901-x86.msu</name>
-			<description>SetDefaultPrinter sets a wrong default printer in Windows 7 or Windows Server 2008 R2</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix490357/7600/free/472636_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2928496</kb>
@@ -3158,7 +3122,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2479943-x86.msu</name>
 			<description>Security update for Windows TV Media Processing: March 8, 2011</description>
-			<url>http://download.microsoft.com/download/F/8/2/F82C667F-05AD-4CDF-A549-C24616605440/Windows6.1-KB2479943-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windows6.1-kb2479943-x86_7d894172a7fd5fc57ee6bc46a45bda63a9c39ab4.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2560656</kb>
@@ -3167,7 +3131,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2560656-x86.msu</name>
 			<description>Vulnerability in Data Access Components could allow remote code execution: August 9, 2011</description>
-			<url>http://download.microsoft.com/download/7/2/B/72B46E06-6D10-4A5F-B5DD-BB569D1EC5CC/Windows6.1-KB2560656-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/windows6.1-kb2560656-x86_6fb7211c324d182af0aa6b72b44fadb75a0cbb3a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2564958</kb>
@@ -3176,7 +3140,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2564958-x86.msu</name>
 			<description>Security update for Active Accessibility in Windows: October 11, 2011</description>
-			<url>http://download.microsoft.com/download/A/D/3/AD39934E-CB0D-4067-9A94-BCDDAE0A0594/Windows6.1-KB2564958-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2011/09/windows6.1-kb2564958-x86_70f8e25ef01e736db5bd3cfa9ac86252c5ec980a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2579686</kb>
@@ -3185,7 +3149,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2579686-x86.msu</name>
 			<description>Security update for Windows Media Center: October 11, 2011</description>
-			<url>http://download.microsoft.com/download/1/7/F/17F43F49-A8DF-40C4-9EFD-C511A2D423EF/Windows6.1-KB2579686-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2011/09/windows6.1-kb2579686-x86_6dd5fc4cade4361d2e1a568519ad56c9c6113161.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2604115</kb>
@@ -3194,7 +3158,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2604115-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1</description>
-			<url>http://download.microsoft.com/download/0/1/5/0152A560-702C-4E54-A119-DBA76847C32F/Windows6.1-KB2604115-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/windows6.1-kb2604115-x86_ce7a451847e64a24f0d847374df553967fbc8bfd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2620704</kb>
@@ -3203,7 +3167,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2620704-x86.msu</name>
 			<description>Vulnerability in Windows Mail and Windows Meeting Space could allow remote code execution: November 8, 2011</description>
-			<url>http://download.microsoft.com/download/1/0/2/102726CE-77B0-4FEB-91DF-22BFED6DF7DB/Windows6.1-KB2620704-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2011/10/windows6.1-kb2620704-x86_96ca77b9686a25ecc94acfdb4e2c34a164e2e9fd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2621440</kb>
@@ -3212,7 +3176,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2621440-x86.msu</name>
 			<description>Security update for Remote Desktop Protocol Vulnerability: March 13, 2012</description>
-			<url>http://download.microsoft.com/download/3/2/7/32799493-B549-4205-9C85-ED1498272377/Windows6.1-KB2621440-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/02/windows6.1-kb2621440-x86_2e25bf396aaba95c314693104ef67aff8c143959.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2631813</kb>
@@ -3221,7 +3185,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2631813-x86.msu</name>
 			<description>Security update for DirectShow: January 10, 2012</description>
-			<url>http://download.microsoft.com/download/A/F/9/AF9BCE9C-82E9-4700-B5F1-988446A80106/Windows6.1-KB2631813-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windows6.1-kb2631813-x86_4df2ef6c53351932b30aeb2d34f1b8c1f2c35220.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2654428</kb>
@@ -3230,7 +3194,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2654428-x86.msu</name>
 			<description>Vulnerability in C Run-Time Library could allow remote code execution: February 14, 2012</description>
-			<url>http://download.microsoft.com/download/4/A/3/4A323EB6-365B-4510-B6A4-F9204E629D6C/Windows6.1-KB2654428-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/01/windows6.1-kb2654428-x86_022bc62d902450b9fd9c059bee4470259d72e281.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2690533</kb>
@@ -3239,7 +3203,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2690533-x86.msu</name>
 			<description>Vulnerability in Windows Partition Manager could allow elevation of privilege: May 8, 2012</description>
-			<url>http://download.microsoft.com/download/4/9/0/490B4DE9-6603-4D88-840B-CA1683FF2635/Windows6.1-KB2690533-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/04/windows6.1-kb2690533-x86_b6d7cced04f684e14527d6e9ea8c1b2d303fe6c9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2698365</kb>
@@ -3248,7 +3212,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2698365-x86.msu</name>
 			<description>Vulnerability in Microsoft Data Access Components could allow remote code execution: July 10, 2012</description>
-			<url>http://download.microsoft.com/download/6/2/F/62F6421C-6673-4BCC-84A2-99D5A9C615F0/Windows6.1-KB2698365-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/06/windows6.1-kb2698365-x86_d9f8e37cc61ab4abce802c29fe20a8e270321373.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2705219</kb>
@@ -3257,7 +3221,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2705219-v2-x86.msu</name>
 			<description>Security update for Windows Networking Components: August 14, 2012</description>
-			<url>http://download.microsoft.com/download/D/2/C/D2C4B8F3-3D19-4818-B2C9-AB75F8FA5688/Windows6.1-KB2705219-v2-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/09/windows6.1-kb2705219-v2-x86_9ebf7a4b272e9e24c0ecc8922223e026aab04853.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2727528</kb>
@@ -3266,7 +3230,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2727528-x86.msu</name>
 			<description>Vulnerabilities in Windows shell could allow remote code execution: November 13, 2012</description>
-			<url>http://download.microsoft.com/download/F/F/2/FF2CD2CA-5AD0-48B1-BE22-AFFA90FEAA29/Windows6.1-KB2727528-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/windows6.1-kb2727528-x86_b709c87e288114e6556e0d6010ba31daaff6716d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2736422</kb>
@@ -3275,7 +3239,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2736422-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1</description>
-			<url>http://download.microsoft.com/download/A/6/4/A646F884-F009-4945-AE21-97FEF24CB48C/Windows6.1-KB2736422-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/windows6.1-kb2736422-x86_a7853add16b14609c9b34348b52878b15eb9410f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2742599</kb>
@@ -3284,7 +3248,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2742599-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1</description>
-			<url>http://download.microsoft.com/download/8/F/6/8F656605-71BC-4C10-869F-33FF00354267/Windows6.1-KB2742599-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/windows6.1-kb2742599-x86_4635e7bd952943828ed081f8aa5af53dfe5919a1.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2770660</kb>
@@ -3293,7 +3257,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2770660-x86.msu</name>
 			<description>Vulnerability in DirectPlay could allow remote code execution: December 11, 2012</description>
-			<url>http://download.microsoft.com/download/D/E/D/DED5A71E-E45F-4ED9-9E83-69F02D789C06/Windows6.1-KB2770660-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/11/windows6.1-kb2770660-x86_e536b7930c06af0a064eae92804702c7fee5186b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2807986</kb>
@@ -3302,7 +3266,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2807986-x86.msu</name>
 			<description>Vulnerabilities in Remote NDIS USB drivers could allow elevation of privilege: March 12, 2013</description>
-			<url>http://download.microsoft.com/download/A/6/A/A6A8EECD-9346-4FEE-908C-9D42EE906EAA/Windows6.1-KB2807986-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2013/02/windows6.1-kb2807986-x86_834332ee20d163a0149f3e7158a3ba2a1768f035.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2813430</kb>
@@ -3311,7 +3275,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2813430-x86.msu</name>
 			<description>Update that allow to update trusted and disallowed CTLs in disconnected environments</description>
-			<url>http://download.microsoft.com/download/A/1/C/A1C173FC-C8E6-4DA0-A9CD-44CD64068E27/Windows6.1-KB2813430-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/05/windows6.1-kb2813430-x86_c82381fd35c3bc0003e4a921e777cd26bf432eea.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2840631</kb>
@@ -3320,7 +3284,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2840631-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1</description>
-			<url>http://download.microsoft.com/download/8/1/A/81A5B8BC-753F-43B8-A61E-359827BAD964/Windows6.1-KB2840631-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/06/windows6.1-kb2840631-x86_d92c8e47b77676ed5ff3a0a4ce41b5cbbc3aeaa4.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2847927</kb>
@@ -3329,7 +3293,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2847927-x86.msu</name>
 			<description>Vulnerability in Windows Defender could allow elevation of privilege</description>
-			<url>http://download.microsoft.com/download/7/4/E/74E502E4-30B3-4520-A4E4-8B287EE06AC3/Windows6.1-KB2847927-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/06/windows6.1-kb2847927-x86_331e481338a40ecd1682ee95179e906eccb84757.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2861698</kb>
@@ -3338,7 +3302,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2861698-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: October 8, 2013</description>
-			<url>http://download.microsoft.com/download/5/0/5/50501EDC-0030-43EF-8F02-C09E27FF0791/Windows6.1-KB2861698-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/08/windows6.1-kb2861698-x86_a72b2ff407544a6b87006f70fbc17667c15c66a2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2862330</kb>
@@ -3347,7 +3311,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2862330-v2-x86.msu</name>
 			<description>Security update for USB drivers: October 8, 2013</description>
-			<url>http://download.microsoft.com/download/E/2/D/E2DAEF68-4A26-4BB1-BC8B-01771FE71946/Windows6.1-KB2862330-v2-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/12/windows6.1-kb2862330-v2-x86_a6f3c9b5811bd869cf6834acb96c4a0232588c9b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2862335</kb>
@@ -3356,7 +3320,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2862335-x86.msu</name>
 			<description>Security update for USB HID drivers: October 8, 2013</description>
-			<url>http://download.microsoft.com/download/E/D/B/EDB75A18-8D29-4D9C-A06F-4E6159306254/Windows6.1-KB2862335-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/windows6.1-kb2862335-x86_59cbb729f52724546460eaaac2a88729952c8ea5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2864202</kb>
@@ -3365,7 +3329,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2864202-x86.msu</name>
 			<description>Security update for Driver Frameworks Kernel-Mode: October 8, 2013</description>
-			<url>http://download.microsoft.com/download/6/3/C/63CD9BA7-A7AE-463A-A193-7D3773598DF0/Windows6.1-KB2864202-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/windows6.1-kb2864202-x86_9e556e48e72ae30ec89c5f1c713acde26da2556a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2868038</kb>
@@ -3374,7 +3338,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2868038-x86.msu</name>
 			<description>Security update for USB drivers: October 8, 2013</description>
-			<url>http://download.microsoft.com/download/A/C/1/AC16F834-1AA4-4B08-AE03-D430C7B91B55/Windows6.1-KB2868038-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/07/windows6.1-kb2868038-x86_0457a8b39e4acecc53baac5fdbff492b59afe7a0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2871997</kb>
@@ -3383,7 +3347,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2871997-v2-x86.msu</name>
 			<description>Security update to fix the Pass-The-Hash Vulnerability: May 13, 2014</description>
-			<url>http://download.microsoft.com/download/9/8/7/9870AA0C-BA2F-4FD0-8F1C-F469CCA2C3FD/Windows6.1-KB2871997-v2-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows6.1-kb2871997-v2-x86_ac7d3e152836915afbf4a4ec4a40a50f32823e6f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2893294</kb>
@@ -3392,7 +3356,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2893294-x86.msu</name>
 			<description>Vulnerability in Windows Core OS components could allow remote code execution: December 10, 2013</description>
-			<url>http://download.microsoft.com/download/9/4/2/9423F26C-9A00-4728-BFB9-546912E33D5B/Windows6.1-KB2893294-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/10/windows6.1-kb2893294-x86_bac3e8a6e25d031fca8984ecd73ad2a6b69f7997.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2911501</kb>
@@ -3401,7 +3365,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2911501-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: February 11, 2014</description>
-			<url>http://download.microsoft.com/download/A/2/6/A26B576B-6573-499D-9DB0-31C42FC2A1DC/Windows6.1-KB2911501-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/01/windows6.1-kb2911501-x86_5a0d066e5a944d4568d34a4c19ccb050c3dcc069.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2912390</kb>
@@ -3410,7 +3374,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2912390-x86.msu</name>
 			<description>Vulnerability in Direct2D could allow remote code execution: February 11, 2014</description>
-			<url>http://download.microsoft.com/download/B/E/D/BEDE5596-736C-426B-9059-682B7E64B8D1/Windows6.1-KB2912390-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/12/windows6.1-kb2912390-x86_235cde723bac4de224ab94eda3931adf8a2ba986.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2931356</kb>
@@ -3419,7 +3383,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2931356-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: May 13, 2014</description>
-			<url>http://download.microsoft.com/download/8/C/2/8C2D99DA-306D-4CC0-88C7-DCFD81820CCE/Windows6.1-KB2931356-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows6.1-kb2931356-x86_63227724e483ccf74c3758070282f5506176e937.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2937610</kb>
@@ -3428,7 +3392,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2937610-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: August 12, 2014</description>
-			<url>http://download.microsoft.com/download/A/B/5/AB57A8A0-DB67-42F4-ADBA-C1E3228AD514/Windows6.1-KB2937610-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/07/windows6.1-kb2937610-x86_d90a5d24f180953737b45d7883b16347b00874d0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2943357</kb>
@@ -3437,7 +3401,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2943357-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: August 12, 2014</description>
-			<url>http://download.microsoft.com/download/4/3/E/43E3815A-0C85-43A6-8C3D-AAFD77D5A287/Windows6.1-KB2943357-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/07/windows6.1-kb2943357-x86_b4b1831a98ce4bf16dda9e2432cf2eb1fe598cb7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2968294</kb>
@@ -3446,7 +3410,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2968294-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: October 14, 2014</description>
-			<url>http://download.microsoft.com/download/9/3/2/932772EB-1CB6-4231-B93B-3720A2D2680C/Windows6.1-KB2968294-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows6.1-kb2968294-x86_5d007341c62969877271e7aa20607281bc8c338b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2972100</kb>
@@ -3455,7 +3419,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2972100-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: October 14, 2014</description>
-			<url>http://download.microsoft.com/download/9/B/6/9B6373AF-6E54-4972-BB2B-99048F023632/Windows6.1-KB2972100-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows6.1-kb2972100-x86_2ed06d2b5d61481a10c30622ee9b3065f23aecc7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2973201</kb>
@@ -3464,7 +3428,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2973201-x86.msu</name>
 			<description>Security update for Windows on-screen keyboard: July 8, 2014</description>
-			<url>http://download.microsoft.com/download/C/B/1/CB14875F-99F9-461B-93FA-05A450D3C911/Windows6.1-KB2973201-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/06/windows6.1-kb2973201-x86_f9bcd5ca097ad978ed5ca19e3cf3556e0b381882.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2977292</kb>
@@ -3473,7 +3437,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2977292-x86.msu</name>
 			<description>Security update for Microsoft EAP implementation that enables the use of TLS: October 14, 2014</description>
-			<url>http://download.microsoft.com/download/1/E/D/1EDF2887-9FA3-4DD6-81AE-254482547D03/Windows6.1-KB2977292-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows6.1-kb2977292-x86_04cf6aa80a03e28472a0f2ac036f4976a1b535b8.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2978742</kb>
@@ -3482,7 +3446,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2978742-x86.msu</name>
 			<description>Vulnerability in Windows Media Center could allow remote code execution: August 12, 2014</description>
-			<url>http://download.microsoft.com/download/C/F/8/CF82AF63-21D4-4F6D-A5D5-A41720FF1B53/Windows6.1-KB2978742-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/07/windows6.1-kb2978742-x86_ad7b31025c839af6b6cc2da26cca3478e069bfc2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2984972</kb>
@@ -3491,7 +3455,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2984972-x86.msu</name>
 			<description>Update for RDC 7.1 to support restricted administration logons</description>
-			<url>http://download.microsoft.com/download/9/0/C/90C4DB76-4EB6-4B0D-956F-1711B106EBD2/Windows6.1-KB2984972-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windows6.1-kb2984972-x86_0447ea81b8cfafde3f7454721070c6d6599c58d7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2991963</kb>
@@ -3500,7 +3464,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2991963-x86.msu</name>
 			<description>Vulnerability in IME (Japanese) could allow elevation of privilege: November 11, 2014</description>
-			<url>http://download.microsoft.com/download/F/D/0/FD0072BB-753E-4C40-885A-9A56D9560B4A/Windows6.1-KB2991963-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/09/windows6.1-kb2991963-x86_5432a41364f2de05edcac6ebefb07cd3dd1b1c80.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2992611</kb>
@@ -3509,7 +3473,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB2992611-x86.msu</name>
 			<description>Vulnerability in SChannel could allow remote code execution: November 11, 2014</description>
-			<url>http://download.microsoft.com/download/F/1/9/F19ED8C4-B547-49C3-B3EA-759D3613FD75/Windows6.1-KB2992611-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windows6.1-kb2992611-x86_814892fe3b23030fa2c44891fdb5f24574b0aa17.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3000483</kb>
@@ -3518,7 +3482,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3000483-x86.msu</name>
 			<description>Vulnerability in Group Policy could allow remote code execution: February 10, 2015</description>
-			<url>http://download.microsoft.com/download/2/6/A/26A9691F-3D2D-400A-A59A-EBF7123FE5D8/Windows6.1-KB3000483-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows6.1-kb3000483-x86_75144dcda30ca0ffd061e21af306519304abc954.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3004375</kb>
@@ -3527,7 +3491,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3004375-v3-x86.msu</name>
 			<description>Update to improve Windows command-line auditing: February 10, 2015</description>
-			<url>http://download.microsoft.com/download/0/E/3/0E32F39B-1D5E-4B0E-804C-F736DAADDD93/Windows6.1-KB3004375-v3-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows6.1-kb3004375-v3-x86_822f779b87d3cd4ef4de004c344abce202a8aac6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3010788</kb>
@@ -3536,7 +3500,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3010788-x86.msu</name>
 			<description>Security update for Windows OLE: November 11, 2014</description>
-			<url>http://download.microsoft.com/download/B/D/D/BDDF8A1B-A3D8-482C-B03B-F461F21B76DA/Windows6.1-KB3010788-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/10/windows6.1-kb3010788-x86_de223a1be099fb87d0ed7bdde34b4c9a556fbec7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3011780</kb>
@@ -3545,7 +3509,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3011780-x86.msu</name>
 			<description>Vulnerability in Kerberos could allow elevation of privilege: November 18, 2014</description>
-			<url>http://download.microsoft.com/download/7/F/E/7FE212BE-6681-4A1C-8A60-7D79203DF49E/Windows6.1-KB3011780-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/11/windows6.1-kb3011780-x86_49e91e1439694e38d117aa0a1da8ee65c3c3b849.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3022777</kb>
@@ -3554,7 +3518,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3022777-x86.msu</name>
 			<description>Vulnerability in Network Location Awareness service could allow security feature bypass: January 13, 2015</description>
-			<url>http://download.microsoft.com/download/9/6/0/960D5749-6493-497A-BAEC-61A15405A4EB/Windows6.1-KB3022777-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windows6.1-kb3022777-x86_8f68cad0fdcf82b019582c0fdf1eecd1cba672cd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3023215</kb>
@@ -3563,7 +3527,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3023215-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1</description>
-			<url>http://download.microsoft.com/download/7/7/F/77F162BC-9A0D-4716-915C-80FDE79EA3AA/Windows6.1-KB3023215-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/04/windows6.1-kb3023215-x86_5a3149242c9361da3ec722cd1ecaf91337c262a0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3030377</kb>
@@ -3572,7 +3536,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3030377-x86.msu</name>
 			<description>Vulnerability in Windows Task Scheduler could allow security feature bypass: March 10, 2015</description>
-			<url>http://download.microsoft.com/download/9/7/B/97B38C77-E6C0-40D6-9E8E-59E95120387D/Windows6.1-KB3030377-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/windows6.1-kb3030377-x86_8e7aeadba26fd06f5c2c98d8481d96278333094f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3035126</kb>
@@ -3581,7 +3545,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3035126-x86.msu</name>
 			<description>Vulnerability in Windows Photo Decoder component could allow information disclosure: March 10, 2015</description>
-			<url>http://download.microsoft.com/download/1/E/9/1E9E97FB-A1DB-45C6-A0F0-EC5BBE22AE1C/Windows6.1-KB3035126-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/02/windows6.1-kb3035126-x86_65e46b3d10323cee458b2ed8906b4395a3407e55.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3037574</kb>
@@ -3590,7 +3554,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3037574-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: April 14, 2015</description>
-			<url>http://download.microsoft.com/download/4/C/1/4C15B4E7-ECF4-43D1-BD09-DE16C3DA2EF6/Windows6.1-KB3037574-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows6.1-kb3037574-x86_76628701022bc09846327d2ce164f07411869a5a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3042058</kb>
@@ -3599,7 +3563,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3042058-x86.msu</name>
 			<description>Security update to default cipher suite priority order: May 12, 2015</description>
-			<url>http://download.microsoft.com/download/8/2/D/82DB3A44-3EFD-493D-8718-22623778E2C8/Windows6.1-KB3042058-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/09/windows6.1-kb3042058-x86_43f903af3a098660965bb60c7f870a2b80b656a4.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3045685</kb>
@@ -3608,7 +3572,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3045685-x86.msu</name>
 			<description>Security update for Windows: April 14, 2015</description>
-			<url>http://download.microsoft.com/download/1/F/9/1F96761B-F8BF-42E3-84C0-9B035348124E/Windows6.1-KB3045685-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows6.1-kb3045685-x86_4fd2c3120125222145adff12d4c3d5d4966c28b2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3046017</kb>
@@ -3617,7 +3581,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3046017-x86.msu</name>
 			<description>Unsafe Command Line Parameter Passing Could Allow Information Disclosure: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/F/1/6/F16AB791-27CA-4378-8922-D25B11E3866B/Windows6.1-KB3046017-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows6.1-kb3046017-x86_3488cdf522e5efab03c0f9325bfd40d4f1c8b0e6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3055642</kb>
@@ -3626,7 +3590,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3055642-x86.msu</name>
 			<description>Vulnerability in Service Control Manager could allow elevation of privilege: May 12, 2015</description>
-			<url>http://download.microsoft.com/download/8/E/1/8E10988B-4D5B-48A8-97F5-1374A1BDBD01/Windows6.1-KB3055642-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/04/windows6.1-kb3055642-x86_2f1ac561188e1af40796273ce672de6c73259202.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3060716</kb>
@@ -3635,7 +3599,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3060716-x86.msu</name>
 			<description>Vulnerabilities in Windows could allow elevation of privilege: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/1/2/7/127A4F4D-ECC8-4C96-9A08-58E6D975638B/Windows6.1-KB3060716-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/07/windows6.1-kb3060716-x86_3343f0fc7f59da31f5fde1ef09acd148b59ba815.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3067903</kb>
@@ -3644,7 +3608,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3067903-x86.msu</name>
 			<description>Security update for Windows Windows Media Format SDK: July 14, 2015</description>
-			<url>http://download.microsoft.com/download/C/C/9/CC99E635-9818-4F4D-97D2-98762CB1BF6E/Windows6.1-KB3067903-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/07/windows6.1-kb3067903-x86_da835b25f8fc030e272b8b20a6381fc1167b28d0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3068457</kb>
@@ -3662,7 +3626,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3071756-x86.msu</name>
 			<description>Security update for Windows Mount Manager: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/0/B/F/0BFDD683-2386-4346-B42F-627ED8CB6582/Windows6.1-KB3071756-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows6.1-kb3071756-x86_31bf25fd49f04f2397666a6ff45d5f676202efc9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3072305</kb>
@@ -3671,7 +3635,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3072305-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/7/B/6/7B602692-F67E-47D4-9123-6FA5FBE292BA/Windows6.1-KB3072305-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows6.1-kb3072305-x86_8514a610fc87bf01cf239c8472a13f32bb63a894.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3074543</kb>
@@ -3680,7 +3644,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3074543-x86.msu</name>
 			<description>Security update for the .NET Framework 2.0 SP2: September 8, 2015</description>
-			<url>http://download.microsoft.com/download/4/6/C/46C9B354-83B1-405D-B28B-842987161999/Windows6.1-KB3074543-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows6.1-kb3074543-x86_2c5e35baae5bfa1a4e4d49f55af2988cc4dac9ad.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3086255</kb>
@@ -3689,7 +3653,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3086255-x86.msu</name>
 			<description>Security uodate for SafeDisc Protection Driver: September 8, 2015</description>
-			<url>http://download.microsoft.com/download/B/A/5/BA57A3CB-50F3-4427-8A76-44D3089CD46C/Windows6.1-KB3086255-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/08/windows6.1-kb3086255-x86_2c6997a6be96e7542413a38af4c92c3aaa562393.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3093513</kb>
@@ -3698,7 +3662,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3093513-x86.msu</name>
 			<description>Security update for Windows Shell: October 13, 2015</description>
-			<url>http://download.microsoft.com/download/2/0/9/209DC531-F1DF-4063-8069-8E0799705F9D/Windows6.1-KB3093513-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/09/windows6.1-kb3093513-x86_a4bd5e6e7933351d527aca55ff9eaf311e0592f2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097989</kb>
@@ -3707,7 +3671,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3097989-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: November 10, 2015</description>
-			<url>http://download.microsoft.com/download/6/3/B/63BA727C-1C1D-49AE-985F-B8F9B57614B4/Windows6.1-KB3097989-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows6.1-kb3097989-x86_6e8b76304c2a9530929b42676357472c034f06fb.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3108371</kb>
@@ -3716,7 +3680,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3108371-x86.msu</name>
 			<description>Security update for Windows Event Viewer: December 8, 2015</description>
-			<url>http://download.microsoft.com/download/B/9/D/B9D48F7E-DAB9-43B9-9FC2-742CDB3A3BA8/Windows6.1-KB3108371-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windows6.1-kb3108371-x86_3ae19bf9be2f7dc8c8543378844ae9a91d9d2976.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3108664</kb>
@@ -3725,7 +3689,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3108664-x86.msu</name>
 			<description>Security update for Windows Extended MAPI 1.0: January 12, 2016</description>
-			<url>http://download.microsoft.com/download/3/5/D/35DAA973-6572-4562-8C20-8F9BC6A817D4/Windows6.1-KB3108664-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows6.1-kb3108664-x86_b2e783ad9a7c5fa97d339ed40609692fd5a6eb1e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3109103</kb>
@@ -3734,7 +3698,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3109103-x86.msu</name>
 			<description>Security update for Windows Pragmatic General Multicast (PGM) protocol: December 8, 2015</description>
-			<url>http://download.microsoft.com/download/A/E/F/AEFCB8DB-001C-43D9-AE1E-040575F1083A/Windows6.1-KB3109103-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windows6.1-kb3109103-x86_c0f1ce4eafbe4a952a0ff22199f7952fd82b865f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3109560</kb>
@@ -3743,7 +3707,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3109560-x86.msu</name>
 			<description>Security update for DirectShow Dexter: January 12, 2016</description>
-			<url>http://download.microsoft.com/download/C/B/6/CB60C2D5-87E1-4054-8A6C-7876C28FBAFD/Windows6.1-KB3109560-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows6.1-kb3109560-x86_a6437abb26830d61d6e3aaf458252caa9996ba8b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3110329</kb>
@@ -3752,7 +3716,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3110329-x86.msu</name>
 			<description>Security update for Windows Media Foundation: January 12, 2016</description>
-			<url>http://download.microsoft.com/download/4/B/5/4B5B1DCB-3C30-45C3-971B-8F7EE13AFCF6/Windows6.1-KB3110329-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows6.1-kb3110329-x86_88310fe80c3ef4690ab91a89c7af2c6d3baff7a3.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3126587</kb>
@@ -3761,7 +3725,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3126587-x86.msu</name>
 			<description>Security update for Windows Kernel: February 9, 2016</description>
-			<url>http://download.microsoft.com/download/A/C/3/AC343EAF-882E-4F90-94B1-4DCC1E9E580A/Windows6.1-KB3126587-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/01/windows6.1-kb3126587-x86_2cc12374530d761edd469fa823c3547fd3b6acae.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3127220</kb>
@@ -3770,7 +3734,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3127220-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: February 9, 2016</description>
-			<url>http://download.microsoft.com/download/0/3/7/037D058B-B367-4B3A-8FCB-6B6CD5EE0BF6/Windows6.1-KB3127220-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows6.1-kb3127220-x86_e37990f67b986ebb8acc886cc0b5efee9ad51de9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3138910</kb>
@@ -3779,7 +3743,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3138910-x86.msu</name>
 			<description>Security update for Windows Media Foundation: March 8, 2016</description>
-			<url>http://download.microsoft.com/download/7/B/C/7BC162AF-FEE0-4FA2-B9EB-965E57F979FA/Windows6.1-KB3138910-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows6.1-kb3138910-x86_e881714d67d8761a20df086510e57b29fee06058.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3139398</kb>
@@ -3788,7 +3752,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3139398-x86.msu</name>
 			<description>Security update for Windows USB Mass Storage Class Driver: March 8, 2016</description>
-			<url>http://download.microsoft.com/download/B/2/2/B226B98B-FFD3-42E1-85CB-F7D838E0DF7F/Windows6.1-KB3139398-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows6.1-kb3139398-x86_3413ef7a8fb60c9f7561838af5a505dd5fd9fcf1.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3139914</kb>
@@ -3797,7 +3761,7 @@
 			<category>Extra/WithoutKB3125574/#Security</category>
 			<name>Windows6.1-KB3139914-x86.msu</name>
 			<description>Security update for Secondary Logon Service: March 8, 2016</description>
-			<url>http://download.microsoft.com/download/2/B/4/2B4810AE-7F93-49C6-BED7-4AD293AA0F7F/Windows6.1-KB3139914-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/02/windows6.1-kb3139914-x86_3df17382a74df45c63dff5c1ed5858866e108a40.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3210131</kb>
@@ -3896,7 +3860,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB2719033-x86.msu</name>
 			<description>Security update for Internet Information Services 7.5: November 13, 2012</description>
-			<url>http://download.microsoft.com/download/6/B/1/6B190FB8-A778-41CE-B6F2-F587BE32E508/Windows6.1-KB2719033-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/07/windows6.1-kb2719033-x86_d7583551cba5213afe8f35bcf8e19901f118348e.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2786454</kb>
@@ -3986,7 +3950,7 @@
 			<category>Extra/WithoutKB3125574/_Features</category>
 			<name>Windows6.1-KB3020393-x86.msu</name>
 			<description>Vulnerability in Windows Telnet service could cause remote code execution: January 13, 2015</description>
-			<url>http://download.microsoft.com/download/4/1/3/413313CA-D353-47E1-82FC-B4288D56A4B7/Windows6.1-KB3020393-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windows6.1-kb3020393-x86_35d02bdf66b857877a64e797eacfa13f301ac0ef.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB3023569</kb>
@@ -4022,7 +3986,7 @@
 			<category>Extra/WithoutKB3125574/_RDP</category>
 			<name>Windows6.1-KB2923545-x86.msu</name>
 			<description>Update for RDP 8.1 is available for Windows 7 SP1</description>
-			<url>http://download.microsoft.com/download/C/6/2/C62C5E5F-90B4-4F03-AB7B-5EA94F17EA6D/Windows6.1-KB2923545-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/02/windows6.1-kb2923545-x86_fff0876feea186260e48879a68791bcdaacd74f7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2984976</kb>
@@ -4031,7 +3995,7 @@
 			<category>Extra/WithoutKB3125574/_RDP</category>
 			<name>Windows6.1-KB2984976-x86.msu</name>
 			<description>Update for RDP 8.0 to support restricted administration logons</description>
-			<url>http://download.microsoft.com/download/C/8/9/C89F733D-CD8E-4653-86C1-7C9C578999AC/Windows6.1-KB2984976-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/09/windows6.1-kb2984976-x86_2ce2cdd8caf08e1bc94f41e1b98f8f7096ae5356.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2985461</kb>
@@ -4040,7 +4004,7 @@
 			<category>Extra/WithoutKB3125574/_RDP</category>
 			<name>Windows6.1-KB2985461-x86.msu</name>
 			<description>Error 0x800401f0 when you update RemoteApp and Desktop Connections feeds</description>
-			<url>http://download.microsoft.com/download/4/E/1/4E1D4A9F-234F-49C9-82B7-A2204B01C389/Windows6.1-KB2985461-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/09/windows6.1-kb2985461-x86_7b3254ce03c0c9128f983c5c4cd0499a5963e2ef.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3020387</kb>
@@ -4049,7 +4013,7 @@
 			<category>Extra/WithoutKB3125574/_RDP</category>
 			<name>Windows6.1-KB3020387-x86.msu</name>
 			<description>Security update for Terminal Services WebProxy: January 13, 2015</description>
-			<url>http://download.microsoft.com/download/0/6/B/06B72B15-43DB-4C9B-A7C8-670E006D04EE/Windows6.1-KB3020387-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windows6.1-kb3020387-x86_294999cd4ab3d07f282e8881c1d9ffc55e07b908.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3020388</kb>
@@ -4058,7 +4022,7 @@
 			<category>Extra/WithoutKB3125574/_RDP</category>
 			<name>Windows6.1-KB3020388-x86.msu</name>
 			<description>Security update for Terminal Services WebProxy: January 13, 2015</description>
-			<url>http://download.microsoft.com/download/B/8/5/B85A8E02-7C56-47B1-9C87-D0BCBEC7CE2C/Windows6.1-KB3020388-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windows6.1-kb3020388-x86_837e0478bce5d45a7e483ae2ab65056c74a7940d.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB3024260</kb>
@@ -4076,7 +4040,7 @@
 			<category>Extra/WithoutKB3125574/_RDP</category>
 			<name>Windows6.1-KB3075222-x86.msu</name>
 			<description>Security update for Windows RDP: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/7/C/9/7C90D2AF-1E22-4F8E-BBE6-D778BFA87659/Windows6.1-KB3075222-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows6.1-kb3075222-x86_f1ee54e30726e374d6a6673ea197fed8d39c8ef8.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3075226</kb>
@@ -4085,7 +4049,7 @@
 			<category>Extra/WithoutKB3125574/_RDP</category>
 			<name>Windows6.1-KB3075226-x86.msu</name>
 			<description>Security update for Windows RDP: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/5/C/3/5C35066C-65D5-4385-B032-966FD645D619/Windows6.1-KB3075226-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows6.1-kb3075226-x86_4ac94a6fd2b0038520d9bdab3d98d3779f557f7f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3068708</kb>
@@ -4094,7 +4058,7 @@
 			<category>Extra/WithoutKB3125574/_Windows10</category>
 			<name>Windows6.1-KB3068708-x86.msu</name>
 			<description>Update to add the Diagnostics Tracking Service and  ITraceRelogger interface support</description>
-			<url>http://download.microsoft.com/download/7/F/C/7FC417D5-6346-4ACF-895D-A9C09C65E294/Windows6.1-KB3068708-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows6.1-kb3068708-x86_cb9e263f816e308857478f1c1adf02b370ab9841.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080149</kb>
@@ -4103,7 +4067,7 @@
 			<category>Extra/WithoutKB3125574/_Windows10</category>
 			<name>Windows6.1-KB3080149-x86.msu</name>
 			<description>August 2015 Unified Telemetry Client update</description>
-			<url>http://download.microsoft.com/download/C/8/0/C8036E07-4382-46BD-BFFB-46A6D397222A/Windows6.1-KB3080149-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/08/windows6.1-kb3080149-x86_3d35229a4f48ada7b2a0ef048dd424bc2eae63ca.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2882659</kb>
@@ -4148,7 +4112,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2512715-x86.msu</name>
 			<description>Validate Operating System Installation Option test may identify Windows Server 2008 R2 Server Core installation type incorrectly</description>
-			<url>http://download.microsoft.com/download/5/C/E/5CE9A421-18A1-411F-9BE7-DF6FF6B8B2CD/Windows6.1-KB2512715-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2011/04/windows6.1-kb2512715-x86_c2c18ceb9f97f238b184b6ece4cb7f14a24a5ccf.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2545735</kb>
@@ -4184,7 +4148,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2607047-x86.msu</name>
 			<description>Update for the DFS Replication (DFSR) Management interface</description>
-			<url>http://download.microsoft.com/download/B/5/E/B5EDEC89-0B79-40D6-883A-D779F3438D81/Windows6.1-KB2607047-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2011/11/windows6.1-kb2607047-x86_3e7cc66da554d0654af8fc9365f7140ac45fbbf9.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2619082</kb>
@@ -4292,7 +4256,7 @@
 			<category>Extra/WithoutKB3125574/RSAT</category>
 			<name>Windows6.1-KB2928120-x86.msu</name>
 			<description>Security update for Group Policy Preferences: May 13, 2014</description>
-			<url>http://download.microsoft.com/download/4/2/4/424CE0D1-5581-44B4-A43A-132BCEB26A10/Windows6.1-KB2928120-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windows6.1-kb2928120-x86_7b7b6ee24cd8be1ab3479f9e1cf9c98982c8bab1.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2934562</kb>
@@ -4373,7 +4337,7 @@
 			<category>Extra/WithoutKB3125574/SL/Polish</category>
 			<name>Windows6.1-KB2835174-x86.msu</name>
 			<description>Incorrect disclaimer is displayed in the Product Activation wizard in Polish version</description>
-			<url>http://download.microsoft.com/download/7/5/9/759F5769-A6E2-4BE9-ABEF-1BC28D04EADC/Windows6.1-KB2835174-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/crup/2013/05/windows6.1-kb2835174-x86_a7134bf2e41d3aec0a0d311932ddf17d48501200.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2883457</kb>
@@ -4463,7 +4427,7 @@
 			<category>Extra/WithoutKB3125574/WithoutRDP</category>
 			<name>Windows6.1-KB3019978-x86.msu</name>
 			<description>Security update for Terminal Services WebProxy: January 13, 2015</description>
-			<url>http://download.microsoft.com/download/9/E/4/9E4BD7AC-BE06-43B4-943F-DB93D3FD563C/Windows6.1-KB3019978-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows6.1-kb3019978-x86_b6845afc1c86a99e8d663036215df67eadd83ec1.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3081954</kb>
@@ -4472,7 +4436,7 @@
 			<category>Extra/WithoutKB3125574/WorkFolders</category>
 			<name>Windows6.1-KB3081954-x86.msu</name>
 			<description>Update that adds telemetry points to the Work Folders</description>
-			<url>http://download.microsoft.com/download/F/8/E/F8ED27FF-5908-41B3-90B1-06940914AF1D/Windows6.1-KB3081954-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/10/windows6.1-kb3081954-x86_6923f45cb40e2a5035941467866ca010b3618b39.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2506143</kb>
@@ -4499,7 +4463,7 @@
 			<category>Extra/WMF3.0/Updates</category>
 			<name>Windows6.1-KB2823180-x86.msu</name>
 			<description>Update for Windows Management Framework 3.0</description>
-			<url>http://download.microsoft.com/download/D/1/0/D10BF406-9DCF-4B53-92F1-A08F3210BBAA/Windows6.1-KB2823180-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2013/04/windows6.1-kb2823180-x86_775c54531ce5a6821fdd0baba1b58d6572879822.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB2842230</kb>
@@ -4571,7 +4535,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB2670838-x86.msu</name>
 			<description>Platform update for Windows 7 SP1</description>
-			<url>http://download.microsoft.com/download/1/4/9/14936FE9-4D16-4019-A093-5E00182609EB/Windows6.1-KB2670838-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/ftpk/2013/02/windows6.1-kb2670838-x86_984b8d122a688d917f81c04155225b3ef31f012e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2685811</kb>
@@ -4598,7 +4562,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB2750841-x86.msu</name>
 			<description>Update for IPv6 readiness</description>
-			<url>http://download.microsoft.com/download/B/0/0/B0021BB9-E146-4B05-9BB2-054B39786279/Windows6.1-KB2750841-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2750841-x86_e7863547b2b41fc18bc4c576e822107655747981.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2818604</kb>
@@ -4607,16 +4571,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB2818604-x86.msu</name>
 			<description>Microcode update for AMD processors</description>
-			<url>http://download.microsoft.com/download/6/4/6/6461D048-01F7-4B31-9B06-526F6D8994F7/Windows6.1-KB2818604-x86.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3020369</kb>
-			<date>2015/02/18</date>
-			<size>4.03 MB</size>
-			<category>General</category>
-			<name>Windows6.1-KB3020369-x86.msu</name>
-			<description>Servicing stack update: April 23, 2015</description>
-			<url>http://download.microsoft.com/download/C/0/8/C0823F43-BFE9-4147-9B0A-35769CBBE6B0/Windows6.1-KB3020369-x86.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2013/05/windows6.1-kb2818604-x86_418ef65552df1879bb8e095e0b7c051ce3487b11.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3046480</kb>
@@ -4625,7 +4580,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB3046480-x86.msu</name>
 			<description>Update helps to determine whether to migrate the .NET Framework 1.1 when you upgrade Windows</description>
-			<url>http://download.microsoft.com/download/6/F/9/6F9BA523-09D2-4F5C-B72C-C66C78F2E51B/Windows6.1-KB3046480-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows6.1-kb3046480-x86_1388d0113ba0257f005ca8a2c18532b6430ee487.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3064209</kb>
@@ -4670,7 +4625,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB3179573-x86.msu</name>
 			<description>August 2016 update rollup</description>
-			<url>http://download.microsoft.com/download/F/A/E/FAE2EAF8-F537-4B49-98B4-606EAD2D4ADD/Windows6.1-KB3179573-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/windows6.1-kb3179573-x86_e972000ff6074d1b0530d1912d5f3c7d1b057c4a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3184143</kb>
@@ -4679,7 +4634,16 @@
 			<category>General</category>
 			<name>Windows6.1-KB3184143-x86.msu</name>
 			<description>Update to remove GWX and software related to the Windows 10 free upgrade offer</description>
-			<url>http://download.microsoft.com/download/3/D/8/3D81CD58-DE14-440C-92D8-8DC3E26FBA54/Windows6.1-KB3184143-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/09/windows6.1-kb3184143-x86_a941721202ca75fed32e625a2fb577ba1e34418c.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4490628</kb>
+			<date>2019/03/06</date>
+			<size>4.02 MB</size>
+			<category>General</category>
+			<name>Windows6.1-KB4490628-x86.msu</name>
+			<description>Servicing stack update: March 2019</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4490628-x86_3cdb3df55b9cd7ef7fcb24fc4e237ea287ad0992.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB917607</kb>
@@ -4805,7 +4769,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB2898851-x86.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: May 13, 2014</description>
-			<url>http://download.microsoft.com/download/E/1/8/E18C6A4D-F347-44DB-A718-4E0B54436AAE/Windows6.1-KB2898851-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windows6.1-kb2898851-x86_ea3cf0ec225dda4687b928f8b1f239c41a4af766.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2900986</kb>
@@ -4814,7 +4778,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB2900986-x86.msu</name>
 			<description>Cumulative security update for ActiveX Kill Bits: December 10, 2013</description>
-			<url>http://download.microsoft.com/download/E/D/2/ED26255D-7A4F-4C2D-A7DA-A8B130A7D2CA/Windows6.1-KB2900986-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/11/windows6.1-kb2900986-x86_a993e450237ad5109c06691b47cea6aedb86642f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3059317</kb>
@@ -4823,7 +4787,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB3059317-x86.msu</name>
 			<description>Security update for Microsoft Common Controls: June 9, 2015</description>
-			<url>http://download.microsoft.com/download/F/9/5/F95DC823-DE4A-48F4-83C1-CDAF55FBF89B/Windows6.1-KB3059317-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows6.1-kb3059317-x86_7dbad42dd71389bb65948b81220fc019d77c8b77.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3150220</kb>
@@ -4832,7 +4796,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB3150220-x86.msu</name>
 			<description>Security update for Windows Media Center: May 10, 2016</description>
-			<url>http://download.microsoft.com/download/E/B/1/EB1A2799-1C07-45C3-8ED8-C536E94CBB28/Windows6.1-KB3150220-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows6.1-kb3150220-x86_f3529b8f2f21ea56c6e997ff654d59e4f65d2d6e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3156016</kb>
@@ -4841,7 +4805,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB3156016-x86.msu</name>
 			<description>Security update for Windows Graphics Component (Direct3D10Level9): May 10, 2016</description>
-			<url>http://download.microsoft.com/download/7/A/0/7A088E32-4059-44F6-8B96-B7B7AA8AB350/Windows6.1-KB3156016-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows6.1-kb3156016-x86_ea2cf88a256d4138109847ddc5cec66f3f660efa.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3159398</kb>
@@ -4850,7 +4814,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB3159398-x86.msu</name>
 			<description>Security update for Group Policy: June 14, 2016</description>
-			<url>http://download.microsoft.com/download/C/C/A/CCAC5F69-723A-403C-B17D-B7D358729713/Windows6.1-KB3159398-x86.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows6.1-kb3159398-x86_c4fa9c67178bef5dbcbd72cde2fe94f5126337e5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3161949</kb>
@@ -4859,7 +4823,16 @@
 			<category>Security</category>
 			<name>Windows6.1-KB3161949-x86.msu</name>
 			<description>Security update for Web Proxy Auto Discovery (WPAD): June 14, 2016</description>
-			<url>http://download.microsoft.com/download/7/E/D/7EDECDBB-54F0-412C-AF4C-27FC951BC15B/Windows6.1-KB3161949-x86.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows6.1-kb3161949-x86_0055d0d1e103d374e042f31ebdd26931853b882b.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4474419</kb>
+			<date>2019/02/28</date>
+			<size>33.65 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4474419-x86.msu</name>
+			<description>SHA-2 code signing support update: March 2019</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4474419-x86_b531905efe3aabdd95037d84672b126c65133335.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4483458</kb>
@@ -4871,13 +4844,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows6.1-kb4483458-x86_ab9aec3410e464d9e3e388419e50626c0d8298d5.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486565</kb>
-			<date>2018/02/17</date>
-			<size>146.54 MB</size>
+			<kb>KB4489878</kb>
+			<date>2019/03/08</date>
+			<size>148.21 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4486565-x86.msu</name>
+			<name>Windows6.1-KB4489878-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/02/windows6.1-kb4486565-x86_266bd5512400ef0e38d74cb04abf1c141220ab5c.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4489878-x86_4850c313f7149cbebe5cd718d4efa0e426aebc81.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

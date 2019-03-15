@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/05" architecture="x86" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/12" architecture="x86" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4018363</kb>
@@ -20,13 +20,13 @@
 			<url>http://download.microsoft.com/download/C/6/2/C621D4EC-9D87-4CE2-ABDB-D216F224127F/accessolkaddin2010-kb2791057-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018313</kb>
-			<date>2019/01/23</date>
+			<kb>KB4462226</kb>
+			<date>2019/02/16</date>
 			<size>4.28 MB</size>
 			<category>Security</category>
-			<name>ace2010-kb4018313-fullfile-x86-glb.exe</name>
+			<name>ace2010-kb4462226-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/0/9/7/097269E8-DEF2-40DB-B4F5-58CBB0996722/ace2010-kb4018313-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/F/4/F/F4FA3A9D-FD06-44C2-BD40-C0ABACF8152A/ace2010-kb4462226-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213626</kb>

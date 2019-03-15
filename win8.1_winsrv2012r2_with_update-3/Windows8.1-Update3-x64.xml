@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/19" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/12" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -713,15 +713,6 @@
 			<url>http://download.microsoft.com/download/E/4/6/E4633874-9466-47D1-A8D6-D11349172F1E/Windows8.1-KB3036612-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3037924</kb>
-			<date>2015/03/13</date>
-			<size>356 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3037924-v2-x64.msu</name>
-			<description>You cannot do System Image Backup to Blu-ray media in Windows</description>
-			<url>http://download.microsoft.com/download/3/9/7/3975B381-B465-434F-B921-BA9234C0341E/Windows8.1-KB3037924-v2-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3044673</kb>
 			<date>2015/04/06</date>
 			<size>427 KB</size>
@@ -945,15 +936,6 @@
 			<name>Windows8.1-KB3084905-v2-x64.msu</name>
 			<description>TPM lockout occurs unexpectedly</description>
 			<url>http://download.microsoft.com/download/3/4/E/34E15B60-B890-4CDB-AD7C-8632D979916C/Windows8.1-KB3084905-v2-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3087041</kb>
-			<date>2015/08/07</date>
-			<size>2.08 MB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3087041-x64.msu</name>
-			<description>You can't select the first item in a list by touching</description>
-			<url>http://download.microsoft.com/download/3/5/A/35AAB817-9C4C-479E-87BC-C5C845016D33/Windows8.1-KB3087041-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3087137</kb>
@@ -1640,15 +1622,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/07/windows8.1-kb3071787-x64_1afdb5cfa6b62c9c9406aab58934faeb5bef0251.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3072401</kb>
-			<date>2015/06/12</date>
-			<size>303 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3072401-x64.msu</name>
-			<description>File system corrupts when you delete a file that has 4 GB-1 bytes of size on FAT32 system</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/07/windows8.1-kb3072401-x64_dc60c3338bba89ec90ce214d2597be9ddc5fc0e0.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3073630</kb>
 			<date>2015/07/18</date>
 			<size>3.70 MB</size>
@@ -2207,22 +2180,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/02/windows8.1-kb4486545-x64_2ebc3b5f00fb94866c70563c7e22613a02f2f46c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4487016</kb>
-			<date>2019/02/17</date>
-			<size>368.49 MB</size>
+			<kb>KB4489881</kb>
+			<date>2019/03/07</date>
+			<size>371.01 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4487016-x64.msu</name>
+			<name>Windows8.1-KB4489881-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/02/windows8.1-kb4487016-x64_7d0e6e0c675399f2985c9bb85b8f54d30a62b3bc.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows8.1-kb4489881-x64_266cae96af29dbee65bb1126a756673e092d6177.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4487038</kb>
-			<date>2019/02/02</date>
+			<kb>KB4489907</kb>
+			<date>2019/03/02</date>
 			<size>20.89 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4487038-x64.msu</name>
+			<name>Windows8.1-KB4489907-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows8.1-kb4487038-x64_50bbfcf2cfab4dd64dedbef2bd52e323cc408089.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows8.1-kb4489907-x64_bc823ca7ffdc20f1b9ad7cfdf37fc08aa2914d0d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
