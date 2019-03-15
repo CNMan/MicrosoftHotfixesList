@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2018/02/19" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/01" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -128,13 +128,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/11/windows10.0-kb4470788-x64_76f112f2b02b1716cdc0cab6c40f73764759cb0d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4483452</kb>
-			<date>2018/12/20</date>
-			<size>61.69 MB</size>
+			<kb>KB4486553</kb>
+			<date>2019/02/06</date>
+			<size>64.50 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4483452-x64.msu</name>
+			<name>Windows10.0-KB4486553-x64.msu</name>
 			<description>.NET Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/02/windows10.0-kb4483452-x64_2c65200d4b5b84db7d599738233e01875d64f976.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/02/windows10.0-kb4486553-x64_0c3111b07c3e2a33d66fed4a66c67dec989950a0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4487038</kb>
@@ -146,13 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/02/windows10.0-kb4487038-x64_1f1aed068ed38987aa2c100e7e01292404be1703.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4487044</kb>
-			<date>2019/01/17</date>
-			<size>139.25 MB</size>
+			<kb>KB4482887</kb>
+			<date>2019/02/27</date>
+			<size>152.69 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4487044-x64.msu</name>
+			<name>Windows10.0-KB4482887-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/02/windows10.0-kb4487044-x64_6024f9853d489cf4eab66ce2145e91df45183de7.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/02/windows10.0-kb4482887-x64_826158e9ebfcabe08b425bf2cb160cd5bc1401da.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
