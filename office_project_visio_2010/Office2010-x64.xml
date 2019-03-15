@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/02/12" architecture="x64" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/05" architecture="x64" version="Office 2010">
 	<updates>
 		<update extract="0">
-			<kb>KB3114416</kb>
-			<date>2018/02/20</date>
-			<size>16.99 MB</size>
-			<category>Security</category>
-			<name>access2010-kb3114416-fullfile-x64-glb.exe</name>
+			<kb>KB4018363</kb>
+			<date>2019/02/16</date>
+			<size>16.92 MB</size>
+			<category>General</category>
+			<name>access2010-kb4018363-fullfile-x64-glb.exe</name>
 			<description>Microsoft Access 2010</description>
-			<url>http://download.microsoft.com/download/C/6/3/C63D5713-12F0-45C1-935F-25CE9664F299/access2010-kb3114416-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/D/5/0D52ED33-3C9D-4A6C-A810-4506A30FF916/access2010-kb4018363-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2791057</kb>
@@ -335,13 +335,13 @@
 			<url>http://download.microsoft.com/download/A/A/8/AA80555E-C9D5-4D86-81CE-782CDD3EA239/office2010-kb2879953-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4227172</kb>
-			<date>2018/11/16</date>
+			<kb>KB4461626</kb>
+			<date>2019/02/16</date>
 			<size>4.44 MB</size>
 			<category>General</category>
-			<name>offowc2010-kb4227172-fullfile-x64-glb.exe</name>
+			<name>offowc2010-kb4461626-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (Office Web Components)</description>
-			<url>http://download.microsoft.com/download/4/4/7/447D5EA4-F593-4DDF-AFC8-FF1955C9B62E/offowc2010-kb4227172-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/8/F/58F633FD-8682-4D58-8C57-A71A3AB9AF31/offowc2010-kb4461626-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213638</kb>
@@ -443,13 +443,13 @@
 			<url>http://download.microsoft.com/download/7/D/7/7D71F243-CFBB-4750-9F30-4DBE2B755A02/outlfltr2010-kb3115475-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462182</kb>
-			<date>2019/01/23</date>
+			<kb>KB4462229</kb>
+			<date>2019/02/16</date>
 			<size>87.20 MB</size>
 			<category>General</category>
-			<name>outlookloc2010-kb4462182-fullfile-x64-glb.exe</name>
+			<name>outlookloc2010-kb4462229-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2010</description>
-			<url>http://download.microsoft.com/download/F/7/B/F7B82377-71CA-413A-9669-0F34306C41C1/outlookloc2010-kb4462182-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/B/3/1B3059D5-D0E2-482E-B74B-8FF8E23E957D/outlookloc2010-kb4462229-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2553170</kb>
@@ -522,6 +522,15 @@
 			<name>riched202010-kb2589318-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (RichEdit 8.0)</description>
 			<url>http://download.microsoft.com/download/2/B/3/2B3C828C-BF96-4B27-A916-D8EBD8C0E0D6/riched202010-kb2589318-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB2589339</kb>
+			<date>2019/02/16</date>
+			<size>2.60 MB</size>
+			<category>General</category>
+			<name>stslist2010-kb2589339-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2010 (Access Web Datasheet)</description>
+			<url>http://download.microsoft.com/download/4/7/0/470627D2-3E5A-409A-920E-682E63381CB1/stslist2010-kb2589339-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2825640</kb>
