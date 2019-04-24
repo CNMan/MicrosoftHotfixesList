@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/19" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/04/09" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -2090,22 +2090,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/03/windows8.1-kb4488665-x86_919bc39ca94c6481c4574ae89c897fe6e62efb7c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4489893</kb>
-			<date>2019/03/17</date>
-			<size>226.10 MB</size>
+			<kb>KB4493446</kb>
+			<date>2019/04/03</date>
+			<size>226.66 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4489893-x86.msu</name>
+			<name>Windows8.1-KB4493446-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/03/windows8.1-kb4489893-x86_17459c360cd05a28f687012c6196b34f8159f6fb.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/04/windows8.1-kb4493446-x86_53c2058e3f74d0a38841a5ce6dc9189267728d16.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4489907</kb>
-			<date>2019/03/02</date>
+			<kb>KB4493478</kb>
+			<date>2019/03/29</date>
 			<size>10.22 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4489907-x86.msu</name>
+			<name>Windows8.1-KB4493478-x86.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windows8.1-kb4489907-x86_769f5e423300096975e256cf2cf02ebcd7116f84.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/04/windows8.1-kb4493478-x86_1c73824f51af966c939d24c28ed993040329d2ed.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

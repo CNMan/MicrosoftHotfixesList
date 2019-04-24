@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/12" architecture="x64" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/04/09" architecture="x64" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4018363</kb>
@@ -20,13 +20,13 @@
 			<url>http://download.microsoft.com/download/0/F/A/0FA13B01-4914-4DB7-B31E-E1DB8D4E3193/accessolkaddin2010-kb2791057-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462226</kb>
-			<date>2019/02/16</date>
+			<kb>KB4464520</kb>
+			<date>2019/03/14</date>
 			<size>4.79 MB</size>
 			<category>Security</category>
-			<name>ace2010-kb4462226-fullfile-x64-glb.exe</name>
+			<name>ace2010-kb4464520-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/4/4/3/4435C719-A948-4AD6-A8C4-8F866FD6653E/ace2010-kb4462226-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/C/D/0CDD9F0F-532F-4294-A663-73368BB245B1/ace2010-kb4464520-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213626</kb>
@@ -56,13 +56,13 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462186</kb>
-			<date>2019/01/23</date>
-			<size>38.73 MB</size>
+			<kb>KB4462230</kb>
+			<date>2019/03/14</date>
+			<size>38.75 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4462186-fullfile-x64-glb.exe</name>
+			<name>excel2010-kb4462230-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/5/4/4/544C015C-28A5-4D93-9CE2-780A7B485DE0/excel2010-kb4462186-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/8/6/A861A0E9-1AA5-443C-A8E0-290C08A168AC/excel2010-kb4462230-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956084</kb>
@@ -227,13 +227,13 @@
 			<url>http://download.microsoft.com/download/C/8/2/C820D7BC-BE4F-4A91-860C-CA7C7A20F177/mshelp2010-kb2850016-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462174</kb>
-			<date>2019/01/23</date>
-			<size>18.46 MB</size>
+			<kb>KB4462223</kb>
+			<date>2019/03/14</date>
+			<size>18.51 MB</size>
 			<category>Security</category>
-			<name>mso2010-kb4462174-fullfile-x64-glb.exe</name>
+			<name>mso2010-kb4462223-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/5/D/F/5DF61EFB-D390-4C1F-A0C7-52A24F94341F/mso2010-kb4462174-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/A/9/7/A970231C-8E9E-4A76-9F12-F8EDAE7D6890/mso2010-kb4462223-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589375</kb>

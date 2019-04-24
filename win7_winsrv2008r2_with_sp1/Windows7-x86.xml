@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/19" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/04/09" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -1235,15 +1235,6 @@
 			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix390861/7600/free/443007_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
-			<kb>KB2549079</kb>
-			<date>2011/07/14</date>
-			<size>933 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2549079-x86.msu</name>
-			<description>Local user accounts incorrectly trigger domain account logon auditing events when they view history of scheduled tasks in Windows Vista, in Windows Server 2008, in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix377339/7600/free/435324_intl_i386_zip.exe</url>
-		</update>
-		<update extract="1">
 			<kb>KB2550648</kb>
 			<date>2011/06/10</date>
 			<size>4.70 MB</size>
@@ -1467,15 +1458,6 @@
 			<name>Windows6.1-KB2635500-x86.msu</name>
 			<description>Issues when you try to display a large TIFF file that contains multiple pages by using Windows Photo Viewer in Windows Vista, in Windows 7, in Windows Server 2008 or in Windows Server 2008 R2</description>
 			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix385513/7600/free/440349_intl_i386_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2636963</kb>
-			<date>2011/11/09</date>
-			<size>230 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2636963-v2-x86.msu</name>
-			<description>Windows tries to create HTTP printer connections instead of Point and Print printer connections when scripting unsafe ActiveX controls is enabled in Windows 7 or in Windows Server 2008 R2</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix386154/7600/free/440139_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2638018</kb>
@@ -4862,13 +4844,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/03/windows6.1-kb4488662-x86_62eeb52d281e33950c5cce5cbc94909fdcf1e9e2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4489892</kb>
-			<date>2019/03/15</date>
-			<size>148.42 MB</size>
+			<kb>KB4493472</kb>
+			<date>2019/04/03</date>
+			<size>149.63 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4489892-x86.msu</name>
+			<name>Windows6.1-KB4493472-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/03/windows6.1-kb4489892-x86_1df0b3b390350f48ceaa749a8420b3f82257e6f0.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/04/windows6.1-kb4493472-x86_4315f00d51c820eb1cd13c3af7669aeb80f87d06.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

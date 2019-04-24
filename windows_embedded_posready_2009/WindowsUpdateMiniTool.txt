@@ -1083,11 +1083,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/wind
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/windowsxp-kb4034775-x86-embedded-express-enu_fb023491f93d2f62e1b677223f0735adff0be303.cab
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/07/windowsxp-kb4034775-x86-embedded-enu_207467825fa1e940295564141a65f9d79d6a0c3d.psf
 
-[ Update for WES09 and POSReady 2009 (KB4039111) ]
-http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windowsxp-kb4039111-x86-embedded-enu_9b517bb7a6b7459d5c4c7159e4b8f247cf094feb.exe
-http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windowsxp-kb4039111-x86-embedded-express-enu_be63ee66e442eab42378b3aef98933c7ef246c02.cab
-http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/08/windowsxp-kb4039111-x86-embedded-enu_c78063bf3ec4b0c1d229bc9c03b50b8063f5ba6f.psf
-
 [ Security Update for WES09 and POSReady 2009 (KB4039384) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/08/windowsxp-kb4039384-x86-embedded-enu_6aabfe977264b12c8331500d97053134de7d0738.exe
 
@@ -1172,11 +1167,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/windowsxp-kb4130957-x86-embedded-express-enu_decb9299c936223a7eb829d2f61c3babb711983c.cab
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/05/windowsxp-kb4130957-x86-embedded-enu_18b2df4e52b72a37f4194b792849bb61dcf7cc19.psf
 
-[ 2018-07 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4134651) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windowsxp-kb4134651-v2-x86-embedded-enu_df9272e617574b8645fdca35b58627930c394999.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windowsxp-kb4134651-v2-x86-embedded-express-enu_a94b9819011d974a7d4f0d3820ede8e379d876a8.cab
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windowsxp-kb4134651-v2-x86-embedded-enu_2f50a5c3f8ea0bc289ba180704c5dfbc919e4caf.psf
-
 [ 2018-07 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4291391) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windowsxp-kb4291391-x86-embedded-enu_a48bc4ba244b5a49d0191900c5f65f60e1568579.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/06/windowsxp-kb4291391-x86-embedded-express-enu_08a50df922e7901544d52f28114387f6fe8bf62f.cab
@@ -1193,11 +1183,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/ndp4
 
 [ 2018-07 Security Only Update for .NET Framework 2.0 on WES09 and POSReady 2009 (KB4338615) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/07/ndp20sp2-kb4338615-x86_2efbd12454fd3710958d88de466e1902eefca318.exe
-
-[ 2018-07 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4339291) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windowsxp-kb4339291-x86-embedded-enu_093848f3c816e2814c7cda1baab07f00e0ac5917.exe
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windowsxp-kb4339291-x86-embedded-express-enu_387346c597d8f59f47f965c86694003aba7a47e3.cab
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/06/windowsxp-kb4339291-x86-embedded-enu_dff7fb9b6fc42412719b514744136377c8c6fa13.psf
 
 [ 2018-08 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4343674) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/windowsxp-kb4343674-x86-embedded-enu_ca27aebe8d7a210ffbc67934c144627a9d6f5463.exe
@@ -1250,11 +1235,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/10/wind
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/10/windowsxp-kb4463573-x86-embedded-express-enu_915f162a5f4be82d317035ac70cdbd71a31779be.cab
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/10/windowsxp-kb4463573-x86-embedded-enu_d934e2dd018b2c95f13fd4899a2452e05d12fe58.psf
 
-[ 2018-11 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4466388) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windowsxp-kb4466388-x86-embedded-enu_b177578d5bc6c95cf31dd1848a22ddbe10b9501b.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windowsxp-kb4466388-x86-embedded-express-enu_633084fa1e6c468e4152490b82a56025b6378f42.cab
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windowsxp-kb4466388-x86-embedded-enu_1334deb954c887e3db1639efd795f7e446caf170.psf
-
 [ 2018-11 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4467689) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/11/windowsxp-kb4467689-x86-embedded-enu_b974cbc4675474ddb38c41f7926f493cde207eee.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/11/windowsxp-kb4467689-x86-embedded-express-enu_4bce1e8ddcb6f79d58b806fcacaee0d9987d5610.cab
@@ -1282,11 +1262,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/ndp3
 [ 2018-12 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4473077) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/11/windowsxp-kb4473077-x86-embedded-enu_2472bfb0a1921bccc30621166b26004b22203e63.exe
 
-[ 2019-01 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4481275) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windowsxp-kb4481275-x86-embedded-enu_5160cf8226e525f266f39e7279ce39e6176cece9.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windowsxp-kb4481275-x86-embedded-express-enu_8ae92a9f8ee654da5fd8ce5b3fc294a35ef1e973.cab
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/12/windowsxp-kb4481275-x86-embedded-enu_bffbbad6b9f4268f310572b0cc36e17cbf994be9.psf
-
 [ 2019-02 Security Only Update for .NET Framework 4.0 on WES09 and POSReady 2009 (KB4483475) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/02/ndp40-kb4483475-x86_25db1d55a1c940328a6f3de2105f9454a778ff2f.exe
 
@@ -1295,11 +1270,6 @@ http://download.windowsupdate.com/c/csa/csa/secu/2019/02/ndp20sp2-kb4483485-x86_
 
 [ 2019-02 Security Only Update for .NET Framework 3.0 SP2 on WES09 and POSReady 2009 (KB4483495) ]
 http://download.windowsupdate.com/c/csa/csa/secu/2019/02/ndp30sp2-kb4483495-x86_08c0291774b8f619507a581cfebb8f522d65cb75.exe
-
-[ 2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4486464) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windowsxp-kb4486464-x86-embedded-enu_ba779c434ec819e2932b7f70422b74c526ae244d.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windowsxp-kb4486464-x86-embedded-express-enu_3180303e442ecb5a98603a857edc9d620e50abe2.cab
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windowsxp-kb4486464-x86-embedded-enu_1a597a3f3263cfd707a9f43e1f2dcdb17bc0c6c4.psf
 
 [ 2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4486465) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windowsxp-kb4486465-x86-embedded-enu_80c4f32abd257968871a840fd4d87cfedd0b3d4b.exe
@@ -1328,13 +1298,11 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/wind
 [ 2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4487086) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windowsxp-kb4487086-x86-embedded-enu_d87dffd2310c8df09892de204e6216bb447ad0db.exe
 
-[ 2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4487385) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windowsxp-kb4487385-x86-embedded-enu_2556bb7bd7217d6295d877c731c07acd62c9c59c.exe
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windowsxp-kb4487385-x86-embedded-express-enu_2c03cda05d1ad7818e2b5c7f2f8990b3771cb3f9.cab
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windowsxp-kb4487385-x86-embedded-enu_db6d33c2b2c34c3359a2fd11485e99535532bb02.psf
-
 [ 2019-03 Update for POSReady 2009 for x86-based Systems (KB4487989) ]
 http://download.windowsupdate.com/d/msdownload/update/software/uprl/2019/02/windowsxp-kb4487989-x86-embedded-enu_3c32c4f284fcd7208b3cf4428320e95a27513c3a.exe
+
+[ 2019-04 Update for POSReady 2009 for x86-based Systems (KB4487990) ]
+http://download.windowsupdate.com/d/msdownload/update/software/uprl/2019/03/windowsxp-kb4487990-x86-embedded-enu_8a1f84ccfc4cdcb9536864fa91ae82ef62cb3e79.exe
 
 [ 2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4489493) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windowsxp-kb4489493-x86-embedded-enu_bf5786db231541e562a8f4dececac9b8fdc3cdce.exe
@@ -1358,15 +1326,66 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/wind
 [ 2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4490385) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windowsxp-kb4490385-x86-embedded-enu_47b193ff117da1c86efc4d275b52a829c5cb00b9.exe
 
-[ 2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4490500) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4490500-x86-embedded-enu_cf8ce2e609b0ba3649e6def41602329a7ab2a6fc.exe
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4490500-x86-embedded-express-enu_e435a05de1adb9c46c3099a7b383ea70cfab12a8.cab
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4490500-x86-embedded-enu_6ed1248c60c74efa66c8edfacd356ee5c578cd81.psf
-
 [ 2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4490501) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windowsxp-kb4490501-x86-embedded-enu_c0b31474df5c52c3f1794914050fdf27b0692c65.exe
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windowsxp-kb4490501-x86-embedded-express-enu_e2eee34106b1542abad19b65116441ba049048d9.cab
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windowsxp-kb4490501-x86-embedded-enu_58912bc29eb9962eaf169838a7105e6ea544a6f0.psf
 
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4491443) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4491443-x86-embedded-enu_38dcb7ca4adee2236e202651b1a9feff15123fc5.exe
+
 [ 2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4493341) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493341-x86-embedded-enu_cfd32e1875c216557e94e1763fbc114c216d6b0c.exe
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493563) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493563-x86-embedded-enu_b7acbe01322ca903c920fa8a85328057ba2d9703.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493563-x86-embedded-express-enu_fa28f07bd70b8e4c32c046a800ef614fcc5740db.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493563-x86-embedded-enu_a0458000978794e7ea13c378ef9bf04095ec2e33.psf
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493790) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493790-x86-embedded-enu_e078da675e389cbfaba2354eae8040e438a42476.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493790-x86-embedded-express-enu_4da94c6c0dea6ea7e747f256249292c223de706b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493790-x86-embedded-enu_b54cfa55059894b2b1177aa83ab2cbb2e8e3bd4d.psf
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493793) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493793-x86-embedded-enu_c238b0eab410f55d9b8fdc7485eba2ba0459559a.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493793-x86-embedded-express-enu_ece35ade487de1502acc8380a592bb602dbfd82e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493793-x86-embedded-enu_043a416483c21b527db73405fd25d7d04cbfee29.psf
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493794) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493794-x86-embedded-enu_89c4913943e563851bd4c458f222aee21edb7bb3.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493794-x86-embedded-express-enu_07ee88fc787650a7901223741425726afec0923e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493794-x86-embedded-enu_1fe481ba5f27c83f44a1491f3eefc02b4fa06631.psf
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493795) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493795-x86-embedded-enu_9a084800b33b40776da30e70293cccfe4b0342f5.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493795-x86-embedded-express-enu_b90dbda6893bdc20877f98323929eac2d88fee0b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493795-x86-embedded-enu_7fffc4be9023f9f70edb1df593ca58ec58af4f5b.psf
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493796) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493796-x86-embedded-enu_92495fc42b0bf0fd51baa584af55f02b7d8deaa5.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493796-x86-embedded-express-enu_358c7bfb81ed12c72a5e66fa69fd167293080440.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493796-x86-embedded-enu_7ef7f6e2b43abfbbbf915f4c1d77b2e46d235cba.psf
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493797) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493797-x86-embedded-enu_40d780178b80a6bd6b4398ca1ca3e47973997b0b.exe
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493797-x86-embedded-express-enu_e570103af11df5fc142f96880ad3a7bfd2ac2434.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493797-x86-embedded-enu_d9ae1ac7d3fcbe843250c21a0524e4e72f51dd92.psf
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493927) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493927-x86-embedded-enu_4123fcdc99a7976cd5791f78536a0585e0264462.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493927-x86-embedded-express-enu_cd2019e7858fb29fb4a5eef5fff10290faf74ad2.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493927-x86-embedded-enu_8aa3f68f435ef8c385057935f9cfef1702034c58.psf
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4494059) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4494059-x86-embedded-enu_58109e2522cd4e5b41840ce5d24931d52e421f72.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4494059-x86-embedded-express-enu_ecfc488178cf11b1bcf3cadcc9879cf18ba84e13.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4494059-x86-embedded-enu_eb49224dd4005e9966788c24f0f689a861d8020e.psf
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4494528) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/04/windowsxp-kb4494528-x86-embedded-enu_77ead5923f0753b90d935f2d6546886b063a6fe1.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/04/windowsxp-kb4494528-x86-embedded-express-enu_91d3b3fcab5dce98132bd84d4a78d374615344af.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/04/windowsxp-kb4494528-x86-embedded-enu_3d86631ae074e88d3aec7b19c02ca6956805053a.psf
+
+[ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4495022) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4495022-x86-embedded-enu_6fce82c569aa5a6af6ff63769b2e901032d401ee.exe
