@@ -434,13 +434,13 @@
 			<url>http://download.microsoft.com/download/7/B/E/7BE7B5AB-2197-4F32-86B3-329B1D549EA1/otkruntimertl2010-kb2956063-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB2760779</kb>
-			<date>2015/11/11</date>
-			<size>1.59 MB</size>
+			<kb>KB3114559</kb>
+			<date>2019/03/14</date>
+			<size>1.60 MB</size>
 			<category>General</category>
-			<name>outexum2010-kb2760779-fullfile-x86-glb.exe</name>
+			<name>outexum2010-kb3114559-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Exchange Outlook Addin)</description>
-			<url>http://download.microsoft.com/download/D/5/6/D56C1D62-8660-4A44-B6A2-7169C6367C6C/outexum2010-kb2760779-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/E/6/5/E65FAED9-9DD6-4DAF-9D3A-01321CD4BD1C/outexum2010-kb3114559-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115475</kb>

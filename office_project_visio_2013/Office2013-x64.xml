@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/05" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/04/02" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4032252</kb>
@@ -9,6 +9,69 @@
 			<name>access2013-kb4032252-fullfile-x64-glb.exe</name>
 			<description>Microsoft Access 2013</description>
 			<url>http://download.microsoft.com/download/7/A/3/7A35C782-0E2B-4B48-9D79-5A05AE51EACC/access2013-kb4032252-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4462203</kb>
+			<date>2019/03/14</date>
+			<size>3.35 MB</size>
+			<category>General</category>
+			<name>graph2013-kb4462203-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2013 (Microsoft Graph)</description>
+			<url>http://download.microsoft.com/download/9/F/3/9F31DF17-C41D-4FF2-8D48-82D4181C19F1/graph2013-kb4462203-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4462207</kb>
+			<date>2019/03/14</date>
+			<size>104.57 MB</size>
+			<category>General</category>
+			<name>lync2013-kb4462207-fullfile-x64-glb.exe</name>
+			<description>Microsoft Skype for Business 2015</description>
+			<url>http://download.microsoft.com/download/B/D/C/BDC609F3-2E32-45F9-9CF5-22640A9D2007/lync2013-kb4462207-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4462200</kb>
+			<date>2019/03/14</date>
+			<size>12.19 MB</size>
+			<category>General</category>
+			<name>oart2013-kb4462200-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2013 (Office Art)</description>
+			<url>http://download.microsoft.com/download/0/F/A/0FA4DDDD-129D-4BE4-AEE8-DDE1C4425F5E/oart2013-kb4462200-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4464507</kb>
+			<date>2019/03/14</date>
+			<size>90.91 MB</size>
+			<category>General</category>
+			<name>outlook2013-kb4464507-fullfile-x64-glb.exe</name>
+			<description>Microsoft Outlook 2013</description>
+			<url>http://download.microsoft.com/download/C/A/2/CA271009-7997-4913-A11C-8DAAEFD5E8EE/outlook2013-kb4464507-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4462136</kb>
+			<date>2019/03/14</date>
+			<size>32.83 MB</size>
+			<category>General</category>
+			<name>project2013-kb4462136-fullfile-x64-glb.exe</name>
+			<description>Microsoft Project 2013</description>
+			<url>http://download.microsoft.com/download/0/7/C/07C4EF0A-5424-4734-9EB3-D047E85E26FA/project2013-kb4462136-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4464505</kb>
+			<date>2019/03/14</date>
+			<size>183.74 MB</size>
+			<category>General</category>
+			<name>visio2013-kb4464505-fullfile-x64-glb.exe</name>
+			<description>Microsoft Visio 2013</description>
+			<url>http://download.microsoft.com/download/9/E/F/9EFA16D2-F4E4-4875-ADE8-F6EA4FF25251/visio2013-kb4464505-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4462140</kb>
+			<date>2019/03/14</date>
+			<size>166.10 MB</size>
+			<category>General</category>
+			<name>word2013-kb4462140-fullfile-x64-glb.exe</name>
+			<description>Microsoft Word 2013</description>
+			<url>http://download.microsoft.com/download/1/8/2/18274F11-5B10-44E3-9048-82624757B5D1/word2013-kb4462140-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4018300</kb>
@@ -155,15 +218,6 @@
 			<url>http://download.microsoft.com/download/F/5/6/F56E87B6-700E-4B99-97C6-DABF20F95CD7/gkall2013-kb3039795-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461550</kb>
-			<date>2019/01/22</date>
-			<size>3.35 MB</size>
-			<category>General</category>
-			<name>graph2013-kb4461550-fullfile-x64-glb.exe</name>
-			<description>Microsoft Office 2013 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/C/B/5/CB57723F-D5B0-4080-BEBB-6EE16E3AB7BF/graph2013-kb4461550-fullfile-x64-glb.exe</url>
-		</update>
-		<update extract="0">
 			<kb>KB4022226</kb>
 			<date>2018/07/21</date>
 			<size>70.28 MB</size>
@@ -216,15 +270,6 @@
 			<name>ipeditor2013-kb4022181-fullfile-x64-glb.exe</name>
 			<description>Microsoft InfoPath 2013 (InfoPath Editor)</description>
 			<url>http://download.microsoft.com/download/F/2/1/F2151EA6-684F-4B00-9B64-FB4E2D041C90/ipeditor2013-kb4022181-fullfile-x64-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4462135</kb>
-			<date>2019/01/22</date>
-			<size>104.58 MB</size>
-			<category>General</category>
-			<name>lync2013-kb4462135-fullfile-x64-glb.exe</name>
-			<description>Microsoft Skype for Business 2015</description>
-			<url>http://download.microsoft.com/download/8/7/1/8719B570-1B39-4879-8DBB-08C152EA008A/lync2013-kb4462135-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191937</kb>
@@ -306,15 +351,6 @@
 			<name>nlgmsfad2013-kb2883095-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Forgotten Attachment Detector)</description>
 			<url>http://download.microsoft.com/download/4/E/F/4EFAF99F-4E86-4984-BE1F-F5D0F9A87A25/nlgmsfad2013-kb2883095-fullfile-x64-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4461444</kb>
-			<date>2019/01/22</date>
-			<size>12.19 MB</size>
-			<category>General</category>
-			<name>oart2013-kb4461444-fullfile-x64-glb.exe</name>
-			<description>Microsoft Office 2013 (Office Art)</description>
-			<url>http://download.microsoft.com/download/D/D/8/DD8E65D8-8FAE-4DED-9EAC-42CF2793B958/oart2013-kb4461444-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039720</kb>
@@ -434,15 +470,6 @@
 			<url>http://download.microsoft.com/download/2/E/6/2E63A2FD-7C84-4E7D-8189-3FCEE678B377/outlfltr2013-kb3115404-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462206</kb>
-			<date>2019/02/17</date>
-			<size>90.92 MB</size>
-			<category>General</category>
-			<name>outlook2013-kb4462206-fullfile-x64-glb.exe</name>
-			<description>Microsoft Outlook 2013</description>
-			<url>http://download.microsoft.com/download/6/2/7/6274C15F-8036-4E6E-ADC7-A122A8703BC9/outlook2013-kb4462206-fullfile-x64-glb.exe</url>
-		</update>
-		<update extract="0">
 			<kb>KB3039766</kb>
 			<date>2015/08/14</date>
 			<size>1.32 MB</size>
@@ -468,15 +495,6 @@
 			<name>ppaddin2013-kb3213536-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (ppaddin-x-none.msp)</description>
 			<url>http://download.microsoft.com/download/A/6/3/A632D7DA-90EF-4A4E-9F9B-1E24086E84BB/ppaddin2013-kb3213536-fullfile-x64-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4461560</kb>
-			<date>2018/12/14</date>
-			<size>32.83 MB</size>
-			<category>General</category>
-			<name>project2013-kb4461560-fullfile-x64-glb.exe</name>
-			<description>Microsoft Project 2013</description>
-			<url>http://download.microsoft.com/download/6/6/4/6646F9AF-B67C-40CB-BB2B-C5C16902FAC1/project2013-kb4461560-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172510</kb>
@@ -542,15 +560,6 @@
 			<url>http://download.microsoft.com/download/B/E/6/BE62383E-3D78-4BE2-9866-C0849293182D/vbe72013-kb3172443-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461484</kb>
-			<date>2019/02/17</date>
-			<size>183.74 MB</size>
-			<category>General</category>
-			<name>visio2013-kb4461484-fullfile-x64-glb.exe</name>
-			<description>Microsoft Visio 2013</description>
-			<url>http://download.microsoft.com/download/E/D/3/ED3A0D8F-0B9B-45C3-94D8-3328CB839F9A/visio2013-kb4461484-fullfile-x64-glb.exe</url>
-		</update>
-		<update extract="0">
 			<kb>KB2817301</kb>
 			<date>2014/03/15</date>
 			<size>17.25 MB</size>
@@ -567,15 +576,6 @@
 			<name>wec2013-kb3172533-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (FrontPage Client)</description>
 			<url>http://download.microsoft.com/download/8/4/7/847A162A-06AA-47D6-ABAD-F9D59CC377C9/wec2013-kb3172533-fullfile-x64-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4461594</kb>
-			<date>2018/12/21</date>
-			<size>166.16 MB</size>
-			<category>Security</category>
-			<name>word2013-kb4461594-fullfile-x64-glb.exe</name>
-			<description>Microsoft Word 2013</description>
-			<url>http://download.microsoft.com/download/0/3/9/03947AFB-E9C1-41FB-B3FC-F7C769A25359/word2013-kb4461594-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>
