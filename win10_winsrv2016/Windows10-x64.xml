@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/12" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/19" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -47,13 +47,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4485447-x64_e9334a6f18fa0b63c95cd62930a058a51bba9a14.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4489882</kb>
-			<date>2019/03/08</date>
+			<kb>KB4489889</kb>
+			<date>2019/03/18</date>
 			<size>1.36 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4489882-x64.msu</name>
+			<name>Windows10.0-KB4489889-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windows10.0-kb4489882-x64_6aa3060d00f142e9fdaed861dd624977aca84e5d.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/03/windows10.0-kb4489889-x64_cb2f23fe241947c45cdda53b227809373c975e5a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4489907</kb>
@@ -74,13 +74,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4485448-x64_e43307ad84b7df662be562eafc70e0b081dffc38.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4489886</kb>
-			<date>2019/03/08</date>
-			<size>0.99 GB</size>
+			<kb>KB4489890</kb>
+			<date>2019/03/18</date>
+			<size>1.00 GB</size>
 			<category>General/16299</category>
-			<name>Windows10.0-KB4489886-x64.msu</name>
+			<name>Windows10.0-KB4489890-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows10.0-kb4489886-x64_8efbb3174d842f21830bc4d0dc050eea0e584a83.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/03/windows10.0-kb4489890-x64_724e3d202fec9a1a2b84848aba054a4f416e2cb0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4489907</kb>
@@ -101,13 +101,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4485449-x64_a3f4a3fd1a1191921626d9b59783908a4895364c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4489868</kb>
-			<date>2019/03/08</date>
-			<size>839.00 MB</size>
+			<kb>KB4489894</kb>
+			<date>2019/03/18</date>
+			<size>846.08 MB</size>
 			<category>General/17134</category>
-			<name>Windows10.0-KB4489868-x64.msu</name>
+			<name>Windows10.0-KB4489894-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows10.0-kb4489868-x64_e5aaf33c58b19b162cbbbf559b9cbb5306df1a67.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/03/windows10.0-kb4489894-x64_dfa694761533b4fe6d6c674192c52a39f61ab4ac.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4489907</kb>

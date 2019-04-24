@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/12" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/03/19" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -207,6 +207,15 @@
 			<name>Windows8.1-KB4483459-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/02/windows8.1-kb4483459-x64_e56635f1ef3b838307d6baccb927a112051c27a4.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4488663</kb>
+			<date>2019/02/07</date>
+			<size>9.08 MB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB4488663-x64.msu</name>
+			<description>Update for .NET Framework 3.5</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/03/windows8.1-kb4488663-x64_dfdaabddb415590ef75ee74f20a13e65220d0fdc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -2180,13 +2189,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/02/windows8.1-kb4486545-x64_2ebc3b5f00fb94866c70563c7e22613a02f2f46c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4489881</kb>
-			<date>2019/03/07</date>
-			<size>371.01 MB</size>
+			<kb>KB4488665</kb>
+			<date>2019/02/05</date>
+			<size>51.81 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4489881-x64.msu</name>
+			<name>Windows8.1-KB4488665-x64.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/03/windows8.1-kb4488665-x64_c1692617a2c763e38507c65fc3adc65bac6269a7.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4489893</kb>
+			<date>2019/03/17</date>
+			<size>386.80 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4489893-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows8.1-kb4489881-x64_266cae96af29dbee65bb1126a756673e092d6177.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/03/windows8.1-kb4489893-x64_9b0039e08e57f2e7248865ba299b18094f0dfa04.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4489907</kb>
