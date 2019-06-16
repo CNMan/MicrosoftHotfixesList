@@ -236,13 +236,13 @@
 			<url>http://download.microsoft.com/download/A/7/5/A759C082-BB9D-4508-81C7-C9C3CC654BB6/msodll40ui2016-kb4461477-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462118</kb>
-			<date>2019/02/13</date>
-			<size>9.94 MB</size>
+			<kb>KB3085534</kb>
+			<date>2019/05/15</date>
+			<size>9.95 MB</size>
 			<category>General</category>
-			<name>msodll99l2016-kb4462118-fullfile-x86-glb.exe</name>
+			<name>msodll99l2016-kb3085534-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll99l-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/C/C/C/CCCA4F38-242E-4F7B-B01C-FDADCCF41C53/msodll99l2016-kb4462118-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/D/1/2/D12B9D31-2E32-4B5D-A746-6720B3D4E4B0/msodll99l2016-kb3085534-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022162</kb>
