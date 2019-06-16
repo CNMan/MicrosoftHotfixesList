@@ -155,13 +155,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windows10.0-kb4493510-x86_9e3f2ba44fbf4f486ee3d57427b735c736459873.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4501835</kb>
-			<date>2019/04/27</date>
-			<size>108.25 MB</size>
+			<kb>KB4495667</kb>
+			<date>2019/05/02</date>
+			<size>109.57 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4501835-x86.msu</name>
+			<name>Windows10.0-KB4495667-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/04/windows10.0-kb4501835-x86_7be2df33783878e5cdf8fd09cfe8df1444c1e798.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/05/windows10.0-kb4495667-x86_2386026b4c996a648819651515c4b66067a9db00.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493478</kb>
