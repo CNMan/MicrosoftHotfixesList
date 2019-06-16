@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/04/09" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/04/25" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -47,13 +47,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4485447-x64_e9334a6f18fa0b63c95cd62930a058a51bba9a14.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493470</kb>
+			<kb>KB4493437</kb>
 			<date>2019/04/03</date>
-			<size>1.34 GB</size>
+			<size>1.37 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4493470-x64.msu</name>
+			<name>Windows10.0-KB4493437-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/04/windows10.0-kb4493470-x64_2d9533301a1e6b5fb0c1c200df8a060bcc97b7d3.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/04/windows10.0-kb4493473-x64_c96c4461e36f27eb5c0ed16f6f59ca2c4fc1ab83.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493478</kb>
@@ -74,13 +74,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4485448-x64_e43307ad84b7df662be562eafc70e0b081dffc38.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493441</kb>
+			<kb>KB4493440</kb>
 			<date>2019/04/03</date>
-			<size>0.98 GB</size>
+			<size>1.02 GB</size>
 			<category>General/16299</category>
-			<name>Windows10.0-KB4493441-x64.msu</name>
+			<name>Windows10.0-KB4493440-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/04/windows10.0-kb4493441-x64_2553aab51f8d8c5e8382750c094c9fe54b2156c1.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/04/windows10.0-kb4493440-x64_67cbb2c392f9ed3c983b262b7a8c93875bc88f75.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493478</kb>
@@ -101,13 +101,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows10.0-kb4485449-x64_a3f4a3fd1a1191921626d9b59783908a4895364c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493464</kb>
+			<kb>KB4493437</kb>
 			<date>2019/04/03</date>
-			<size>837.77 MB</size>
+			<size>883.94 MB</size>
 			<category>General/17134</category>
-			<name>Windows10.0-KB4493464-x64.msu</name>
+			<name>Windows10.0-KB4493437-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/04/windows10.0-kb4493464-x64_600727950855f0c510f998f9fb285ab26435969c.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/04/windows10.0-kb4493437-x64_53e2bb5b73fe00b0d52f46a14bdca86f7d94877d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493478</kb>

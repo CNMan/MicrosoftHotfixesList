@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/04/09" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/04/25" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -2090,13 +2090,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/03/windows8.1-kb4488665-x86_919bc39ca94c6481c4574ae89c897fe6e62efb7c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493446</kb>
-			<date>2019/04/03</date>
-			<size>226.66 MB</size>
+			<kb>KB4493443</kb>
+			<date>2019/04/11</date>
+			<size>288.44 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4493446-x86.msu</name>
+			<name>Windows8.1-KB4493443-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/04/windows8.1-kb4493446-x86_53c2058e3f74d0a38841a5ce6dc9189267728d16.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/04/windows8.1-kb4493443-x86_cf06b80b3e6fff7d7e94ae703f91b03c73d4188f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493478</kb>
