@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/04/25" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/05/14" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -137,22 +137,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486546</kb>
-			<date>2019/01/08</date>
-			<size>27.18 MB</size>
+			<kb>KB4495588</kb>
+			<date>2019/04/09</date>
+			<size>27.17 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4486546-x86.exe</name>
+			<name>NDP472-KB4495588-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/02/ndp46-kb4486546-x86_1f216fb3cf3a8f0528777e572f41897f098a3fdc.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4488666</kb>
-			<date>2019/02/05</date>
-			<size>7.71 MB</size>
-			<category>Additional/NET472</category>
-			<name>NDP472-KB4488666-x86.exe</name>
-			<description>Update for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/03/ndp46-kb4488666-x86_29092e1776d793167c76f00fd660fe7214c70cb6.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/ndp46-kb4495588-x86_057aa7f4c87dcd7fbb4225e170a901a622b72ad7.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -2007,15 +1998,6 @@
 			<name>Windows6.1-KB2768486-x86.msu</name>
 			<description>No dialog box to confirm end of Ftp.exe process on Windows Task Manager in Windows 7 or Windows Server 2008 R2</description>
 			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix410211/7600/free/456186_intl_i386_zip.exe</url>
-		</update>
-		<update extract="1">
-			<kb>KB2768494</kb>
-			<date>2012/10/09</date>
-			<size>223 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2768494-x86.msu</name>
-			<description>You cannot log on to a Windows 7-based or Windows Server 2008 R2-based client computer after you disable AES encryption for Kerberos authentication</description>
-			<url>https://hotfixv4.trafficmanager.net/Windows%207/Windows%20Server2008%20R2%20SP1/sp2/Fix412754/7600/free/453912_intl_i386_zip.exe</url>
 		</update>
 		<update extract="1">
 			<kb>KB2769791</kb>
@@ -4826,31 +4808,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4474419-x86_b531905efe3aabdd95037d84672b126c65133335.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4483458</kb>
-			<date>2018/12/22</date>
-			<size>16.20 MB</size>
+			<kb>KB4495606</kb>
+			<date>2019/04/01</date>
+			<size>16.22 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4483458-x86.msu</name>
+			<name>Windows6.1-KB4495606-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/02/windows6.1-kb4483458-x86_ab9aec3410e464d9e3e388419e50626c0d8298d5.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/windows6.1-kb4495606-x86_72fe2dc1d7908f8c537398dbb13d9b379bfd3e4d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4488662</kb>
-			<date>2019/02/05</date>
-			<size>4.56 MB</size>
+			<kb>KB4499164</kb>
+			<date>2019/05/04</date>
+			<size>174.37 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4488662-x86.msu</name>
-			<description>Update for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/03/windows6.1-kb4488662-x86_62eeb52d281e33950c5cce5cbc94909fdcf1e9e2.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4493453</kb>
-			<date>2019/04/14</date>
-			<size>173.65 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4493453-x86.msu</name>
+			<name>Windows6.1-KB4499164-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/04/windows6.1-kb4493453-x86_4bce020164a25155bc4c174fb0ab9a98ff027e96.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/05/windows6.1-kb4499164-x86_0c190847e1570aa3c930187d9f55010a4f711fc4.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
