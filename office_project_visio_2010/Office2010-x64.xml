@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/05/14" architecture="x64" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/06/11" architecture="x64" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4018363</kb>
@@ -603,6 +603,15 @@
 			<name>wec2010-kb2553388-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (FrontPage Client)</description>
 			<url>http://download.microsoft.com/download/8/E/4/8E4B6B83-4AF6-4FB9-9101-7BF4A2B81DFC/wec2010-kb2553388-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4461619</kb>
+			<date>2019/05/20</date>
+			<size>27.16 MB</size>
+			<category>Security</category>
+			<name>word2010-kb4461619-fullfile-x64-glb.exe</name>
+			<description>Microsoft Word 2010</description>
+			<url>http://download.microsoft.com/download/2/3/6/236AEA2F-4E85-41E6-A516-1F692576721F/word2010-kb4461619-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461625</kb>

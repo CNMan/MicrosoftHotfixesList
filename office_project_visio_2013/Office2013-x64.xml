@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/05/14" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/06/11" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4032252</kb>
@@ -218,13 +218,13 @@
 			<url>http://download.microsoft.com/download/F/2/1/F2151EA6-684F-4B00-9B64-FB4E2D041C90/ipeditor2013-kb4022181-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4464547</kb>
-			<date>2019/04/22</date>
-			<size>104.55 MB</size>
-			<category>General</category>
-			<name>lync2013-kb4464547-fullfile-x64-glb.exe</name>
+			<kb>KB4464593</kb>
+			<date>2019/05/29</date>
+			<size>104.58 MB</size>
+			<category>Security</category>
+			<name>lync2013-kb4464593-fullfile-x64-glb.exe</name>
 			<description>Microsoft Skype for Business 2015</description>
-			<url>http://download.microsoft.com/download/A/4/5/A459B84E-9BE0-4DE4-ADC0-856435158508/lync2013-kb4464547-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/A/E/0AE02B15-B3A0-4F9E-9E8F-558734622256/lync2013-kb4464593-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191937</kb>
@@ -569,13 +569,13 @@
 			<url>http://download.microsoft.com/download/8/4/7/847A162A-06AA-47D6-ABAD-F9D59CC377C9/wec2013-kb3172533-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4464545</kb>
-			<date>2019/04/22</date>
-			<size>166.40 MB</size>
-			<category>General</category>
-			<name>word2013-kb4464545-fullfile-x64-glb.exe</name>
+			<kb>KB4464590</kb>
+			<date>2019/05/21</date>
+			<size>166.37 MB</size>
+			<category>Security</category>
+			<name>word2013-kb4464590-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>http://download.microsoft.com/download/8/6/C/86C45F0F-35FF-41F0-97EB-787E5CB4218B/word2013-kb4464545-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/9/1/39158AD4-9D07-47D3-ACFD-DE99F2C30F2E/word2013-kb4464590-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>

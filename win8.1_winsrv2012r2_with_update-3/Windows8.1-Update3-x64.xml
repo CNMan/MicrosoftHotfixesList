@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/05/23" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/06/11" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1784,15 +1784,6 @@
 			<url>http://download.microsoft.com/download/A/2/E/A2E8CE6F-FEB8-4E8A-B02B-D2D75B88D966/Windows8.1-KB3000483-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3004365</kb>
-			<date>2015/05/31</date>
-			<size>3.00 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3004365-v2-x64.msu</name>
-			<description>Vulnerability in Windows Error Reporting could allow security feature bypass: July 14, 2015</description>
-			<url>http://download.microsoft.com/download/B/D/9/BD938738-53B9-4671-8EC5-8BFF91990BDA/Windows8.1-KB3004365-v2-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3019978</kb>
 			<date>2014/12/31</date>
 			<size>238 KB</size>
@@ -2171,22 +2162,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/windows8.1-kb4495585-x64_4d6d44a72e579587bd240920f4efc26372adc120.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4497932</kb>
-			<date>2019/05/05</date>
-			<size>20.90 MB</size>
+			<kb>KB4503276</kb>
+			<date>2019/05/20</date>
+			<size>455.10 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4497932-x64.msu</name>
-			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/05/windows8.1-kb4497932-x64_f415c68ef8dd33f49d9e087368396812b72523b0.msu</url>
+			<name>Windows8.1-KB4503276-x64.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows8.1-kb4503276-x64_668a79da48ee0d02a5caa94c686ab7dd1270f771.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4499182</kb>
-			<date>2019/05/20</date>
-			<size>452.50 MB</size>
+			<kb>KB4503308</kb>
+			<date>2019/05/30</date>
+			<size>20.91 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4499182-x64.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/05/windows8.1-kb4499182-x64_afa90b9cc03213d5c94f2e6e6be681c4fd1589d9.msu</url>
+			<name>Windows8.1-KB4503308-x64.msu</name>
+			<description>Update for Vulnerabilities in Adobe Flash Player</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows8.1-kb4503308-x64_ef86508e21a1d53ac8515cfc005e4f3961cb1b64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
