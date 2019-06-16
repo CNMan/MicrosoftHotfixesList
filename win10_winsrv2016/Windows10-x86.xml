@@ -182,22 +182,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/05/windows10.0-kb4497932-x86_e556ea736383dba683f099b8adbcde4471f548fe.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4500109</kb>
-			<date>2019/04/22</date>
+			<kb>KB4498523</kb>
+			<date>2019/05/20</date>
 			<size>6.52 MB</size>
 			<category>General/18362</category>
-			<name>Windows10.0-KB4500109-x86.msu</name>
+			<name>Windows10.0-KB4498523-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1903</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/windows10.0-kb4500109-x86_6c5d5af89b4ab1f093236ff4c11fbaefc155c567.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/05/windows10.0-kb4498523-x86_ef839686aee13279ed4e3656150eed43d525949c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4505057</kb>
-			<date>2019/05/17</date>
-			<size>78.84 MB</size>
+			<kb>KB4497935</kb>
+			<date>2019/05/24</date>
+			<size>85.86 MB</size>
 			<category>General/18362</category>
-			<name>Windows10.0-KB4505057-x86.msu</name>
+			<name>Windows10.0-KB4497935-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/05/windows10.0-kb4505057-x86_dd5a671445581a359e2f1c51d1d8ff518f7b3361.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/05/windows10.0-kb4497935-x86_8cd569b78eb22e22e5cf5f32b471f170f410ff4f.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
