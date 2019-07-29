@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/06/11" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/02" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4032252</kb>
@@ -596,13 +596,13 @@
 			<url>http://download.microsoft.com/download/1/6/E/16E6EBD1-B8D4-4BC7-838A-E8B75C3A9401/wec2013-kb3172533-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4464590</kb>
-			<date>2019/05/21</date>
+			<kb>KB4475525</kb>
+			<date>2019/06/12</date>
 			<size>163.03 MB</size>
-			<category>Security</category>
-			<name>word2013-kb4464590-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>word2013-kb4475525-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>http://download.microsoft.com/download/8/D/8/8D88EF50-17E1-4A6E-9C45-C44B9A149E07/word2013-kb4464590-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/7/F/4/7F4E2447-A383-4CE7-8F2D-1AE410214BEE/word2013-kb4475525-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>
