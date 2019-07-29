@@ -2054,6 +2054,15 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/windows8.1-kb4495585-x86_14b43821fa547611902f85baac67e8f013c40613.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4502557</kb>
+			<date>2019/05/15</date>
+			<size>29.19 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4502557-x86.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/windows8.1-kb4502557-x86_9e8759a1af4ed4ef2b74b5ebb33d8f96eaafa185.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4503276</kb>
 			<date>2019/05/20</date>
 			<size>291.16 MB</size>

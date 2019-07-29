@@ -137,13 +137,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x86_133f24edf1f37b0eefdf14422793949cdf18b31c.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4495588</kb>
-			<date>2019/04/09</date>
-			<size>27.17 MB</size>
+			<kb>KB4502558</kb>
+			<date>2019/05/15</date>
+			<size>27.16 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4495588-x86.exe</name>
+			<name>NDP472-KB4502558-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/ndp46-kb4495588-x86_057aa7f4c87dcd7fbb4225e170a901a622b72ad7.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/ndp47-kb4502558-x86_78aa7f831d70fe1af4414204f5fba789fcf11988.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
