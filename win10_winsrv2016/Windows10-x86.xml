@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/09" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/16" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -38,13 +38,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4503308-x86_7a8196e0c94cac997b516e31000604cbcdf9b72c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4507460</kb>
-			<date>2019/07/05</date>
-			<size>790.06 MB</size>
+			<kb>KB4507459</kb>
+			<date>2019/07/15</date>
+			<size>790.03 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4507460-x86.msu</name>
+			<name>Windows10.0-KB4507459-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/07/windows10.0-kb4507460-x86_5239d7bff8c3b482cd8ec3d73c3d3d2595980ad6.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/07/windows10.0-kb4507459-x86_0686c650c2a6c6a4e9afed53127a483629d81ae3.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4509091</kb>
@@ -65,13 +65,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4503308-x86_35ebd6239f23bdbbac7a6e0a173524004deea60d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4507435</kb>
-			<date>2019/07/05</date>
-			<size>539.95 MB</size>
+			<kb>KB4507466</kb>
+			<date>2019/07/12</date>
+			<size>541.09 MB</size>
 			<category>General/17134</category>
-			<name>Windows10.0-KB4507435-x86.msu</name>
+			<name>Windows10.0-KB4507466-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/07/windows10.0-kb4507435-x86_05aa394fcfdd3dbc72e2da2f41ae96b30d9496b9.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/07/windows10.0-kb4507466-x86_e5313f726a95a494f332e4b5c52f8960a868b87b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4509094</kb>
