@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/02" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/09" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4032252</kb>
@@ -92,13 +92,13 @@
 			<url>http://download.microsoft.com/download/3/C/3/3C39EBC9-1AC9-4955-A606-E21235255DBC/eqnedt322013-kb4011580-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462209</kb>
-			<date>2019/03/14</date>
-			<size>95.33 MB</size>
+			<kb>KB4464565</kb>
+			<date>2019/06/12</date>
+			<size>95.34 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb4462209-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb4464565-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/0/9/B/09BAE0EF-D216-4F4F-8AC2-4F0398B32ECE/excel2013-kb4462209-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/0/0/500328A6-B479-42C8-8CD0-99910E70808D/excel2013-kb4464565-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -155,13 +155,13 @@
 			<url>http://download.microsoft.com/download/F/5/6/F56E87B6-700E-4B99-97C6-DABF20F95CD7/gkall2013-kb3039795-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462203</kb>
-			<date>2019/03/14</date>
-			<size>3.35 MB</size>
-			<category>General</category>
-			<name>graph2013-kb4462203-fullfile-x64-glb.exe</name>
+			<kb>KB4464543</kb>
+			<date>2019/06/12</date>
+			<size>3.36 MB</size>
+			<category>Security</category>
+			<name>graph2013-kb4464543-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/9/F/3/9F31DF17-C41D-4FF2-8D48-82D4181C19F1/graph2013-kb4462203-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/0/C/60C84797-6857-4592-A7F4-D264EF5D0D62/graph2013-kb4464543-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022226</kb>
@@ -218,13 +218,13 @@
 			<url>http://download.microsoft.com/download/F/2/1/F2151EA6-684F-4B00-9B64-FB4E2D041C90/ipeditor2013-kb4022181-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4464593</kb>
-			<date>2019/05/29</date>
+			<kb>KB4475519</kb>
+			<date>2019/07/02</date>
 			<size>104.58 MB</size>
 			<category>Security</category>
-			<name>lync2013-kb4464593-fullfile-x64-glb.exe</name>
+			<name>lync2013-kb4475519-fullfile-x64-glb.exe</name>
 			<description>Microsoft Skype for Business 2015</description>
-			<url>http://download.microsoft.com/download/0/A/E/0AE02B15-B3A0-4F9E-9E8F-558734622256/lync2013-kb4464593-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/0/4/304653E3-1C5F-447C-988B-E5139B23B63D/lync2013-kb4475519-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191937</kb>
@@ -254,13 +254,13 @@
 			<url>http://download.microsoft.com/download/6/2/D/62DC8E6F-39F0-4155-923E-E43BFDC29C8D/msmipc2013-kb3172523-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4464504</kb>
-			<date>2019/03/14</date>
-			<size>225.66 MB</size>
+			<kb>KB4464558</kb>
+			<date>2019/06/12</date>
+			<size>225.69 MB</size>
 			<category>Security</category>
-			<name>mso2013-kb4464504-fullfile-x64-glb.exe</name>
+			<name>mso2013-kb4464558-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/C/F/8/CF804EFD-11F0-4F54-9EEE-72B58DF00123/mso2013-kb4464504-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/6/5/665C9613-056A-46AF-B6C9-4902B3C03B16/mso2013-kb4464558-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172522</kb>
@@ -398,13 +398,13 @@
 			<url>http://download.microsoft.com/download/0/C/7/0C75AC06-5A65-49EF-BE65-E331BCCFA517/osetup2013-kb4022189-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018333</kb>
-			<date>2018/03/14</date>
+			<kb>KB4018375</kb>
+			<date>2019/06/12</date>
 			<size>4.83 MB</size>
-			<category>General</category>
-			<name>osfclient2013-kb4018333-fullfile-x64-glb.exe</name>
+			<category>Security</category>
+			<name>osfclient2013-kb4018375-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Apps)</description>
-			<url>http://download.microsoft.com/download/A/F/B/AFB0CDDA-AB4D-4698-B3F1-F724E180ECCF/osfclient2013-kb4018333-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/4/C/34C665F6-C965-4005-83EB-95A385920D41/osfclient2013-kb4018375-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039778</kb>
@@ -434,13 +434,13 @@
 			<url>http://download.microsoft.com/download/2/E/6/2E63A2FD-7C84-4E7D-8189-3FCEE678B377/outlfltr2013-kb3115404-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4464546</kb>
-			<date>2019/04/22</date>
-			<size>90.91 MB</size>
-			<category>General</category>
-			<name>outlook2013-kb4464546-fullfile-x64-glb.exe</name>
+			<kb>KB4464592</kb>
+			<date>2019/06/12</date>
+			<size>90.92 MB</size>
+			<category>Security</category>
+			<name>outlook2013-kb4464592-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>http://download.microsoft.com/download/A/D/6/AD6AB73F-9E4E-44E8-8B7F-BB3D333932A3/outlook2013-kb4464546-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/C/F/1/CF1F680F-E809-42C0-9E23-9BE193040A72/outlook2013-kb4464592-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>

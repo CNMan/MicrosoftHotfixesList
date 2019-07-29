@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/06/20" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/09" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -191,13 +191,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4054999-x86_ab1d1a2831cdd588de1551786c1372025e2997e8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4495608</kb>
-			<date>2019/03/29</date>
-			<size>17.29 MB</size>
+			<kb>KB4507005</kb>
+			<date>2019/07/04</date>
+			<size>17.05 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4495608-x86.msu</name>
+			<name>Windows8.1-KB4507005-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/windows8.1-kb4495608-x86_fa161cbd35302ac9777c3d222f87a00513b6023f.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows8.1-kb4507005-x86_85b8360053f473d371c7735fe8c7f3d2cd592253.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -326,6 +326,15 @@
 			<url>http://download.microsoft.com/download/2/A/7/2A7DDF8A-2B5C-4C8E-AD45-306E19A579B6/Windows8.1-KB3162835-x86.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB3173424</kb>
+			<date>2016/06/21</date>
+			<size>4.69 MB</size>
+			<category>Additional/WU.Satisfy</category>
+			<name>Windows8.1-KB3173424-x86.msu</name>
+			<description>July 2016 servicing stack update</description>
+			<url>http://download.microsoft.com/download/4/5/F/45F8AA2A-1C72-460A-B9E9-83D3966DDA46/Windows8.1-KB3173424-x86.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB3185319</kb>
 			<date>2016/09/01</date>
 			<size>28.81 MB</size>
@@ -345,7 +354,7 @@
 		</update>
 		<update extract="0">
 			<kb>KB2919355</kb>
-			<date>2016/09/20</date>
+			<date>2019/07/09</date>
 			<size>1.00 KB</size>
 			<category>Baseline</category>
 			<name>Baseline-Info-Update3.txt</name>
@@ -362,13 +371,13 @@
 			<url>http://download.microsoft.com/download/2/B/8/2B832205-A313-45A4-9356-DF5E47B70663/Windows8.1-KB3021910-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3173424</kb>
-			<date>2016/06/21</date>
-			<size>4.69 MB</size>
+			<kb>KB4504418</kb>
+			<date>2019/06/27</date>
+			<size>4.76 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB3173424-x86.msu</name>
-			<description>July 2016 servicing stack update</description>
-			<url>http://download.microsoft.com/download/4/5/F/45F8AA2A-1C72-460A-B9E9-83D3966DDA46/Windows8.1-KB3173424-x86.msu</url>
+			<name>Windows8.1-KB4504418-x86.msu</name>
+			<description>July 2019 servicing stack update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows8.1-kb4504418-x86_b15fd0fae0703c6fbdb2fd6cdaf65f05946dc325.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -2045,33 +2054,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/03/windows8.1-kb4488665-x86_919bc39ca94c6481c4574ae89c897fe6e62efb7c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4495585</kb>
-			<date>2019/04/09</date>
-			<size>29.26 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4495585-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/windows8.1-kb4495585-x86_14b43821fa547611902f85baac67e8f013c40613.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4502557</kb>
-			<date>2019/05/15</date>
-			<size>29.19 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4502557-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/windows8.1-kb4502557-x86_9e8759a1af4ed4ef2b74b5ebb33d8f96eaafa185.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4503283</kb>
-			<date>2019/06/16</date>
-			<size>291.26 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4503283-x86.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/windows8.1-kb4503283-x86_43ddc834ed5e2a0b4899d91a142a175d7202b4e3.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4503308</kb>
 			<date>2019/05/30</date>
 			<size>10.24 MB</size>
@@ -2079,6 +2061,24 @@
 			<name>Windows8.1-KB4503308-x86.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows8.1-kb4503308-x86_5920b9c73f3afffb3c41d93c65bc1d710cbf9699.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4506996</kb>
+			<date>2019/06/03</date>
+			<size>29.18 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4506996-x86.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows8.1-kb4506996-x86_7b39de593ad7086af024a5543949662b9633b0d5.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4507448</kb>
+			<date>2019/06/28</date>
+			<size>292.81 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4507448-x86.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows8.1-kb4507448-x86_77c52d2067c9ff516410618afe1f79326c4e3da5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

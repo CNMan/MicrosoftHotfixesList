@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/02" architecture="x64" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/09" architecture="x64" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4018363</kb>
@@ -56,13 +56,13 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462230</kb>
-			<date>2019/03/14</date>
+			<kb>KB4464572</kb>
+			<date>2019/06/18</date>
 			<size>38.75 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4462230-fullfile-x64-glb.exe</name>
+			<name>excel2010-kb4464572-fullfile-x65-glb.exe</name>
 			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/A/8/6/A861A0E9-1AA5-443C-A8E0-290C08A168AC/excel2010-kb4462230-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/3/E/63EF666E-FCED-4B6A-89EE-8D8A825FE4CF/excel2010-kb4464572-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956084</kb>
@@ -128,13 +128,13 @@
 			<url>http://download.microsoft.com/download/3/B/4/3B4DEB77-D418-40DF-BC5C-9E1227A0BE87/gkall2010-kb2881030-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462177</kb>
-			<date>2019/01/23</date>
+			<kb>KB4462224</kb>
+			<date>2019/06/18</date>
 			<size>4.10 MB</size>
 			<category>Security</category>
-			<name>graph2010-kb4462177-fullfile-x64-glb.exe</name>
+			<name>graph2010-kb4462224-fullfile-x65-glb.exe</name>
 			<description>Microsoft Office 2010 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/8/C/C/8CC6B67B-2261-4583-BF85-3431EEFDCDCD/graph2010-kb4462177-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/7/0/2702CEB9-834A-43C0-80D8-1266F8C2FAB8/graph2010-kb4462224-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2878231</kb>
@@ -443,13 +443,13 @@
 			<url>http://download.microsoft.com/download/7/D/7/7D71F243-CFBB-4750-9F30-4DBE2B755A02/outlfltr2010-kb3115475-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4464524</kb>
-			<date>2019/04/24</date>
-			<size>87.19 MB</size>
-			<category>General</category>
-			<name>outlookloc2010-kb4464524-fullfile-x64-glb.exe</name>
+			<kb>KB4475509</kb>
+			<date>2019/06/18</date>
+			<size>87.20 MB</size>
+			<category>Security</category>
+			<name>outlookloc2010-kb4475509-fullfile-x65-glb.exe</name>
 			<description>Microsoft Outlook 2010</description>
-			<url>http://download.microsoft.com/download/5/8/6/586E6B3E-5006-4DBB-B5B4-47C4AA97B961/outlookloc2010-kb4464524-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/E/F/8EF37EB6-908F-4C1F-8D71-D5986DE48B4B/outlookloc2010-kb4475509-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2553170</kb>

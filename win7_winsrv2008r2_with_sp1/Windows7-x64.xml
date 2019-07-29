@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/06/20" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/09" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -146,13 +146,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x64_25f386d2fb25b200ed7ddba055d008995403f4e6.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4502558</kb>
-			<date>2019/05/15</date>
+			<kb>KB4506997</kb>
+			<date>2019/06/03</date>
 			<size>41.07 MB</size>
 			<category>Additional/NET472</category>
-			<name>NDP472-KB4502558-x64.exe</name>
+			<name>NDP472-KB4506997-x64.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/ndp47-kb4502558-x64_6145e512f8dcef174742423c2db026a39d7f364a.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/ndp47-kb4506997-x64_4372aeb322de0738c2bcac582d9d19b15a93fabf.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -794,15 +794,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/02/windows6.1-kb2918077-x64_d746e693d2f70955ca8e61c9492e72dcfa12adb8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB2966583</kb>
-			<date>2014/06/02</date>
-			<size>2.60 MB</size>
-			<category>Extra/WithoutKB3125574/#General</category>
-			<name>Windows6.1-KB2966583-x64.msu</name>
-			<description>Improvements for the System Update Readiness tool</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/07/windows6.1-kb2966583-x64_c9d3315b35f55a10237994c77ceb86842881761c.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB2970228</kb>
 			<date>2014/07/09</date>
 			<size>8.05 MB</size>
@@ -900,15 +891,6 @@
 			<name>Windows6.1-KB3079821-x64.msu</name>
 			<description>Update adds support for Windows 10 clients to Windows 7 KMS hosts</description>
 			<url>http://download.microsoft.com/download/1/8/7/18710B86-673C-4C56-8C2F-9171152A1D36/Windows6.1-KB3079821-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3080079</kb>
-			<date>2015/08/06</date>
-			<size>10.20 MB</size>
-			<category>Extra/WithoutKB3125574/#General</category>
-			<name>Windows6.1-KB3080079-x64.msu</name>
-			<description>Update to add RDS support for TLS 1.1 and TLS 1.2 in Windows 7</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows6.1-kb3080079-x64_2cb24acbc7ecbad33d452fdb00a57343e90dc3e5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3102429</kb>
@@ -4061,15 +4043,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=20260</url>
 		</update>
 		<update extract="0">
-			<kb>KB3075222</kb>
-			<date>2015/07/17</date>
-			<size>3.82 MB</size>
-			<category>Extra/WithoutKB3125574/_RDP</category>
-			<name>Windows6.1-KB3075222-x64.msu</name>
-			<description>Security update for Windows RDP: August 11, 2015</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows6.1-kb3075222-x64_a4fbefe464e6c9d4c3924516379a570f7884e289.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3075226</kb>
 			<date>2015/07/17</date>
 			<size>4.94 MB</size>
@@ -4853,22 +4826,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4474419-x64_6acf139f1eb84f60fcdeef3d4f81285e1edb45f9.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4495606</kb>
-			<date>2019/04/01</date>
-			<size>23.31 MB</size>
+			<kb>KB4507004</kb>
+			<date>2019/07/03</date>
+			<size>23.32 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4495606-x64.msu</name>
+			<name>Windows6.1-KB4507004-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/05/windows6.1-kb4495606-x64_689f245559ffc28ba33ad3675287eff1a014174b.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows6.1-kb4507004-x64_a7d988d65422c8cfbbed141c95aeea37a8743167.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4503277</kb>
-			<date>2019/06/18</date>
-			<size>270.66 MB</size>
+			<kb>KB4507449</kb>
+			<date>2019/06/29</date>
+			<size>280.67 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4503277-x64.msu</name>
+			<name>Windows6.1-KB4507449-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/06/windows6.1-kb4503277-x64_3fa1aa2a0c70de438d41d326a8dba5f2776d4287.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows6.1-kb4507449-x64_6e41f8e0642fb3a87e99b8acd34b7541b9316d0b.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
