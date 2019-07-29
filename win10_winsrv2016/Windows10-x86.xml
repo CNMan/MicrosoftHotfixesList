@@ -29,22 +29,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/07/windows10.0-kb4054590-x86_819cee600ccd8935d005b1d6fcc5148ea7b24201.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4132216</kb>
-			<date>2018/04/26</date>
-			<size>5.31 MB</size>
+			<kb>KB4503294</kb>
+			<date>2019/06/18</date>
+			<size>788.91 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4132216-x86.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2018/05/windows10.0-kb4132216-x86_397ebbe49d273429a3e0ce8d6ced13fdb83e1718.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4503267</kb>
-			<date>2019/06/06</date>
-			<size>788.93 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4503267-x86.msu</name>
+			<name>Windows10.0-KB4503294-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4503267-x86_f19fbfaf4b8abc167327e26c39cd4d3aa2c573ed.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/windows10.0-kb4503294-x86_a50b808a18cda8fcf3845939eddb0eba740ae9c7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4503308</kb>
@@ -74,13 +65,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/05/windows10.0-kb4500641-x86_772a82d349f3de26f670694270ef2a127b6cf673.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4503284</kb>
-			<date>2019/06/08</date>
-			<size>622.63 MB</size>
+			<kb>KB4503281</kb>
+			<date>2019/06/18</date>
+			<size>624.30 MB</size>
 			<category>General/16299</category>
-			<name>Windows10.0-KB4503284-x86.msu</name>
+			<name>Windows10.0-KB4503281-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1709</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4503284-x86_d5ddd7ae23568470f7e0124a3c50c0045ef8c81d.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/windows10.0-kb4503281-x86_3188755043c2323f263a20474792885adb99990a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4503308</kb>
@@ -101,13 +92,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/05/windows10.0-kb4497398-x86_da10603fda7cd6ca7ac3d59605e7432e4ad73877.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4503286</kb>
-			<date>2019/06/08</date>
-			<size>529.48 MB</size>
+			<kb>KB4503288</kb>
+			<date>2019/06/18</date>
+			<size>532.09 MB</size>
 			<category>General/17134</category>
-			<name>Windows10.0-KB4503286-x86.msu</name>
+			<name>Windows10.0-KB4503288-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows10.0-kb4503286-x86_49c769a0e8c1721da95cb00805c15a8acb45e7ce.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/windows10.0-kb4503288-x86_53ece1578126d66de3f50483a3fae61f32322c4c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4503308</kb>
@@ -128,6 +119,15 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windows10.0-kb4480056-x86_7c7fe1684870a19ea21f9661c4f70feea84e4ea5.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4501371</kb>
+			<date>2019/06/18</date>
+			<size>118.78 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB4501371-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/windows10.0-kb4501371-x86_5df5063bfe251d7621c5ebf7765dba33fc648879.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4502559</kb>
 			<date>2019/05/15</date>
 			<size>34.23 MB</size>
@@ -144,15 +144,6 @@
 			<name>windows10.0-kb4503308-x86_4fc8ff515a3c3dc94c2a5aa85af287d54fc555c6.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1809</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4503308-x86_4fc8ff515a3c3dc94c2a5aa85af287d54fc555c6.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4503327</kb>
-			<date>2019/06/08</date>
-			<size>115.25 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB4503327-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4503327-x86_e7b4e93a5bb54eef9cb80de5cb9a1087a9753cd0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4504369</kb>
