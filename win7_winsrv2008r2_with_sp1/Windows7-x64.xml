@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/06/11" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/06/20" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4862,13 +4862,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/05/windows6.1-kb4495606-x64_689f245559ffc28ba33ad3675287eff1a014174b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4503292</kb>
-			<date>2019/06/06</date>
-			<size>270.72 MB</size>
+			<kb>KB4503277</kb>
+			<date>2019/06/18</date>
+			<size>270.66 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4503292-x64.msu</name>
+			<name>Windows6.1-KB4503277-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows6.1-kb4503292-x64_a35bb4ea16d1d529fde9abfe8a0c16e9061f74cd.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/06/windows6.1-kb4503277-x64_3fa1aa2a0c70de438d41d326a8dba5f2776d4287.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

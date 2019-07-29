@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/06/11" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/06/20" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -2063,13 +2063,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/windows8.1-kb4502557-x86_9e8759a1af4ed4ef2b74b5ebb33d8f96eaafa185.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4503276</kb>
-			<date>2019/05/20</date>
-			<size>291.16 MB</size>
+			<kb>KB4503283</kb>
+			<date>2019/06/16</date>
+			<size>291.26 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4503276-x86.msu</name>
+			<name>Windows8.1-KB4503283-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows8.1-kb4503276-x86_6255fed2ad9cefb3fa8c44ff3422dae1531bf7c1.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/06/windows8.1-kb4503283-x86_43ddc834ed5e2a0b4899d91a142a175d7202b4e3.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4503308</kb>
