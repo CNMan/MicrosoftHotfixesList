@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/16" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/23" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -101,6 +101,15 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4503308-x64_1cf7ea2c2d4263e710babb4a8d56416388e1c78e.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4505658</kb>
+			<date>2019/07/19</date>
+			<size>261.26 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB4505658-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/07/windows10.0-kb4505658-x64_cb660f3191eba56217694635b48d50d36883c3f2.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4506998</kb>
 			<date>2019/07/05</date>
 			<size>63.18 MB</size>
@@ -110,22 +119,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows10.0-kb4506998-x64_fc6c6f2e21cfddd6305b9ab19026a6789e666eac.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4507469</kb>
-			<date>2019/07/01</date>
-			<size>256.30 MB</size>
+			<kb>KB4512937</kb>
+			<date>2019/07/12</date>
+			<size>13.54 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4507469-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/07/windows10.0-kb4507469-x64_5f3dbb0a076f7113a16dbe218b821a9c1589c96a.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4509095</kb>
-			<date>2019/06/19</date>
-			<size>13.58 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB4509095-x64.msu</name>
+			<name>Windows10.0-KB4512937-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows10.0-kb4509095-x64_db55fad56f519812591f059826f4938733ec66da.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/07/windows10.0-kb4512937-x64_2a065a9ecfee76e3e457f3c596550e821358971c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4503308</kb>
