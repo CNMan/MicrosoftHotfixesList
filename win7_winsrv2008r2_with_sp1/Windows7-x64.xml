@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/16" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/08/13" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -119,40 +119,31 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.1-kb947821-v34-x64_cc4a605bcda8288af75983312e8fb25367e98fdd.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4054529</kb>
-			<date>2018/07/10</date>
-			<size>4.31 KB</size>
-			<category>Additional/NET472</category>
-			<name>NDP472-Info-LangPacks.txt</name>
-			<description>Microsoft .NET Framework 4.7.2 Info and Language Packs</description>
-			<url>https://dl.dropboxusercontent.com/s/vygvv8agxwn14l0/NDP472-Info-LangPacks.txt</url>
+			<kb>KB4497410</kb>
+			<date>2019/08/13</date>
+			<size>4.23 KB</size>
+			<category>Additional/NET48</category>
+			<name>NDP48-Info-LangPacks.txt</name>
+			<description>Microsoft .NET Framework 4.8 Info and Language Packs</description>
+			<url>https://dl.dropboxusercontent.com/s/n0b484euzzg4yoa/NDP48-Info-LangPacks.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4054530</kb>
-			<date>2018/03/27</date>
-			<size>50.83 MB</size>
-			<category>Additional/NET472</category>
-			<name>NDP472-KB4054541-x86-x64-ENU.exe</name>
-			<description>Microsoft .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4054541-x86-x64-enu_2cd33de88607aa5b1415e9e06f19602d7b24c6b4.exe</url>
+			<kb>KB4503548</kb>
+			<date>2019/03/28</date>
+			<size>51.96 MB</size>
+			<category>Additional/NET48</category>
+			<name>NDP48-KB4503548-x86-x64-ENU.exe</name>
+			<description>Microsoft .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2019/08/ndp48-x86-x64-enu_0885a72554ca76d2cd3ad76f98878f22b6a1d0b2.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4087364</kb>
-			<date>2018/06/07</date>
-			<size>11.67 MB</size>
-			<category>Additional/NET472</category>
-			<name>NDP472-KB4087364-x64.exe</name>
-			<description>Microsoft .NET Framework 4.7.2 Update</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2018/07/ndp472-kb4087364-x64_25f386d2fb25b200ed7ddba055d008995403f4e6.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4506997</kb>
-			<date>2019/06/03</date>
-			<size>41.07 MB</size>
-			<category>Additional/NET472</category>
-			<name>NDP472-KB4506997-x64.exe</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/ndp47-kb4506997-x64_4372aeb322de0738c2bcac582d9d19b15a93fabf.exe</url>
+			<kb>KB4503575</kb>
+			<date>2019/07/25</date>
+			<size>35.00 MB</size>
+			<category>Additional/NET48</category>
+			<name>NDP48-KB4503575-x64.exe</name>
+			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2019/08/ndp48-kb4503575-x64_8fb38b8d7f7c122fbb703289fdb6481d0b89ada1.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -1910,15 +1901,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=14700</url>
 		</update>
 		<update extract="0">
-			<kb>KB2740232</kb>
-			<date>2012/08/22</date>
-			<size>585 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2740232-v2-x64.msu</name>
-			<description>Bluetooth devices cannot be enumerated after you restart a computer that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=14699</url>
-		</update>
-		<update extract="0">
 			<kb>KB2741416</kb>
 			<date>2012/08/23</date>
 			<size>851 KB</size>
@@ -2585,15 +2567,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=19212</url>
 		</update>
 		<update extract="0">
-			<kb>KB2923388</kb>
-			<date>2014/01/06</date>
-			<size>362 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2923388-x64.msu</name>
-			<description>Plain text displayed when XSLT style sheet used to transform an XML document into HTML in Windows 7 or Windows Server 2008 R2</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=18886</url>
-		</update>
-		<update extract="0">
 			<kb>KB2928496</kb>
 			<date>2014/01/30</date>
 			<size>626 KB</size>
@@ -3006,15 +2979,6 @@
 			<name>Windows6.1-KB3060738-x64.msu</name>
 			<description>Significant delays occur when obtaining data from Active Directory in Excel 2013</description>
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=20731</url>
-		</update>
-		<update extract="0">
-			<kb>KB3063060</kb>
-			<date>2015/05/07</date>
-			<size>954 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB3063060-x64.msu</name>
-			<description>Network connectivity dropped when time is adjusted on a DHCP client</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=20733</url>
 		</update>
 		<update extract="0">
 			<kb>KB3067902</kb>
@@ -4818,12 +4782,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB4474419</kb>
-			<date>2019/02/28</date>
-			<size>52.06 MB</size>
+			<date>2019/08/09</date>
+			<size>52.86 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4474419-x64.msu</name>
-			<description>SHA-2 code signing support update: March 2019</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4474419-x64_6acf139f1eb84f60fcdeef3d4f81285e1edb45f9.msu</url>
+			<name>Windows6.1-KB4474419-v2-x64.msu</name>
+			<description>SHA-2 code signing support update: August 2019</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows6.1-kb4474419-v2-x64_160414186799f7a367cc6083da216cb49aa66e04.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4507004</kb>
@@ -4835,13 +4799,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows6.1-kb4507004-x64_a7d988d65422c8cfbbed141c95aeea37a8743167.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4507437</kb>
-			<date>2019/07/12</date>
-			<size>282.61 MB</size>
+			<kb>KB4512506</kb>
+			<date>2019/08/08</date>
+			<size>285.58 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4507437-x64.msu</name>
+			<name>Windows6.1-KB4512506-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/07/windows6.1-kb4507437-x64_c174174acfd41648bccfdc13cee1f17c922c7608.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/08/windows6.1-kb4512506-x64_84e26e414da5d56991c15de19a93824d23b82e89.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

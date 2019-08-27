@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/09" architecture="x64" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/08/13" architecture="x64" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4018363</kb>
@@ -20,13 +20,13 @@
 			<url>http://download.microsoft.com/download/0/F/A/0FA13B01-4914-4DB7-B31E-E1DB8D4E3193/accessolkaddin2010-kb2791057-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4464567</kb>
-			<date>2019/04/24</date>
+			<kb>KB4475506</kb>
+			<date>2019/07/26</date>
 			<size>4.79 MB</size>
 			<category>Security</category>
-			<name>ace2010-kb4464567-fullfile-x64-glb.exe</name>
+			<name>ace2010-kb4475506-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/3/B/C/3BC174C3-9B20-40E3-9D09-A4C379707C08/ace2010-kb4464567-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/8/E/58EEF6C9-BC7D-4FCF-9678-223A89CF0880/ace2010-kb4475506-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213626</kb>
@@ -443,13 +443,13 @@
 			<url>http://download.microsoft.com/download/7/D/7/7D71F243-CFBB-4750-9F30-4DBE2B755A02/outlfltr2010-kb3115475-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4475509</kb>
-			<date>2019/06/18</date>
-			<size>87.20 MB</size>
+			<kb>KB4475573</kb>
+			<date>2019/07/26</date>
+			<size>87.18 MB</size>
 			<category>Security</category>
-			<name>outlookloc2010-kb4475509-fullfile-x65-glb.exe</name>
+			<name>outlookloc2010-kb4475573-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2010</description>
-			<url>http://download.microsoft.com/download/8/E/F/8EF37EB6-908F-4C1F-8D71-D5986DE48B4B/outlookloc2010-kb4475509-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/1/1/6114EA64-BDC6-417D-8F94-8F35FE8D3D6A/outlookloc2010-kb4475573-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2553170</kb>
@@ -605,13 +605,13 @@
 			<url>http://download.microsoft.com/download/8/E/4/8E4B6B83-4AF6-4FB9-9101-7BF4A2B81DFC/wec2010-kb2553388-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461619</kb>
-			<date>2019/05/20</date>
-			<size>27.16 MB</size>
+			<kb>KB4475533</kb>
+			<date>2019/07/26</date>
+			<size>27.15 MB</size>
 			<category>Security</category>
-			<name>word2010-kb4461619-fullfile-x64-glb.exe</name>
+			<name>word2010-kb4475533-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2010</description>
-			<url>http://download.microsoft.com/download/2/3/6/236AEA2F-4E85-41E6-A516-1F692576721F/word2010-kb4461619-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/C/7/1C73EE0A-8000-4C02-A77C-DC7FD68D5F3F/word2010-kb4475533-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461625</kb>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/26" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/08/13" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -11,22 +11,22 @@
 			<url>https://dl.dropboxusercontent.com/s/9a6o6p08gr8vhcm/Information-ReadMe.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4033418</kb>
-			<date>2018/07/10</date>
-			<size>8.10 KB</size>
+			<kb>KB4087515</kb>
+			<date>2019/08/13</date>
+			<size>8.03 KB</size>
 			<category>General/14393</category>
-			<name>NET472-LanguagePackages.txt</name>
-			<description>Microsoft .NET Framework 4.7.2 Languages Packs</description>
-			<url>https://dl.dropboxusercontent.com/s/epmsj64axn1wslf/NET472-LanguagePackages.txt</url>
+			<name>NET48-LangPacks1607.txt</name>
+			<description>Microsoft .NET Framework 4.8 Language Packs for Windows 10 Version 1607</description>
+			<url>https://dl.dropboxusercontent.com/s/njib7lf0sny0v8w/NET48-LangPacks1607.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4054590</kb>
-			<date>2018/06/07</date>
-			<size>70.46 MB</size>
+			<kb>KB4486129</kb>
+			<date>2019/07/25</date>
+			<size>71.97 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4054590-x64.msu</name>
-			<description>Microsoft .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/07/windows10.0-kb4054590-x64_4f8ee4cc9304f340d9d2762728f405799e7d846a.msu</url>
+			<name>Windows10.0-KB4486129-x64.msu</name>
+			<description>Microsoft .NET Framework 4.8 for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2019/08/windows10.0-kb4486129-x64_bb869dd2cfa4ddde433373e2c72d15e660c2fc8d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4503308</kb>
@@ -38,13 +38,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4503308-x64_002bdb3ec1738d89a7b41dd565780994e501bf46.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4507459</kb>
-			<date>2019/07/15</date>
-			<size>1.38 GB</size>
+			<kb>KB4506986</kb>
+			<date>2019/06/28</date>
+			<size>46.69 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4507459-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/07/windows10.0-kb4507459-x64_67d347cdf1933c9da47f7e6f96424ce89debce41.msu</url>
+			<name>Windows10.0-KB4506986-x64.msu</name>
+			<description>.NET Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4506986-x64_04f3f4b7ec60744650b31b447408ea4e5bf757e5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4509091</kb>
@@ -56,6 +56,15 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/07/windows10.0-kb4509091-x64_1e1039047044a1f632562cd65df3ce6b77804018.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4512517</kb>
+			<date>2019/08/07</date>
+			<size>1.38 GB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4512517-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows10.0-kb4512517-x64_81ba5a17cf768a54489faf28ba3a3eca3c0c36d5.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4503308</kb>
 			<date>2019/06/03</date>
 			<size>20.90 MB</size>
@@ -63,15 +72,6 @@
 			<name>windows10.0-kb4503308-x64_e47067c857f77cd37f7a5c0f0b5ad1d451caf76b.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1803</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4503308-x64_e47067c857f77cd37f7a5c0f0b5ad1d451caf76b.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4507466</kb>
-			<date>2019/07/12</date>
-			<size>915.46 MB</size>
-			<category>General/17134</category>
-			<name>Windows10.0-KB4507466-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/07/windows10.0-kb4507466-x64_610af01afaf7e730d6b6b010a1f4bf7dbcc21088.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4509094</kb>
@@ -83,6 +83,24 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows10.0-kb4509094-x64_7d0c6af80a1eef5a4d774f6e1b1b3297023386a7.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4512501</kb>
+			<date>2019/08/08</date>
+			<size>919.27 MB</size>
+			<category>General/17134</category>
+			<name>Windows10.0-KB4512501-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1803</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows10.0-kb4512501-x64_09acaf2e24b265fdb2f29c4c62e9d079029659bd.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4087642</kb>
+			<date>2019/08/13</date>
+			<size>8.03 KB</size>
+			<category>General/17763</category>
+			<name>NET48-LangPacks1809.txt</name>
+			<description>Microsoft .NET Framework 4.8 Language Packs for Windows 10 Version 1809</description>
+			<url>https://dl.dropboxusercontent.com/s/jy5wfwdf255tcd4/NET48-LangPacks1809.txt</url>
+		</update>
+		<update extract="0">
 			<kb>KB4480056</kb>
 			<date>2018/12/12</date>
 			<size>56.24 MB</size>
@@ -90,6 +108,15 @@
 			<name>Windows10.0-KB4480056-x64.msu</name>
 			<description>.NET Cumulative Update for Windows 10 Version 1809</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windows10.0-kb4480056-x64_03a6d426797796ba712e4dbd05b56fd9cbfc2e24.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4486153</kb>
+			<date>2019/07/25</date>
+			<size>71.97 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB4486153-x64.msu</name>
+			<description>Microsoft .NET Framework 4.8 for Windows 10 Version 1809</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2019/08/windows10.0-kb4486153-x64_8da922572d9adb038b41fb65b458b36a491ecc62.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4503308</kb>
@@ -101,22 +128,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows10.0-kb4503308-x64_1cf7ea2c2d4263e710babb4a8d56416388e1c78e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4505658</kb>
-			<date>2019/07/19</date>
-			<size>261.26 MB</size>
+			<kb>KB4506990</kb>
+			<date>2019/07/05</date>
+			<size>63.76 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4505658-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/07/windows10.0-kb4505658-x64_cb660f3191eba56217694635b48d50d36883c3f2.msu</url>
+			<name>Windows10.0-KB4506990-x64.msu</name>
+			<description>.NET Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows10.0-kb4506990-x64_b08d8cae796e003093469d9ff4559b7464086617.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4506998</kb>
-			<date>2019/07/05</date>
-			<size>63.18 MB</size>
+			<kb>KB4511553</kb>
+			<date>2019/08/08</date>
+			<size>328.59 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4506998-x64.msu</name>
-			<description>.NET Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows10.0-kb4506998-x64_fc6c6f2e21cfddd6305b9ab19026a6789e666eac.msu</url>
+			<name>Windows10.0-KB4511553-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows10.0-kb4511553-x64_a67329ef92df959050847b10d583e6c54aa3b3d4.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4512937</kb>
@@ -146,15 +173,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows10.0-kb4506991-x64_a0962ce8ceeb7faf10c6c95696eca09b36563f76.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4505903</kb>
-			<date>2019/07/24</date>
-			<size>250.07 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB4505903-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/07/windows10.0-kb4505903-x64_af8c6ab868423055a750797b6d52c1bd67e15a95.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4508433</kb>
 			<date>2019/07/12</date>
 			<size>14.58 MB</size>
@@ -162,6 +180,15 @@
 			<name>Windows10.0-KB4508433-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1903</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/07/windows10.0-kb4508433-x64_c4d6ffb6ee72a39da6c6c7e15a47d6e1520030e4.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4512508</kb>
+			<date>2019/08/08</date>
+			<size>259.89 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB4512508-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1903</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows10.0-kb4512508-x64_1893edc9a11d760be11e49d2500170ceee8026d7.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

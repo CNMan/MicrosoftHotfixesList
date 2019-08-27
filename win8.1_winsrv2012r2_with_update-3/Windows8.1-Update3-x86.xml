@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/07/16" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/08/13" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -470,13 +470,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134812-x86_48b84a3a11164159dc46e960759ad4458587dfb3.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4054534</kb>
-			<date>2018/07/10</date>
-			<size>7.98 KB</size>
+			<kb>KB4087514</kb>
+			<date>2019/08/13</date>
+			<size>7.97 KB</size>
 			<category>General</category>
-			<name>NET472-LangPacks.txt</name>
-			<description>Microsoft .NET Framework 4.7.2 Languages Packs</description>
-			<url>https://dl.dropboxusercontent.com/s/iuw63iw5h0enn56/NET472-LangPacks.txt</url>
+			<name>NET48-LangPacks.txt</name>
+			<description>Microsoft .NET Framework 4.8 Languages Packs</description>
+			<url>https://dl.dropboxusercontent.com/s/7ah9beu58opuk2x/NET48-LangPacks.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB2899189</kb>
@@ -1199,13 +1199,13 @@
 			<url>http://download.microsoft.com/download/2/8/5/285CD542-6751-4ECB-98FA-E0253D01A59B/Windows8.1-KB3184143-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4054566</kb>
-			<date>2018/06/07</date>
-			<size>41.57 MB</size>
+			<kb>KB4486105</kb>
+			<date>2019/07/25</date>
+			<size>41.39 MB</size>
 			<category>General</category>
-			<name>Windows8.1-KB4054566-x86.msu</name>
-			<description>Microsoft .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2018/07/windows8.1-kb4054566-x86_8ce600f77a00ee84c0e9bc13c5fb499cc454663e.msu</url>
+			<name>Windows8.1-KB4486105-x86.msu</name>
+			<description>Microsoft .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2019/08/windows8.1-kb4486105-x86_0c70a606e62dbb37201ec56ab03d8714f6dbfc41.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB917607</kb>
@@ -1424,15 +1424,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/03/windows8.1-kb3036606-x86_691d3f21b1aa08610079456c347c879eb63fe53e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3038017</kb>
-			<date>2015/02/05</date>
-			<size>431 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3038017-x86.msu</name>
-			<description>Client computer does not obtain IP address from a DHCP failover server that has the Network Access Protection feature enabled</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/03/windows8.1-kb3038017-x86_baca2c53c186bce46141a209634a24f86fd539e3.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3038022</kb>
 			<date>2015/02/05</date>
 			<size>325 KB</size>
@@ -1611,15 +1602,6 @@
 			<name>Windows8.1-KB3078919-x86.msu</name>
 			<description>eMMC device is not detected as a storage device by Windows</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/08/windows8.1-kb3078919-x86_697df151a605c374e4949834281c7303a0635b4c.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3080734</kb>
-			<date>2015/07/25</date>
-			<size>354 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3080734-x86.msu</name>
-			<description>Network adapters may not connect after you resume a computer that is out of docking station range</description>
-			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB3080734-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3082808</kb>
@@ -2045,15 +2027,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x86_7762ebdf20fb0b1fb64cbc92ddba4582bc3fac0a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4488665</kb>
-			<date>2019/02/05</date>
-			<size>29.21 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4488665-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/03/windows8.1-kb4488665-x86_919bc39ca94c6481c4574ae89c897fe6e62efb7c.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4503308</kb>
 			<date>2019/05/30</date>
 			<size>10.24 MB</size>
@@ -2063,22 +2036,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows8.1-kb4503308-x86_5920b9c73f3afffb3c41d93c65bc1d710cbf9699.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4506996</kb>
-			<date>2019/06/03</date>
-			<size>29.18 MB</size>
+			<kb>KB4506993</kb>
+			<date>2019/06/04</date>
+			<size>25.11 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4506996-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.7.2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows8.1-kb4506996-x86_7b39de593ad7086af024a5543949662b9633b0d5.msu</url>
+			<name>Windows8.1-KB4506993-x86.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows8.1-kb4506993-x86_4afcfbed94ea426dcf042743b950a1507b24db51.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4507463</kb>
-			<date>2019/07/12</date>
-			<size>292.64 MB</size>
+			<kb>KB4512488</kb>
+			<date>2019/08/08</date>
+			<size>294.34 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4507463-x86.msu</name>
+			<name>Windows8.1-KB4512488-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/07/windows8.1-kb4507463-x86_30b205fa8fac2921f529fb48310af28dde11116c.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows8.1-kb4512488-x86_40870c2024d333699f4989eea3bec84b72595357.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
