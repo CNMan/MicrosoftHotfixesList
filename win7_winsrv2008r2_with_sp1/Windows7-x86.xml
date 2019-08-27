@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/08/13" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/08/20" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -133,8 +133,17 @@
 			<size>22.29 MB</size>
 			<category>Additional/NET48</category>
 			<name>NDP48-KB4503575-x86.exe</name>
-			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<description>Microsoft .NET Framework 4.8 Update</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2019/08/ndp48-kb4503575-x86_1a26bc3720b1d2b3de5673d46f57fbd64840963b.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4511525</kb>
+			<date>2019/07/25</date>
+			<size>20.82 MB</size>
+			<category>Additional/NET48</category>
+			<name>NDP48-KB4511525-x86.exe</name>
+			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/08/ndp48-kb4511525-x86_e06873010cde830514d0aa900652e39d53c6b80c.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>

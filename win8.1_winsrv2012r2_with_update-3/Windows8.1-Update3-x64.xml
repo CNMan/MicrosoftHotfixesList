@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/08/13" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/08/20" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -2151,6 +2151,15 @@
 			<name>Windows8.1-KB4506993-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.8</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows8.1-kb4506993-x64_9b98c20e014cdb5bc368fa74629551d726c22fdf.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4511524</kb>
+			<date>2019/07/24</date>
+			<size>44.49 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4511524-x64.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/08/windows8.1-kb4511524-x64_d4b15aa8713c068d389a0d93c36c4cfb7321197c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4512478</kb>
