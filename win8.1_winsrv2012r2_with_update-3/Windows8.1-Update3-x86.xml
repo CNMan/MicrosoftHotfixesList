@@ -2045,13 +2045,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows8.1-kb4506993-x86_4afcfbed94ea426dcf042743b950a1507b24db51.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4512488</kb>
-			<date>2019/08/08</date>
-			<size>294.34 MB</size>
+			<kb>KB4512478</kb>
+			<date>2019/08/15</date>
+			<size>294.24 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4512488-x86.msu</name>
+			<name>Windows8.1-KB4512478-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/08/windows8.1-kb4512488-x86_40870c2024d333699f4989eea3bec84b72595357.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/08/windows8.1-kb4512478-x86_2e7482cf18f1db993bdb43910aa327e5bea36dba.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

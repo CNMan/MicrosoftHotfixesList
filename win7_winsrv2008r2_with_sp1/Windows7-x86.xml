@@ -4727,13 +4727,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows6.1-kb4507004-x86_625917bdc06b040d7c312e1b8d805a43ff31cf8b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4512506</kb>
-			<date>2019/08/08</date>
-			<size>182.66 MB</size>
+			<kb>KB4512514</kb>
+			<date>2019/08/15</date>
+			<size>183.42 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4512506-x86.msu</name>
+			<name>Windows6.1-KB4512514-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/08/windows6.1-kb4512506-x86_12e5961df2895fc5d45f19910702f2a49fcb08a9.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/08/windows6.1-kb4512514-x86_5ace8f167dc14eeaa06347a21acef809196c6179.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
