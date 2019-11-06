@@ -1,3 +1,5 @@
+start /wait MSIEXEC /UNREGISTER
+start /wait MSIEXEC /REGSERVER
 start /wait ndp35sp1-kb963707-x86_301b6cf8eaf5d2212895fcd9fc566414fb033e3e.exe /q /norestart
 start /wait ndp30sp2-kb976570-x86_dcff59f3947e2c3d4f88e72959e6b5bb40c5b1d7.exe /q /norestart
 start /wait ndp20sp2-kb976576-x86_8e8121a8bddfb2095453335c593ffa22ef8e95ec.exe /q /norestart

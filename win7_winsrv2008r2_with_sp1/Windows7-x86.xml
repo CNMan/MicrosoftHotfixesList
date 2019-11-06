@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/08/20" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/10/15" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -137,13 +137,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2019/08/ndp48-kb4503575-x86_1a26bc3720b1d2b3de5673d46f57fbd64840963b.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4511525</kb>
-			<date>2019/07/25</date>
-			<size>20.82 MB</size>
+			<kb>KB4519568</kb>
+			<date>2019/09/12</date>
+			<size>22.47 MB</size>
 			<category>Additional/NET48</category>
-			<name>NDP48-KB4511525-x86.exe</name>
+			<name>NDP48-KB4519568-x86.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/08/ndp48-kb4511525-x86_e06873010cde830514d0aa900652e39d53c6b80c.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/10/ndp48-kb4519568-x86_57739704597ae82f771152c084d756d2f187b13f.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -1154,15 +1154,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=13490</url>
 		</update>
 		<update extract="0">
-			<kb>KB2537203</kb>
-			<date>2011/04/15</date>
-			<size>52.8 MB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2537203-x86.msu</name>
-			<description>QAM channels are not detected if you set your region to Korea in Windows Media Center on a Windows 7-based computer</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=13593</url>
-		</update>
-		<update extract="0">
 			<kb>KB2538047</kb>
 			<date>2011/05/02</date>
 			<size>267 KB</size>
@@ -1442,15 +1433,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=15356</url>
 		</update>
 		<update extract="0">
-			<kb>KB2639077</kb>
-			<date>2013/12/03</date>
-			<size>261 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2639077-v2-x86.msu</name>
-			<description>Handle leak in Svchost.exe when a WMI query is triggered by using the Win32_PowerSettingCapabilities class in Windows 7 or in Windows Server 2008 R2</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=15354</url>
-		</update>
-		<update extract="0">
 			<kb>KB2640472</kb>
 			<date>2011/11/08</date>
 			<size>706 KB</size>
@@ -1539,15 +1521,6 @@
 			<name>Windows6.1-KB2662288-x86.msu</name>
 			<description>A differencing VHD file that is created by using Microsoft iSCSI Software Target 3.3 becomes corrupted when you mount or attach it in Windows Server 2008 R2 or in Windows 7</description>
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=14565</url>
-		</update>
-		<update extract="0">
-			<kb>KB2662585</kb>
-			<date>2012/01/12</date>
-			<size>233 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2662585-x86.msu</name>
-			<description>Printer redirection is not applied to client computers that connect to a Windows Server 2008 R2 SP1-based Terminal Services server</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=14567</url>
 		</update>
 		<update extract="0">
 			<kb>KB2663607</kb>
@@ -2108,15 +2081,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=16194</url>
 		</update>
 		<update extract="0">
-			<kb>KB2801662</kb>
-			<date>2013/01/11</date>
-			<size>271 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2801662-x86.msu</name>
-			<description>"0x000000C4" Stop error when you run the WDF Fault Injection Logo Test in Windows 7 and Windows Server 2008 R2</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=16220</url>
-		</update>
-		<update extract="0">
 			<kb>KB2809097</kb>
 			<date>2013/04/22</date>
 			<size>283 KB</size>
@@ -2187,15 +2151,6 @@
 			<name>Windows6.1-KB2831347-x86.msu</name>
 			<description>Roaming user profiles are corrupted when a monitoring program executes a WMI query on a Windows Server 2008 R2 SP1-based RDS server</description>
 			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2831347-x86.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB2832829</kb>
-			<date>2013/04/13</date>
-			<size>335 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2832829-x86.msu</name>
-			<description>"0x00000019" Stop error when you try to shut down a Windows-based computer</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=16646</url>
 		</update>
 		<update extract="0">
 			<kb>KB2833914</kb>
@@ -3764,15 +3719,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=15110</url>
 		</update>
 		<update extract="0">
-			<kb>KB2719033</kb>
-			<date>2012/06/01</date>
-			<size>1.02 MB</size>
-			<category>Extra/WithoutKB3125574/_Features</category>
-			<name>Windows6.1-KB2719033-x86.msu</name>
-			<description>Security update for Internet Information Services 7.5: November 13, 2012</description>
-			<url>http://download.windowsupdate.com/msdownload/update/software/secu/2012/07/windows6.1-kb2719033-x86_d7583551cba5213afe8f35bcf8e19901f118348e.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB2786454</kb>
 			<date>2012/11/26</date>
 			<size>237 KB</size>
@@ -4530,7 +4476,7 @@
 		</update>
 		<update extract="0">
 			<kb>KB4490628</kb>
-			<date>2019/03/06</date>
+			<date>2019/02/19</date>
 			<size>4.02 MB</size>
 			<category>General</category>
 			<name>Windows6.1-KB4490628-x86.msu</name>
@@ -4682,15 +4628,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows6.1-kb3059317-x86_7dbad42dd71389bb65948b81220fc019d77c8b77.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3150220</kb>
-			<date>2016/04/21</date>
-			<size>2.56 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB3150220-x86.msu</name>
-			<description>Security update for Windows Media Center: May 10, 2016</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows6.1-kb3150220-x86_f3529b8f2f21ea56c6e997ff654d59e4f65d2d6e.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3156016</kb>
 			<date>2016/04/14</date>
 			<size>559 KB</size>
@@ -4719,12 +4656,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB4474419</kb>
-			<date>2019/08/09</date>
-			<size>34.07 MB</size>
+			<date>2019/08/29</date>
+			<size>34.25 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4474419-v2-x86.msu</name>
+			<name>Windows6.1-KB4474419-v3-x86.msu</name>
 			<description>SHA-2 code signing support update: August 2019</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/08/windows6.1-kb4474419-v2-x86_6461a8e4e61dddd4426f4755c1f1a85aa86fc355.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4474419-v3-x86_0f687d50402790f340087c576886501b3223bec6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4507004</kb>
@@ -4736,13 +4673,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows6.1-kb4507004-x86_625917bdc06b040d7c312e1b8d805a43ff31cf8b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4512514</kb>
-			<date>2019/08/15</date>
-			<size>183.42 MB</size>
+			<kb>KB4516655</kb>
+			<date>2019/08/19</date>
+			<size>4.02 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4512514-x86.msu</name>
+			<name>Windows6.1-KB4516655-x86.msu</name>
+			<description>Servicing stack update: September 2019</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4516655-x86_47655670362e023aa10ab856a3bda90aabeacfe6.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4519972</kb>
+			<date>2019/10/10</date>
+			<size>202.62 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4519972-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/08/windows6.1-kb4512514-x86_5ace8f167dc14eeaa06347a21acef809196c6179.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/10/windows6.1-kb4519972-x86_be41aaa307e76f7858bff9a1f07f4c4f20ecd588.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

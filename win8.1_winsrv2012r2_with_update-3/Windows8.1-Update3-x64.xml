@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/08/20" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/10/15" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -200,13 +200,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows8.1-kb4054999-x64_f556f8b785508499cc63e684fe51a6764f8e3993.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4507005</kb>
-			<date>2019/07/04</date>
+			<kb>KB4514371</kb>
+			<date>2019/07/27</date>
 			<size>23.82 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4507005-x64.msu</name>
+			<name>Windows8.1-KB4514371-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows8.1-kb4507005-x64_38588314932f3ea286a959d270c180b13c1b69b0.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows8.1-kb4514371-x64_7120ec6194dbc78101a5be0762b04fcd1553cdec.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -252,6 +252,15 @@
 			<name>Extra-winpe.txt</name>
 			<description>Info about extra WinPE updates</description>
 			<url>https://dl.dropboxusercontent.com/s/hu64wu8zh0cwq2h/Extra-winpe.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB3054290</kb>
+			<date>2015/04/03</date>
+			<size>698 KB</size>
+			<category>Additional/WinPE</category>
+			<name>Windows8.1-KB3054290-x64.msu</name>
+			<description>Start screen and modern applications are displayed unexpectedly in German Language</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/05/windows8.1-kb3054290-x64_e8d7c85cfcb810c0416616ff1bf16a49ed46eeed.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3066044</kb>
@@ -340,7 +349,7 @@
 			<size>10.48 MB</size>
 			<category>Additional/WU.Satisfy</category>
 			<name>Windows8.1-KB3173424-x64.msu</name>
-			<description>July 2016 servicing stack update</description>
+			<description>Servicing stack update: July 2016</description>
 			<url>http://download.microsoft.com/download/E/2/C/E2CA92A3-8D60-4702-98E2-2AB396FEA1BC/Windows8.1-KB3173424-x64.msu</url>
 		</update>
 		<update extract="0">
@@ -380,13 +389,13 @@
 			<url>http://download.microsoft.com/download/6/1/5/615B8D87-A02C-485E-B9B5-D6F4AEB52D78/Windows8.1-KB3021910-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4504418</kb>
-			<date>2019/06/27</date>
-			<size>10.47 MB</size>
+			<kb>KB4521864</kb>
+			<date>2019/09/20</date>
+			<size>10.54 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB4504418-x64.msu</name>
-			<description>July 2019 servicing stack update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows8.1-kb4504418-x64_8478a67534c3778f4418396fc12d9f48f312e4bb.msu</url>
+			<name>Windows8.1-KB4521864-x64.msu</name>
+			<description>Servicing stack update: Otcober 2019</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/09/windows8.1-kb4521864-x64_a08bfe1c54e710e319a1dd6a8115967eecd1fdad.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -1370,15 +1379,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/01/windows8.1-kb3019274-x64_4d770332e4a2f6197f01fc2c86b5de968b5081b9.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3021946</kb>
-			<date>2015/01/21</date>
-			<size>367 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3021946-x64.msu</name>
-			<description>Frozen application dialog box appears if you tap the screen after you select language during OOBE process</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/03/windows8.1-kb3021946-x64_fc97e07bdac95f32049c42ce84a3c3d36e412af4.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3022752</kb>
 			<date>2014/12/03</date>
 			<size>409 KB</size>
@@ -1566,15 +1566,6 @@
 			<name>Windows8.1-KB3053744-x64.msu</name>
 			<description>Applications play 5.1-channel audio content that uses only two channels</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/05/windows8.1-kb3053744-x64_94cd35a43e5610689d11e4a40a3fa3dcd978f6f1.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3054290</kb>
-			<date>2015/04/03</date>
-			<size>698 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3054290-x64.msu</name>
-			<description>Start screen and modern applications are displayed unexpectedly in German Language</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/05/windows8.1-kb3054290-x64_e8d7c85cfcb810c0416616ff1bf16a49ed46eeed.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3061817</kb>
@@ -2135,40 +2126,40 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x64_bbaadf6e2537a54b7b277ab8349dfd1b7aa354c8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4503308</kb>
-			<date>2019/05/30</date>
-			<size>20.91 MB</size>
+			<kb>KB4515846</kb>
+			<date>2019/08/08</date>
+			<size>44.96 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4503308-x64.msu</name>
+			<name>Windows8.1-KB4515846-x64.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/09/windows8.1-kb4515846-x64_8dde45b3fbfee497d70d2942c91337d988d6252c.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4516115</kb>
+			<date>2019/08/29</date>
+			<size>20.89 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4516115-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/06/windows8.1-kb4503308-x64_ef86508e21a1d53ac8515cfc005e4f3961cb1b64.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows8.1-kb4516115-x64_0d9f83c866638da6434b4f93779faf007d00c774.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4506993</kb>
-			<date>2019/06/04</date>
-			<size>44.49 MB</size>
+			<kb>KB4519567</kb>
+			<date>2019/09/12</date>
+			<size>46.49 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4506993-x64.msu</name>
+			<name>Windows8.1-KB4519567-x64.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/06/windows8.1-kb4506993-x64_9b98c20e014cdb5bc368fa74629551d726c22fdf.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/10/windows8.1-kb4519567-x64_33297557266a9ad74af2485807ae7bce567fde4e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4511524</kb>
-			<date>2019/07/24</date>
-			<size>44.49 MB</size>
+			<kb>KB4520012</kb>
+			<date>2019/10/10</date>
+			<size>487.36 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4511524-x64.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/08/windows8.1-kb4511524-x64_d4b15aa8713c068d389a0d93c36c4cfb7321197c.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4512478</kb>
-			<date>2019/08/15</date>
-			<size>459.38 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4512478-x64.msu</name>
+			<name>Windows8.1-KB4520012-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/08/windows8.1-kb4512478-x64_b3b3653c94d4721f3e6c01c3033ed3bc8d12ee1e.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/10/windows8.1-kb4520012-x64_5a11eab627d598350fc1bbdd501c8a89c8d1723a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
@@ -2196,15 +2187,6 @@
 			<name>Windows8.1-KB3098779-x64.msu</name>
 			<description>Security update for the .NET Framework 4.5.2: November 10, 2015</description>
 			<url>http://download.microsoft.com/download/A/4/9/A49D7716-74D6-40EB-80AF-F65AF91ABE94/Windows8.1-KB3098779-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3150220</kb>
-			<date>2016/04/07</date>
-			<size>2.02 MB</size>
-			<category>Security/ProWMC</category>
-			<name>Windows8.1-KB3150220-x64.msu</name>
-			<description>Security update for Windows Media Center: May 10, 2016</description>
-			<url>http://download.microsoft.com/download/D/B/2/DB231E18-099A-4A65-BE40-D2FD791B93A1/Windows8.1-KB3150220-x64.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

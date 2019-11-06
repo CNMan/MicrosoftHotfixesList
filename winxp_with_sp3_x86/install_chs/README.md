@@ -1,28 +1,10 @@
-## 常规更新
-
-下载[winxp_with_sp3_x86_dl.txt](https://github.com/CNMan/MicrosoftHotfixesList/raw/master/winxp_with_sp3_x86/winxp_with_sp3_x86_dl.txt)和[embedded_chs_dl.txt](https://github.com/CNMan/MicrosoftHotfixesList/raw/master/winxp_with_sp3_x86/embedded_chs_dl.txt)中的全部文件以及[WindowsUpdateAgent-7.6-x86.exe](http://download.windowsupdate.com/windowsupdate/redist/standalone/7.6.7600.320/WindowsUpdateAgent-7.6-x86.exe)
+下载[winxp_with_sp3_x86_chs_dl.txt](https://github.com/CNMan/MicrosoftHotfixesList/raw/master/winxp_with_sp3_x86/winxp_with_sp3_x86_chs_dl.txt)中的全部文件
 
 和.cmd、.reg放在同一个文件夹
 
-依次运行1~7，每一步都需重启
-
-## .NET
-
-若需.NET，下载[.net.txt](https://github.com/CNMan/MicrosoftHotfixesList/raw/master/winxp_with_sp3_x86/.net.txt)中的全部文件，以及：
-
-[ Microsoft .NET Framework 版本 1.1，简体中文版 ](http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/dotnetfx_1938f49476b928257b84f8d94a8ef4b.exe)
-
-[ Microsoft .NET Framework 版本 1.1 简体中文语言包 ](http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/langpack_7b299d728d9254f08fc3ac9b859759d.exe)
-
-[ Windows XP 更新程序 (KB961118) ](http://download.windowsupdate.com/msdownload/update/software/crup/2009/02/windowsxp-kb961118-x86-chs_c458964259e9f53b8703afa3e465a232ddef3a81.exe)
-
-[ 用于 Windows XP 和 Windows Embedded 的 Windows PowerShell 2.0 和 WinRM 2.0 (KB968930) ](http://download.windowsupdate.com/msdownload/update/software/updt/2009/11/windowsxp-kb968930-x86-chs_e4f5fe5d846f70c3bcbcc7819c3f2191133bc069.exe)
-
-注：.NET安装时需联网，依次运行.net_1.1_install.cmd、.net_1.1_update.cmd、.net_2.0_3.0_3.5_install.cmd、.net_2.0_3.0_3.5_update.cmd、.net_2.0_3.0_3.5_update2.cmd、.net_4_install.cmd、.net_4_update.cmd，每一步都需重启，安装过程比较费时，请耐心等待。
+依次运行1~14，若无需.NET，则可选择跳过，每一步都需重启，安装过程比较费时，请耐心等待。
 
 ## 以下更新可选安装：
-
-[Windows Installer 4.5](https://download.microsoft.com/download/2/6/1/261fca42-22c0-4f91-9451-0e0f2e08356d/WindowsXP-KB942288-v3-x86.exe)
 
 [ MSXML 6.0 RTM 安全性更新 (925673) ](http://download.microsoft.com/download/1/9/2/192290ae-adf5-46e3-867c-8d70f0967c23/msxml6-KB925673-chs-x86.exe)
 

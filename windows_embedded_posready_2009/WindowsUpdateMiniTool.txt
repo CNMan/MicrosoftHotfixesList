@@ -1,12 +1,8 @@
 [ Microsoft Corporation - Sound - Creative AudioPCI (ES1371,ES1373) (WDM) ]
 http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/4046075.cab
 
-[ Internet Explorer 8 for Windows XP ]
-http://download.windowsupdate.com/msdownload/update/software/uprl/2009/08/ie8-windowsxp-x86-enu_808c1e22ea669ae931db841995f3ba211e00cd14.exe
-http://download.windowsupdate.com/msdownload/update/software/uprl/2011/12/ie8postauprep_bdd9c4f020c3c51bedaf37db4b8d43afe07703fb.exe
-
-[ 2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4486463) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windowsxp-kb4486463-x86-embedded-enu_8ab6c1cbd442dbdd8667993af4ee093abf09fb41.exe
+[ Windows Search 4.0 for Windows XP (KB940157) ]
+http://www.download.windowsupdate.com/msdownload/update/software/ftpk/2008/06/windowssearch-kb940157-xp-x86-enu_cb533160dce608290271cb06f53b3d20e809408e.exe
 
 [ Microsoft .NET Framework version 1.1 ]
 http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/dotnetfx_a86fd901dfe693e5d9465b4f89715da.exe
@@ -14,8 +10,17 @@ http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/dotn
 [ Microsoft .NET Framework 1.1 Service Pack 1 ]
 http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/ndp1.1sp1-kb867460-x86_74a5b25d65a70b8ecd6a9c301a0aea10d8483a23.exe
 
+[ Windows Genuine Advantage Validation Tool (KB892130) ]
+http://www.download.windowsupdate.com/msdownload/update/software/crup/2008/04/windowsxp-kb892130-enu-x86_72e487d115be77f49f64053893a23ecb58bc59cb.exe
+
 [ Update for Windows XP (KB898461) ]
 http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsxp-kb898461-x86-enu_e8e139341e1a6c535ddf2db57052c71d19fc7249.exe
+
+[ Windows Genuine Advantage Notification (KB905474) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/03/windowsxp-kb905474-enu-x86_de6cd4d37729f6079366b53cc3cdaa6ecafbb56f.exe
+
+[ Windows Genuine Advantage Notification (KB905474) ]
+http://download.windowsupdate.com/msdownload/update/software/crup/2009/03/windowsxp-kb905474-enu-x86_de6cd4d37729f6079366b53cc3cdaa6ecafbb56f.exe
 
 [ Microsoft Base Smart Card Cryptographic Service Provider Package: x86 (KB909520) ]
 http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windows-kb909520-v1.000-x86-enu_01324db8c4913f56495f2f747cb373b3dd11759c.exe
@@ -37,14 +42,75 @@ http://www.download.windowsupdate.com/msdownload/update/software/dflt/2008/04/wi
 [ Update for Windows Media Player 11 for Windows XP (KB939683) ]
 http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsmedia11-kb939683-x86-enu_17d48a1cb35ad4f1cac39bd758158efe690730b5.exe
 
-[ Windows Search 4.0 for Windows XP (KB940157) ]
-http://www.download.windowsupdate.com/msdownload/update/software/ftpk/2008/06/windowssearch-kb940157-xp-x86-enu_cb533160dce608290271cb06f53b3d20e809408e.exe
-
 [ Windows Internet Explorer 7 for Windows XP ]
 http://www.download.windowsupdate.com/msdownload/update/software/uprl/2008/02/ie7-windowsxp-x86-enu_d39b89c360fbaa9706b5181ae4718100687a5326.exe
 
 [ Security Update for Windows XP with Windows Media Format Runtime 9.5 and 11 (KB941569) ]
 http://www.download.windowsupdate.com/msdownload/update/v3-19990518/cabpool/windowsxp-kb941569-x86-enu_55e8b619dd436e8be22c381fa8643a58b5f7c2a8.exe
+
+[ Internet Explorer 8 for Windows XP with Language Interface Pack ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-bgr_29e20680c78f8e404195c0b2db77d99fd6694171.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-lth_16ce00cf2a0deb64e182c16fbaac66088df26a18.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-bsb_c1530873330679fc03e28b4257742a1ce18a83b4.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-bsc_c3b98da1859a5b4512b3ee03b86775697e8d2a60.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-eti_fcedbbf07add70049649b766c17c1778d4537f7c.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-hin_db8e8bf7f1ed8c96393a345ae758c443710f84c6.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-hrv_6fbe8b5961c9b63e38d1a16a0ee0f978f7003d07.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-lvi_dc86f7321648f40409181e16a0a5441d47c439b3.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-mki_8caa6d66024dfdbe49adc374bee1d8de63f8faac.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-rom_560562ba8c697bfad5220736948d177217122c53.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-srb_9cd440debe158c96d18ee2a901bdc83e9f937f39.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-srl_a323ea2d046435d8b0c6da0ce4848a1527ad2747.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-tha_4ba59e8334dab58f3de0704cbc05059257a48c8f.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-vit_160fc18090d39e2cb7575cabb1ead137e29ceca4.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-sqi_e199274c4fac45ad25526fd33b37699e0954d4db.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-guj_730600eb5b8934387e33e5d85e2f114a5616da87.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-ind_98d4c35b473ecc4dd0979cecfd455910c898cd6f.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-knk_4bdc4d2d575f6c3b98863d5d6892eb458b3c50d9.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-msl_e45ebe65b43ff0edfc2ff56b6875f399edc71607.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-mar_e27fb1a08d2665482c2e8ab7e4ee6fa322c875cb.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-tam_3a02456fe9b9e974e1bd98b069cff4f00633fc77.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-bng_215626a2430703a69bbcf554410eef92a1570e5b.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-kdi_8ff263cd89f4ba7c323b0dd59d6d7dc63fdda79a.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-mym_1cb40dd6214c66e3a4933295a24a605dd62a1397.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-pan_f85b40da8c05986141e0c5c783a6ea465d1ea914.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-tel_97040850db27a4f2927ea6220fc6e4a1c355af30.exe
+
+[ Internet Explorer 8 for Windows XP ]
+http://download.windowsupdate.com/msdownload/update/software/uprl/2009/08/ie8-windowsxp-x86-enu_808c1e22ea669ae931db841995f3ba211e00cd14.exe
+
+[ Internet Explorer 8 for Windows XP ]
+http://download.windowsupdate.com/msdownload/update/software/uprl/2009/08/ie8-windowsxp-x86-enu_808c1e22ea669ae931db841995f3ba211e00cd14.exe
+http://download.windowsupdate.com/msdownload/update/software/uprl/2011/12/ie8postauprep_bdd9c4f020c3c51bedaf37db4b8d43afe07703fb.exe
+
+[ Internet Explorer 8 for Windows XP with Language Interface Pack ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-bgr_29e20680c78f8e404195c0b2db77d99fd6694171.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-lth_16ce00cf2a0deb64e182c16fbaac66088df26a18.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-bsb_c1530873330679fc03e28b4257742a1ce18a83b4.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-bsc_c3b98da1859a5b4512b3ee03b86775697e8d2a60.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-eti_fcedbbf07add70049649b766c17c1778d4537f7c.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-hin_db8e8bf7f1ed8c96393a345ae758c443710f84c6.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-hrv_6fbe8b5961c9b63e38d1a16a0ee0f978f7003d07.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-lvi_dc86f7321648f40409181e16a0a5441d47c439b3.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-mki_8caa6d66024dfdbe49adc374bee1d8de63f8faac.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-rom_560562ba8c697bfad5220736948d177217122c53.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-srb_9cd440debe158c96d18ee2a901bdc83e9f937f39.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-srl_a323ea2d046435d8b0c6da0ce4848a1527ad2747.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-tha_4ba59e8334dab58f3de0704cbc05059257a48c8f.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-vit_160fc18090d39e2cb7575cabb1ead137e29ceca4.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-sqi_e199274c4fac45ad25526fd33b37699e0954d4db.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-guj_730600eb5b8934387e33e5d85e2f114a5616da87.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-ind_98d4c35b473ecc4dd0979cecfd455910c898cd6f.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-knk_4bdc4d2d575f6c3b98863d5d6892eb458b3c50d9.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-msl_e45ebe65b43ff0edfc2ff56b6875f399edc71607.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-mar_e27fb1a08d2665482c2e8ab7e4ee6fa322c875cb.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-tam_3a02456fe9b9e974e1bd98b069cff4f00633fc77.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-mym_1cb40dd6214c66e3a4933295a24a605dd62a1397.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-bng_215626a2430703a69bbcf554410eef92a1570e5b.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-kdi_8ff263cd89f4ba7c323b0dd59d6d7dc63fdda79a.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-pan_f85b40da8c05986141e0c5c783a6ea465d1ea914.exe
+http://download.windowsupdate.com/msdownload/update/software/updt/2009/09/ie8-windowsxp-x86-tel_97040850db27a4f2927ea6220fc6e4a1c355af30.exe
+http://download.windowsupdate.com/msdownload/update/software/uprl/2011/12/ie8postauprep_bdd9c4f020c3c51bedaf37db4b8d43afe07703fb.exe
 
 [ Security Update for Windows XP (KB950762) ]
 http://www.download.windowsupdate.com/msdownload/update/software/secu/2008/05/windowsxp-kb950762-x86-enu_bfa04c9d2e62b4695d1bb8953486788c8a8c11e4.exe
@@ -127,9 +193,6 @@ http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/window
 
 [ Update for Windows XP (KB961118) ]
 http://download.windowsupdate.com/msdownload/update/software/crup/2009/02/windowsxp-kb961118-x86-enu_3c7fea5bd8d44bd1c11a0d33240cfedaa026f59f.exe
-
-[ Security Update for Windows XP (KB963093) ]
-http://download.windowsupdate.com/msdownload/update/software/secu/2009/06/windowsserver2003.windowsxp-kb963093-x86-enu_c53606bca846117e1cebe7dd9a37251cb84aa41d.exe
 
 [ Update to .NET Framework 3.5 Service Pack 1 for the .NET Framework Assistant 1.0 x86 (KB963707) ]
 http://download.windowsupdate.com/msdownload/update/software/crup/2009/06/ndp35sp1-kb963707-x86_301b6cf8eaf5d2212895fcd9fc566414fb033e3e.exe
@@ -381,6 +444,10 @@ http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/window
 [ Security Update for Windows XP (KB2485663) ]
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/windowsxp-kb2485663-x86-enu_e6142de1db2c310632af0badc06392a85f78304d.exe
 
+[ Security Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008 x86 (KB2487367) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/01/msipatchregfix-x86_205e4dab26db6e7522b87929efc4e211e6f12a3e.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/ndp40-kb2487367-x86_4938d9c6adf59f400e6df20387cf23026dec4a16.exe
+
 [ Security Update for Windows XP (KB2491683) ]
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2491683-x86-enu_d68220a1d4d2ed4a823b0f5e313f19ea45389515.exe
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2491683-x86-express-enu_4e9412d2af62a78b9cd63500e82a092e03f494bd.cab
@@ -409,10 +476,8 @@ http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/window
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2509553-x86-express-enu_3f4f47699af6a9f05315a58658664f158e4e37cd.cab
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2509553-x86-enu_10e5ba9e0136f487224f0bfb845911ebe1fcf443.psf
 
-[ Security Update for Windows XP (KB2510581) ]
-http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2510581-x86-enu_1ace505ed92dcf4c22f61c4d800c379b48b31319.exe
-http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2510581-x86-express-enu_541f402ac7e12b246701eda0641a3216966e331c.cab
-http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/windowsxp-kb2510581-x86-enu_8f19ca5fa9c5ed3b972e959e0ce4e9e929703c46.psf
+[ Security Update for Windows XP (KB2510531) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2011/03/ie8-windowsxp-kb2510531-x86-enu_d147ba2ed4f4528ecf8f0897990db53b46a230f3.exe
 
 [ Update for Microsoft .NET Framework 4 on Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows Server 2008 x86 (KB2533523) ]
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/07/microsoftfixit50735_579b2d12894af17daa70bd153b14fbfddefa0ad8.exe
@@ -456,6 +521,9 @@ http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/window
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2598479-x86-express-enu_ace36e2b37d8aedcd247d769d26a57436c50a5dc.cab
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2598479-x86-enu_8903f6dd3cb398974b1aebe06815c2e72d191479.psf
 
+[ Update for Internet Explorer 8 Compatibility View List for Windows XP (KB2598845) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2011/10/ie8-windowsxp-kb2598845-x86-enu_cb0093da2dcc2413c01b871c929d9ba425eddef9.exe
+
 [ Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008 x86 (KB2600217) ]
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/msipatchregfix-x86_1148a3e14d3578e280a4d73bc3310825295f380e.exe
 http://download.windowsupdate.com/msdownload/update/software/updt/2012/02/ndp40-kb2600217-x86_439b695de8c8acd1b33aa4563ddc5536f9e3442e.exe
@@ -489,6 +557,9 @@ http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/window
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2631813-x86-enu_f6154b624398c24f007b66be5c96ac9ead6279d1.exe
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2631813-x86-express-enu_8d1641b52b1ecf46309b2a13850350e140b1e6ac.cab
 http://download.windowsupdate.com/msdownload/update/software/secu/2011/11/windowsxp-kb2631813-x86-enu_ee2a976de202596f6941e27ba059fd504c3c3574.psf
+
+[ Update for Windows XP (KB2632503) ]
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/01/ie8-windowsxp-kb2632503-x86-enu_94363940faaac821987838e0face456ff93cac4e.exe
 
 [ Security Update for Windows XP (KB2653956) ]
 http://download.windowsupdate.com/msdownload/update/software/secu/2012/03/windowsxp-kb2653956-x86-enu_2fb667e1082bce2589326fcc713f9c2306f70c8d.exe
@@ -554,6 +625,10 @@ http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/ndp20s
 [ Security Update for Microsoft .NET Framework 3.5 SP1 on Windows XP, Server 2003, Vista, Server 2008 x86 (KB2736416) ]
 http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
 http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/ndp35sp1-kb2736416-x86_93368f49226c00b8ddb32723196ddfbb275c8765.exe
+
+[ Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008 x86 (KB2736428) ]
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2012/12/ndp40-kb2736428-x86_69a15697f7c9c976b933bd46869c895e9a1b0356.exe
 
 [ Security Update for Microsoft .NET Framework 4 on XP, Server 2003, Vista, Windows 7, Server 2008 x86 (KB2737019) ]
 http://download.windowsupdate.com/msdownload/update/software/secu/2012/10/msipatchregfix-x86_94a84b80b8b45a1ac53a0e5d085513da0f099655.exe
@@ -726,11 +801,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsxp-kb2876331-x86-express-enu_c5d2b022bf6df42c81bc8f1e578d3166692e6e07.cab
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/10/windowsxp-kb2876331-x86-enu_9616259eb0f183c89b5cfd0ec78c12028ba3c477.psf
 
-[ Cumulative Security Update for Internet Explorer 7 for Windows XP (KB2879017) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ie7-windowsxp-kb2879017-x86-enu_6841d945d35c1d7b2de3535e28093cac887fb59c.exe
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ie7-windowsxp-kb2879017-x86-express-enu_e0a0403994fe97c8340769b8716356a32129d15b.cab
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/ie7-windowsxp-kb2879017-x86-enu_6013ce9f328eaa8a37f323c595e7a80057807d28.psf
-
 [ Security Update for Windows XP (KB2892075) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2892075-x86-enu_17de2e03645b5d87bd09f161d996cb0a07c289e1.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/11/windowsxp-kb2892075-x86-express-enu_735c4361a00037e1c5fbb79f0c53d775391b0e04.cab
@@ -771,11 +841,6 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/12/ndp2
 
 [ Update for Windows XP (KB2904266) ]
 http://download.windowsupdate.com/c/msdownload/update/software/uprl/2013/12/windowsxp-kb2904266-x86-enu_dbb1b301ba862c02e0b34570e3c78a719144f823.exe
-
-[ Security Update for Windows XP (KB2909212) ]
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/01/windowsxp-kb2909212-x86-enu_c81e835e3a4388ac0901e569f23cd8ef17a69417.exe
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/01/windowsxp-kb2909212-x86-express-enu_bc06a3a54a54aa0e22c8a60ae5672c5afe5025d6.cab
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/01/windowsxp-kb2909212-x86-enu_e36af3d3900b76b5bad6eaaa34b7dc49d0e648b0.psf
 
 [ Security Update for Windows XP (KB2914368) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/12/windowsxp-kb2914368-x86-enu_1d9a306f9e5dd564c8ffdcdb8717c4ae2588db3d.exe
@@ -906,11 +971,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/wind
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3121918-x86-embedded-express-enu_4281d72975f2b7f9f601c9a5e672e53e22a9a69f.cab
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3121918-x86-embedded-enu_d0cb3685efdf2d8033fdf07e90dd25183bbba955.psf
 
-[ Security Update for WEPOS and POSReady 2009 (KB3124624) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3124624-x86-embedded-enu_31d357f9fffe58a498ac46282610be31263ab3de.exe
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3124624-x86-embedded-express-enu_e950d4cb7a34807bee46615ff6211681bd9f6181.cab
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windowsxp-kb3124624-x86-embedded-enu_1032932022a762a8c66d1a149568bea08b1d451e.psf
-
 [ Security Update for WEPOS and POSReady 2009 (KB3126587) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3126587-x86-embedded-enu_b638c3dc6cc42839e8f73e46306791ebc7fc6709.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windowsxp-kb3126587-x86-embedded-express-enu_d7ccf72d3bacab25e908be8f0ccaa394ad5a9e64.cab
@@ -949,11 +1009,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/ndp4
 
 [ Security Update for WEPOS and POSReady 2009 (KB3145739) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windowsxp-kb3145739-x86-embedded-enu_e958811dbe4188202eda69cdc9e797a4ae1dc923.exe
-
-[ Cumulative Security Update for Internet Explorer 7 for WEPOS and POSReady 2009 (KB3148198) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/ie7-windowsxp-kb3148198-x86-embedded-enu_254750ce40d33a8a4985de8339d8e66df6861f19.exe
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/ie7-windowsxp-kb3148198-x86-embedded-express-enu_14911e1e65969e71965bb5ca07c7e92f470678dc.cab
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/ie7-windowsxp-kb3148198-x86-embedded-enu_14181052d812d74c3b8d3a5f6749f8a9ce9a1ed6.psf
 
 [ Security Update for WEPOS and POSReady 2009 (KB3149090) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/windowsxp-kb3149090-x86-embedded-enu_ee6360c61fb2bc49278a0fcbcfb9c299af436857.exe
@@ -1190,6 +1245,9 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/07/wind
 [ 2018-08 Security Only Update for .NET Framework 2.0 on WES09 and POSReady 2009 (KB4344180) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/ndp20sp2-kb4344180-x86_d0f73b32fe800b37b11cb66c2f0cc07f047a7b0f.exe
 
+[ 2018-09 Security Only Update for .NET Framework 4.0 on WES09 and POSReady 2009 (KB4457046) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/09/ndp40-kb4457046-x86_407a3efb88f4bdf4974375f288761502e1683155.exe
+
 [ 2018-09 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4457163) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/windowsxp-kb4457163-x86-embedded-enu_6079ca40413cb788b625ebc6c4b8b802fa3bca57.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/08/windowsxp-kb4457163-x86-embedded-express-enu_fda74f1985dccde976cb95e36f678879d1c7f35d.cab
@@ -1271,6 +1329,9 @@ http://download.windowsupdate.com/c/csa/csa/secu/2019/02/ndp20sp2-kb4483485-x86_
 [ 2019-02 Security Only Update for .NET Framework 3.0 SP2 on WES09 and POSReady 2009 (KB4483495) ]
 http://download.windowsupdate.com/c/csa/csa/secu/2019/02/ndp30sp2-kb4483495-x86_08c0291774b8f619507a581cfebb8f522d65cb75.exe
 
+[ 2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4486463) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/01/windowsxp-kb4486463-x86-embedded-enu_8ab6c1cbd442dbdd8667993af4ee093abf09fb41.exe
+
 [ 2019-02 Security Update for WES09 and POSReady 2009 for x86-based Systems (KB4486465) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windowsxp-kb4486465-x86-embedded-enu_80c4f32abd257968871a840fd4d87cfedd0b3d4b.exe
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/01/windowsxp-kb4486465-x86-embedded-express-enu_69ecf74bebe5e4ba2f5bd196416b417528e820fb.cab
@@ -1336,6 +1397,9 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/wind
 
 [ 2019-03 Security Update for POSReady 2009 for x86-based Systems (KB4493341) ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/windowsxp-kb4493341-x86-embedded-enu_cfd32e1875c216557e94e1763fbc114c216d6b0c.exe
+
+[ 2019-04 Cumulative Security Update for Internet Explorer 8 for POSReady 2009 for x86-based systems (KB4493435) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/03/ie8-windowsxp-kb4493435-x86-embedded-enu_1029e7193ca4b683d1d0c1996bc7c66f1a2ae37f.exe
 
 [ 2019-04 Security Update for POSReady 2009 for x86-based Systems (KB4493563) ]
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windowsxp-kb4493563-x86-embedded-enu_b7acbe01322ca903c920fa8a85328057ba2d9703.exe

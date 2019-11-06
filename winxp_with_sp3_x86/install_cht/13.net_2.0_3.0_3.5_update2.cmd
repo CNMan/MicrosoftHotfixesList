@@ -1,0 +1,46 @@
+start /wait MSIEXEC /UNREGISTER
+start /wait MSIEXEC /REGSERVER
+start /wait ndp35sp1-kb963707-x86_301b6cf8eaf5d2212895fcd9fc566414fb033e3e.exe /q /norestart
+start /wait ndp30sp2-kb976570-x86_dcff59f3947e2c3d4f88e72959e6b5bb40c5b1d7.exe /q /norestart
+start /wait ndp20sp2-kb976576-x86_8e8121a8bddfb2095453335c593ffa22ef8e95ec.exe /q /norestart
+start /wait ndp20sp2-kb976569-x86_dd5f498a00cff2addd29b7f9e5ea8b1054ac2d73.exe /q /norestart
+start /wait ndp30sp2-kb982168-x86_55b498e96d1ea7db2d25302f30fc7f8fb5441158.exe /q /norestart
+start /wait ndp30sp2-kb977354-v2-x86_36d5f7b86e33e09d4e1934c43bbfab04c64a280e.exe /q /norestart
+start /wait ndp35sp1-kb2604111-x86_4c2840092b5593dee6e81870f07803a3346ae74d.exe /q /norestart
+start /wait ndp20sp2-kb2604092-x86_8ffc64599603264e79a0caaaf51e3393942fae06.exe /q /norestart
+start /wait ndp20sp2-kb2729450-x86_2e3100a991fc67b39350d431055bb005f9bb0487.exe /q /norestart
+start /wait ndp20sp2-kb2742596-x86_a0b11aaa133b0a15295bde2ec77680314f3200cc.exe /q /norestart
+start /wait ndp35sp1-kb2736416-x86_93368f49226c00b8ddb32723196ddfbb275c8765.exe /q /norestart
+start /wait ndp30sp2-kb2756918-x86_0171f9344ff6aef983e78241b4463190c77d847a.exe /q /norestart
+start /wait ndp20sp2-kb2789643-x86_252af3b6f715b2446fac3b169b1aa9711bce6bfd.exe /q /norestart
+start /wait ndp30sp2-kb2832411-x86_5a169c4c0ca3819fe7745faf894e50708008efd1.exe /q /norestart
+start /wait ndp35sp1-kb2836940-x86_43c873339b256d55a01b8e0303d53153949fdec3.exe /q /norestart
+start /wait ndp35sp1-kb2840629-x86_3a7890d49029e2383d7887b5abbd771cea442edf.exe /q /norestart
+start /wait ndp20sp2-kb2844285-v2-x86_b2407fdad98f8c0a682ca61825804022cc35cde0.exe /q /norestart
+start /wait ndp35sp1-kb2861697-x86_00011f82279874680d2d5812aad94303aa4af7db.exe /q /norestart
+start /wait ndp20sp2-kb2836941-v2-x86_9e8d176f3476dc920c9ac845647ec47fdbfc5d38.exe /q /norestart
+start /wait ndp30sp2-kb2861189-x86_59e2d4a7073c954c509c52297abff96f3ca51a66.exe /q /norestart
+start /wait ndp20sp2-kb2898856-x86_2b7b7f57a6d659ee926a6e381b388fff8bc3fd3e.exe /q /norestart
+start /wait ndp20sp2-kb2901111-x86_610083bd9139a2bc3fbdcd026e2d0cce11cafbc0.exe /q /norestart
+start /wait ndp20sp2-kb2932079-x86_62d2a448718d1a1343055d53eb722e8c72aafaeb.exe /q /norestart
+start /wait ndp20sp2-kb2894843-x86_36228a0825744e86a31a0d0d020ada3b2d0da9fa.exe /q /norestart
+start /wait ndp20sp2-kb2979574-v2-x86_e9d7e292cff96f768a99c2f2dbeba9ca14784c70.exe /q /norestart
+start /wait ndp20sp2-kb3127223-x86_297ce3410a8ae6d50522d3da7d2f926af3329439.exe /q /norestart
+start /wait ndp20sp2-kb3135986-x86_3c143b65f9e2cc3ab1f140fbd71a50f34af88a49.exe /q /norestart
+start /wait ndp20sp2-kb3142027-x86_dfb224d16b27f203dedc393678a150e887b98e84.exe /q /norestart
+start /wait ndp20sp2-kb3163248-x86_3144185c68b59a85109a7d03ecc3849f4423006a.exe /q /norestart
+start /wait ndp30sp2-kb3188734-x86_1a1e2f42b2aaf963a2d79a8072f08e29243a3330.exe /q /norestart
+start /wait ndp20sp2-kb4014580-x86_00bc481a903b582272cae81e76334295a1209f73.exe /q /norestart
+start /wait ndp20sp2-kb4014585-x86_4e8fac1a909fd3443b5a1ddd4ae2af5601f1d407.exe /q /norestart
+start /wait ndp30sp2-kb4017101-x86_d96aaad1352c554a2740fe30d371144cdb5a5ffa.exe /q /norestart
+start /wait ndp20sp2-kb4040968-x86_627a7d41e164c26280b1db64fefbba23c754ebc4.exe /q /norestart
+start /wait ndp20sp2-kb4054178-x86_c0d933409d0128ad7df07c0eaf71ae01f49c48c3.exe /q /norestart
+start /wait ndp30sp2-kb4055229-x86_45c6c6c58de4c40a6ab5c31cca4c685e289493ad.exe /q /norestart
+start /wait ndp20sp2-kb4095516-x86_c5111ba0c2003141ee07c8cd75932e98f0d80948.exe /q /norestart
+start /wait ndp30sp2-kb4338597-x86_7eefe88d95fcdb3b2e2941fdc555d4baeeab5864.exe /q /norestart
+start /wait ndp20sp2-kb4338615-x86_2efbd12454fd3710958d88de466e1902eefca318.exe /q /norestart
+start /wait ndp20sp2-kb4344180-x86_d0f73b32fe800b37b11cb66c2f0cc07f047a7b0f.exe /q /norestart
+start /wait ndp35sp1-kb4470633-x86_dc94f13d3a8c1eaaf30ca31c03a6364758c3b5ab.exe /q /norestart
+start /wait ndp20sp2-kb4483485-x86_4b0a0ebe86b450617b48584326a5a6e74352f027.exe /q /norestart
+start /wait ndp30sp2-kb4483495-x86_08c0291774b8f619507a581cfebb8f522d65cb75.exe /q /norestart
+shutdown -r
