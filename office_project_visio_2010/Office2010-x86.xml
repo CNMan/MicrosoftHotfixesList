@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/10/08" architecture="x86" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/12/10" architecture="x86" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4018363</kb>
@@ -20,13 +20,13 @@
 			<url>http://download.microsoft.com/download/C/6/2/C621D4EC-9D87-4CE2-ABDB-D216F224127F/accessolkaddin2010-kb2791057-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4475599</kb>
-			<date>2019/08/23</date>
+			<kb>KB4484193</kb>
+			<date>2019/12/02</date>
 			<size>4.39 MB</size>
 			<category>Security</category>
-			<name>ace2010-kb4475599-fullfile-x86-glb.exe</name>
+			<name>ace2010-kb4484193-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/b/d/0/bd01b21d-872c-4749-bdbf-bcaff131c36c/ace2010-kb4475599-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/1/1/311d0fa4-a8c3-41e1-9d38-92a51d38baf2/ace2010-kb4484193-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213626</kb>
@@ -56,13 +56,13 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484130</kb>
-			<date>2019/09/24</date>
+			<kb>KB4484196</kb>
+			<date>2019/12/02</date>
 			<size>36.16 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4484130-fullfile-x86-glb.exe</name>
+			<name>excel2010-kb4484196-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/7/9/b/79b286bc-0f8d-492f-851f-66cac53dbd0b/excel2010-kb4484130-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/6/0/360f1e0d-c43e-4c31-8514-80ba93ecaf4a/excel2010-kb4484196-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956084</kb>
@@ -128,13 +128,13 @@
 			<url>http://download.microsoft.com/download/9/0/3/90397B8B-F3B1-43AB-AB07-1E2BF2A04AD8/gkall2010-kb2881030-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4475569</kb>
-			<date>2019/09/24</date>
+			<kb>KB4484192</kb>
+			<date>2019/12/02</date>
 			<size>2.95 MB</size>
 			<category>Security</category>
-			<name>graph2010-kb4475569-fullfile-x86-glb.exe</name>
+			<name>graph2010-kb4484192-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/8/b/f/8bf3020b-9b74-42c3-8773-e0eb7ac536c3/graph2010-kb4475569-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/f/9/1/f9182a33-a6fe-42ac-9336-4d802b0c7017/graph2010-kb4484192-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2878231</kb>
@@ -479,13 +479,13 @@
 			<url>http://download.microsoft.com/download/7/6/0/760CF00D-39E7-4D7A-BABF-68A90AFA4BFF/pjloc2010-kb3054882-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461521</kb>
-			<date>2018/11/16</date>
+			<kb>KB4461613</kb>
+			<date>2019/12/02</date>
 			<size>17.48 MB</size>
 			<category>Security</category>
-			<name>powerpoint2010-kb4461521-fullfile-x86-glb.exe</name>
+			<name>powerpoint2010-kb4461613-fullfile-x86-glb.exe</name>
 			<description>Microsoft PowerPoint 2010</description>
-			<url>http://download.microsoft.com/download/7/E/6/7E6A2BCB-EEC7-43AA-86E0-2255B07E83C0/powerpoint2010-kb4461521-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/a/d/8ad6215a-94bf-4129-b26f-cb95de698480/powerpoint2010-kb4461613-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022136</kb>
@@ -614,13 +614,13 @@
 			<url>http://download.microsoft.com/download/8/A/5/8A5E84C3-EDE4-4611-9A10-58EDE8714F34/wec2010-kb2553388-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4475533</kb>
-			<date>2019/07/26</date>
-			<size>26.96 MB</size>
+			<kb>KB4475601</kb>
+			<date>2019/12/02</date>
+			<size>26.95 MB</size>
 			<category>Security</category>
-			<name>word2010-kb4475533-fullfile-x86-glb.exe</name>
+			<name>word2010-kb4475601-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2010</description>
-			<url>http://download.microsoft.com/download/5/3/B/53B4E19B-2B14-41FC-B64A-E2CE805E7A6E/word2010-kb4475533-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/0/7/8072d17d-5c5a-4b40-80c6-9aa1343de5c3/word2010-kb4475601-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461625</kb>

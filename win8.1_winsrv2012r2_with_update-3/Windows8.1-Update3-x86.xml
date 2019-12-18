@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/10/15" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/12/10" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -380,13 +380,13 @@
 			<url>http://download.microsoft.com/download/2/B/8/2B832205-A313-45A4-9356-DF5E47B70663/Windows8.1-KB3021910-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4521864</kb>
-			<date>2019/09/20</date>
-			<size>4.80 MB</size>
+			<kb>KB4524445</kb>
+			<date>2019/10/11</date>
+			<size>5.04 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB4521864-x86.msu</name>
-			<description>Servicing stack update: Otcober 2019</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/09/windows8.1-kb4521864-x86_0640a9933a0284819f4ca6d2099b3b44099de5f0.msu</url>
+			<name>Windows8.1-KB4524445-x86.msu</name>
+			<description>Servicing stack update: November 2019</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/11/windows8.1-kb4524445-x86_da08e634c058c7814db44b4b6e878196526d6a33.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -1478,15 +1478,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/06/windows8.1-kb3047154-v2-x86_06bb76dd62c19b452a11f90827ce0376265e0c6c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3051658</kb>
-			<date>2015/03/30</date>
-			<size>406 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3051658-x86.msu</name>
-			<description>You cannot add other users to access an encrypted file in Windows</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/05/windows8.1-kb3051658-x86_a5a236c60cc40d7944c1faf102c74c7c9b391d4c.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3053744</kb>
 			<date>2015/04/08</date>
 			<size>322 KB</size>
@@ -1757,15 +1748,6 @@
 			<url>http://download.microsoft.com/download/E/5/1/E51A31DA-F0F7-4B7A-9563-D141FD946F71/Windows8.1-KB3046017-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3055642</kb>
-			<date>2015/04/13</date>
-			<size>344 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3055642-x86.msu</name>
-			<description>Vulnerability in Service Control Manager could allow elevation of privilege: May 12, 2015</description>
-			<url>http://download.microsoft.com/download/4/5/B/45B66819-3FA0-4E0F-8FD2-A3F57EB54DFC/Windows8.1-KB3055642-x86.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3059317</kb>
 			<date>2015/04/25</date>
 			<size>1.56 MB</size>
@@ -2018,15 +2000,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x86_7762ebdf20fb0b1fb64cbc92ddba4582bc3fac0a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4515846</kb>
-			<date>2019/08/08</date>
-			<size>25.29 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4515846-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/09/windows8.1-kb4515846-x86_577a01345300510c76397d84200b85da1e664f2c.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4516115</kb>
 			<date>2019/08/29</date>
 			<size>10.21 MB</size>
@@ -2036,22 +2009,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows8.1-kb4516115-x86_1ced405a4241fe7753b3d6dbf8a40d6aa940131e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4519567</kb>
-			<date>2019/09/12</date>
-			<size>27.17 MB</size>
+			<kb>KB4530702</kb>
+			<date>2019/12/04</date>
+			<size>322.65 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4519567-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/10/windows8.1-kb4519567-x86_20f0f250f008d4e637455a0d7f28d41bd5cff720.msu</url>
+			<name>Windows8.1-KB4530702-x86.msu</name>
+			<description>Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/12/windows8.1-kb4530702-x86_0907ee061166d085d3b02114644d356d3b6dee53.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4520012</kb>
-			<date>2019/10/10</date>
-			<size>319.62 MB</size>
+			<kb>KB4533004</kb>
+			<date>2019/11/26</date>
+			<size>27.18 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4520012-x86.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/10/windows8.1-kb4520012-x86_b1dca6d931fd46e9ec94bbce3596347fcef983a7.msu</url>
+			<name>Windows8.1-KB4533004-x86-NDP48.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/12/windows8.1-kb4533004-x86-ndp48_d225cf7e73a559e1b37277b7fc03d5306f8dcbde.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/10/08" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/12/10" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4032252</kb>
@@ -11,13 +11,13 @@
 			<url>http://download.microsoft.com/download/7/A/3/7A35C782-0E2B-4B48-9D79-5A05AE51EACC/access2013-kb4032252-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4475611</kb>
-			<date>2019/09/05</date>
-			<size>10.76 MB</size>
+			<kb>KB4484186</kb>
+			<date>2019/11/21</date>
+			<size>10.99 MB</size>
 			<category>Security</category>
-			<name>ace2013-kb4475611-fullfile-x64-glb.exe</name>
+			<name>ace2013-kb4484186-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/9/8/a/98af2580-4ea7-473a-b5e2-6695a9e54d44/ace2013-kb4475611-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/b/e/8/be860378-2a70-4a16-8b83-cda04719003f/ace2013-kb4484186-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2899522</kb>
@@ -92,13 +92,13 @@
 			<url>http://download.microsoft.com/download/3/C/3/3C39EBC9-1AC9-4955-A606-E21235255DBC/eqnedt322013-kb4011580-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484123</kb>
-			<date>2019/09/19</date>
-			<size>95.33 MB</size>
+			<kb>KB4484190</kb>
+			<date>2019/11/21</date>
+			<size>95.61 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb4484123-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb4484190-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/3/4/7/347717b6-ad30-46f3-8d80-8fe65effee1a/excel2013-kb4484123-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/b/0/3b050084-0047-437f-b5f2-753dcfa46e55/excel2013-kb4484190-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -155,13 +155,13 @@
 			<url>http://download.microsoft.com/download/F/5/6/F56E87B6-700E-4B99-97C6-DABF20F95CD7/gkall2013-kb3039795-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4475558</kb>
-			<date>2019/09/19</date>
-			<size>3.36 MB</size>
+			<kb>KB4484184</kb>
+			<date>2019/11/21</date>
+			<size>3.35 MB</size>
 			<category>Security</category>
-			<name>graph2013-kb4475558-fullfile-x64-glb.exe</name>
+			<name>graph2013-kb4484184-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/c/d/b/cdb90916-ef3f-4f8b-b5cb-4acb568bcd94/graph2013-kb4475558-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/b/c/8bcc0ddf-7052-49b0-b060-79b0bff17dd8/graph2013-kb4484184-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022226</kb>
@@ -452,13 +452,13 @@
 			<url>http://download.microsoft.com/download/3/2/B/32BDBE70-B949-4867-8505-760367ABAB98/peopledata2013-kb3039766-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4461481</kb>
-			<date>2018/11/20</date>
-			<size>52.64 MB</size>
+			<kb>KB4461590</kb>
+			<date>2019/11/21</date>
+			<size>52.73 MB</size>
 			<category>Security</category>
-			<name>powerpoint2013-kb4461481-fullfile-x64-glb.exe</name>
+			<name>powerpoint2013-kb4461590-fullfile-x64-glb.exe</name>
 			<description>Microsoft PowerPoint 2013</description>
-			<url>http://download.microsoft.com/download/0/0/B/00B70D09-6B24-4002-B950-02FCA367C87C/powerpoint2013-kb4461481-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/6/f/86fa2e5a-b94a-456f-bc02-7e93e8e45406/powerpoint2013-kb4461590-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213536</kb>
@@ -569,13 +569,13 @@
 			<url>http://download.microsoft.com/download/8/4/7/847A162A-06AA-47D6-ABAD-F9D59CC377C9/wec2013-kb3172533-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4475547</kb>
-			<date>2019/07/27</date>
-			<size>166.35 MB</size>
+			<kb>KB4484094</kb>
+			<date>2019/11/21</date>
+			<size>166.33 MB</size>
 			<category>Security</category>
-			<name>word2013-kb4475547-fullfile-x64-glb.exe</name>
+			<name>word2013-kb4484094-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>http://download.microsoft.com/download/2/7/3/273F0AE2-DC3E-4619-AED9-6B57A114E5ED/word2013-kb4475547-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/4/2/5420475a-f7ac-4523-b7b3-4dafba82a3b6/word2013-kb4484094-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>

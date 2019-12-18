@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/10/24" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/12/10" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
-			<date>2019/07/09</date>
-			<size>2.91 KB</size>
+			<date>2019/11/14</date>
+			<size>3.31 KB</size>
 			<category>General</category>
-			<name>Information-ReadMe.txt</name>
+			<name>Information-PleaseRead.txt</name>
 			<description>Info to differentiate updates based on build number</description>
-			<url>https://dl.dropboxusercontent.com/s/9a6o6p08gr8vhcm/Information-ReadMe.txt</url>
+			<url>https://dl.dropboxusercontent.com/s/bdr1sp6k6f0fu7m/Information-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087515</kb>
@@ -38,31 +38,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows10.0-kb4516115-x64_18167dae01da3fd2894274cd9dda650fc5effa55.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4519562</kb>
-			<date>2019/09/12</date>
-			<size>48.95 MB</size>
+			<kb>KB4520724</kb>
+			<date>2019/10/14</date>
+			<size>11.57 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4519562-x64.msu</name>
-			<description>.NET Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2019/10/windows10.0-kb4519562-x64_c0775a4cbfdcc1159c075e6aead77dc653c05caf.msu</url>
+			<name>Windows10.0-KB4520724-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2019/11/windows10.0-kb4520724-x64_97604f0b532d6da814b4120fc43b2d9f6fd0b356.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4519979</kb>
-			<date>2019/10/09</date>
+			<kb>KB4530689</kb>
+			<date>2019/12/02</date>
 			<size>1.38 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4519979-x64.msu</name>
+			<name>Windows10.0-KB4530689-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2019/10/windows10.0-kb4519979-x64_2c117b296dcc7a3c9e6ef889b0ff3bec7a8acbe9.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/12/windows10.0-kb4530689-x64_a7cbdbcf320f1c56dace2424dedd4d468cd46d3d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4521858</kb>
-			<date>2019/09/18</date>
-			<size>11.69 MB</size>
+			<kb>KB4532997</kb>
+			<date>2019/11/26</date>
+			<size>50.77 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4521858-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/09/windows10.0-kb4521858-x64_4660e9135b9de2ec006aee76499588d729fbbc60.msu</url>
+			<name>Windows10.0-KB4532997-x64-NDP48.msu</name>
+			<description>.NET Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2019/12/windows10.0-kb4532997-x64-ndp48_4f6e4a5beede9678a23a7cd92019d813113b0af5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4516115</kb>
@@ -74,22 +74,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows10.0-kb4516115-x64_01078e05a7e03a042d46ac49c8c8b8e15d2d6c34.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4519978</kb>
-			<date>2019/10/09</date>
-			<size>942.37 MB</size>
-			<category>General/17134</category>
-			<name>Windows10.0-KB4519978-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1803</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2019/10/windows10.0-kb4519978-x64_3d3cca750bdadd13137ba14108d8b04007f9a755.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4521861</kb>
-			<date>2019/09/25</date>
+			<kb>KB4523203</kb>
+			<date>2019/10/14</date>
 			<size>13.16 MB</size>
 			<category>General/17134</category>
-			<name>Windows10.0-KB4521861-x64.msu</name>
+			<name>Windows10.0-KB4523203-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1803</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2019/10/windows10.0-kb4521861-x64_423fa096aa7181e817ca9eb97b9acefbea5304fc.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2019/11/windows10.0-kb4523203-x64_2aaebd36efec61f15df67913a416c34f8e29042c.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4530717</kb>
+			<date>2019/12/04</date>
+			<size>944.31 MB</size>
+			<category>General/17134</category>
+			<name>Windows10.0-KB4530717-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1803</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/12/windows10.0-kb4530717-x64_2a839b935dbb8784a1e22d3febaf98ae0a3b1d36.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -119,31 +119,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/09/windows10.0-kb4516115-x64_75333e8c2a3455dc085e4f0b4f00a30737ef84e1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4519565</kb>
-			<date>2019/09/12</date>
-			<size>65.82 MB</size>
+			<kb>KB4523204</kb>
+			<date>2019/10/14</date>
+			<size>13.61 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4519565-x64.msu</name>
-			<description>.NET Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2019/10/windows10.0-kb4519565-x64_7b382e9011d29ec936c09fc3e880649cf9b85ca8.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4520062</kb>
-			<date>2019/10/09</date>
-			<size>279.04 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB4520062-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2019/10/windows10.0-kb4520062-x64_9f2a827f11f945d19bd26de6f113f611a38bb8a1.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4521862</kb>
-			<date>2019/09/25</date>
-			<size>13.59 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB4521862-x64.msu</name>
+			<name>Windows10.0-KB4523204-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/09/windows10.0-kb4521862-x64_bc8ec939f5cc57db5843b689be5ea12954c185cc.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2019/11/windows10.0-kb4523204-x64_57098d9954748b2d7d767f73f60493bc592ff286.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4530715</kb>
+			<date>2019/12/04</date>
+			<size>288.74 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB4530715-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/12/windows10.0-kb4530715-x64_eacf4aa5168f4f2eeae5717d5ad47c7aac4c435c.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4533001</kb>
+			<date>2019/11/26</date>
+			<size>66.17 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB4533001-x64-NDP48.msu</name>
+			<description>.NET Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2019/12/windows10.0-kb4533001-x64-ndp48_9bf7b653c8a3ccac16c5a3e9a72b021dae763789.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4516115</kb>
@@ -155,31 +155,40 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/09/windows10.0-kb4516115-x64_1a640406e356d564d40121700fed9adc048b87e9.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4519573</kb>
-			<date>2019/09/12</date>
-			<size>62.19 MB</size>
+			<kb>KB4524569</kb>
+			<date>2019/10/18</date>
+			<size>14.36 MB</size>
 			<category>General/18362</category>
-			<name>Windows10.0-KB4519573-x64.msu</name>
-			<description>.NET Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2019/10/windows10.0-kb4519573-x64_21c26491cffbccc32a37ba61e3e1e7d2824e3c2b.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4522355</kb>
-			<date>2019/10/22</date>
-			<size>316.88 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB4522355-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2019/10/windows10.0-kb4522355-x64_af588d16a8fbb572b70c3b3bb34edee42d6a460b.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4525419</kb>
-			<date>2019/10/17</date>
-			<size>14.35 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB4525419-x64.msu</name>
+			<name>Windows10.0-KB4524569-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/10/windows10.0-kb4525419-x64_e6893a42f52b05aefb4c188cd0f5dc0daed7f5f7.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2019/11/windows10.0-kb4524569-x64_9004236e081c22b1e10c4bc94279bf6e75cd299a.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4530684</kb>
+			<date>2019/12/04</date>
+			<size>315.44 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB4530684-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1903</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/12/windows10.0-kb4530684-x64_02ab3d424a993fbefa857f5b92999383f56c6986.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4533002</kb>
+			<date>2019/11/26</date>
+			<size>62.65 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB4533002-x64-NDP48.msu</name>
+			<description>.NET Cumulative Update for Windows 10 Version 1903</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2019/12/windows10.0-kb4533002-x64-ndp48_80e9bfc8ffeb6fb63cf57a272c68387326883621.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4517245</kb>
+			<date>2019/09/26</date>
+			<size>20.04 KB</size>
+			<category>General/18362/v1909</category>
+			<name>Windows10.0-KB4517245-x64.cab</name>
+			<description>Feature Update to Windows 10 Version 1909 via Enablement Package</description>
+			<url>http://b1.download.windowsupdate.com/d/upgr/2019/11/windows10.0-kb4517245-x64_4250e1db7bc9468236c967c2c15f04b755b3d3a9.cab</url>
 		</update>
 	</updates>
 </hotfixlist>

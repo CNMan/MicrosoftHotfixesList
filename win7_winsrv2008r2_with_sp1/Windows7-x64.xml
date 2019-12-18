@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/10/15" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/12/10" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -142,17 +142,17 @@
 			<size>35.00 MB</size>
 			<category>Additional/NET48</category>
 			<name>NDP48-KB4503575-x64.exe</name>
-			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<description>Microsoft .NET Framework 4.8 Update</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2019/08/ndp48-kb4503575-x64_8fb38b8d7f7c122fbb703289fdb6481d0b89ada1.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4519568</kb>
-			<date>2019/09/12</date>
-			<size>35.41 MB</size>
+			<kb>KB4533005</kb>
+			<date>2019/11/26</date>
+			<size>35.42 MB</size>
 			<category>Additional/NET48</category>
-			<name>NDP48-KB4519568-x64.exe</name>
+			<name>NDP48-KB4533005-x64.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/10/ndp48-kb4519568-x64_a4b7153205fd290dad9b545ff99b60197cecf840.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/12/ndp48-kb4533005-x64_b992ca61d6de2ec8f2a7c9ad98f6667b8a5b3ca6.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -1118,15 +1118,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=15566</url>
 		</update>
 		<update extract="0">
-			<kb>KB2508120</kb>
-			<date>2011/03/17</date>
-			<size>417 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2508120-x64.msu</name>
-			<description>An update that adds the ActiveX Installer Service to Windows Server 2008 R2</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=13369</url>
-		</update>
-		<update extract="0">
 			<kb>KB2509318</kb>
 			<date>2011/03/12</date>
 			<size>229 KB</size>
@@ -1919,15 +1910,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=14844</url>
 		</update>
 		<update extract="0">
-			<kb>KB2755625</kb>
-			<date>2012/10/04</date>
-			<size>261 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2755625-x64.msu</name>
-			<description>Event ID 4097 is not logged as expected when you cannot install an ActiveX control from a website to a computer that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>http://download.windowsupdate.com/msdownload/update/software/htfx/2013/04/Windows6.1-KB2755625-x64_27d91a9caab47fc662ed3e06c744e3069ac56ec6.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB2756263</kb>
 			<date>2012/09/21</date>
 			<size>553 KB</size>
@@ -2574,15 +2556,6 @@
 			<name>Windows6.1-KB2939652-v2-x64.msu</name>
 			<description>WM_DEVICECHANGE messages are delayed after a SATA hard disk is removed</description>
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=19163</url>
-		</update>
-		<update extract="0">
-			<kb>KB2951611</kb>
-			<date>2014/04/30</date>
-			<size>605 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2951611-X64.msu</name>
-			<description>DirectAccess is used for internal network connections</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=19398</url>
 		</update>
 		<update extract="0">
 			<kb>KB2953722</kb>
@@ -3512,15 +3485,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows6.1-kb3046017-x64_5451208ccc96f656f55f35fca5997801e1676bcb.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3055642</kb>
-			<date>2015/04/13</date>
-			<size>357 KB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB3055642-x64.msu</name>
-			<description>Vulnerability in Service Control Manager could allow elevation of privilege: May 12, 2015</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/04/windows6.1-kb3055642-x64_cc13db5a18e3531c854e85263e66055cdd081678.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3060716</kb>
 			<date>2015/07/15</date>
 			<size>15.44 MB</size>
@@ -3537,15 +3501,6 @@
 			<name>Windows6.1-KB3067903-x64.msu</name>
 			<description>Security update for Windows Windows Media Format SDK: July 14, 2015</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/07/windows6.1-kb3067903-x64_32ade96fc5ca8915c044307a24aaff2415931708.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3068457</kb>
-			<date>2015/06/09</date>
-			<size>1.45 MB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB3068457-x64.msu</name>
-			<description>Vulnerability in Netlogon could allow elevation of privilege: July 14, 2015</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows6.1-kb3068457-x64_08099524a2de2710a6e5f34978a248d36483e5cc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3071756</kb>
@@ -4745,22 +4700,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows6.1-kb4507004-x64_a7d988d65422c8cfbbed141c95aeea37a8743167.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4516655</kb>
-			<date>2019/08/19</date>
-			<size>9.13 MB</size>
+			<kb>KB4531786</kb>
+			<date>2019/11/18</date>
+			<size>9.14 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4516655-x64.msu</name>
-			<description>Servicing stack update: September 2019</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4516655-x64_8acf6b3aeb8ebb79973f034c39a9887c9f7df812.msu</url>
+			<name>Windows6.1-KB4531786-x64.msu</name>
+			<description>Servicing stack update: December 2019</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/12/windows6.1-kb4531786-x64_fc7c2bb89d312c8184e367d2169d0c8fdcb97bf4.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4519972</kb>
-			<date>2019/10/10</date>
-			<size>308.32 MB</size>
+			<kb>KB4530734</kb>
+			<date>2019/12/06</date>
+			<size>311.16 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4519972-x64.msu</name>
+			<name>Windows6.1-KB4530734-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/10/windows6.1-kb4519972-x64_bb76b8abcb09f8078bc788f7ff245bc55198920a.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/12/windows6.1-kb4530734-x64_4aa5440abd6c88a8101f069d0799ff5466048cc2.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
