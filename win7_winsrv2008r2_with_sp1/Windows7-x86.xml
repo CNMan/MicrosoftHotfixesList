@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/12/10" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/01/14" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -129,21 +129,21 @@
 		</update>
 		<update extract="0">
 			<kb>KB4503575</kb>
-			<date>2019/07/25</date>
-			<size>22.29 MB</size>
+			<date>2019/12/13</date>
+			<size>22.85 MB</size>
 			<category>Additional/NET48</category>
-			<name>NDP48-KB4503575-x86.exe</name>
+			<name>ndp48-kb4503575-x86_78fea8088b0dbdd3384d248eda91b538b8ca3345.exe</name>
 			<description>Microsoft .NET Framework 4.8 Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2019/08/ndp48-kb4503575-x86_1a26bc3720b1d2b3de5673d46f57fbd64840963b.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/ndp48-kb4503575-x86_78fea8088b0dbdd3384d248eda91b538b8ca3345.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4533005</kb>
-			<date>2019/11/26</date>
-			<size>22.47 MB</size>
+			<kb>KB4532941</kb>
+			<date>2019/12/11</date>
+			<size>22.82 MB</size>
 			<category>Additional/NET48</category>
-			<name>NDP48-KB4533005-x86.exe</name>
+			<name>ndp48-kb4532941-x86_19370dea90744c58926b12d239c99134d068a13d.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/12/ndp48-kb4533005-x86_10e0fe6a1b29d675f7077e08e19167af93ea0693.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/ndp48-kb4532941-x86_19370dea90744c58926b12d239c99134d068a13d.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -1847,15 +1847,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=17639</url>
 		</update>
 		<update extract="0">
-			<kb>KB2750692</kb>
-			<date>2012/09/07</date>
-			<size>341 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB2750692-x86.msu</name>
-			<description>TIFF image files are not compressed correctly when you merge them into a multipage TIFF file on a computer that is running Windows 7 or Windows Server 2008 R2</description>
-			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2750692-x86.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB2756263</kb>
 			<date>2012/09/21</date>
 			<size>552 KB</size>
@@ -2810,15 +2801,6 @@
 			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=20440</url>
 		</update>
 		<update extract="0">
-			<kb>KB3036155</kb>
-			<date>2015/03/20</date>
-			<size>686 KB</size>
-			<category>Extra/WithoutKB3125574/#Hotfix</category>
-			<name>Windows6.1-KB3036155-x86.msu</name>
-			<description>Scanning application crashes upon close after you perform a scan in Windows</description>
-			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=20475</url>
-		</update>
-		<update extract="0">
 			<kb>KB3040017</kb>
 			<date>2015/03/20</date>
 			<size>2.18 MB</size>
@@ -3150,15 +3132,6 @@
 			<name>Windows6.1-KB2862330-v2-x86.msu</name>
 			<description>Security update for USB drivers: October 8, 2013</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2013/12/windows6.1-kb2862330-v2-x86_a6f3c9b5811bd869cf6834acb96c4a0232588c9b.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB2862335</kb>
-			<date>2013/08/06</date>
-			<size>333 KB</size>
-			<category>Extra/WithoutKB3125574/#Security</category>
-			<name>Windows6.1-KB2862335-x86.msu</name>
-			<description>Security update for USB HID drivers: October 8, 2013</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/09/windows6.1-kb2862335-x86_59cbb729f52724546460eaaac2a88729952c8ea5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2864202</kb>
@@ -4619,31 +4592,31 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4474419-v3-x86_0f687d50402790f340087c576886501b3223bec6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4507004</kb>
-			<date>2019/07/03</date>
+			<kb>KB4532945</kb>
+			<date>2019/12/10</date>
 			<size>16.22 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4507004-x86.msu</name>
+			<name>Windows6.1-KB4532945-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/07/windows6.1-kb4507004-x86_625917bdc06b040d7c312e1b8d805a43ff31cf8b.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4532945-x86_0438d1eece17622a078b0d08dd6e812a67a09f37.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4531786</kb>
-			<date>2019/11/18</date>
-			<size>4.03 MB</size>
+			<kb>KB4534310</kb>
+			<date>2020/01/07</date>
+			<size>205.17 MB</size>
 			<category>Security</category>
-			<name>Windows6.1-KB4531786-x86.msu</name>
-			<description>Servicing stack update: December 2019</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/12/windows6.1-kb4531786-x86_f5e77b10701603f4c2fd9ee9e817e5cd3057915d.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4530734</kb>
-			<date>2019/12/06</date>
-			<size>204.37 MB</size>
-			<category>Security</category>
-			<name>Windows6.1-KB4530734-x86.msu</name>
+			<name>Windows6.1-KB4534310-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/12/windows6.1-kb4530734-x86_50de8505fd3dd8c3b4100b294ff1de88aef0939d.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4534310-x86_887a5caab59437e8f23aa5a4608950455bb37537.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4536952</kb>
+			<date>2020/01/02</date>
+			<size>4.02 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4536952-x86.msu</name>
+			<description>Servicing stack update: December 2019</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows6.1-kb4536952-x86_f3b49481187651f64f13a0369c86ad7caa83b190.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

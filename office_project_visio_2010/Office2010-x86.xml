@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/12/10" architecture="x86" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/01/14" architecture="x86" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4018363</kb>
@@ -56,13 +56,13 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484196</kb>
-			<date>2019/12/02</date>
+			<kb>KB4484243</kb>
+			<date>2019/12/23</date>
 			<size>36.16 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4484196-fullfile-x86-glb.exe</name>
+			<name>excel2010-kb4484243-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/3/6/0/360f1e0d-c43e-4c31-8514-80ba93ecaf4a/excel2010-kb4484196-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/b/0/e/b0e54a90-38fb-4ed9-bb78-5e34abaefe3a/excel2010-kb4484243-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956084</kb>
@@ -128,13 +128,13 @@
 			<url>http://download.microsoft.com/download/9/0/3/90397B8B-F3B1-43AB-AB07-1E2BF2A04AD8/gkall2010-kb2881030-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484192</kb>
-			<date>2019/12/02</date>
+			<kb>KB4484236</kb>
+			<date>2019/12/23</date>
 			<size>2.95 MB</size>
 			<category>Security</category>
-			<name>graph2010-kb4484192-fullfile-x86-glb.exe</name>
+			<name>graph2010-kb4484236-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/f/9/1/f9182a33-a6fe-42ac-9336-4d802b0c7017/graph2010-kb4484192-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/3/0/2304a9c0-b2cb-4dad-9c9e-14e60b3ad678/graph2010-kb4484236-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2878231</kb>

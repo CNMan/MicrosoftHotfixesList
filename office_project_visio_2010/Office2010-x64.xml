@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2019/12/10" architecture="x64" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/01/14" architecture="x64" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4018363</kb>
@@ -56,13 +56,13 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484196</kb>
-			<date>2019/12/02</date>
-			<size>38.73 MB</size>
+			<kb>KB4484243</kb>
+			<date>2019/12/23</date>
+			<size>38.75 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4484196-fullfile-x64-glb.exe</name>
+			<name>excel2010-kb4484243-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/d/f/b/dfb48101-79d0-4785-96c1-e147fdf008cc/excel2010-kb4484196-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/7/4/1/74109e3f-4813-44eb-a941-51682d08c61f/excel2010-kb4484243-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956084</kb>
@@ -128,13 +128,13 @@
 			<url>http://download.microsoft.com/download/3/B/4/3B4DEB77-D418-40DF-BC5C-9E1227A0BE87/gkall2010-kb2881030-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484192</kb>
-			<date>2019/12/02</date>
+			<kb>KB4484236</kb>
+			<date>2019/12/23</date>
 			<size>4.10 MB</size>
 			<category>Security</category>
-			<name>graph2010-kb4484192-fullfile-x64-glb.exe</name>
+			<name>graph2010-kb4484236-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/0/e/c/0ec57107-86e4-4d16-85a8-4b0658ff5927/graph2010-kb4484192-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/f/5/7/f5711ff6-5bac-45a1-a990-6d1d5845c97f/graph2010-kb4484236-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2878231</kb>
