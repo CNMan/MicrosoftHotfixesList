@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/01/14" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/02/07" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4617,6 +4617,15 @@
 			<name>Windows6.1-KB4536952-x86.msu</name>
 			<description>Servicing stack update: December 2019</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows6.1-kb4536952-x86_f3b49481187651f64f13a0369c86ad7caa83b190.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4539602</kb>
+			<date>2020/01/30</date>
+			<size>29.20 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4539602-x86.msu</name>
+			<description>Security Only Update: January 31, 2020</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows6.1-kb4539602-x86_88331dcdecd5f05d23921d1dc26cf5715099a927.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

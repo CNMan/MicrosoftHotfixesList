@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/01/14" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/02/11" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -342,15 +342,6 @@
 			<name>Windows8.1-KB3162835-x64.msu</name>
 			<description>June 2016 DST update / Superseded by Monthly Rollup</description>
 			<url>http://download.microsoft.com/download/5/E/7/5E7554FE-4384-4568-8F13-89952CF3FACB/Windows8.1-KB3162835-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3173424</kb>
-			<date>2016/06/21</date>
-			<size>10.48 MB</size>
-			<category>Additional/WU.Satisfy</category>
-			<name>Windows8.1-KB3173424-x64.msu</name>
-			<description>Servicing stack update: July 2016</description>
-			<url>http://download.microsoft.com/download/E/2/C/E2CA92A3-8D60-4702-98E2-2AB396FEA1BC/Windows8.1-KB3173424-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3185319</kb>
@@ -927,15 +918,6 @@
 			<name>Windows8.1-KB3078405-v2-x64.msu</name>
 			<description>0x0000004A or "0x0000009F" Stop error occurs in Windows 8.1</description>
 			<url>http://download.microsoft.com/download/7/7/F/77FBA20A-6BB1-4331-8480-49455FD6DC0D/Windows8.1-KB3078405-v2-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3078676</kb>
-			<date>2015/07/09</date>
-			<size>303 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3078676-x64.msu</name>
-			<description>Event 1530 is logged and ProfSvc leaks paged pool memory and handles</description>
-			<url>http://download.microsoft.com/download/E/B/7/EB783F84-B12C-4033-ACF4-0FACF89B56D9/Windows8.1-KB3078676-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080800</kb>
@@ -2045,15 +2027,6 @@
 			<url>http://download.microsoft.com/download/E/B/1/EB1EA564-1F6C-4132-AEA0-D195B634A4FA/Windows8.1-KB3164294-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3172729</kb>
-			<date>2016/07/12</date>
-			<size>265 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3172729-x64.msu</name>
-			<description>Security update for Secure Boot: August 9, 2016</description>
-			<url>http://download.microsoft.com/download/A/7/C/A7CAE399-637E-4EFA-BA91-A9B374B882F0/Windows8.1-KB3172729-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3175024</kb>
 			<date>2016/08/13</date>
 			<size>12.25 MB</size>
@@ -2099,13 +2072,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x64_bbaadf6e2537a54b7b277ab8349dfd1b7aa354c8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4516115</kb>
-			<date>2019/08/29</date>
-			<size>20.89 MB</size>
+			<kb>KB4502496</kb>
+			<date>2019/09/27</date>
+			<size>254 KB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4516115-x64.msu</name>
-			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows8.1-kb4516115-x64_0d9f83c866638da6434b4f93779faf007d00c774.msu</url>
+			<name>Windows8.1-KB4502496-x64.msu</name>
+			<description>Security update for Secure Boot: February 11, 2020</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/11/windows8.1-kb4502496-x64_6e8a963a02a26ac881c628850388d0656b699d16.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532940</kb>
@@ -2117,13 +2090,31 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows8.1-kb4532940-x64-ndp48_b164c0866b33386501825e2fc1f6c5c5beee6351.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4534297</kb>
-			<date>2020/01/09</date>
-			<size>496.92 MB</size>
+			<kb>KB4534134</kb>
+			<date>2019/12/12</date>
+			<size>50.25 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4534297-x64.msu</name>
+			<name>Windows8.1-KB4534134-x64-NDP48.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/01/windows8.1-kb4534134-x64-ndp48_27d3279ff288f81e231595aef292aef719a46b14.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4537759</kb>
+			<date>2020/02/03</date>
+			<size>20.90 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4537759-x64.msu</name>
+			<description>Update for Vulnerabilities in Adobe Flash Player</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/02/windows8.1-kb4537759-x64_66639036124d1985c7d43abca195c84cca74df81.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4537821</kb>
+			<date>2020/02/06</date>
+			<size>497.54 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4537821-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows8.1-kb4534297-x64_eb3a1521a616fd653ec1e291c1d2f6069d4879a5.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows8.1-kb4537821-x64_26e968d5eb4c77b264aac60565290d2f5552778a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

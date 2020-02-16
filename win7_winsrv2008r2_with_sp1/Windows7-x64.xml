@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/01/14" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/02/07" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -134,7 +134,7 @@
 			<category>Additional/NET48</category>
 			<name>NDP48-KB4503548-x86-x64-ENU.exe</name>
 			<description>Microsoft .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/ndp48-kb4503575-x64_6c25d7b9595000a2575fd1596e70341234df7bfe.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2019/08/ndp48-x86-x64-enu_0885a72554ca76d2cd3ad76f98878f22b6a1d0b2.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4503575</kb>
@@ -143,7 +143,7 @@
 			<category>Additional/NET48</category>
 			<name>ndp48-kb4503575-x64_6c25d7b9595000a2575fd1596e70341234df7bfe.exe</name>
 			<description>Microsoft .NET Framework 4.8 Update</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/ndp48-kb4532941-x64_3220ceb5d24711680ceb3dfef6d7847305185ea2.exe</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/ndp48-kb4503575-x64_6c25d7b9595000a2575fd1596e70341234df7bfe.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532941</kb>
@@ -152,7 +152,7 @@
 			<category>Additional/NET48</category>
 			<name>ndp48-kb4532941-x64_3220ceb5d24711680ceb3dfef6d7847305185ea2.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/12/ndp48-kb4533005-x64_b992ca61d6de2ec8f2a7c9ad98f6667b8a5b3ca6.exe</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/ndp48-kb4532941-x64_3220ceb5d24711680ceb3dfef6d7847305185ea2.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -4689,6 +4689,15 @@
 			<name>Windows6.1-KB4536952-x64.msu</name>
 			<description>Servicing stack update: December 2019</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4536952-x64_87f81056110003107fa0e0ec35a3b600ef300a14.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4539602</kb>
+			<date>2020/01/30</date>
+			<size>50.05 MB</size>
+			<category>Security</category>
+			<name>Windows6.1-KB4539602-x64.msu</name>
+			<description>Security Only Update: January 31, 2020</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows6.1-kb4539602-x64_977d8a5421d03ba7ddd992ddf79175dddcfb90d4.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/01/14" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/02/11" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB4475539</kb>
@@ -83,13 +83,13 @@
 			<url>http://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484217</kb>
-			<date>2019/12/23</date>
-			<size>133.22 MB</size>
+			<kb>KB4484256</kb>
+			<date>2020/01/21</date>
+			<size>133.222 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb4484217-fullfile-x64-glb.exe</name>
+			<name>excel2016-kb4484256-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>http://download.microsoft.com/download/d/2/b/d2b39e5e-3ca9-4455-bc77-41353338d647/excel2016-kb4484217-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/4/f/84fe4dbc-f03a-4c27-88e9-f660e4ccf561/excel2016-kb4484256-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -362,13 +362,13 @@
 			<url>http://download.microsoft.com/download/C/A/B/CABA6265-DE0E-4458-A701-0BE43690D8F1/outlfltr2016-kb3115407-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484212</kb>
-			<date>2019/12/23</date>
-			<size>96.77 MB</size>
-			<category>General</category>
-			<name>outlook2016-kb4484212-fullfile-x64-glb.exe</name>
+			<kb>KB4484250</kb>
+			<date>2020/01/21</date>
+			<size>96.64 MB</size>
+			<category>Security</category>
+			<name>outlook2016-kb4484250-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>http://download.microsoft.com/download/a/d/8/ad80072d-1a5b-47b1-bdc0-f8c785c3b718/outlook2016-kb4484212-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/e/a/5/ea58d8f2-2b9a-4df1-bf3f-4985afd01d73/outlook2016-kb4484250-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -398,13 +398,13 @@
 			<url>http://download.microsoft.com/download/2/D/A/2DA25CFB-AA71-4656-89D3-E5B4D17455AD/ppaddin2016-kb4011225-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484140</kb>
-			<date>2019/12/23</date>
-			<size>36.28 MB</size>
+			<kb>KB4484253</kb>
+			<date>2020/01/21</date>
+			<size>36.27 MB</size>
 			<category>General</category>
-			<name>project2016-kb4484140-fullfile-x64-glb.exe</name>
+			<name>project2016-kb4484253-fullfile-x64-glb.exe</name>
 			<description>Microsoft Project 2016</description>
-			<url>http://download.microsoft.com/download/8/9/9/899e21ff-c7d0-48a0-af02-3543e5234aee/project2016-kb4484140-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/f/e/0/fe0ad471-937b-4c10-8588-2e7c3184bfdc/project2016-kb4484253-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4464538</kb>
@@ -497,13 +497,13 @@
 			<url>http://download.microsoft.com/download/d/9/e/d9efabe3-37ed-420c-93f4-d1d69129a2ed/visio2016-kb4464575-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484219</kb>
-			<date>2019/12/23</date>
+			<kb>KB4484249</kb>
+			<date>2020/01/21</date>
 			<size>47.01 MB</size>
 			<category>General</category>
-			<name>word2016-kb4484219-fullfile-x64-glb.exe</name>
+			<name>word2016-kb4484249-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>http://download.microsoft.com/download/4/6/d/46d74b86-e467-4ea7-95cd-e52d3b03461a/word2016-kb4484219-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/f/6/b/f6b083e0-8fab-4951-ab40-c57f8cf86a9a/word2016-kb4484249-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>
