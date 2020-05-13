@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/02/11" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/05/12" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -209,6 +209,15 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows8.1-kb4532946-x64_c379da890c7a3d4aff8d02fe9042324f07ded655.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4552982</kb>
+			<date>2020/03/29</date>
+			<size>24.60 MB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB4552982-x64.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows8.1-kb4552982-x64_2c815e589c5758651ae3a917fcb6e8e868ee3612.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB2976978</kb>
 			<date>2016/03/01</date>
 			<size>1.00 KB</size>
@@ -344,6 +353,15 @@
 			<url>http://download.microsoft.com/download/5/E/7/5E7554FE-4384-4568-8F13-89952CF3FACB/Windows8.1-KB3162835-x64.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB3173424</kb>
+			<date>2016/06/28</date>
+			<size>10.48 MB</size>
+			<category>Additional/WU.Satisfy</category>
+			<name>Windows8.1-KB3173424-x64.msu</name>
+			<description>Servicing stack update / companion with KB3172729</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/06/windows8.1-kb3173424-x64_9a1c9e0082978d92abee71f2cfed5e0f4b6ce85c.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB3185319</kb>
 			<date>2016/09/01</date>
 			<size>53.91 MB</size>
@@ -363,7 +381,7 @@
 		</update>
 		<update extract="0">
 			<kb>KB2919355</kb>
-			<date>2019/07/09</date>
+			<date>2020/02/25</date>
 			<size>1.00 KB</size>
 			<category>Baseline</category>
 			<name>Baseline-Info-Update3.txt</name>
@@ -380,13 +398,13 @@
 			<url>http://download.microsoft.com/download/6/1/5/615B8D87-A02C-485E-B9B5-D6F4AEB52D78/Windows8.1-KB3021910-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4524445</kb>
-			<date>2019/10/11</date>
-			<size>11.03 MB</size>
+			<kb>KB4540725</kb>
+			<date>2020/02/18</date>
+			<size>10.52 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB4524445-x64.msu</name>
-			<description>Servicing stack update: November 2019</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/11/windows8.1-kb4524445-x64_a8a5b5fd641b016e8ee0636c1dde808e98656d3a.msu</url>
+			<name>Windows8.1-KB4540725-x64.msu</name>
+			<description>2020-03 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/03/windows8.1-kb4540725-x64_d855cbd2dbffee6bdcf9688a29d24308dad12afa.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -461,15 +479,6 @@
 			<url>https://dl.dropboxusercontent.com/s/hw4ueqgrsoby6ix/Windows8.1-KB3047280-v3-x64.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB3091402</kb>
-			<date>2015/10/06</date>
-			<size>1.00 KB</size>
-			<category>Extra/RSAT/Updates</category>
-			<name>Windows8.1-KB3091402-v4-x64.txt</name>
-			<description>Site-to-site VPN goes down when you set a VNet-to-VNet connection in Azure</description>
-			<url>https://dl.dropboxusercontent.com/s/ze828dtpw3ltpl1/Windows8.1-KB3091402-v4-x64.txt</url>
-		</update>
-		<update extract="0">
 			<kb>KB3092002</kb>
 			<date>2015/11/04</date>
 			<size>507 KB</size>
@@ -513,6 +522,15 @@
 			<name>NET48-LangPacks.txt</name>
 			<description>Microsoft .NET Framework 4.8 Languages Packs</description>
 			<url>https://dl.dropboxusercontent.com/s/7ah9beu58opuk2x/NET48-LangPacks.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB4072650</kb>
+			<date>2019/08/10</date>
+			<size>742 KB</size>
+			<category>General</category>
+			<name>Windows6.2-HyperVIntegrationServices-x64.cab</name>
+			<description>Hyper-V guest integration components</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2019/09/windows6.2-hypervintegrationservices-x64_3697c79f462f756d8beba62a34e313f7f59d5c18.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2899189</kb>
@@ -1145,15 +1163,6 @@
 			<url>http://download.microsoft.com/download/6/6/2/66247887-F62A-4FB7-A14F-AC73B7E63DD8/Windows8.1-KB3140219-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3140222</kb>
-			<date>2016/02/03</date>
-			<size>1.41 MB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3140222-x64.msu</name>
-			<description>Conflicting files on the desktop when Work Folders are installed</description>
-			<url>http://download.microsoft.com/download/8/8/C/88C5876B-1B87-4AD8-9FDC-E7C9673A9760/Windows8.1-KB3140222-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3140234</kb>
 			<date>2016/02/02</date>
 			<size>253 KB</size>
@@ -1271,15 +1280,6 @@
 			<url>http://download.microsoft.com/download/A/5/6/A5651A53-2487-43C6-835A-744EB9C72579/Windows8.1-KB917607-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4021918</kb>
-			<date>2017/05/06</date>
-			<size>756 KB</size>
-			<category>Hotfix</category>
-			<name>windows6.2-hypervintegrationservices-x64.cab</name>
-			<description>June 2017 Hyper-V guest integration components</description>
-			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/windows6.2-hypervintegrationservices-x64.cab</url>
-		</update>
-		<update extract="0">
 			<kb>KB2908802</kb>
 			<date>2015/01/28</date>
 			<size>325 KB</size>
@@ -1359,15 +1359,6 @@
 			<name>Windows8.1-KB3019274-x64.msu</name>
 			<description>L3 cache size is reported incorrectly from WMI interface in Windows</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/01/windows8.1-kb3019274-x64_4d770332e4a2f6197f01fc2c86b5de968b5081b9.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3022752</kb>
-			<date>2014/12/03</date>
-			<size>409 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3022752-x64.msu</name>
-			<description>A custom authentication package causes an error on a computer that is running Windows 8.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/03/windows8.1-kb3022752-x64_0b29257efe9c7e31510148f03e3ae11f527e66ed.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3022776</kb>
@@ -1467,15 +1458,6 @@
 			<name>Windows8.1-KB3038022-x64.msu</name>
 			<description>Background download of files cannot be resumed when the network connectivity is poor</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/03/windows8.1-kb3038022-x64_d880d509957551f1ed16759a168129246b0f2c90.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3039095</kb>
-			<date>2015/02/18</date>
-			<size>3.61 MB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3039095-v2-x64.msu</name>
-			<description>Update adds user name information to Directory Services event ID 1644</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/04/windows8.1-kb3039095-v2-x64_e011f1e0cb9a8aa1e7a836efe7b5c1cb6691799a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3040017</kb>
@@ -1658,15 +1640,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/09/windows8.1-kb3087856-x64_fba2908017c10dd9076cd1d4aaf433851d7d32d3.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3091402</kb>
-			<date>2015/10/06</date>
-			<size>7.68 MB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3091402-v4-x64.msu</name>
-			<description>Site-to-site VPN goes down when you set a VNet-to-VNet connection in Azure</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/10/windows8.1-kb3091402-v4-x64_e25cbb7323cd7ad93ad316e5f68c6eb5de312525.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3102770</kb>
 			<date>2015/10/09</date>
 			<size>1.10 MB</size>
@@ -1692,15 +1665,6 @@
 			<name>Windows8.1-KB3114025-v2-x64.msu</name>
 			<description>Slow performance when you access Azure files storage</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2015/12/windows8.1-kb3114025-v2-x64_6e3240554f9d6d03e9288a79c901446c730bbc9f.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3116302</kb>
-			<date>2015/11/11</date>
-			<size>564 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3116302-x64.msu</name>
-			<description>Throttling policy is ignored for BITS traffic</description>
-			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB3116302-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080149</kb>
@@ -1845,15 +1809,6 @@
 			<name>Windows8.1-KB3076949-x64.msu</name>
 			<description>Vulnerability in WebDAV could allow security feature bypass: August 11, 2015</description>
 			<url>http://download.microsoft.com/download/8/2/6/8265AA6F-6A9A-47C3-AD8A-E8EB56A46BF1/Windows8.1-KB3076949-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3082089</kb>
-			<date>2015/07/22</date>
-			<size>3.15 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3082089-x64.msu</name>
-			<description>Security update for Windows Task Management: September 8, 2015</description>
-			<url>http://download.microsoft.com/download/F/9/6/F9679A59-BFE8-46AA-A490-40A70F5E25C5/Windows8.1-KB3082089-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3084135</kb>
@@ -2027,6 +1982,15 @@
 			<url>http://download.microsoft.com/download/E/B/1/EB1EA564-1F6C-4132-AEA0-D195B634A4FA/Windows8.1-KB3164294-x64.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB3172729</kb>
+			<date>2016/07/12</date>
+			<size>265 KB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB3172729-x64.msu</name>
+			<description>Security update for Secure Boot: August 9, 2016</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/07/windows8.1-kb3172729-x64_e8003822a7ef4705cbb65623b72fd3cec73fe222.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB3175024</kb>
 			<date>2016/08/13</date>
 			<size>12.25 MB</size>
@@ -2072,15 +2036,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x64_bbaadf6e2537a54b7b277ab8349dfd1b7aa354c8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4502496</kb>
-			<date>2019/09/27</date>
-			<size>254 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4502496-x64.msu</name>
-			<description>Security update for Secure Boot: February 11, 2020</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/11/windows8.1-kb4502496-x64_6e8a963a02a26ac881c628850388d0656b699d16.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4532940</kb>
 			<date>2019/12/09</date>
 			<size>46.86 MB</size>
@@ -2088,15 +2043,6 @@
 			<name>Windows8.1-KB4532940-x64-NDP48.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.8</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows8.1-kb4532940-x64-ndp48_b164c0866b33386501825e2fc1f6c5c5beee6351.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4534134</kb>
-			<date>2019/12/12</date>
-			<size>50.25 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4534134-x64-NDP48.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/01/windows8.1-kb4534134-x64-ndp48_27d3279ff288f81e231595aef292aef719a46b14.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4537759</kb>
@@ -2108,13 +2054,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/02/windows8.1-kb4537759-x64_66639036124d1985c7d43abca195c84cca74df81.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4537821</kb>
-			<date>2020/02/06</date>
-			<size>497.54 MB</size>
+			<kb>KB4552933</kb>
+			<date>2020/04/01</date>
+			<size>50.62 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4537821-x64.msu</name>
+			<name>Windows8.1-KB4552933-x64-NDP48.msu</name>
+			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows8.1-kb4552933-x64-ndp48_f8d96573370923a6efd9c0ceb0b23ee0289e3551.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4556846</kb>
+			<date>2020/05/07</date>
+			<size>515.11 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4556846-x64.msu</name>
 			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows8.1-kb4537821-x64_26e968d5eb4c77b264aac60565290d2f5552778a.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/05/windows8.1-kb4556846-x64_639954ee7a25b5ca99ac6d3fb49fb5fe9a81b7db.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

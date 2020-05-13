@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/02/11" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/05/12" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -29,33 +29,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x86_d38ebe43baeabaef927675c7ff2295843f19a077.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4520724</kb>
-			<date>2019/10/14</date>
-			<size>5.31 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4520724-x86.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2019/11/windows10.0-kb4520724-x86_5909bf7b2440778b541741ea3eb0ba98758ced79.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4524244</kb>
-			<date>2019/11/01</date>
-			<size>217.62 KB</size>
-			<category>General/14393</category>
-			<name>windows10.0-kb4524244-x86_0fc1131bd49b13eb161b50f16a6698032c90308e.msu</name>
-			<description>UEFI Secure Boot Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/11/windows10.0-kb4524244-x86_0fc1131bd49b13eb161b50f16a6698032c90308e.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4534126</kb>
-			<date>2019/12/12</date>
-			<size>28.54 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4534126-x86-NDP48.msu</name>
-			<description>.NET Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4534126-x86-ndp48_a08cf06b03e7ee0c3836d89e7a1b6a99e76564c6.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4537759</kb>
 			<date>2020/02/03</date>
 			<size>10.21 MB</size>
@@ -65,13 +38,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/02/windows10.0-kb4537759-x86_2a049efdcd5ad33958751df87c329c008d689d14.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4537764</kb>
-			<date>2020/02/06</date>
-			<size>794.96 MB</size>
+			<kb>KB4550994</kb>
+			<date>2020/04/06</date>
+			<size>5.37 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4537764-x86.msu</name>
+			<name>Windows10.0-KB4550994-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/04/windows10.0-kb4550994-x86_408964f04443f12a5d3956886e029bef4f46ee0e.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4552926</kb>
+			<date>2020/04/30</date>
+			<size>29.15 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4552926-x86-NDP48.msu</name>
+			<description>.NET Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows10.0-kb4552926-x86-ndp48_e136f0b75612a2444e4cecc91fa7a1f3d08593ab.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4556813</kb>
+			<date>2020/05/06</date>
+			<size>790.84 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4556813-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4537764-x86_0bdc3439fb90d4d63bd30bb6e6e8db55f04ae61a.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/05/windows10.0-kb4556813-x86_c00956f0e8f9b1774e69f240069641f099209286.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -92,42 +83,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486153-x86_de1c8a0152b298f88ff42dc9114eabfa61d5e957.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4523204</kb>
-			<date>2019/10/14</date>
-			<size>6.13 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB4523204-x86.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/11/windows10.0-kb4523204-x86_f45d6a2ae49f82d3e99584b573d4ce27d61b78d4.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4524244</kb>
-			<date>2019/11/01</date>
-			<size>203.34 KB</size>
-			<category>General/17763</category>
-			<name>windows10.0-kb4524244-x86_30c6f962f445936f9a1c0e79721ae9dbb6a1e002.msu</name>
-			<description>UEFI Secure Boot Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2019/11/windows10.0-kb4524244-x86_30c6f962f445936f9a1c0e79721ae9dbb6a1e002.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4532691</kb>
-			<date>2020/02/09</date>
-			<size>132.24 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB4532691-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4532691-x86_797edb76a77d9b71b92a16e58860c7083ac667cb.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4534131</kb>
-			<date>2019/12/12</date>
-			<size>41.15 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB4534131-x86-NDP48.msu</name>
-			<description>.NET Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4534131-x86-ndp48_8c3c3b47ab865fcd2e3acf4f6d41d92aa45558a9.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4537759</kb>
 			<date>2020/02/03</date>
 			<size>10.21 MB</size>
@@ -137,31 +92,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4537759-x86_1a87187fce4ec1b24c5fbbd516a79c40fb8aaffa.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4524244</kb>
-			<date>2020/01/20</date>
-			<size>200.03 KB</size>
-			<category>General/18362</category>
-			<name>windows10.0-kb4524244-x86_b59d647ea530cbb088046652688a229de390ecd4.msu</name>
-			<description>UEFI Secure Boot Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows10.0-kb4524244-x86_b59d647ea530cbb088046652688a229de390ecd4.msu</url>
+			<kb>KB4549947</kb>
+			<date>2020/04/06</date>
+			<size>6.12 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB4549947-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/04/windows10.0-kb4549947-x86_76883e8e6c1f79903eb2a4d7c5781bc36c898242.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4532693</kb>
-			<date>2020/02/09</date>
-			<size>179.74 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB4532693-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4532693-x86_149a95ca991206cf8df78d172250c55fec5a4fad.msu</url>
+			<kb>KB4551853</kb>
+			<date>2020/05/06</date>
+			<size>158.41 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB4551853-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/05/windows10.0-kb4551853-x86_fec139352f76bc5f94fc69a4d6526edd2fb03dca.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4534132</kb>
-			<date>2019/12/12</date>
-			<size>39.66 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB4534132-x86-NDP48.msu</name>
-			<description>.NET Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/01/windows10.0-kb4534132-x86-ndp48_5ab41114b84fea9b1e39ec803e0b5f435af85f9f.msu</url>
+			<kb>KB4552930</kb>
+			<date>2020/04/30</date>
+			<size>42.22 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB4552930-x86-NDP48.msu</name>
+			<description>.NET Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows10.0-kb4552930-x86-ndp48_6621dc86e8750ebf9d6897d043efe814ca7d0c47.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4537759</kb>
@@ -173,13 +128,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/02/windows10.0-kb4537759-x86_7367e240a7c951e9c51360f393f147980d9d0013.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4538674</kb>
-			<date>2020/02/07</date>
-			<size>6.46 MB</size>
+			<kb>KB4552152</kb>
+			<date>2020/04/06</date>
+			<size>6.47 MB</size>
 			<category>General/18362</category>
-			<name>Windows10.0-KB4538674-x86.msu</name>
+			<name>Windows10.0-KB4552152-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4538674-x86_72edfc2887af04541831723799b45f4cbf4396a1.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/04/windows10.0-kb4552152-x86_847c06dada4f6b7e51aea651ddf391ec64de95bb.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4552931</kb>
+			<date>2020/04/30</date>
+			<size>40.25 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB4552931-x86.msu</name>
+			<description>.NET Cumulative Update for Windows 10 Version 1903</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows10.0-kb4552931-x86_696ac4919db380f27eea10b449108851c289fa73.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4556799</kb>
+			<date>2020/05/06</date>
+			<size>194.69 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB4556799-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1903</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/05/windows10.0-kb4556799-x86_c8e984567d449c7cd7ee245d3b5109d380d0f05e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4517245</kb>

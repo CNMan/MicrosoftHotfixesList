@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/02/07" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/05/12" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4287,7 +4287,7 @@
 		</update>
 		<update extract="0">
 			<kb>KB3125574</kb>
-			<date>2016/09/20</date>
+			<date>2020/02/25</date>
 			<size>3.00 KB</size>
 			<category>General</category>
 			<name>ConvenienceRollupKB3125574-Info.txt</name>
@@ -4421,6 +4421,15 @@
 			<url>http://download.microsoft.com/download/9/A/8/9A8FCFAA-78A0-49F5-8C8E-4EAE185F515C/Windows6.1-KB917607-x86.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4072650</kb>
+			<date>2019/08/10</date>
+			<size>593 KB</size>
+			<category>General</category>
+			<name>Windows6.x-HyperVIntegrationServices-x86.cab</name>
+			<description>Hyper-V guest integration components</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2019/09/windows6.x-hypervintegrationservices-x86_c932a3e047af5cc92e5bd5a29c3d82c04758a964.cab</url>
+		</update>
+		<update extract="0">
 			<kb>KB2695321</kb>
 			<date>2012/09/17</date>
 			<size>0.97 MB</size>
@@ -4511,15 +4520,6 @@
 			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2990184-v2-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4021918</kb>
-			<date>2017/05/06</date>
-			<size>606 KB</size>
-			<category>Hotfix</category>
-			<name>windows6.x-hypervintegrationservices-x86.cab</name>
-			<description>June 2017 Hyper-V guest integration components</description>
-			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/windows6.x-hypervintegrationservices-x86.cab</url>
-		</update>
-		<update extract="0">
 			<kb>KB3080149</kb>
 			<date>2016/10/20</date>
 			<size>3.00 KB</size>
@@ -4592,10 +4592,64 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4474419-v3-x86_0f687d50402790f340087c576886501b3223bec6.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB4444444</kb>
+			<date>2020/02/18</date>
+			<size>1.00 KB</size>
+			<category>Security/ESU</category>
+			<name>ExtendedSecurityUpdates-PleaseRead.txt</name>
+			<description>Info about Extended Security Updates</description>
+			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB4552921</kb>
+			<date>2020/04/29</date>
+			<size>23.52 MB</size>
+			<category>Security/ESU</category>
+			<name>ndp48-kb4552921-x86_608b67e4011b9e103ca18deadbfc013d1c328508.exe</name>
+			<description>Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/ndp48-kb4552921-x86_608b67e4011b9e103ca18deadbfc013d1c328508.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4538483</kb>
+			<date>2020/05/01</date>
+			<size>3.42 MB</size>
+			<category>Security/ESU</category>
+			<name>windows6.1-kb4538483-x86_f77ee698928fb42232b70b01f53a4c5f68553323.msu</name>
+			<description>Extended Security Updates (ESU) Licensing Preparation Package</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows6.1-kb4538483-x86_f77ee698928fb42232b70b01f53a4c5f68553323.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4552940</kb>
+			<date>2020/04/16</date>
+			<size>16.46 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB4552940-x86.msu</name>
+			<description>2020-05 Security and Quality Rollup for .NET Framework 3.5.1</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows6.1-kb4552940-x86_cce3fcfb1a011dfbabe36dc6f379bb5797a7874a.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4555449</kb>
+			<date>2020/04/27</date>
+			<size>4.02 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB4555449-x86.msu</name>
+			<description>2020-05 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/04/windows6.1-kb4555449-x86_36683b4af68408ed268246ee3e89772665572471.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4556836</kb>
+			<date>2020/05/07</date>
+			<size>221.26 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB4556836-x86.msu</name>
+			<description>2020-05 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows6.1-kb4538483-x86_f77ee698928fb42232b70b01f53a4c5f68553323.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB4532945</kb>
 			<date>2019/12/10</date>
 			<size>16.22 MB</size>
-			<category>Security</category>
+			<category>Security/WithoutESU</category>
 			<name>Windows6.1-KB4532945-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 3.5.1</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4532945-x86_0438d1eece17622a078b0d08dd6e812a67a09f37.msu</url>
@@ -4604,7 +4658,7 @@
 			<kb>KB4534310</kb>
 			<date>2020/01/07</date>
 			<size>205.17 MB</size>
-			<category>Security</category>
+			<category>Security/WithoutESU</category>
 			<name>Windows6.1-KB4534310-x86.msu</name>
 			<description>Security Monthly Quality Rollup</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4534310-x86_887a5caab59437e8f23aa5a4608950455bb37537.msu</url>
@@ -4613,16 +4667,16 @@
 			<kb>KB4536952</kb>
 			<date>2020/01/02</date>
 			<size>4.02 MB</size>
-			<category>Security</category>
+			<category>Security/WithoutESU</category>
 			<name>Windows6.1-KB4536952-x86.msu</name>
-			<description>Servicing stack update: December 2019</description>
+			<description>Servicing stack update: January 2020</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows6.1-kb4536952-x86_f3b49481187651f64f13a0369c86ad7caa83b190.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4539602</kb>
 			<date>2020/01/30</date>
 			<size>29.20 MB</size>
-			<category>Security</category>
+			<category>Security/WithoutESU</category>
 			<name>Windows6.1-KB4539602-x86.msu</name>
 			<description>Security Only Update: January 31, 2020</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows6.1-kb4539602-x86_88331dcdecd5f05d23921d1dc26cf5715099a927.msu</url>
