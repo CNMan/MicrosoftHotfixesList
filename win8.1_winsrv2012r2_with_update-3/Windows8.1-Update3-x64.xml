@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/05/12" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/07/14" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -200,22 +200,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2018/01/windows8.1-kb4054999-x64_f556f8b785508499cc63e684fe51a6764f8e3993.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4532946</kb>
-			<date>2019/12/08</date>
-			<size>23.68 MB</size>
+			<kb>KB4565613</kb>
+			<date>2020/06/19</date>
+			<size>24.72 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4532946-x64.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows8.1-kb4532946-x64_c379da890c7a3d4aff8d02fe9042324f07ded655.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4552982</kb>
-			<date>2020/03/29</date>
-			<size>24.60 MB</size>
-			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4552982-x64.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows8.1-kb4552982-x64_2c815e589c5758651ae3a917fcb6e8e868ee3612.msu</url>
+			<name>Windows8.1-KB4565613-v2-x64.msu</name>
+			<description>2020-07 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows8.1-kb4565613-v2-x64_9f36b4d9f4ae44988a5407dc9e56eb7471fa094e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -317,6 +308,15 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/01/windows8.1-kb3004545-x64_462ce6dbcf30b8907bf1f742961661ba1b4a6412.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB3030947</kb>
+			<date>2015/02/03</date>
+			<size>4.03 MB</size>
+			<category>Additional/WU.Satisfy</category>
+			<name>Windows8.1-KB3030947-x64.msu</name>
+			<description>Memory code layout / Superseded by KB3061512 + Monthly Quality Rollup</description>
+			<url>http://download.microsoft.com/download/C/6/A/C6ACC123-372D-4CC1-BC3A-F63576CF089F/Windows8.1-KB3030947-x64.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB3038936</kb>
 			<date>2015/07/07</date>
 			<size>5.06 MB</size>
@@ -398,13 +398,13 @@
 			<url>http://download.microsoft.com/download/6/1/5/615B8D87-A02C-485E-B9B5-D6F4AEB52D78/Windows8.1-KB3021910-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4540725</kb>
-			<date>2020/02/18</date>
-			<size>10.52 MB</size>
+			<kb>KB4566425</kb>
+			<date>2020/06/11</date>
+			<size>10.49 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB4540725-x64.msu</name>
-			<description>2020-03 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/03/windows8.1-kb4540725-x64_d855cbd2dbffee6bdcf9688a29d24308dad12afa.msu</url>
+			<name>Windows8.1-KB4566425-x64.msu</name>
+			<description>2020-07 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows8.1-kb4566425-x64_243a8843ec4f888de71d0a94ec3deaf4e345f7a5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -720,15 +720,6 @@
 			<name>Windows8.1-KB3029606-v2-x64.msu</name>
 			<description>Update to improve Bluetooth driver diagnosis in Windows 8.1</description>
 			<url>http://download.microsoft.com/download/E/7/7/E7756E32-F4DC-4D6A-92C7-205A23647454/Windows8.1-KB3029606-v2-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3030947</kb>
-			<date>2015/02/03</date>
-			<size>4.03 MB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3030947-x64.msu</name>
-			<description>Compatibility issues for applications that rely on a certain code layout for memory in Windows</description>
-			<url>http://download.microsoft.com/download/C/6/A/C6ACC123-372D-4CC1-BC3A-F63576CF089F/Windows8.1-KB3030947-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3031044</kb>
@@ -1730,15 +1721,6 @@
 			<url>http://download.microsoft.com/download/5/4/0/5403A620-82F1-433A-8CEE-CDA395278BA4/Windows8.1-KB3045685-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3045755</kb>
-			<date>2015/03/13</date>
-			<size>396 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3045755-x64.msu</name>
-			<description>Security update to improve PKU2U authentication</description>
-			<url>http://download.microsoft.com/download/2/4/F/24F09D03-B847-4F6B-9F3F-79FC91CA6367/Windows8.1-KB3045755-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3045999</kb>
 			<date>2015/03/23</date>
 			<size>5.83 MB</size>
@@ -2036,40 +2018,31 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x64_bbaadf6e2537a54b7b277ab8349dfd1b7aa354c8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4532940</kb>
-			<date>2019/12/09</date>
-			<size>46.86 MB</size>
+			<kb>KB4561600</kb>
+			<date>2020/06/01</date>
+			<size>21.24 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4532940-x64-NDP48.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/01/windows8.1-kb4532940-x64-ndp48_b164c0866b33386501825e2fc1f6c5c5beee6351.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4537759</kb>
-			<date>2020/02/03</date>
-			<size>20.90 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4537759-x64.msu</name>
+			<name>Windows8.1-KB4561600-x64.msu</name>
 			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/02/windows8.1-kb4537759-x64_66639036124d1985c7d43abca195c84cca74df81.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/06/windows8.1-kb4561600-x64_6b71a7bf207cb6c08c767b92875d38fc2ef53d41.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4552933</kb>
-			<date>2020/04/01</date>
-			<size>50.62 MB</size>
+			<kb>KB4565541</kb>
+			<date>2020/07/09</date>
+			<size>520.64 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4552933-x64-NDP48.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows8.1-kb4552933-x64-ndp48_f8d96573370923a6efd9c0ceb0b23ee0289e3551.msu</url>
+			<name>Windows8.1-KB4565541-x64.msu</name>
+			<description>2020-07 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows8.1-kb4565541-x64_0df4ae25c382b5337fc592254a266652118ba360.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4556846</kb>
-			<date>2020/05/07</date>
-			<size>515.11 MB</size>
+			<kb>KB4565635</kb>
+			<date>2020/06/08</date>
+			<size>50.76 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4556846-x64.msu</name>
-			<description>Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/05/windows8.1-kb4556846-x64_639954ee7a25b5ca99ac6d3fb49fb5fe9a81b7db.msu</url>
+			<name>Windows8.1-KB4565635-x64-NDP48.msu</name>
+			<description>2020-07 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows8.1-kb4565635-x64-ndp48_ab3b4902fb7e47980b36166c03cce27e0c4a4c1e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

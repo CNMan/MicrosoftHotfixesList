@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/05/12" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/07/31" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -29,40 +29,40 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x64_0b61d9a03db731562e0a0b49383342a4d8cbe36a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4537759</kb>
-			<date>2020/02/03</date>
-			<size>20.89 MB</size>
+			<kb>KB4561600</kb>
+			<date>2020/06/01</date>
+			<size>21.24 MB</size>
 			<category>General/14393</category>
-			<name>windows10.0-kb4537759-x64_82e5dabbc75154e02491f324cc06ac906fb8c053.msu</name>
+			<name>windows10.0-kb4561600-x64_bdc2748cbbc1578453eee78cf08b07ce8d005abe.msu</name>
 			<description>Adobe Flash Player Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/02/windows10.0-kb4537759-x64_82e5dabbc75154e02491f324cc06ac906fb8c053.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/06/windows10.0-kb4561600-x64_bdc2748cbbc1578453eee78cf08b07ce8d005abe.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4550994</kb>
-			<date>2020/04/06</date>
-			<size>11.71 MB</size>
+			<kb>KB4565511</kb>
+			<date>2020/07/08</date>
+			<size>1.55 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4550994-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/04/windows10.0-kb4550994-x64_1df8a8ea245041495f3b219fb22f3849908d8e27.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4552926</kb>
-			<date>2020/04/30</date>
-			<size>50.94 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4552926-x64-NDP48.msu</name>
-			<description>.NET Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows10.0-kb4552926-x64-ndp48_3aeb81a5f71e515f6eda4508e575d13d0a58305b.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4556813</kb>
-			<date>2020/05/06</date>
-			<size>1.39 GB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4556813-x64.msu</name>
+			<name>Windows10.0-KB4565511-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/05/windows10.0-kb4556813-x64_074956aa9f895643ea0768d516375d4a1cd732a2.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows10.0-kb4565511-x64_5d2481cbc9319147ad3c8f42e07a0ee182909be9.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4565628</kb>
+			<date>2020/06/30</date>
+			<size>51.08 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4565628-x64-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/06/windows10.0-kb4565628-x64-ndp48_2b568c83ef9452555a34eca2b154adeca0e250a7.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4565912</kb>
+			<date>2020/07/06</date>
+			<size>11.52 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4565912-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows10.0-kb4565912-x64_19eae0b34464284e4a96f9209e4ed7cd146d5a1e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -83,76 +83,76 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486153-x64_43ee33b302bfdba470542a128a9ee0b58faa5412.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4537759</kb>
-			<date>2020/02/03</date>
-			<size>20.89 MB</size>
+			<kb>KB4558997</kb>
+			<date>2020/07/06</date>
+			<size>13.61 MB</size>
 			<category>General/17763</category>
-			<name>windows10.0-kb4537759-x64_0ae42b59972fe0f14dd9696017e780948cc3600b.msu</name>
-			<description>Adobe Flash Player Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4537759-x64_0ae42b59972fe0f14dd9696017e780948cc3600b.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4549947</kb>
-			<date>2020/04/06</date>
-			<size>13.59 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB4549947-x64.msu</name>
+			<name>Windows10.0-KB4558997-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/04/windows10.0-kb4549947-x64_5e69903a9d0b0323bb0eb81bf361fe0bc1700b75.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows10.0-kb4558997-x64_9c9a7137d609ef46898bba95e204e6c867a9aa12.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4551853</kb>
-			<date>2020/05/06</date>
-			<size>324.74 MB</size>
+			<kb>KB4559003</kb>
+			<date>2020/07/13</date>
+			<size>336.42 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4551853-x64.msu</name>
+			<name>Windows10.0-KB4559003-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/05/windows10.0-kb4551853-x64_ce1ea7def481ee2eb8bba6db49ddb42e45cba54f.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/07/windows10.0-kb4559003-x64_00929084421dfd5298fe475f80d38308783dd376.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4552930</kb>
-			<date>2020/04/30</date>
-			<size>74.01 MB</size>
+			<kb>KB4561600</kb>
+			<date>2020/06/01</date>
+			<size>21.24 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4552930-x64-NDP48.msu</name>
-			<description>.NET Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows10.0-kb4552930-x64-ndp48_3fb9f9a7b72e49707c8c49b4febc171411eca05f.msu</url>
+			<name>windows10.0-kb4561600-x64_00504a2c48850e3897caa5f9f9527881e87af0dd.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/06/windows10.0-kb4561600-x64_00504a2c48850e3897caa5f9f9527881e87af0dd.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4537759</kb>
-			<date>2020/02/03</date>
-			<size>20.90 MB</size>
-			<category>General/18362</category>
-			<name>windows10.0-kb4537759-x64_ea293539b86301f3c89abbae0d4cc70060d00848.msu</name>
-			<description>Adobe Flash Player Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/02/windows10.0-kb4537759-x64_ea293539b86301f3c89abbae0d4cc70060d00848.msu</url>
+			<kb>KB4562901</kb>
+			<date>2020/07/13</date>
+			<size>76.79 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB4562901-x64-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/07/windows10.0-kb4562901-x64-ndp48_632aad037dc2ed46feb650d0b5c9a613da469220.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4552152</kb>
-			<date>2020/04/06</date>
-			<size>14.38 MB</size>
+			<kb>KB4559004</kb>
+			<date>2020/07/20</date>
+			<size>389.88 MB</size>
 			<category>General/18362</category>
-			<name>Windows10.0-KB4552152-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/04/windows10.0-kb4552152-x64_705fda69935538eab5054d9d616e1761742816ec.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4552931</kb>
-			<date>2020/04/30</date>
-			<size>69.69 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB4552931-x64.msu</name>
-			<description>.NET Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows10.0-kb4552931-x64_2db4f6d9a62833406875986aae69351f82f3ca2b.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4556799</kb>
-			<date>2020/05/06</date>
-			<size>367.19 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB4556799-x64.msu</name>
+			<name>Windows10.0-KB4559004-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows10.0-kb4556799-x64_9de920d8738612baa81a751b003ff98f0ce7156b.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/07/windows10.0-kb4559004-x64_6f8e99693cf7c08771de7b1d49ceb56c90550391.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4561600</kb>
+			<date>2020/06/01</date>
+			<size>21.25 MB</size>
+			<category>General/18362</category>
+			<name>windows10.0-kb4561600-x64_a4b791e4fcc808a1ecd7b3d051fc0e4113789ef2.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 1903</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows10.0-kb4561600-x64_a4b791e4fcc808a1ecd7b3d051fc0e4113789ef2.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4562900</kb>
+			<date>2020/07/13</date>
+			<size>74.16 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB4562900-x64-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Version 1903</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/07/windows10.0-kb4562900-x64-ndp48_ded1605ba5eb962e7df492509cc87b2ad4f4beae.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4565554</kb>
+			<date>2020/07/06</date>
+			<size>14.35 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB4565554-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1903</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows10.0-kb4565554-x64_bf1b44fea6244a8642f16b84808105e9d7e1769f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4517245</kb>
@@ -162,6 +162,42 @@
 			<name>Windows10.0-KB4517245-x64.cab</name>
 			<description>Feature Update to Windows 10 Version 1909 via Enablement Package</description>
 			<url>http://b1.download.windowsupdate.com/d/upgr/2019/11/windows10.0-kb4517245-x64_4250e1db7bc9468236c967c2c15f04b755b3d3a9.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB4561600</kb>
+			<date>2020/06/01</date>
+			<size>21.25 MB</size>
+			<category>General/19041</category>
+			<name>windows10.0-kb4561600-x64_c1b68e8ebc584fba22606561477bfd8d6ca553d6.msu</name>
+			<description>Adobe Flash Player Update for Windows 10 Version 2004</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/06/windows10.0-kb4561600-x64_c1b68e8ebc584fba22606561477bfd8d6ca553d6.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4562899</kb>
+			<date>2020/07/13</date>
+			<size>62.80 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB4562899-x64-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Version 2004</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/07/windows10.0-kb4562899-x64-ndp48_db297b4cec0e98a979acc9bf67bff5ebda8a8b32.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4566785</kb>
+			<date>2020/07/06</date>
+			<size>14.51 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB4566785-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 2004</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows10.0-kb4566785-x64_f70d62d77582f5fb67d9177f82714f49c83f5892.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4568831</kb>
+			<date>2020/07/28</date>
+			<size>314.29 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB4568831-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 2004</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/07/windows10.0-kb4568831-x64_2473e61863aea494b66aa6695cde9f48efbd502e.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

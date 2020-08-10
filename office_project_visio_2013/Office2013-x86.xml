@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/05/12" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/07/14" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4462210</kb>
@@ -92,22 +92,13 @@
 			<url>http://download.microsoft.com/download/A/5/8/A588276E-D83D-4B67-A60A-3CEA9F67B191/eqnedt322013-kb4011580-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484283</kb>
-			<date>2020/03/27</date>
+			<kb>KB4484410</kb>
+			<date>2020/05/26</date>
 			<size>90.10 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb4484283-fullfile-x86-glb.exe</name>
+			<name>excel2013-kb4484410-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/b/a/c/bacdde49-0fe6-473c-a789-f58973f45f89/excel2013-kb4484283-fullfile-x86-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4484365</kb>
-			<date>2020/04/20</date>
-			<size>90.10 MB</size>
-			<category>Security</category>
-			<name>excel2013-kb4484365-fullfile-x86-glb.exe</name>
-			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/d/9/3/d93b7035-a1a4-4095-a808-f9260e5bfe05/excel2013-kb4484365-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/c/5/2c5e25e0-b06a-4dca-afb1-41543fae0b7a/excel2013-kb4484410-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -227,15 +218,6 @@
 			<url>http://download.microsoft.com/download/5/3/9/539C1AFF-E693-47F5-B731-4444A7309BB9/ipeditor2013-kb4022181-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484097</kb>
-			<date>2020/02/24</date>
-			<size>95.16 MB</size>
-			<category>General</category>
-			<name>lync2013-kb4484097-fullfile-x86-glb.exe</name>
-			<description>Microsoft Skype for Business 2015</description>
-			<url>http://download.microsoft.com/download/9/9/0/99037207-580a-48ab-925d-2ea19e58f840/lync2013-kb4484097-fullfile-x86-glb.exe</url>
-		</update>
-		<update extract="0">
 			<kb>KB4484289</kb>
 			<date>2020/04/20</date>
 			<size>95.13 MB</size>
@@ -281,13 +263,13 @@
 			<url>http://download.microsoft.com/download/6/9/5/6955ECA7-6A0C-428A-A298-6B6FE9291537/msmipc2013-kb3172523-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484117</kb>
-			<date>2020/03/27</date>
-			<size>153.67 MB</size>
-			<category>Security</category>
-			<name>mso2013-kb4484117-fullfile-x86-glb.exe</name>
+			<kb>KB4484442</kb>
+			<date>2020/06/30</date>
+			<size>153.70 MB</size>
+			<category>General</category>
+			<name>mso2013-kb4484442-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/b/0/e/b0ef02af-8e6d-4eb3-8745-5813605afd1e/mso2013-kb4484117-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/c/3/8/c38077e5-c2b1-40d0-a28c-d79ace98b734/mso2013-kb4484442-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172522</kb>
@@ -470,13 +452,13 @@
 			<url>http://download.microsoft.com/download/0/A/2/0A23AFBE-375F-4262-AADD-188782E4DA8F/outlfltr2013-kb3115404-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484281</kb>
-			<date>2020/03/27</date>
-			<size>88.80 MB</size>
+			<kb>KB4484363</kb>
+			<date>2020/07/01</date>
+			<size>88.79 MB</size>
 			<category>Security</category>
-			<name>outlook2013-kb4484281-fullfile-x86-glb.exe</name>
+			<name>outlook2013-kb4484363-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>http://download.microsoft.com/download/4/4/a/44ab121e-014b-4a37-b963-e333a5eecf44/outlook2013-kb4484281-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/b/c/8bc0659b-0395-482b-9d20-fe14054f346f/outlook2013-kb4484363-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>
@@ -488,13 +470,13 @@
 			<url>http://download.microsoft.com/download/6/C/B/6CBAA1F1-6863-4176-9000-D3D3DB0004F1/peopledata2013-kb3039766-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484226</kb>
-			<date>2020/03/27</date>
-			<size>51.58 MB</size>
-			<category>Security</category>
-			<name>powerpoint2013-kb4484226-fullfile-x86-glb.exe</name>
+			<kb>KB4484349</kb>
+			<date>2020/06/30</date>
+			<size>51.42 MB</size>
+			<category>General</category>
+			<name>powerpoint2013-kb4484349-fullfile-x86-glb.exe</name>
 			<description>Microsoft PowerPoint 2013</description>
-			<url>http://download.microsoft.com/download/e/f/c/efc9a0c4-aaa0-4fa5-8fe2-475403973d67/powerpoint2013-kb4484226-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/7/1/0/7105ab7f-1131-4a31-add5-d9bb6c8c1138/powerpoint2013-kb4484349-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213536</kb>
@@ -506,13 +488,13 @@
 			<url>http://download.microsoft.com/download/0/D/A/0DA57350-C742-45B9-A475-C07907BC0D7F/ppaddin2013-kb3213536-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484125</kb>
-			<date>2020/03/27</date>
-			<size>30.88 MB</size>
+			<kb>KB4484450</kb>
+			<date>2020/07/01</date>
+			<size>30.89 MB</size>
 			<category>Security</category>
-			<name>project2013-kb4484125-fullfile-x86-glb.exe</name>
+			<name>project2013-kb4484450-fullfile-x86-glb.exe</name>
 			<description>Microsoft Project 2013</description>
-			<url>http://download.microsoft.com/download/c/1/7/c174162e-4d15-4f58-bdb7-78b2c1a051fa/project2013-kb4484125-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/4/4/4/444ab680-e45f-4c16-b81e-0f766da85b8b/project2013-kb4484450-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011677</kb>
@@ -569,22 +551,13 @@
 			<url>http://download.microsoft.com/download/C/1/A/C1A82F72-2DAE-4A19-95BB-B7A1A3126E69/stslist2013-kb3172473-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB2986208</kb>
-			<date>2020/05/05</date>
+			<kb>KB4484356</kb>
+			<date>2020/05/26</date>
 			<size>3.54 MB</size>
 			<category>General</category>
-			<name>vbe72013-kb2986208-fullfile-x86-glb.exe</name>
+			<name>vbe72013-kb4484356-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Visual Basic for Applications)</description>
-			<url>http://download.microsoft.com/download/9/6/3/963ef761-3714-4bd2-b6c7-9479271bdda8/vbe72013-kb2986208-fullfile-x86-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4011104</kb>
-			<date>2020/03/27</date>
-			<size>3.54 MB</size>
-			<category>Security</category>
-			<name>vbe72013-kb4011104-fullfile-x86-glb.exe</name>
-			<description>Microsoft Office 2013 (Visual Basic for Applications)</description>
-			<url>http://download.microsoft.com/download/5/6/5/565ea64d-da74-4a64-8d1c-396bbd9e2d48/vbe72013-kb4011104-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/7/b/07be9b6e-557b-4561-a428-18ea4a085be0/vbe72013-kb4484356-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054828</kb>
@@ -623,13 +596,13 @@
 			<url>http://download.microsoft.com/download/1/6/E/16E6EBD1-B8D4-4BC7-838A-E8B75C3A9401/wec2013-kb3172533-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484319</kb>
-			<date>2020/03/27</date>
-			<size>163.20 MB</size>
+			<kb>KB4484446</kb>
+			<date>2020/07/01</date>
+			<size>163.14 MB</size>
 			<category>Security</category>
-			<name>word2013-kb4484319-fullfile-x86-glb.exe</name>
+			<name>word2013-kb4484446-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>http://download.microsoft.com/download/d/7/d/d7d29499-473b-4d12-b986-90af30030014/word2013-kb4484319-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/7/7/5/77594c2d-3195-45e4-95f0-752781920e0f/word2013-kb4484446-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>
