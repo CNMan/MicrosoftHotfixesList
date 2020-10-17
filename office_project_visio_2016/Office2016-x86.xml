@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/07/14" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/10/13" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
-			<kb>KB4484167</kb>
-			<date>2020/03/24</date>
+			<kb>KB4484340</kb>
+			<date>2020/07/29</date>
 			<size>18.33 MB</size>
 			<category>Security</category>
-			<name>access2016-kb4484167-fullfile-x86-glb.exe</name>
+			<name>access2016-kb4484340-fullfile-x86-glb.exe</name>
 			<description>Microsoft Access 2016</description>
-			<url>http://download.microsoft.com/download/9/4/6/94649d5a-1ea2-4881-b7f0-35e4edbc389d/access2016-kb4484167-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/4/3/2/432945bc-0430-4e14-9fb2-2a8d6ff77988/access2016-kb4484340-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484394</kb>
-			<date>2020/05/26</date>
-			<size>3.66 MB</size>
-			<category>General</category>
-			<name>ace2016-kb4484394-fullfile-x86-glb.exe</name>
+			<kb>KB4484431</kb>
+			<date>2020/07/29</date>
+			<size>3.67 MB</size>
+			<category>Security</category>
+			<name>ace2016-kb4484431-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/8/6/f/86ff88b6-ccdc-40e3-8442-e60ef7a9f185/ace2016-kb4484394-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/a/4/6/a46190d6-8ed2-4cec-8444-2ffb1d5458ad/ace2016-kb4484431-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011259</kb>
@@ -83,13 +83,13 @@
 			<url>http://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484437</kb>
-			<date>2020/06/30</date>
-			<size>128.30 MB</size>
-			<category>General</category>
-			<name>excel2016-kb4484437-fullfile-x86-glb.exe</name>
+			<kb>KB4486678</kb>
+			<date>2020/09/30</date>
+			<size>128.31 MB</size>
+			<category>Security</category>
+			<name>excel2016-kb4486678-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>http://download.microsoft.com/download/7/3/0/73012c33-439e-4838-85b1-f1afe8f724ef/excel2016-kb4484437-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/f/c/a/fcab1c7b-24a2-4f3c-8d38-c61b0aeff782/excel2016-kb4486678-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -110,13 +110,13 @@
 			<url>http://download.microsoft.com/download/D/E/E/DEE029FA-B808-4316-AEE0-2A950B024990/exppdf2016-kb2920720-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3114528</kb>
-			<date>2019/07/17</date>
-			<size>7.98 MB</size>
+			<kb>KB4475584</kb>
+			<date>2020/09/30</date>
+			<size>7.94 MB</size>
 			<category>General</category>
-			<name>filterpack2016-kb3114528-fullfile-x86-glb.exe</name>
+			<name>filterpack2016-kb4475584-fullfile-x86-glb.exe</name>
 			<description>Microsoft Filter Pack 2.0</description>
-			<url>http://download.microsoft.com/download/4/B/A/4BA6986D-4D53-438E-AA76-C980CBD6B5E0/filterpack2016-kb3114528-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/e/7/d/e7d0d916-f8ce-411f-a525-43eb8a5567fb/filterpack2016-kb4475584-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114903</kb>
@@ -137,13 +137,13 @@
 			<url>http://download.microsoft.com/download/5/0/3/503C678A-FC9B-433C-BD93-4ECD55B3A295/gkall2016-kb3115276-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484258</kb>
-			<date>2020/03/24</date>
+			<kb>KB4486682</kb>
+			<date>2020/09/30</date>
 			<size>3.31 MB</size>
 			<category>Security</category>
-			<name>graph2016-kb4484258-fullfile-x86-glb.exe</name>
+			<name>graph2016-kb4486682-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/9/f/b/9fba854a-cedd-4baf-b4c3-c07ecc144365/graph2016-kb4484258-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/b/8/0b8ed9fa-495d-455d-ba05-7ed7f19336cc/graph2016-kb4486682-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022219</kb>
@@ -173,13 +173,13 @@
 			<url>http://download.microsoft.com/download/F/2/F/F2F098E4-E25C-4F2D-A11B-B29F37512AC9/kohhc2016-kb3191929-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484326</kb>
-			<date>2020/06/30</date>
-			<size>84.20 MB</size>
+			<kb>KB4486669</kb>
+			<date>2020/09/30</date>
+			<size>84.14 MB</size>
 			<category>General</category>
-			<name>lync2016-kb4484326-fullfile-x86-glb.exe</name>
+			<name>lync2016-kb4486669-fullfile-x86-glb.exe</name>
 			<description>Microsoft Skype for Business 2016</description>
-			<url>http://download.microsoft.com/download/5/0/5/50554216-405b-4dca-bab9-4283e2fb2542/lync2016-kb4484326-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/f/8/9f899601-37a8-4976-a984-c16a6998e474/lync2016-kb4486669-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2920727</kb>
@@ -200,22 +200,22 @@
 			<url>http://download.microsoft.com/download/1/7/7/17728583-D4F3-4EF4-99D3-7B4BA5BF2395/msmipc2016-kb3178666-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484439</kb>
-			<date>2020/06/30</date>
-			<size>128.02 MB</size>
-			<category>General</category>
-			<name>mso2016-kb4484439-fullfile-x86-glb.exe</name>
+			<kb>KB4484466</kb>
+			<date>2020/08/21</date>
+			<size>128.03 MB</size>
+			<category>Security</category>
+			<name>mso2016-kb4484466-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/4/4/f/44f3b4d6-1359-4ec6-b297-2770f5424419/mso2016-kb4484439-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/3/2/0323ff78-8025-4a0f-acdc-bda7911eda66/mso2016-kb4484466-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4464586</kb>
-			<date>2019/12/23</date>
+			<kb>kb4484251</kb>
+			<date>2020/08/21</date>
 			<size>3.37 MB</size>
 			<category>General</category>
-			<name>msodll202016-kb4464586-fullfile-x86-glb.exe</name>
+			<name>msodll202016-kb4484251-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll20-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/e/3/f/e3f37fd9-247a-4eb2-95ba-14a30a924cb8/msodll202016-kb4464586-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/c/0/8c0f4f65-6d83-4f2b-a80c-69b0f092a785/msodll202016-kb4484251-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4484328</kb>
@@ -236,13 +236,13 @@
 			<url>http://download.microsoft.com/download/2/c/5/2c5b5aad-0ebb-402c-9503-f2308276836d/msodll40ui2016-kb4484174-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484327</kb>
-			<date>2020/04/20</date>
-			<size>9.95 MB</size>
+			<kb>kb4484395</kb>
+			<date>2020/08/21</date>
+			<size>9.96 MB</size>
 			<category>General</category>
-			<name>msodll99l2016-kb4484327-fullfile-x86-glb.exe</name>
+			<name>msodll99l2016-kb4484395-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll99l-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/e/4/c/e4c451af-e70d-40b5-8982-028370d135ef/msodll99l2016-kb4484327-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/e/d/3ed3c04c-14ce-46ac-ac31-916e99646750/msodll99l2016-kb4484395-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022162</kb>
@@ -281,13 +281,13 @@
 			<url>http://download.microsoft.com/download/4/1/1/4110BA25-C51C-429A-84B8-5F3065531549/nlgmsproof2016-kb2920717-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484392</kb>
-			<date>2020/05/26</date>
-			<size>10.42 MB</size>
+			<kb>kb4484500</kb>
+			<date>2020/08/21</date>
+			<size>10.41 MB</size>
 			<category>General</category>
-			<name>oart2016-kb4484392-fullfile-x86-glb.exe</name>
+			<name>oart2016-kb4484500-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Office Art)</description>
-			<url>http://download.microsoft.com/download/a/0/e/a0e8e50d-27ce-41ac-aaf8-c29f659107cf/oart2016-kb4484392-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/f/7/1f79e076-397b-4c56-bcbe-443a6143a189/oart2016-kb4484500-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4462119</kb>
@@ -314,7 +314,7 @@
 			<category>General</category>
 			<name>orgidcrl2016-kb2920712-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Online Services Control)</description>
-			<url>http://download.microsoft.com/download/5/9/C/59C41F84-D3BC-4E01-93A8-633AF7DF133B/orgidcrl2016-kb2920712-fullfile-x86-glb.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/orgidcrl2016-kb2920712-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022176</kb>
@@ -350,7 +350,7 @@
 			<category>General</category>
 			<name>ospp2016-kb2920724-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (License Management Tool)</description>
-			<url>http://download.microsoft.com/download/C/9/5/C9520737-0897-4639-B449-E4055C51FC16/ospp2016-kb2920724-fullfile-x86-glb.exe</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/ospp2016-kb2920724-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114690</kb>
@@ -380,13 +380,13 @@
 			<url>http://download.microsoft.com/download/B/4/8/B480C326-8984-4D40-BAA2-33F3A44F20CB/outlfltr2016-kb3115407-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484433</kb>
-			<date>2020/07/01</date>
-			<size>91.55 MB</size>
+			<kb>KB4486671</kb>
+			<date>2020/09/30</date>
+			<size>91.56 MB</size>
 			<category>Security</category>
-			<name>outlook2016-kb4484433-fullfile-x86-glb.exe</name>
+			<name>outlook2016-kb4486671-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>http://download.microsoft.com/download/0/f/5/0f536aeb-97d1-49fc-9f9c-b8a772f7cc05/outlook2016-kb4484433-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/1/c/61c72acd-0232-4dde-8803-495052052ee2/outlook2016-kb4486671-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -416,13 +416,13 @@
 			<url>http://download.microsoft.com/download/8/3/E/83E7FD4B-A543-4DD8-8C73-A111B60EDD10/ppaddin2016-kb4011225-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484441</kb>
-			<date>2020/07/01</date>
+			<kb>KB4484502</kb>
+			<date>2020/09/30</date>
 			<size>34.20 MB</size>
-			<category>Security</category>
-			<name>project2016-kb4484441-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>project2016-kb4484502-fullfile-x86-glb.exe</name>
 			<description>Microsoft Project 2016</description>
-			<url>http://download.microsoft.com/download/1/7/a/17a15a3a-9c1f-41a4-97ac-be9f165efc18/project2016-kb4484441-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/b/2/3b284a9a-695b-428e-a28c-ee8f677b2ec0/project2016-kb4484502-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4464538</kb>
@@ -497,31 +497,31 @@
 			<url>http://download.microsoft.com/download/7/C/6/7C6A468C-9208-483B-ABF5-DB7A501BBCB1/stsupld2016-kb2920678-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484335</kb>
-			<date>2020/05/26</date>
-			<size>2.82 MB</size>
-			<category>General</category>
-			<name>vbe72016-kb4484335-fullfile-x86-glb.exe</name>
-			<description>Microsoft Office 2016 (Visual Basic for Applications)</description>
-			<url>http://download.microsoft.com/download/a/a/6/aa6f1768-895e-4892-b5b6-2c1c647f2ef2/vbe72016-kb4484335-fullfile-x86-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB4484244</kb>
-			<date>2020/03/24</date>
-			<size>59.84 MB</size>
+			<kb>KB4484417</kb>
+			<date>2020/09/30</date>
+			<size>2.70 MB</size>
 			<category>Security</category>
-			<name>visio2016-kb4484244-fullfile-x86-glb.exe</name>
-			<description>Microsoft Visio 2016</description>
-			<url>http://download.microsoft.com/download/5/1/9/51991cb1-db5a-4c0b-a56f-a8afcf18d941/visio2016-kb4484244-fullfile-x86-glb.exe</url>
+			<name>vbe72016-kb4484417-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Visual Basic for Applications)</description>
+			<url>http://download.microsoft.com/download/2/c/5/2c575db3-50d8-4e0d-b8a6-e73bd6d14603/vbe72016-kb4484417-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484438</kb>
-			<date>2020/07/01</date>
+			<kb>KB4484333</kb>
+			<date>2020/09/30</date>
+			<size>59.83 MB</size>
+			<category>General</category>
+			<name>visio2016-kb4484333-fullfile-x86-glb.exe</name>
+			<description>Microsoft Visio 2016</description>
+			<url>http://download.microsoft.com/download/8/c/d/8cdd63ae-1247-4810-a3c8-0212faa48a70/visio2016-kb4484333-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4486679</kb>
+			<date>2020/09/30</date>
 			<size>42.66 MB</size>
 			<category>Security</category>
-			<name>word2016-kb4484438-fullfile-x86-glb.exe</name>
+			<name>word2016-kb4486679-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>http://download.microsoft.com/download/d/5/a/d5a43a17-f29b-4749-ae62-100e23628d07/word2016-kb4484438-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/6/0/0600e8ff-3b23-44e1-8fb7-c6466fac41cc/word2016-kb4486679-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>

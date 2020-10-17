@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/07/14" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/10/13" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4673,49 +4673,49 @@
 			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4565636</kb>
-			<date>2020/07/21</date>
-			<size>38.69 MB</size>
+			<kb>KB4578977</kb>
+			<date>2020/09/03</date>
+			<size>39.99 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB4565636-v2-x64.exe</name>
-			<description>2020-07 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/ndp48-kb4565636-v2-x64_9849ed96b48e54161dc099df90ca2f5ebdb687fc.exe</url>
+			<name>NDP48-KB4578977-x64.exe</name>
+			<description>2020-10 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/10/ndp48-kb4578977-x64_d75a83d0b718f5b05163eb69f3c389db1fad6dbb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4538483</kb>
-			<date>2020/05/01</date>
-			<size>3.90 MB</size>
+			<kb>KB4575903</kb>
+			<date>2020/07/24</date>
+			<size>3.95 MB</size>
 			<category>Security/ESU</category>
-			<name>windows6.1-kb4538483-x64_3e861ae5fe3f6b3c9d185decbd96a436ca0c5035.msu</name>
+			<name>Windows6.1-KB4575903-x64.msu</name>
 			<description>Extended Security Updates (ESU) Licensing Preparation Package</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows6.1-kb4538483-x64_3e861ae5fe3f6b3c9d185decbd96a436ca0c5035.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4565354</kb>
-			<date>2020/07/07</date>
-			<size>9.14 MB</size>
+			<kb>KB4578952</kb>
+			<date>2020/09/11</date>
+			<size>23.83 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB4565354-x64.msu</name>
-			<description>2020-07 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows6.1-kb4565354-x64_a2441fced46324071e6211bb08f749ef430c0ed2.msu</url>
+			<name>Windows6.1-KB4578952-x64.msu</name>
+			<description>2020-10 Security and Quality Rollup for .NET Framework 3.5.1</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4578952-x64_30ac0df8554c2647017f3b36cc02e833a3187364.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4565524</kb>
-			<date>2020/07/03</date>
-			<size>343.01 MB</size>
+			<kb>KB4580345</kb>
+			<date>2020/10/07</date>
+			<size>353.68 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB4565524-x64.msu</name>
-			<description>2020-07 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4565524-x64_4e6ce9ec1cd2c250e792eb6fc4dc1bd8e0a8d931.msu</url>
+			<name>Windows6.1-KB4580345-x64.msu</name>
+			<description>2020-10 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4580345-x64_1869e09ebb83ff801e8cd6db6e693328b5572025.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4565612</kb>
-			<date>2020/06/18</date>
-			<size>23.82 MB</size>
+			<kb>KB4580970</kb>
+			<date>2020/09/14</date>
+			<size>9.15 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB4565612-v2-x64.msu</name>
-			<description>2020-07 Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/06/windows6.1-kb4565612-v2-x64_0b0093d044fe0b7bd96f45a9653be0375c7b7e97.msu</url>
+			<name>Windows6.1-KB4580970-x64.msu</name>
+			<description>2020-10 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4580970-x64_2616e0b0014f1b7db14ce7a8b0603dfdd0a9bf50.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

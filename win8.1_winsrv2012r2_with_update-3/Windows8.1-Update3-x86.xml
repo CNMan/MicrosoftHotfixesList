@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/07/14" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/10/13" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -191,13 +191,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4054999-x86_ab1d1a2831cdd588de1551786c1372025e2997e8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4565613</kb>
-			<date>2020/06/19</date>
-			<size>17.05 MB</size>
+			<kb>KB4578953</kb>
+			<date>2020/09/03</date>
+			<size>18.53 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB4565613-v2-x86.msu</name>
-			<description>2020-07 Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows8.1-kb4565613-v2-x86_e2a564a34a32e28a12402b0115c014356cc8e5f8.msu</url>
+			<name>Windows8.1-KB4578953-x86.msu</name>
+			<description>2020-10 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows8.1-kb4578953-x86_3784363d0cd9cab5b218cdaa789e730d13985a03.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -1514,15 +1514,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/09/windows8.1-kb3078627-x86_8b51ee95591ed4da5ec2c724bc9a25b0c5a1af2b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3078630</kb>
-			<date>2015/07/22</date>
-			<size>471 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3078630-x86.msu</name>
-			<description>32-bit applications can't change local Group Policy on 64-bit version of Windows 8.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/09/windows8.1-kb3078630-x86_0025ade76cb40aeac6190a4ae60119a52a19655b.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3078689</kb>
 			<date>2015/07/10</date>
 			<size>262 KB</size>
@@ -1919,31 +1910,31 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x86_7762ebdf20fb0b1fb64cbc92ddba4582bc3fac0a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4561600</kb>
-			<date>2020/06/01</date>
-			<size>10.43 MB</size>
+			<kb>KB4578976</kb>
+			<date>2020/09/03</date>
+			<size>30.07 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4561600-x86.msu</name>
-			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/06/windows8.1-kb4561600-x86_ab4efa9c650e8fa4ea313aca863f164c6f7ed7a3.msu</url>
+			<name>Windows8.1-KB4578976-x86-NDP48.msu</name>
+			<description>2020-10 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows8.1-kb4578976-x86-ndp48_7e8d565bc23a8777a7c61da1d81901bd0802f296.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4565541</kb>
-			<date>2020/07/09</date>
-			<size>338.79 MB</size>
+			<kb>KB4580325</kb>
+			<date>2020/10/02</date>
+			<size>10.48 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4565541-x86.msu</name>
-			<description>2020-07 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows8.1-kb4565541-x86_a09f127508a83ed516a885a1081bfc5918755e26.msu</url>
+			<name>Windows8.1-KB4580325-x86.msu</name>
+			<description>2020-10 Update for Vulnerabilities in Adobe Flash Player</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/10/windows8.1-kb4580325-x86_992b926821066d41c24cfcd37282a69ae85f0cd9.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4565635</kb>
-			<date>2020/06/08</date>
-			<size>29.25 MB</size>
+			<kb>KB4580347</kb>
+			<date>2020/10/08</date>
+			<size>344.39 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4565635-x86-NDP48.msu</name>
-			<description>2020-07 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows8.1-kb4565635-x86-ndp48_af888473c003e67b7c72e6106a05bc7801a71e15.msu</url>
+			<name>Windows8.1-KB4580347-x86.msu</name>
+			<description>2020-10 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/10/windows8.1-kb4580347-x86_d5116c64592705af0a92cef0aa408568ede1c9d0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
