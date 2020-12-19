@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/10/13" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/12/08" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -197,7 +197,7 @@
 			<category>Additional/WAT</category>
 			<name>Windows6.1-KB971033-x64.msu</name>
 			<description>Update for Windows Activation Technologies</description>
-			<url>http://download.microsoft.com/download/E/5/6/E5611B10-0D6D-4117-8430-A67417AA88CD/Windows6.1-KB971033-x64.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB971033-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2952664</kb>
@@ -251,7 +251,7 @@
 			<category>Extra/AD_LDS</category>
 			<name>Windows6.1-KB975541-x64.msu</name>
 			<description>Active Directory Lightweight Directory Services for Windows 7</description>
-			<url>http://download.microsoft.com/download/7/3/9/73982B95-A8C9-4B6C-BD85-6EC620BB0A7A/Windows6.1-KB975541-x64.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB975541-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2462137</kb>
@@ -310,11 +310,11 @@
 		<update extract="0">
 			<kb>KB2666914</kb>
 			<date>2014/01/30</date>
-			<size>860 KB</size>
+			<size>760 KB</size>
 			<category>Extra/Addons/DCA2.0</category>
-			<name>Microsoft_DirectAccess_Connectivity_Assistant_2_0_x64.msi</name>
+			<name>Windows6.1-KB2666914-x64.msu</name>
 			<description>DirectAccess Connectivity Assistant 2.0</description>
-			<url>http://download.microsoft.com/download/E/5/5/E55CF86F-9BB5-4032-9E6D-FB3FD9472FAA/Microsoft_DirectAccess_Connectivity_Assistant_2_0_x64.msi</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2666914-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB943790</kb>
@@ -494,7 +494,7 @@
 			<category>Extra/MediaFormatFeaturePack</category>
 			<name>Windows6.1-KB968212-x64-RefreshPkg.msu</name>
 			<description>Windows Media Format Feature Pack for Windows 7 N and for Windows 7 KN</description>
-			<url>http://download.microsoft.com/download/1/8/5/1851F93B-0C04-4A94-9797-C3DCE84375C6/Windows6.1-KB968212-x64-RefreshPkg.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB968212-x64-RefreshPkg.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB958830</kb>
@@ -503,7 +503,7 @@
 			<category>Extra/RSAT</category>
 			<name>Windows6.1-KB958830-x64-RefreshPkg.msu</name>
 			<description>Remote Server Administration Tools for Windows 7</description>
-			<url>http://download.microsoft.com/download/4/F/7/4F71806A-1C56-4EF2-9B4F-9870C4CFD2EE/Windows6.1-KB958830-x64-RefreshPkg.msu</url>
+			<url>http://200.145.157.2/Utilidades/Service%20Packs/Gerenciador%20AD/Windows6.1-KB958830-x64-RefreshPkg.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB970985</kb>
@@ -512,7 +512,7 @@
 			<category>Extra/RSAT/WMS</category>
 			<name>Windows6.1-KB970985-x64.msu</name>
 			<description>Windows Media Services Remote Server Administration Tools</description>
-			<url>http://download.microsoft.com/download/9/F/D/9FDA0AE5-2FD9-41BE-A992-62C84341D9CE/Windows6.1-KB970985-x64.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB970985-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB958559</kb>
@@ -539,7 +539,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2487292-x64.msu</name>
 			<description>The maximum number of WAN Miniport (IKEv2) ports changes from 128 to two after you install SP1</description>
-			<url>http://download.microsoft.com/download/4/4/1/441020EF-6BFD-40EB-A756-9C2A66260B01/Windows6.1-KB2487292-x64.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB2487292-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2492386</kb>
@@ -548,7 +548,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2492386-x64.msu</name>
 			<description>Application Compatibility Update: April 2011</description>
-			<url>http://download.microsoft.com/download/E/F/2/EF295D25-CCB3-4174-8231-5DE9784E57F7/Windows6.1-KB2492386-x64.msu</url>
+			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2011/04/windows6.1-kb2492386-x64_c3ae664fc97ac46fc51d4b67dcad3b40b860af55.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2496898</kb>
@@ -557,7 +557,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2496898-v3-x64.msu</name>
 			<description>Update to support the new currency symbol for the Indian Rupee</description>
-			<url>http://download.microsoft.com/download/9/2/A/92A8E437-3C72-4AAC-91DF-AC0C834EC15E/Windows6.1-KB2496898-v3-x64.msu</url>
+			<url>http://zaotrud.splyne.ru/beeline/IMGx64RusW7/Content/Deploy/Applications/HP%20Essential%20System%20Updates%20for%20W7/program%20files/HP/HP%20ESU%20for%20Microsoft%20Windows%207/Data%20Files/Hot%20Fixes/x64/Windows6.1-KB2496898-v3-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2506014</kb>
@@ -575,7 +575,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2506628-x64.msu</name>
 			<description>Call signs that contain multibyte characters are not displayed correctly in Windows Media Center when you use applications based on the PBDA tuner</description>
-			<url>http://download.microsoft.com/download/2/5/C/25CD0C0B-4961-4682-A480-097950FD63B1/Windows6.1-KB2506628-x64.msu</url>
+			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=15564</url>
 		</update>
 		<update extract="0">
 			<kb>KB2506928</kb>
@@ -593,7 +593,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2618301-x64.msu</name>
 			<description>"Error 633" message and you cannot establish a dial-up connection after you resume from sleep or hibernation</description>
-			<url>http://download.microsoft.com/download/4/F/8/4F8E9705-DC88-4525-A329-3A82EF4878F0/Windows6.1-KB2618301-x64.msu</url>
+			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=15409</url>
 		</update>
 		<update extract="0">
 			<kb>KB2640148</kb>
@@ -1223,7 +1223,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2546868-x64.msu</name>
 			<description>You cannot use interactive TV functions in Windows Media Center on a Windows 7-based computer</description>
-			<url>http://download.microsoft.com/download/1/7/0/170C380F-79C3-415A-AA2B-4026D9AC4031/Windows6.1-KB2546868-x64.msu</url>
+			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=13836</url>
 		</update>
 		<update extract="0">
 			<kb>KB2549067</kb>
@@ -1277,7 +1277,7 @@
 			<category>Extra/WithoutKB3125574/#Hotfix</category>
 			<name>Windows6.1-KB2578214-x64.msu</name>
 			<description>An application crashes when it tries to retrieve file information from an invalid or corrupted file in Windows Vista, in Windows Server 2008, in Windows 7 or in Windows Server 2008 R2</description>
-			<url>http://download.microsoft.com/download/9/C/E/9CE13AA4-2B74-466E-8D28-72F028336BCF/Windows6.1-KB2578214-x64.msu</url>
+			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=13916</url>
 		</update>
 		<update extract="0">
 			<kb>KB2581608</kb>
@@ -4337,7 +4337,7 @@
 			<category>Extra/WMF4.0</category>
 			<name>Windows6.1-KB2819745-x64-MultiPkg.msu</name>
 			<description>Windows Management Framework 4.0</description>
-			<url>http://download.microsoft.com/download/3/D/6/3D61D262-8549-4769-A660-230B67E15B25/Windows6.1-KB2819745-x64-MultiPkg.msu</url>
+			<url>http://www.users.on.net/~lynmik/CSTECH/Industrie/WMF/Windows6.1-KB2819745-x64-MultiPkg.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3109118</kb>
@@ -4346,7 +4346,7 @@
 			<category>Extra/WMF4.0/Updates</category>
 			<name>Windows6.1-KB3109118-v4-x64.msu</name>
 			<description>WMF 4.0 Update package</description>
-			<url>https://cuckoo.sh/vmcloak/Windows6.1-KB3109118-v4-x64.msu</url>
+			<url>http://thehotfixshare.net/board/index.php?autocom=downloads&amp;req=download&amp;code=confirm_download&amp;id=21153</url>
 		</update>
 		<update extract="0">
 			<kb>KB2887535</kb>
@@ -4490,7 +4490,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB917607-x64.msu</name>
 			<description>Error opening Help in Windows-based programs: "Feature not included" or "Help not supported"</description>
-			<url>http://download.microsoft.com/download/9/A/8/9A8FCFAA-78A0-49F5-8C8E-4EAE185F515C/Windows6.1-KB917607-x64.msu</url>
+			<url>http://www.gigamedia.net.br/seap/Windows6.1-KB917607-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4072650</kb>
@@ -4673,13 +4673,13 @@
 			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4578977</kb>
-			<date>2020/09/03</date>
+			<kb>KB4585205</kb>
+			<date>2020/10/08</date>
 			<size>39.99 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB4578977-x64.exe</name>
-			<description>2020-10 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/10/ndp48-kb4578977-x64_d75a83d0b718f5b05163eb69f3c389db1fad6dbb.exe</url>
+			<name>NDP48-KB4585205-x64.exe</name>
+			<description>2020-11 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/ndp48-kb4585205-x64_b8cb8770e00eeb41eedb0a334736f7bec66bbe09.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -4700,22 +4700,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4578952-x64_30ac0df8554c2647017f3b36cc02e833a3187364.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4580345</kb>
-			<date>2020/10/07</date>
-			<size>353.68 MB</size>
+			<kb>KB4592471</kb>
+			<date>2020/12/05</date>
+			<size>355.02 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB4580345-x64.msu</name>
-			<description>2020-10 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4580345-x64_1869e09ebb83ff801e8cd6db6e693328b5572025.msu</url>
+			<name>Windows6.1-KB4592471-x64.msu</name>
+			<description>2020-12 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/12/windows6.1-kb4592471-x64_85374a06d4ba5f741c57d7b413935c3104e8b591.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4580970</kb>
-			<date>2020/09/14</date>
-			<size>9.15 MB</size>
+			<kb>KB4592510</kb>
+			<date>2020/11/30</date>
+			<size>9.14 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB4580970-x64.msu</name>
-			<description>2020-10 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4580970-x64_2616e0b0014f1b7db14ce7a8b0603dfdd0a9bf50.msu</url>
+			<name>Windows6.1-KB4592510-x64.msu</name>
+			<description>2020-12 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/11/windows6.1-kb4592510-x64_2798f0d248e08c292076980d2b954e6e1f2c8f99.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

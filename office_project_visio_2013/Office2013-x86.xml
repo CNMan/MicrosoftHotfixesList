@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/10/13" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/12/08" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484366</kb>
@@ -11,13 +11,13 @@
 			<url>http://download.microsoft.com/download/e/1/d/e1d0abb7-6500-4aab-901f-393cc8135c76/access2013-kb4484366-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484359</kb>
-			<date>2020/07/29</date>
+			<kb>KB4484520</kb>
+			<date>2020/10/28</date>
 			<size>10.44 MB</size>
 			<category>Security</category>
-			<name>ace2013-kb4484359-fullfile-x86-glb.exe</name>
+			<name>ace2013-kb4484520-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/2/3/e/23e7b235-5cc0-4109-99f7-891a37573248/ace2013-kb4484359-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/0/c/80cfde5d-8002-4c3d-974e-5f3d6fb8d04b/ace2013-kb4484520-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2899522</kb>
@@ -92,13 +92,13 @@
 			<url>http://download.microsoft.com/download/A/5/8/A588276E-D83D-4B67-A60A-3CEA9F67B191/eqnedt322013-kb4011580-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486695</kb>
-			<date>2020/09/30</date>
-			<size>90.10 MB</size>
+			<kb>KB4493139</kb>
+			<date>2020/11/23</date>
+			<size>90.11 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb4486695-fullfile-x86-glb.exe</name>
+			<name>excel2013-kb4493139-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/a/f/3/af38f266-501c-42f7-b7b3-1dfeec606a05/excel2013-kb4486695-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/e/0/6e08b17a-b2a7-456b-9c9f-750486a657c5/excel2013-kb4493139-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -155,13 +155,13 @@
 			<url>http://download.microsoft.com/download/5/8/6/58660193-196D-4838-B303-9D28A34EBEF6/gkall2013-kb3039795-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486688</kb>
-			<date>2020/09/30</date>
+			<kb>KB4486725</kb>
+			<date>2020/10/28</date>
 			<size>3.03 MB</size>
 			<category>Security</category>
-			<name>graph2013-kb4486688-fullfile-x86-glb.exe</name>
+			<name>graph2013-kb4486725-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/d/b/7/db7ad55f-5d40-446e-bfd6-10ab6cd27715/graph2013-kb4486688-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/0/6/3065baeb-011a-475a-b930-a244cec18146/graph2013-kb4486725-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022226</kb>
@@ -452,13 +452,13 @@
 			<url>http://download.microsoft.com/download/0/A/2/0A23AFBE-375F-4262-AADD-188782E4DA8F/outlfltr2013-kb3115404-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484524</kb>
-			<date>2020/09/30</date>
+			<kb>KB4486732</kb>
+			<date>2020/11/23</date>
 			<size>88.80 MB</size>
 			<category>Security</category>
-			<name>outlook2013-kb4484524-fullfile-x86-glb.exe</name>
+			<name>outlook2013-kb4486732-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>http://download.microsoft.com/download/0/c/a/0ca0c32c-f99e-4b09-b809-0f353f6cd312/outlook2013-kb4484524-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/e/f/1/ef147655-8a6e-4b61-a5a1-b56cb38ac270/outlook2013-kb4486732-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>
@@ -470,13 +470,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/09/peopledatahandler-x-none_39cd7aa7f75201bbe9b76f1d4bd0858caa100db7.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484349</kb>
-			<date>2020/06/30</date>
+			<kb>KB4484468</kb>
+			<date>2020/11/23</date>
 			<size>51.42 MB</size>
-			<category>General</category>
-			<name>powerpoint2013-kb4484349-fullfile-x86-glb.exe</name>
+			<category>Security</category>
+			<name>powerpoint2013-kb4484468-fullfile-x86-glb.exe</name>
 			<description>Microsoft PowerPoint 2013</description>
-			<url>http://download.microsoft.com/download/7/1/0/7105ab7f-1131-4a31-add5-d9bb6c8c1138/powerpoint2013-kb4484349-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/c/b/2cb1bd4b-9f6c-4702-85c1-27ecb4468ea3/powerpoint2013-kb4484468-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213536</kb>
@@ -596,13 +596,13 @@
 			<url>http://download.microsoft.com/download/1/6/E/16E6EBD1-B8D4-4BC7-838A-E8B75C3A9401/wec2013-kb3172533-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486692</kb>
-			<date>2020/09/30</date>
+			<kb>KB4486730</kb>
+			<date>2020/10/28</date>
 			<size>163.17 MB</size>
 			<category>Security</category>
-			<name>word2013-kb4486692-fullfile-x86-glb.exe</name>
+			<name>word2013-kb4486730-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>http://download.microsoft.com/download/e/9/3/e936f2d3-eb7e-4c8f-ad68-bb499be37aae/word2013-kb4486692-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/c/5/b/c5bae6c2-3479-497b-8edf-f22847901cee/word2013-kb4486730-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>
