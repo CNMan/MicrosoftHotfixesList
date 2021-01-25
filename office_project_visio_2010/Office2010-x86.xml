@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/12/08" architecture="x86" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/01/12" architecture="x86" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4484385</kb>
@@ -20,13 +20,13 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/11/accessolkaddin-x-none_4571200d0c9db16b528f6102c7efcc394775f61f.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484534</kb>
-			<date>2020/10/28</date>
-			<size>4.39 MB</size>
+			<kb>KB4493143</kb>
+			<date>2020/12/30</date>
+			<size>4.28 MB</size>
 			<category>Security</category>
-			<name>ace2010-kb4484534-fullfile-x86-glb.exe</name>
+			<name>ace2010-kb4493143-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/6/3/7/637e151c-a956-45e4-a5ff-c0c015795b58/ace2010-kb4484534-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/1/4/014b0f6b-c7be-43ae-8eb0-36e1561118b6/ace2010-kb4493143-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213626</kb>
@@ -56,13 +56,13 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493148</kb>
-			<date>2020/11/23</date>
-			<size>36.17 MB</size>
+			<kb>KB4493186</kb>
+			<date>2020/12/30</date>
+			<size>36.16 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4493148-fullfile-x86-glb.exe</name>
+			<name>excel2010-kb4493186-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/1/c/9/1c9a1b2e-9b7e-41ad-8ed4-b4863e94ab01/excel2010-kb4493148-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/a/a/5aa4abc5-ca7a-4cd0-b963-5098bc87a22d/excel2010-kb4493186-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956084</kb>
@@ -128,13 +128,13 @@
 			<url>http://download.microsoft.com/download/9/0/3/90397B8B-F3B1-43AB-AB07-1E2BF2A04AD8/gkall2010-kb2881030-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493140</kb>
-			<date>2020/11/23</date>
+			<kb>KB4493181</kb>
+			<date>2020/12/30</date>
 			<size>2.95 MB</size>
 			<category>Security</category>
-			<name>graph2010-kb4493140-fullfile-x86-glb.exe</name>
+			<name>graph2010-kb4493181-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/9/2/a/92a03ba6-6977-4de1-bc1a-e89a953a44eb/graph2010-kb4493140-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/e/7/1/e717d7b2-8746-4ffd-b105-a4b03578511a/graph2010-kb4493181-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2878231</kb>
@@ -614,13 +614,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/10/wec-x-none_9524dc91a4f6d1b09c4f5ff2ae22d6a9779d9a65.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486740</kb>
-			<date>2020/10/28</date>
-			<size>26.96 MB</size>
+			<kb>KB4493145</kb>
+			<date>2020/12/30</date>
+			<size>26.76 MB</size>
 			<category>Security</category>
-			<name>word2010-kb4486740-fullfile-x86-glb.exe</name>
+			<name>word2010-kb4493145-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2010</description>
-			<url>http://download.microsoft.com/download/a/1/4/a14f9555-cc47-4782-b1a1-ad6c6a34887c/word2010-kb4486740-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/3/2/132853d5-865f-4a5e-a82b-1c21a9db9bb9/word2010-kb4493145-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461625</kb>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/12/08" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/01/21" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
-			<date>2020/10/25</date>
-			<size>3.17 KB</size>
+			<date>2021/01/13</date>
+			<size>5.00 KB</size>
 			<category>General</category>
-			<name>Information-ReadMe.txt</name>
+			<name>Information-PleaseRead.txt</name>
 			<description>Info to differentiate updates based on build number</description>
-			<url>https://dl.dropboxusercontent.com/s/9a6o6p08gr8vhcm/Information-ReadMe.txt</url>
+			<url>https://dl.dropboxusercontent.com/s/bdr1sp6k6f0fu7m/Information-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087515</kb>
@@ -56,22 +56,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x86_97a4f342e91e40b921727a8b944a29f7155f3ca1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4585207</kb>
-			<date>2020/10/05</date>
-			<size>30.55 MB</size>
+			<kb>KB4597247</kb>
+			<date>2020/12/08</date>
+			<size>30.53 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4585207-x86-NDP48.msu</name>
+			<name>Windows10.0-KB4597247-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4585207-x86-ndp48_b280f4707cdf2796e68ac9a7f5e0c3ac3c07f487.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/12/windows10.0-kb4597247-x86-ndp48_d97bf2359bbe4ddc89088fe270c1b76981572e1b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4593226</kb>
-			<date>2020/12/03</date>
-			<size>869.26 MB</size>
+			<kb>KB4598243</kb>
+			<date>2021/01/08</date>
+			<size>889.13 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB4593226-x86.msu</name>
+			<name>Windows10.0-KB4598243-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/12/windows10.0-kb4593226-x86_d3453294f1a6a23b74e0713593862cd0ccec92df.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2021/01/windows10.0-kb4598243-x86_6f90e2e456a187a38f4e467a05ba2d09b6248aa7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -110,22 +110,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/11/windows10.0-kb4586877-x86-ndp48_34c210d4b6f0464d43c623436930d350387b89a2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4587735</kb>
-			<date>2020/11/02</date>
-			<size>6.13 MB</size>
+			<kb>KB4598296</kb>
+			<date>2021/01/18</date>
+			<size>170.96 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4587735-x86.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/11/windows10.0-kb4587735-x86_f67a582db752d5f01628ea5a71bd61b260f01eac.msu</url>
+			<name>Windows10.0-KB4598296-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2021/01/windows10.0-kb4598296-x86_7c2a3556f2cece032bcbb4d66354ffb1685f67bb.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4592440</kb>
-			<date>2020/12/03</date>
-			<size>165.47 MB</size>
+			<kb>KB4598480</kb>
+			<date>2020/12/08</date>
+			<size>6.13 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB4592440-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/12/windows10.0-kb4592440-x86_3b7ee00f35ee72cf098e745199b9d34040855482.msu</url>
+			<name>Windows10.0-KB4598480-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2021/01/windows10.0-kb4598480-x86_cf41f4aad0b9fd35f922849d4e3d1f5587e09d2f.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4517245</kb>
+			<date>2019/09/26</date>
+			<size>19.73 KB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB4517245-x86.cab</name>
+			<description>Feature Update to Windows 10 Version 1909 via Enablement Package</description>
+			<url>http://b1.download.windowsupdate.com/d/upgr/2019/11/windows10.0-kb4517245-x86_8463271782b79ce8214772c62552b8961feb7ccb.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4580325</kb>
@@ -137,15 +146,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x86_002b1ffa7fb31836aeaed74007a6949d31a96460.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4586863</kb>
-			<date>2020/11/03</date>
-			<size>6.45 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB4586863-x86.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/11/windows10.0-kb4586863-x86_86f473648ca0bda64644cd7468af9b5a59a704f9.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4586878</kb>
 			<date>2020/11/03</date>
 			<size>43.59 MB</size>
@@ -155,22 +155,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/11/windows10.0-kb4586878-x86-ndp48_f80e3e9ee12909424ba4f6cb0e33e2b8ff86c67c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4592449</kb>
-			<date>2020/12/03</date>
-			<size>209.62 MB</size>
+			<kb>KB4598298</kb>
+			<date>2021/01/15</date>
+			<size>221.05 MB</size>
 			<category>General/18362</category>
-			<name>Windows10.0-KB4592449-x86.msu</name>
+			<name>Windows10.0-KB4598298-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/12/windows10.0-kb4592449-x86_67bf835d81a5cf356ddc0bdad3d1f04a3fcccfbb.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2021/01/windows10.0-kb4598298-x86_ed79fa480f7bf3467fa0f194ebc479d121316ef1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4517245</kb>
-			<date>2019/09/26</date>
-			<size>19.73 KB</size>
-			<category>General/18362/v1909</category>
-			<name>Windows10.0-KB4517245-x86.cab</name>
-			<description>Feature Update to Windows 10 Version 1909 via Enablement Package</description>
-			<url>http://b1.download.windowsupdate.com/d/upgr/2019/11/windows10.0-kb4517245-x86_8463271782b79ce8214772c62552b8961feb7ccb.cab</url>
+			<kb>KB4598479</kb>
+			<date>2020/12/08</date>
+			<size>6.46 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB4598479-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1903</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2021/01/windows10.0-kb4598479-x86_3714db6cac54cdfab44b6ab151a331ea183894ee.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4580325</kb>
@@ -191,22 +191,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/11/windows10.0-kb4586876-x86-ndp48_fddf92aa7cea143a877e7d94bfeb11c3e57e786e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4592438</kb>
-			<date>2020/12/03</date>
-			<size>119.52 MB</size>
+			<kb>KB4598242</kb>
+			<date>2021/01/08</date>
+			<size>131.38 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB4592438-x86.msu</name>
+			<name>Windows10.0-KB4598242-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 2004</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/12/windows10.0-kb4592438-x86_95758bd6e2c3a4a98a19efaa4056213531f84f5c.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2021/01/windows10.0-kb4598242-x86_8f559f42c556d8deeeb76c9b9ada841edf6f99a0.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4593175</kb>
-			<date>2020/12/03</date>
-			<size>6.62 MB</size>
+			<kb>KB4598481</kb>
+			<date>2020/12/13</date>
+			<size>6.63 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB4593175-x86.msu</name>
+			<name>Windows10.0-KB4598481-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 2004</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/12/windows10.0-kb4593175-x86_c2993c449c09dc3abce8ebde45590cb7aea283de.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2021/01/windows10.0-kb4598481-x86_32286dd2d08021ce7ce35ee4855beb81c8d5f09e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4562830</kb>

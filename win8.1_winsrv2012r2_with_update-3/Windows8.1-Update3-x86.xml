@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2020/12/08" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/01/12" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -360,6 +360,24 @@
 			<name>Windows8.1-KB3185319-v2-x86.msu</name>
 			<description>Cumulative security update for Internet Explorer 11: September 13, 2016</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/09/windows8.1-kb3185319-v2-x86_5f4bf5ccc49a798cf6a78f49462befe62934a937.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4578976</kb>
+			<date>2020/10/05</date>
+			<size>30.07 MB</size>
+			<category>Additional/WU.Satisfy</category>
+			<name>Windows8.1-KB4578976-x86-NDP48.msu</name>
+			<description>2020-10 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows8.1-kb4578976-x86-ndp48_7e8d565bc23a8777a7c61da1d81901bd0802f296.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4580325</kb>
+			<date>2020/10/05</date>
+			<size>10.48 MB</size>
+			<category>Additional/WU.Satisfy</category>
+			<name>Windows8.1-KB4580325-x86.msu</name>
+			<description>2020-10 Security Update for Adobe Flash Player</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/10/windows8.1-kb4580325-x86_992b926821066d41c24cfcd37282a69ae85f0cd9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2973201</kb>
@@ -927,15 +945,6 @@
 			<name>Windows8.1-KB3091297-x86.msu</name>
 			<description>You can't logon to an AD FS server from a Windows Store app on a Windows 8.1 device</description>
 			<url>http://download.microsoft.com/download/6/8/F/68F09CC0-1A39-476F-85D6-0825FB1E3772/Windows8.1-KB3091297-x86.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3095701</kb>
-			<date>2015/09/29</date>
-			<size>260 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3095701-x86.msu</name>
-			<description>Trusted Platform Module (TPM) 2.0 device can't be recognized in Windows</description>
-			<url>http://download.microsoft.com/download/9/F/2/9F20D3B6-5B17-49D8-ABE0-BCE60047761A/Windows8.1-KB3095701-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3099834</kb>
@@ -1883,24 +1892,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x86_a6af9c16d559e00e42ed45cdf1d7a72235edf5f2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462930</kb>
-			<date>2018/10/02</date>
-			<size>10.21 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4462930-x86.msu</name>
-			<description>Update for Vulnerabilities in Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/10/windows8.1-kb4462930-x86_7762ebdf20fb0b1fb64cbc92ddba4582bc3fac0a.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4585212</kb>
-			<date>2020/10/08</date>
-			<size>30.05 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB4585212-x86-NDP48.msu</name>
-			<description>2020-11 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows8.1-kb4585212-x86-ndp48_4aced589e0ccb7d7e241e195affcbb8f2f068a07.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4577586</kb>
 			<date>2020/10/22</date>
 			<size>181 KB</size>
@@ -1910,13 +1901,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/10/windows8.1-kb4577586-x86_d81dcb42a9b91d279c0b7510669bc0d556288fd3.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4592484</kb>
-			<date>2020/12/05</date>
-			<size>346.65 MB</size>
+			<kb>KB4597253</kb>
+			<date>2020/12/03</date>
+			<size>30.49 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4592484-x86.msu</name>
-			<description>2020-12 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/12/windows8.1-kb4592484-x86_2a058f1098386f85d106c11dc8f646adf1c6dc3f.msu</url>
+			<name>Windows8.1-KB4597253-x86-NDP48.msu</name>
+			<description>2021-01 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/01/windows8.1-kb4597253-x86-ndp48_fdc6827e6859d602579f1232ad301950917a8ac8.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB4598285</kb>
+			<date>2021/01/09</date>
+			<size>348.01 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB4598285-x86.msu</name>
+			<description>2021-01 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/01/windows8.1-kb4598285-x86_e4ecc3ccfb63ba7fc834f0d2b3dfa57eaf5bb02b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
