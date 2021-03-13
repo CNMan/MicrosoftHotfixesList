@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/01/12" architecture="x64" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/03/09" architecture="x64" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4484385</kb>
@@ -56,13 +56,13 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493186</kb>
-			<date>2020/12/30</date>
+			<kb>KB4504707</kb>
+			<date>2021/02/24</date>
 			<size>38.75 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4493186-fullfile-x64-glb.exe</name>
+			<name>excel2010-kb4504707-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/4/9/3/493d2e25-1fa7-408f-8f09-0cf82b727813/excel2010-kb4493186-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/7/d/07dcace1-45cf-4816-8e74-129e5e7f0bb1/excel2010-kb4504707-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956084</kb>
@@ -128,13 +128,13 @@
 			<url>http://download.microsoft.com/download/3/B/4/3B4DEB77-D418-40DF-BC5C-9E1227A0BE87/gkall2010-kb2881030-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493181</kb>
-			<date>2020/12/30</date>
-			<size>4.10 M</size>
+			<kb>KB4493214</kb>
+			<date>2021/02/24</date>
+			<size>4.10 MB</size>
 			<category>Security</category>
-			<name>graph2010-kb4493181-fullfile-x64-glb.exe</name>
+			<name>graph2010-kb4493214-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/e/0/a/e0a72901-6348-4ec2-842f-0430a93c59bc/graph2010-kb4493181-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/8/a/18a26739-0335-40b1-a2a6-b81028f519c5/graph2010-kb4493214-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2878231</kb>
@@ -227,13 +227,13 @@
 			<url>http://download.microsoft.com/download/C/8/2/C820D7BC-BE4F-4A91-860C-CA7C7A20F177/mshelp2010-kb2850016-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486698</kb>
-			<date>2020/11/23</date>
-			<size>18.56 MB</size>
+			<kb>KB4504703</kb>
+			<date>2021/02/24</date>
+			<size>18.51 MB</size>
 			<category>Security</category>
-			<name>mso2010-kb4486698-fullfile-x64-glb.exe</name>
+			<name>mso2010-kb4504703-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2010 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/b/7/3/b737973f-13c2-464a-a07f-91217fe7e9ff/mso2010-kb4486698-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/8/6/986fc0e5-544e-425f-beaa-ac4605fee80d/mso2010-kb4504703-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589375</kb>
@@ -461,13 +461,13 @@
 			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/owssupp2010-kb2553170-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484372</kb>
-			<date>2020/11/23</date>
+			<kb>KB4504702</kb>
+			<date>2021/02/24</date>
 			<size>16.73 MB</size>
 			<category>Security</category>
-			<name>powerpoint2010-kb4484372-fullfile-x64-glb.exe</name>
+			<name>powerpoint2010-kb4504702-fullfile-x64-glb.exe</name>
 			<description>Microsoft PowerPoint 2010</description>
-			<url>http://download.microsoft.com/download/e/1/b/e1b628ce-64f5-4b45-9258-ba809d0e3a71/powerpoint2010-kb4484372-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/c/2/f/c2fc03c2-4e93-4ca2-8a33-c65bb7ef0b3c/powerpoint2010-kb4504702-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4092435</kb>
@@ -560,13 +560,13 @@
 			<url>http://download.microsoft.com/download/0/3/f/03f7f15f-a472-48b1-ab51-54e744b81c22/vbe72010-kb4484455-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462225</kb>
-			<date>2020/03/30</date>
+			<kb>KB4484376</kb>
+			<date>2021/02/24</date>
 			<size>26.61 MB</size>
 			<category>Security</category>
-			<name>visio2010-kb4462225-fullfile-x64-glb.exe</name>
+			<name>visio2010-kb4484376-fullfile-x64-glb.exe</name>
 			<description>Microsoft Visio 2010</description>
-			<url>http://download.microsoft.com/download/0/1/f/01f6770c-a1f4-4f41-8ed2-6e4760f19f2d/visio2010-kb4462225-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/7/e/87ec099d-ee78-4f83-bd29-bf089dada88d/visio2010-kb4484376-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2881025</kb>
