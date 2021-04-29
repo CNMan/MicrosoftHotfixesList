@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/03/09" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/04/13" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -407,13 +407,13 @@
 			<url>http://download.microsoft.com/download/6/1/5/615B8D87-A02C-485E-B9B5-D6F4AEB52D78/Windows8.1-KB3021910-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4566425</kb>
-			<date>2020/06/11</date>
-			<size>10.49 MB</size>
+			<kb>KB5001403</kb>
+			<date>2021/03/27</date>
+			<size>10.43 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB4566425-x64.msu</name>
-			<description>2020-07 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows8.1-kb4566425-x64_243a8843ec4f888de71d0a94ec3deaf4e345f7a5.msu</url>
+			<name>Windows8.1-KB5001403-x64.msu</name>
+			<description>2021-04 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/04/windows8.1-kb5001403-x64_7f15c4b281f38d43475abb785a32dbaf0355bad5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -533,13 +533,13 @@
 			<url>https://dl.dropboxusercontent.com/s/7ah9beu58opuk2x/NET48-LangPacks.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4072650</kb>
-			<date>2019/08/10</date>
-			<size>742 KB</size>
+			<kb>KB5001088</kb>
+			<date>2021/03/03</date>
+			<size>740 KB</size>
 			<category>General</category>
-			<name>Windows6.2-HyperVIntegrationServices-x64.cab</name>
+			<name>windows6.2-hypervintegrationservices-x64_9275a4433b966430ae7b9d744733a3a0f507ad02.cab</name>
 			<description>Hyper-V guest integration components</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2019/09/windows6.2-hypervintegrationservices-x64_3697c79f462f756d8beba62a34e313f7f59d5c18.cab</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/03/windows6.2-hypervintegrationservices-x64_9275a4433b966430ae7b9d744733a3a0f507ad02.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2899189</kb>
@@ -882,6 +882,15 @@
 			<name>Windows8.1-KB3063843-x64.msu</name>
 			<description>Registry bloat causes slow logons or insufficient system resources error 0x800705AA</description>
 			<url>http://download.microsoft.com/download/1/E/B/1EB37651-C6F1-4DED-ABF1-CA0AA9F15652/Windows8.1-KB3063843-x64.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB3064059</kb>
+			<date>2015/05/11</date>
+			<size>332 KB</size>
+			<category>General</category>
+			<name>Windows8.1-KB3064059-x64.msu</name>
+			<description>Explorer.exe process crashes after File History item in Control Panel is opened </description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3064059-x64_f4fc4daf8d417cb750f05f8484d84d1799043f84.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3064209</kb>
@@ -1865,15 +1874,6 @@
 			<url>http://download.microsoft.com/download/4/F/1/4F141F30-EB96-41E3-8AEB-EDEA70DD9E23/Windows8.1-KB3146723-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3155784</kb>
-			<date>2016/04/10</date>
-			<size>232 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3155784-x64.msu</name>
-			<description>Security update for volume manager driver: May 10, 2016</description>
-			<url>http://download.microsoft.com/download/A/9/F/A9FAD226-2ABA-4609-B58F-39644881D73F/Windows8.1-KB3155784-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3156059</kb>
 			<date>2016/04/09</date>
 			<size>458 KB</size>
@@ -1982,13 +1982,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/01/windows8.1-kb4601058-x64-ndp48_83fc9e3a0898ccbff2c76087fc37c667e365f8ef.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5000848</kb>
-			<date>2021/03/02</date>
-			<size>538.34 MB</size>
+			<kb>KB5001382</kb>
+			<date>2021/04/08</date>
+			<size>538.59 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5000848-x64.msu</name>
-			<description>2021-03 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/03/windows8.1-kb5000848-x64_683433cd177514015756df309335a16492d0fff8.msu</url>
+			<name>Windows8.1-KB5001382-x64.msu</name>
+			<description>2021-04 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/04/windows8.1-kb5001382-x64_b78fb64a69b1bffee0191b9855e27b88bc785dc9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

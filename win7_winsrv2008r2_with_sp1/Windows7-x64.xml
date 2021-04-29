@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/03/09" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/04/13" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4709,13 +4709,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/11/windows6.1-kb4592510-x64_2798f0d248e08c292076980d2b954e6e1f2c8f99.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5000841</kb>
-			<date>2021/03/04</date>
-			<size>355.69 MB</size>
+			<kb>KB5001335</kb>
+			<date>2021/04/08</date>
+			<size>356.66 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5000841-x64.msu</name>
-			<description>2021-03 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/03/windows6.1-kb5000841-x64_dbb8a2b131f2e1339d3b01fd40eaf7fb7257d2b2.msu</url>
+			<name>Windows6.1-KB5001335-x64.msu</name>
+			<description>2021-04 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/04/windows6.1-kb5001335-x64_0f92904cb93a7bd30cc5c0ba86c7e6fe4a91047d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

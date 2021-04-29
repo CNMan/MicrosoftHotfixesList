@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/03/09" architecture="x86" version="Office 2010">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/04/13" architecture="x86" version="Office 2010">
 	<updates>
 		<update extract="0">
 			<kb>KB4484385</kb>
@@ -29,6 +29,15 @@
 			<url>http://download.microsoft.com/download/0/1/4/014b0f6b-c7be-43ae-8eb0-36e1561118b6/ace2010-kb4493143-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
+			<kb>KB2553491</kb>
+			<date>2021/03/31</date>
+			<size>10.88 MB</size>
+			<category>Security</category>
+			<name>analys32loc2010-kb2553491-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2010 (Analysis ToolPak)</description>
+			<url>http://download.microsoft.com/download/4/5/6/4565f9e6-f200-4c56-9e35-0eb0c0c9e6ac/analys32loc2010-kb2553491-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
 			<kb>KB3213626</kb>
 			<date>2017/08/25</date>
 			<size>22.80 MB</size>
@@ -56,22 +65,22 @@
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4504707</kb>
-			<date>2021/02/24</date>
-			<size>36.16 MB</size>
+			<kb>KB2589361</kb>
+			<date>2021/03/31</date>
+			<size>1.58 MB</size>
 			<category>Security</category>
-			<name>excel2010-kb4504707-fullfile-x86-glb.exe</name>
-			<description>Microsoft Excel 2010</description>
-			<url>http://download.microsoft.com/download/8/a/e/8aeebb22-5339-468d-80c4-ad427c57c30c/excel2010-kb4504707-fullfile-x86-glb.exe</url>
+			<name>eurotool2010-kb2589361-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2010 (Euro Converter)</description>
+			<url>http://download.microsoft.com/download/9/d/c/9dc321a9-3356-4a8e-837c-2d7b2b1e94db/eurotool2010-kb2589361-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB2956084</kb>
-			<date>2015/03/23</date>
-			<size>24 KB</size>
-			<category>General</category>
-			<name>excelloc2010-kb2956084.txt</name>
+			<kb>KB3017810</kb>
+			<date>2021/03/31</date>
+			<size>88.10 MB</size>
+			<category>Security</category>
+			<name>excelloc2010-kb3017810-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2010 (Localizations)</description>
-			<url>https://dl.dropboxusercontent.com/s/zb3cs53nx00n2fm/excelloc2010-kb2956084.txt</url>
+			<url>http://download.microsoft.com/download/7/c/4/7c462a4f-7864-4787-bf08-bb4a57efcbed/excelloc2010-kb3017810-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3055047</kb>
@@ -128,13 +137,13 @@
 			<url>http://download.microsoft.com/download/9/0/3/90397B8B-F3B1-43AB-AB07-1E2BF2A04AD8/gkall2010-kb2881030-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493214</kb>
-			<date>2021/02/24</date>
+			<kb>KB4504739</kb>
+			<date>2021/03/31</date>
 			<size>2.95 MB</size>
 			<category>Security</category>
-			<name>graph2010-kb4493214-fullfile-x86-glb.exe</name>
+			<name>graph2010-kb4504739-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/5/6/9/56984c6a-f1d5-4511-bad7-2c93669021b2/graph2010-kb4493214-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/9/f/99f6f1cb-9fae-4e5d-b10e-d28be06152ba/graph2010-kb4504739-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2878231</kb>
@@ -236,13 +245,13 @@
 			<url>http://download.microsoft.com/download/C/D/8/CD8A3590-D8E1-4A7F-AF97-D66DCFC6AEB4/mshelp2010-kb2850016-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4504703</kb>
-			<date>2021/02/24</date>
-			<size>9.30 MB</size>
+			<kb>KB4504738</kb>
+			<date>2021/03/31</date>
+			<size>9.25 MB</size>
 			<category>Security</category>
-			<name>mso2010-kb4504703-fullfile-x86-glb.exe</name>
+			<name>mso2010-kb4504738-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/1/c/f/1cf489d1-11a1-4e44-8144-294ed8ee4f42/mso2010-kb4504703-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/8/e/18e58657-7632-40c1-8a76-d727cc86b5ce/mso2010-kb4504738-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589375</kb>
@@ -452,13 +461,13 @@
 			<url>http://download.microsoft.com/download/C/3/E/C3E65E20-CAF4-48C5-9176-BF012C1D0F39/outlfltr2010-kb3115475-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486742</kb>
-			<date>2020/11/23</date>
+			<kb>KB4493185</kb>
+			<date>2021/03/31</date>
 			<size>84.26 MB</size>
 			<category>Security</category>
-			<name>outlookloc2010-kb4486742-fullfile-x86-glb.exe</name>
+			<name>outlookloc2010-kb4493185-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2010</description>
-			<url>http://download.microsoft.com/download/a/7/0/a703562d-d5c4-4d68-989d-cdead5ec5d93/outlookloc2010-kb4486742-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/2/5/12533eed-956b-4fe0-ad76-8d65408b5167/outlookloc2010-kb4493185-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2553170</kb>
@@ -614,13 +623,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/10/wec-x-none_9524dc91a4f6d1b09c4f5ff2ae22d6a9779d9a65.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493145</kb>
-			<date>2020/12/30</date>
-			<size>26.76 MB</size>
+			<kb>KB4493218</kb>
+			<date>2021/03/31</date>
+			<size>26.60 MB</size>
 			<category>Security</category>
-			<name>word2010-kb4493145-fullfile-x86-glb.exe</name>
+			<name>word2010-kb4493218-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2010</description>
-			<url>http://download.microsoft.com/download/1/3/2/132853d5-865f-4a5e-a82b-1c21a9db9bb9/word2010-kb4493145-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/4/9/5/495282d2-25b1-4a2c-adbd-89d1c35a69c6/word2010-kb4493218-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461625</kb>

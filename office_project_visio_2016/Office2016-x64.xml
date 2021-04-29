@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/03/09" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/04/13" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB4493188</kb>
@@ -83,13 +83,13 @@
 			<url>http://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493233</kb>
-			<date>2021/02/24</date>
-			<size>133.23 MB</size>
+			<kb>KB4504721</kb>
+			<date>2021/03/31</date>
+			<size>136.27 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb4493233-fullfile-x64-glb.exe</name>
+			<name>excel2016-kb4504721-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>http://download.microsoft.com/download/a/9/9/a99af0a1-3d5c-4d52-aaf7-9a97c5ea521c/excel2016-kb4493233-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/6/b/86bf614c-bf66-48f0-9362-d1612ef26bcf/excel2016-kb4504721-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -137,13 +137,13 @@
 			<url>http://download.microsoft.com/download/2/6/B/26B31C61-B2CF-46F9-9C2B-F507581C3620/gkall2016-kb3115276-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493200</kb>
-			<date>2021/02/24</date>
+			<kb>KB4504724</kb>
+			<date>2021/03/31</date>
 			<size>3.63 MB</size>
 			<category>Security</category>
-			<name>graph2016-kb4493200-fullfile-x64-glb.exe</name>
+			<name>graph2016-kb4504724-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/5/6/5/5652d478-236c-4605-9948-b063496bca68/graph2016-kb4493200-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/f/8/0/f80212ee-d6c7-4819-831c-866085dd201b/graph2016-kb4504724-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022219</kb>
@@ -191,22 +191,22 @@
 			<url>http://download.microsoft.com/download/8/A/5/8A5660A8-E87F-44C6-A9CF-E127F099F3EC/msmipc2016-kb3178666-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493225</kb>
-			<date>2021/02/24</date>
-			<size>249.80 MB</size>
+			<kb>KB4504722</kb>
+			<date>2021/03/31</date>
+			<size>249.60 MB</size>
 			<category>Security</category>
-			<name>mso2016-kb4493225-fullfile-x64-glb.exe</name>
+			<name>mso2016-kb4504722-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/3/d/8/3d8b170a-a82a-4fb6-b565-90177117cd7a/mso2016-kb4493225-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/b/a/f/baf17ffe-6fd8-462e-8d98-48b8bb47ee00/mso2016-kb4504722-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>kb4484251</kb>
-			<date>2020/08/21</date>
-			<size>3.37 MB</size>
+			<kb>KB4486672</kb>
+			<date>2021/03/31</date>
+			<size>3.30 MB</size>
 			<category>General</category>
-			<name>msodll202016-kb4484251-fullfile-x64-glb.exe</name>
+			<name>msodll202016-kb4486672-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll20-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/a/d/5/ad5591c1-84f6-4051-a33e-c67056eb2657/msodll202016-kb4484251-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/4/a/04a1086b-0828-4b04-b7b4-17f5dac3918f/msodll202016-kb4486672-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4486747</kb>
@@ -362,13 +362,13 @@
 			<url>http://download.microsoft.com/download/C/A/B/CABA6265-DE0E-4458-A701-0BE43690D8F1/outlfltr2016-kb3115407-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493226</kb>
-			<date>2021/02/24</date>
-			<size>96.71 MB</size>
-			<category>General</category>
-			<name>outlook2016-kb4493226-fullfile-x64-glb.exe</name>
+			<kb>KB4504712</kb>
+			<date>2021/03/31</date>
+			<size>96.72 MB</size>
+			<category>Security</category>
+			<name>outlook2016-kb4504712-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>http://download.microsoft.com/download/0/1/3/013aefd8-9881-468b-a699-9efb37fd68ac/outlook2016-kb4493226-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/f/8/2/f82deaa4-5eb2-49fe-bfcc-52bcbab98289/outlook2016-kb4504712-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -497,13 +497,13 @@
 			<url>http://download.microsoft.com/download/b/8/2/b823b066-04a8-4714-97bc-0cca3d423b93/visio2016-kb4493151-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493156</kb>
-			<date>2020/12/30</date>
-			<size>47.43 MB</size>
+			<kb>KB4493198</kb>
+			<date>2021/03/31</date>
+			<size>47.46 MB</size>
 			<category>Security</category>
-			<name>word2016-kb4493156-fullfile-x64-glb.exe</name>
+			<name>word2016-kb4493198-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>http://download.microsoft.com/download/3/2/2/3227e9e7-cf58-471d-8955-817be163034b/word2016-kb4493156-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/e/7/e/e7e4dfbd-21ed-497c-af2a-02fe695a3e2a/word2016-kb4493198-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>
