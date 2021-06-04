@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/04/13" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/05/11" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484366</kb>
@@ -11,13 +11,13 @@
 			<url>http://download.microsoft.com/download/1/b/7/1b7dd098-4902-47e1-9967-9bae17b60243/access2013-kb4484366-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486762</kb>
-			<date>2020/12/30</date>
+			<kb>KB4493206</kb>
+			<date>2021/04/28</date>
 			<size>10.98 MB</size>
 			<category>Security</category>
-			<name>ace2013-kb4486762-fullfile-x64-glb.exe</name>
+			<name>ace2013-kb4493206-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/8/7/6/876cfec3-a902-4a5a-9ae8-ef106e4586f1/ace2013-kb4486762-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/a/e/0ae92ed7-9ef4-4f14-902d-04329d3e166a/ace2013-kb4493206-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2899522</kb>
@@ -101,13 +101,13 @@
 			<url>http://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4504735</kb>
-			<date>2021/03/31</date>
+			<kb>KB5001936</kb>
+			<date>2021/04/28</date>
 			<size>114.84 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb4504735-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb5001936-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/8/2/1/821ce831-7fea-4e16-a99f-2de30dfa777e/excel2013-kb4504735-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/1/6/916e2946-6c17-45bb-b857-f5887e2bdeb4/excel2013-kb5001936-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -164,13 +164,13 @@
 			<url>http://download.microsoft.com/download/F/5/6/F56E87B6-700E-4B99-97C6-DABF20F95CD7/gkall2013-kb3039795-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4504727</kb>
-			<date>2021/03/31</date>
+			<kb>KB5001927</kb>
+			<date>2021/04/28</date>
 			<size>3.35 MB</size>
 			<category>Security</category>
-			<name>graph2013-kb4504727-fullfile-x64-glb.exe</name>
+			<name>graph2013-kb5001927-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/8/5/8/858584f7-d455-46c7-91d2-9a57cec93ac0/graph2013-kb4504727-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/4/6/6/466b5cf7-807e-4e37-8704-7ea3fd18896b/graph2013-kb5001927-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022226</kb>
@@ -263,13 +263,13 @@
 			<url>http://download.microsoft.com/download/6/2/D/62DC8E6F-39F0-4155-923E-E43BFDC29C8D/msmipc2013-kb3172523-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4504726</kb>
-			<date>2021/03/31</date>
-			<size>225.68 MB</size>
+			<kb>KB5001925</kb>
+			<date>2021/05/03</date>
+			<size>225.67 MB</size>
 			<category>Security</category>
-			<name>mso2013-kb4504726-fullfile-x64-glb.exe</name>
+			<name>mso2013-kb5001925-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/d/b/b/dbbf55ff-e8d3-491e-96bc-f2d8f0743a84/mso2013-kb4504726-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/f/6/9/f6959a66-3e13-4f21-98d5-9eaf912a67b8/mso2013-kb5001925-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172522</kb>
@@ -317,13 +317,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/nlgmsfad-x-none_1223811d6585b3a89744d39c845a0b29290345d3.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB4462200</kb>
-			<date>2019/03/14</date>
+			<kb>KB4464542</kb>
+			<date>2021/04/28</date>
 			<size>12.19 MB</size>
-			<category>General</category>
-			<name>oart2013-kb4462200-fullfile-x64-glb.exe</name>
+			<category>Security</category>
+			<name>oart2013-kb4464542-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Art)</description>
-			<url>http://download.microsoft.com/download/0/F/A/0FA4DDDD-129D-4BE4-AEE8-DDE1C4425F5E/oart2013-kb4462200-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/e/4/a/e4aea28f-4244-4cf8-8606-9ad2f2a2246a/oart2013-kb4464542-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039720</kb>
@@ -578,13 +578,13 @@
 			<url>http://download.microsoft.com/download/8/4/7/847A162A-06AA-47D6-ABAD-F9D59CC377C9/wec2013-kb3172533-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493208</kb>
-			<date>2021/03/31</date>
+			<kb>KB5001931</kb>
+			<date>2021/04/28</date>
 			<size>166.35 MB</size>
 			<category>Security</category>
-			<name>word2013-kb4493208-fullfile-x64-glb.exe</name>
+			<name>word2013-kb5001931-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>http://download.microsoft.com/download/4/0/8/40876e1b-9056-4f8b-9c60-38d9d39747dd/word2013-kb4493208-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/d/6/2d61f02d-6d3b-49ad-8044-de159b88e25a/word2013-kb5001931-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>

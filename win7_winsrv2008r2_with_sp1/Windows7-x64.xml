@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/04/13" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/05/11" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4673,13 +4673,13 @@
 			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4600944</kb>
-			<date>2021/03/05</date>
+			<kb>KB5001843</kb>
+			<date>2021/04/26</date>
 			<size>40.48 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB4600944-v2-x64.exe</name>
-			<description>2021-03 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/03/ndp48-kb4600944-v2-x64_46e4157f2e3793c230ff8fad706130142769c2ff.exe</url>
+			<name>NDP48-KB5001843-x64.exe</name>
+			<description>2021-05 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/04/ndp48-kb5001843-x64_dc06d911dffd65ed01ac53c7d80f6764bf820496.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -4709,13 +4709,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/11/windows6.1-kb4592510-x64_2798f0d248e08c292076980d2b954e6e1f2c8f99.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001335</kb>
-			<date>2021/04/08</date>
-			<size>356.66 MB</size>
+			<kb>KB5003233</kb>
+			<date>2021/05/03</date>
+			<size>360.45 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5001335-x64.msu</name>
-			<description>2021-04 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/04/windows6.1-kb5001335-x64_0f92904cb93a7bd30cc5c0ba86c7e6fe4a91047d.msu</url>
+			<name>Windows6.1-KB5003233-x64.msu</name>
+			<description>2021-05 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/05/windows6.1-kb5003233-x64_e51f18e0b70f455bc318123599af001b67344047.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

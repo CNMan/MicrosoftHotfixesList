@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/04/13" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/05/11" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1982,13 +1982,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/01/windows8.1-kb4601058-x64-ndp48_83fc9e3a0898ccbff2c76087fc37c667e365f8ef.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001382</kb>
-			<date>2021/04/08</date>
-			<size>538.59 MB</size>
+			<kb>KB5001845</kb>
+			<date>2021/03/31</date>
+			<size>52.55 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5001382-x64.msu</name>
-			<description>2021-04 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/04/windows8.1-kb5001382-x64_b78fb64a69b1bffee0191b9855e27b88bc785dc9.msu</url>
+			<name>Windows8.1-KB5001845-x86-NDP48.msu</name>
+			<description>2021-05 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/04/windows8.1-kb5001845-x64-ndp48_ca8253972ce65871a2bb417f4ad605ff13d39ec8.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5003209</kb>
+			<date>2021/04/08</date>
+			<size>538.60 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB5003209-x64.msu</name>
+			<description>2021-05 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/05/windows8.1-kb5003209-x64_48bbbdef89729945df535cf05271c17ea8bb2d48.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
