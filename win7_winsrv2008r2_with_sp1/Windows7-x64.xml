@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/05/11" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/07/13" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -323,7 +323,7 @@
 			<category>Extra/Addons/FM.API</category>
 			<name>Windows6.1-KB943790-x64.msu</name>
 			<description>Update that extends the File Management APIs to provide discovery and restoration of deleted files</description>
-			<url>http://download.microsoft.com/download/1/8/3/183923B6-84FC-4669-9BB2-9A8E759CFBA4/Windows6.1-KB943790-x64.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB943790-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB969168</kb>
@@ -485,7 +485,7 @@
 			<category>Extra/MediaFeaturePack</category>
 			<name>Windows6.1-KB968211-x64-RefreshPkg.msu</name>
 			<description>Windows Media Feature Pack for Windows 7 N and for Windows 7 KN</description>
-			<url>http://download.microsoft.com/download/B/9/B/B9BED058-8669-490E-BA61-D502E4E8BEB1/Windows6.1-KB968211-x64-RefreshPkg.msu</url>
+			<url>http://web.archive.org/web/20181208200645if_/http://download.microsoft.com/download/B/9/B/B9BED058-8669-490E-BA61-D502E4E8BEB1/Windows6.1-KB968211-x64-RefreshPkg.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB968212</kb>
@@ -503,7 +503,7 @@
 			<category>Extra/RSAT</category>
 			<name>Windows6.1-KB958830-x64-RefreshPkg.msu</name>
 			<description>Remote Server Administration Tools for Windows 7</description>
-			<url>http://200.145.157.2/Utilidades/Service%20Packs/Gerenciador%20AD/Windows6.1-KB958830-x64-RefreshPkg.msu</url>
+			<url>http://web.archive.org/web/20150322103752if_/http://download.microsoft.com/download/4/F/7/4F71806A-1C56-4EF2-9B4F-9870C4CFD2EE/Windows6.1-KB958830-x64-RefreshPkg.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB970985</kb>
@@ -521,7 +521,7 @@
 			<category>Extra/VirtualPC</category>
 			<name>Windows6.1-KB958559-x64-RefreshPkg.msu</name>
 			<description>Windows Virtual PC</description>
-			<url>http://download.microsoft.com/download/0/5/5/0554AE99-785F-45CB-B1F2-0E3ED1E6117D/Windows6.1-KB958559-x64-RefreshPkg.msu</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W7601/Windows6.1-KB958559-x64-RefreshPkg.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2461631</kb>
@@ -557,7 +557,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2496898-v3-x64.msu</name>
 			<description>Update to support the new currency symbol for the Indian Rupee</description>
-			<url>http://zaotrud.splyne.ru/beeline/IMGx64RusW7/Content/Deploy/Applications/HP%20Essential%20System%20Updates%20for%20W7/program%20files/HP/HP%20ESU%20for%20Microsoft%20Windows%207/Data%20Files/Hot%20Fixes/x64/Windows6.1-KB2496898-v3-x64.msu</url>
+			<url>http://dlleak6.360safe.com/leak/win7/Windows6.1-KB2496898-v3-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2506014</kb>
@@ -4673,13 +4673,13 @@
 			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001843</kb>
-			<date>2021/04/26</date>
-			<size>40.48 MB</size>
+			<kb>KB5004116</kb>
+			<date>2021/05/26</date>
+			<size>40.68 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5001843-x64.exe</name>
-			<description>2021-05 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/04/ndp48-kb5001843-x64_dc06d911dffd65ed01ac53c7d80f6764bf820496.exe</url>
+			<name>NDP48-KB5004116-x64.exe</name>
+			<description>2021-07 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/06/ndp48-kb5004116-x64_c8106f8f90d4775299380e8df9158b69bda4f979.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -4700,22 +4700,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4578952-x64_30ac0df8554c2647017f3b36cc02e833a3187364.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4592510</kb>
-			<date>2020/11/30</date>
-			<size>9.14 MB</size>
+			<kb>KB5004289</kb>
+			<date>2021/07/08</date>
+			<size>357.50 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB4592510-x64.msu</name>
-			<description>2020-12 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/11/windows6.1-kb4592510-x64_2798f0d248e08c292076980d2b954e6e1f2c8f99.msu</url>
+			<name>Windows6.1-KB5004289-x64.msu</name>
+			<description>2021-07 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows6.1-kb5004289-x64_b927b11a92ec8e10c69afdefc2263eb0439091ad.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5003233</kb>
-			<date>2021/05/03</date>
-			<size>360.45 MB</size>
+			<kb>KB5004378</kb>
+			<date>2021/06/08</date>
+			<size>9.15 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5003233-x64.msu</name>
-			<description>2021-05 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/05/windows6.1-kb5003233-x64_e51f18e0b70f455bc318123599af001b67344047.msu</url>
+			<name>Windows6.1-KB5004378-x64.msu</name>
+			<description>2021-07 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows6.1-kb5004378-x64_e295e0dfb732d1d4712c6aa5ac72aa28a7067359.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

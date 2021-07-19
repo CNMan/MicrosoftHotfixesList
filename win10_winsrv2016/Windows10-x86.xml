@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/05/21" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/07/13" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
-			<date>2021/04/13</date>
-			<size>5.00 KB</size>
+			<date>2021/06/08</date>
+			<size>5.11 KB</size>
 			<category>General</category>
-			<name>Information-ReadMe.txt</name>
+			<name>Information-PleaseRead.txt</name>
 			<description>Info to differentiate updates based on build number</description>
-			<url>https://dl.dropboxusercontent.com/s/9a6o6p08gr8vhcm/Information-ReadMe.txt</url>
+			<url>https://dl.dropboxusercontent.com/s/bdr1sp6k6f0fu7m/Information-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087515</kb>
@@ -47,22 +47,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2021/04/windows10.0-kb5001402-x86_27a769112966bdc171f5f300bfd4819f02941f5a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001841</kb>
-			<date>2021/04/19</date>
-			<size>30.73 MB</size>
+			<kb>KB5004115</kb>
+			<date>2021/05/26</date>
+			<size>31.38 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5001841-x86-NDP48.msu</name>
+			<name>Windows10.0-KB5004115-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2021/04/windows10.0-kb5001841-x86-ndp48_b0ecd680ddda4003f6853189195fc8acd120a7dd.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/06/windows10.0-kb5004115-x86-ndp48_c2cfb59ea4bfd8b33c46c231fa15e098c85df28c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5003197</kb>
-			<date>2021/05/03</date>
-			<size>891.25 MB</size>
+			<kb>KB5004238</kb>
+			<date>2021/07/09</date>
+			<size>891.27 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5003197-x86.msu</name>
+			<name>Windows10.0-KB5004238-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2021/05/windows10.0-kb5003197-x86_8fcc3f3eb472bca9c5db9c9710894471583acee8.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows10.0-kb5004238-x86_8d000fa9d73ffb093affc1ab1f20270f6d5abdf2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -92,31 +92,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x86_947f151a8bb5a0b0797702e53431c52d56c02c32.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5003217</kb>
+			<kb>KB5003538</kb>
 			<date>2021/05/17</date>
-			<size>273.77 MB</size>
+			<size>45.97 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5003217-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2021/05/windows10.0-kb5003217-x86_2e98a5d53c0f08eed1f07882bdeed9005b9b845d.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5003243</kb>
-			<date>2021/05/03</date>
-			<size>6.16 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB5003243-x86.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2021/05/windows10.0-kb5003243-x86_d291d08679c83237bc807fe45b0cc6e1370c61f1.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5003255</kb>
-			<date>2021/04/19</date>
-			<size>46.23 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB5003255-x86-NDP48.msu</name>
+			<name>Windows10.0-KB5003538-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2021/04/windows10.0-kb5003255-x86-ndp48_4988553bc3548b6c5bc6fd753c108ad21ad60c12.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2021/05/windows10.0-kb5003538-x86-ndp48_57cbd716a01960ef8232f2cb7d2f9b0d385912e3.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5003711</kb>
+			<date>2021/05/27</date>
+			<size>6.18 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB5003711-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2021/06/windows10.0-kb5003711-x86_70a7ef9f67506eaeac5ae1747e90220e04e22492.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5004244</kb>
+			<date>2021/07/09</date>
+			<size>277.87 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB5004244-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows10.0-kb5004244-x86_f3b02d749e702248c4932721f5f58c2fc6378684.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4517245</kb>
@@ -137,31 +137,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x86_002b1ffa7fb31836aeaed74007a6949d31a96460.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5003212</kb>
+			<kb>KB5003539</kb>
 			<date>2021/05/17</date>
-			<size>326.95 MB</size>
+			<size>44.01 MB</size>
 			<category>General/18362</category>
-			<name>Windows10.0-KB5003212-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2021/05/windows10.0-kb5003212-x86_0af6f7542c377f326e80404c6b40851d8582d974.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5003244</kb>
-			<date>2021/05/03</date>
-			<size>6.51 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB5003244-x86.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2021/05/windows10.0-kb5003244-x86_72ad5745a2607d2fffc5aad29f9a1223ee05d7f3.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5003256</kb>
-			<date>2021/04/19</date>
-			<size>44.28 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB5003256-x86-NDP48.msu</name>
+			<name>Windows10.0-KB5003539-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2021/04/windows10.0-kb5003256-x86-ndp48_a78d104ab0b543ca71ede2d5d0abf53ac6e99464.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2021/05/windows10.0-kb5003539-x86-ndp48_ee9a6ee0c219c49a82e625fc121f4e8f0e63b337.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5004245</kb>
+			<date>2021/07/09</date>
+			<size>327.20 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB5004245-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1903</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows10.0-kb5004245-x86_1ff53f72381912f791e0a1a5fa3e2bbf41bdcf23.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5004748</kb>
+			<date>2021/07/09</date>
+			<size>6.54 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB5004748-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1903</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/07/windows10.0-kb5004748-x86_e456b8de1221c6e9ecfd9083fd3dbe2034325559.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4580325</kb>
@@ -182,22 +182,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2021/01/windows10.0-kb4598481-x86_32286dd2d08021ce7ce35ee4855beb81c8d5f09e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5003214</kb>
-			<date>2021/05/20</date>
-			<size>271.14 MB</size>
+			<kb>KB5003537</kb>
+			<date>2021/05/17</date>
+			<size>41.79 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5003214-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 2004</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2021/05/windows10.0-kb5003214-x86_8e73ca380a5485438b4553dd9b29b9b77eef8ac9.msu</url>
+			<name>Windows10.0-KB5003537-x86-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Version 2004</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/05/windows10.0-kb5003537-x86-ndp48_0f7a496cc7e0dc08f0494e8c9e3c6a83a9175e97.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5003254</kb>
-			<date>2021/04/19</date>
-			<size>41.61 MB</size>
+			<kb>KB5004237</kb>
+			<date>2021/07/09</date>
+			<size>271.26 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5003254-x86-NDP48.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 10 Version 2004</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2021/04/windows10.0-kb5003254-x86-ndp48_8a723b2db8c6de85fa7054b7481d056d0ce6dbe1.msu</url>
+			<name>Windows10.0-KB5004237-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 2004</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/07/windows10.0-kb5004237-x86_571a793bba0b7d881e7076f83b7f1245ff41011f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4562830</kb>

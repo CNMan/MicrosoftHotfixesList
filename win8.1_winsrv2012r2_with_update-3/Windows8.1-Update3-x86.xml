@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/05/11" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/07/13" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1028,15 +1028,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3126030-x86_6dd44fbbc69a07c797f8abc66c7d82e4e7a9303e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3134815</kb>
-			<date>2016/01/08</date>
-			<size>277 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3134815-x86.msu</name>
-			<description>CryptDuplicateKey function doesn't save state for an RC2 40-Bit key</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows8.1-kb3134815-x86_ad7a3c50e74048ff83e2aaf4dd9e914d1267b3ed.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3137728</kb>
 			<date>2016/02/05</date>
 			<size>498 KB</size>
@@ -1883,22 +1874,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/01/windows8.1-kb4601058-x86-ndp48_32b51237ddbe5fa2854a91bdabe672570e65df90.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001845</kb>
-			<date>2021/03/31</date>
-			<size>30.70 MB</size>
+			<kb>KB5004118</kb>
+			<date>2021/05/26</date>
+			<size>31.33 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5001845-x86-NDP48.msu</name>
-			<description>2021-05 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/04/windows8.1-kb5001845-x86-ndp48_d6aa134e5f5d02a0083be52bc3ae7184c83863b9.msu</url>
+			<name>Windows8.1-KB5004118-x86-NDP48.msu</name>
+			<description>2021-07 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/06/windows8.1-kb5004118-x86-ndp48_6dd89c6d8f80232abb03fda8f13d4470ab8f3e0b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5003209</kb>
-			<date>2021/05/03</date>
-			<size>349.81 MB</size>
+			<kb>KB5004298</kb>
+			<date>2021/07/07</date>
+			<size>347.87 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5003209-x86.msu</name>
-			<description>2021-05 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/05/windows8.1-kb5003209-x86_1fe41635fd335b185dd38a45f42222a7158b0627.msu</url>
+			<name>Windows8.1-KB5004298-x86.msu</name>
+			<description>2021-07 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows8.1-kb5004298-x86_18b20d7e16d975826c1f68fbfeb70b85208c0e7d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

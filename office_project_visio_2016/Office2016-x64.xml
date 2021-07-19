@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/05/11" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/07/13" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
-			<kb>KB4493188</kb>
-			<date>2021/02/24</date>
+			<kb>KB4504711</kb>
+			<date>2021/06/02</date>
 			<size>19.90 MB</size>
-			<category>General</category>
-			<name>access2016-kb4493188-fullfile-x64-glb.exe</name>
+			<category>Security</category>
+			<name>access2016-kb4504711-fullfile-x64-glb.exe</name>
 			<description>Microsoft Access 2016</description>
-			<url>http://download.microsoft.com/download/d/7/d/d7d35d3a-7085-47be-874f-768efd991abb/access2016-kb4493188-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/6/8/1/6811a1c8-a8c6-491f-836b-6d561b242ebb/access2016-kb4504711-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493197</kb>
-			<date>2021/04/28</date>
-			<size>4.26 MB</size>
-			<category>Security</category>
-			<name>ace2016-kb4493197-fullfile-x64-glb.exe</name>
+			<kb>KB5001971</kb>
+			<date>2021/06/29</date>
+			<size>4.25 MB</size>
+			<category>General</category>
+			<name>ace2016-kb5001971-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/2/5/8/258625d7-8a87-4265-8ce2-5902650f8bd5/ace2016-kb4493197-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/d/0/5d0c1e03-4f44-475a-ae5a-5050dc5ea6c7/ace2016-kb5001971-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011259</kb>
@@ -83,13 +83,13 @@
 			<url>http://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001918</kb>
-			<date>2021/04/28</date>
-			<size>136.27 MB</size>
+			<kb>KB5001977</kb>
+			<date>2021/06/29</date>
+			<size>136.26 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5001918-fullfile-x64-glb.exe</name>
+			<name>excel2016-kb5001977-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>http://download.microsoft.com/download/0/5/3/05325b6c-2011-4fe5-861f-46bd22bf3560/excel2016-kb5001918-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/c/1/c/c1c45d4a-0639-4f7f-8d27-166c16a0e8d7/excel2016-kb5001977-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -137,13 +137,13 @@
 			<url>http://download.microsoft.com/download/2/6/B/26B31C61-B2CF-46F9-9C2B-F507581C3620/gkall2016-kb3115276-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001923</kb>
-			<date>2021/04/28</date>
+			<kb>KB5001950</kb>
+			<date>2021/05/27</date>
 			<size>3.63 MB</size>
 			<category>Security</category>
-			<name>graph2016-kb5001923-fullfile-x64-glb.exe</name>
+			<name>graph2016-kb5001951-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/3/a/8/3a8c8a31-a295-48f2-9f3f-a4a690e96e90/graph2016-kb5001923-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/7/0/d/70d46057-82ae-4546-a087-405bb51a248d/graph2016-kb5001951-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022219</kb>
@@ -191,13 +191,13 @@
 			<url>http://download.microsoft.com/download/8/A/5/8A5660A8-E87F-44C6-A9CF-E127F099F3EC/msmipc2016-kb3178666-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001920</kb>
-			<date>2021/04/28</date>
-			<size>249.80 MB</size>
+			<kb>KB5001979</kb>
+			<date>2021/06/29</date>
+			<size>249.79 MB</size>
 			<category>Security</category>
-			<name>mso2016-kb5001920-fullfile-x64-glb.exe</name>
+			<name>mso2016-kb5001979-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/d/f/0/df00a32a-4417-4045-8edc-237840c52c20/mso2016-kb5001920-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/8/4/984c65fc-484d-43fa-9531-0f84b5e2c074/mso2016-kb5001979-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4486672</kb>
@@ -362,13 +362,13 @@
 			<url>http://download.microsoft.com/download/C/A/B/CABA6265-DE0E-4458-A701-0BE43690D8F1/outlfltr2016-kb3115407-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001921</kb>
-			<date>2021/04/28</date>
-			<size>96.72 MB</size>
-			<category>General</category>
-			<name>outlook2016-kb5001921-fullfile-x64-glb.exe</name>
+			<kb>KB5001980</kb>
+			<date>2021/06/29</date>
+			<size>96.71 MB</size>
+			<category>Security</category>
+			<name>outlook2016-kb5001980-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>http://download.microsoft.com/download/c/d/9/cd905d5c-dee6-486e-8278-4cf4f4c02331/outlook2016-kb5001921-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/1/b/2/1b2237cc-7080-48da-8800-abde043a1aac/outlook2016-kb5001980-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -497,13 +497,13 @@
 			<url>http://download.microsoft.com/download/b/8/2/b823b066-04a8-4714-97bc-0cca3d423b93/visio2016-kb4493151-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001919</kb>
-			<date>2021/04/28</date>
-			<size>47.46 MB</size>
+			<kb>KB5001949</kb>
+			<date>2021/06/29</date>
+			<size>47.45 MB</size>
 			<category>Security</category>
-			<name>word2016-kb5001919-fullfile-x64-glb.exe</name>
+			<name>word2016-kb5001949-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>http://download.microsoft.com/download/0/c/e/0ce76ca1-f153-47c8-a0d5-7dd78d794eb8/word2016-kb5001919-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/2/b/52b0701c-8af6-4112-aa4a-45da67323914/word2016-kb5001949-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>
