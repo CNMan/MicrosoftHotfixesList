@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/07/13" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/08/10" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -29,15 +29,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x64_0b61d9a03db731562e0a0b49383342a4d8cbe36a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4580325</kb>
-			<date>2020/10/14</date>
-			<size>161 KB</size>
-			<category>General/14393</category>
-			<name>windows10.0-kb4577586-x64_809b9640d04c5af4c7e78499052abaa936cb670a.msu</name>
-			<description>Adobe Flash Player Removal Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x64_809b9640d04c5af4c7e78499052abaa936cb670a.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5001402</kb>
 			<date>2021/04/16</date>
 			<size>11.52 MB</size>
@@ -47,22 +38,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2021/04/windows10.0-kb5001402-x64_0108fcc32c0594f8578c3787babb7d84e6363864.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5004115</kb>
-			<date>2021/05/26</date>
+			<kb>KB5004752</kb>
+			<date>2021/06/28</date>
 			<size>54.45 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5004115-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5004752-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/06/windows10.0-kb5004115-x64-ndp48_51fbefa7908a32cec11063b71aa93f7101a35b21.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/07/windows10.0-kb5004752-x64-ndp48_5e28b8d52d8a84a166681bebe81808b4c5356b71.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5004238</kb>
-			<date>2021/07/09</date>
+			<kb>KB5005043</kb>
+			<date>2021/08/06</date>
 			<size>1.63 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5004238-x64.msu</name>
+			<name>Windows10.0-KB5005043-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows10.0-kb5004238-x64_e3dd1cf22b1146f2469ef31f5fec0f47c8b5960b.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005043-x64_6e39252b88646ca55582da59e6f86a021d8b6ddd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -83,40 +74,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486153-x64_43ee33b302bfdba470542a128a9ee0b58faa5412.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4580325</kb>
-			<date>2020/10/14</date>
-			<size>161 KB</size>
+			<kb>KB5004332</kb>
+			<date>2021/06/07</date>
+			<size>79.54 MB</size>
 			<category>General/17763</category>
-			<name>windows10.0-kb4577586-x64_d0f434327db9e3308b86591c248c825c03687632.msu</name>
-			<description>Adobe Flash Player Removal Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x64_d0f434327db9e3308b86591c248c825c03687632.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5003538</kb>
-			<date>2021/05/17</date>
-			<size>80.19 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB5003538-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5004332-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2021/05/windows10.0-kb5003538-x64-ndp48_cd3b6f374205c026b1da2660db47e7975f97453e.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/06/windows10.0-kb5004332-x64-ndp48_7d9404b45a7acdf861a74e1677281adc37e1097c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5003711</kb>
-			<date>2021/05/27</date>
-			<size>13.73 MB</size>
+			<kb>KB5005030</kb>
+			<date>2021/08/03</date>
+			<size>502.72 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5003711-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2021/06/windows10.0-kb5003711-x64_577dc9cfe2e84d23b193aae2678b12e777fc7e55.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5004244</kb>
-			<date>2021/07/09</date>
-			<size>505.91 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB5004244-x64.msu</name>
+			<name>Windows10.0-KB5005030-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows10.0-kb5004244-x64_5685623313a6de061e0c42fed3391c29750a6b1b.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005030-x64_222160abfb75f543a693ca773dbcd0553ace6f03.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5005112</kb>
+			<date>2021/07/16</date>
+			<size>13.80 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB5005112-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1809</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows10.0-kb5005112-x64_81d09dc6978520e1a6d44b3b15567667f83eba2c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4517245</kb>
@@ -128,76 +110,58 @@
 			<url>http://b1.download.windowsupdate.com/d/upgr/2019/11/windows10.0-kb4517245-x64_5dc34b6684b9135c5404b5ebb78555e97917aa90.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4580325</kb>
-			<date>2020/10/14</date>
-			<size>160 KB</size>
+			<kb>KB5004333</kb>
+			<date>2021/06/07</date>
+			<size>77.18 MB</size>
 			<category>General/18362</category>
-			<name>windows10.0-kb4577586-x64_ec16e118cd8b99df185402c7a0c65a31e031a6f0.msu</name>
-			<description>Adobe Flash Player Removal Update for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x64_ec16e118cd8b99df185402c7a0c65a31e031a6f0.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5003539</kb>
-			<date>2021/05/17</date>
-			<size>76.96 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB5003539-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5004333-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1903</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2021/05/windows10.0-kb5003539-x64-ndp48_1e4bce923ccef7079dc9375b1828d217e2aedfa0.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/06/windows10.0-kb5004333-x64-ndp48_1e9a3346b83232772a56bb6c7666a72821555c64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5004245</kb>
-			<date>2021/07/09</date>
-			<size>526.25 MB</size>
+			<kb>KB5005031</kb>
+			<date>2021/08/03</date>
+			<size>531.37 MB</size>
 			<category>General/18362</category>
-			<name>Windows10.0-KB5004245-x64.msu</name>
+			<name>Windows10.0-KB5005031-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows10.0-kb5004245-x64_1a7054d81cab082980ad25de1395987b94a79893.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005031-x64_82d8a430666e65347948420466a0bcfd6c28e344.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5004748</kb>
-			<date>2021/07/09</date>
-			<size>14.57 MB</size>
+			<kb>KB5005412</kb>
+			<date>2021/08/03</date>
+			<size>14.58 MB</size>
 			<category>General/18362</category>
-			<name>Windows10.0-KB5004748-x64.msu</name>
+			<name>Windows10.0-KB5005412-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1903</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/07/windows10.0-kb5004748-x64_2327ee6b541a2665817cc211f2fb832cc98031ac.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005412-x64_228ca7ad27c8f60174513607839c07686490e1e4.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4580325</kb>
-			<date>2020/10/14</date>
-			<size>161 KB</size>
+			<kb>KB5004331</kb>
+			<date>2021/06/07</date>
+			<size>65.39 MB</size>
 			<category>General/19041</category>
-			<name>windows10.0-kb4577586-x64_c9bb49df325c20ddc147137b3f769fa44d800dde.msu</name>
-			<description>Adobe Flash Player Removal Update for Windows 10 Version 2004</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x64_c9bb49df325c20ddc147137b3f769fa44d800dde.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4598481</kb>
-			<date>2020/12/13</date>
-			<size>14.53 MB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB4598481-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 2004</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2021/01/windows10.0-kb4598481-x64_749fe79fd2e31b145de37c2f9ebf4f711d174dc2.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5003537</kb>
-			<date>2021/05/17</date>
-			<size>65.38 MB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB5003537-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5004331-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 2004</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/05/windows10.0-kb5003537-x64-ndp48_1fbdca72e07a18937ae2c81c032afecbb7fabe45.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/06/windows10.0-kb5004331-x64-ndp48_c232f26ba7b9b1555e0ae5aa26e2f7109965761f.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5004237</kb>
-			<date>2021/07/09</date>
-			<size>585.59 MB</size>
+			<kb>KB5005033</kb>
+			<date>2021/08/03</date>
+			<size>609.43 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5004237-x64.msu</name>
+			<name>Windows10.0-KB5005033-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 2004</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/07/windows10.0-kb5004237-x64_9a7c569f5656d99533e9e945e8063251758ce4c0.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows10.0-kb5005033-x64_ebab415d7a65f0b33f93e9a30875d74baa8930a7.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5005260</kb>
+			<date>2021/07/30</date>
+			<size>14.78 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB5005260-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 2004</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/ssu-19041.1161-x64_e7e052f5cbe97d708ee5f56a8b575262d02cfaa4.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4562830</kb>

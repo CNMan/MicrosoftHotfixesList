@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/07/13" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/08/10" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4601,13 +4601,13 @@
 			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5004116</kb>
-			<date>2021/05/26</date>
+			<kb>KB5004755</kb>
+			<date>2021/06/28</date>
 			<size>26.34 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5004116-x86.exe</name>
-			<description>2021-07 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/06/ndp48-kb5004116-x86_29d35f7fa7b44b280b00c798608253e3d5a30223.exe</url>
+			<name>NDP48-KB5004755-x86.exe</name>
+			<description>2021-08 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/07/ndp48-kb5004755-x86_3f85a03b7eaad466ba227a53ce9d29bf6283125f.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -4628,15 +4628,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4578952-x86_7246565d7fec14ad0381deac93faef3024068eb6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5004289</kb>
-			<date>2021/07/08</date>
-			<size>237.69 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB5004289-x86.msu</name>
-			<description>2021-07 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows6.1-kb5004289-x86_be28b462d7b3877cb9bea6dad60efdea21eb9a01.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5004378</kb>
 			<date>2021/06/08</date>
 			<size>4.03 MB</size>
@@ -4644,6 +4635,15 @@
 			<name>Windows6.1-KB5004378-x86.msu</name>
 			<description>2021-07 Servicing Stack Update</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows6.1-kb5004378-x86_7f71df13245adc8c835fccdeba92303b08e26a10.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5005088</kb>
+			<date>2021/08/03</date>
+			<size>241.18 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB5005088-x86.msu</name>
+			<description>2021-08 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows6.1-kb5005088-x86_32e2dde162f5e0bfdf5c823c159272da2d101b62.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/07/13" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/08/10" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB4504711</kb>
@@ -506,13 +506,13 @@
 			<url>http://download.microsoft.com/download/8/a/b/8aba1fe5-1c21-41b3-bc73-7191aae4141a/vbe72016-kb4493153-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493151</kb>
-			<date>2021/02/24</date>
+			<kb>KB4504718</kb>
+			<date>2021/07/28</date>
 			<size>59.82 MB</size>
-			<category>Security</category>
-			<name>visio2016-kb4493151-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>visio2016-kb4504718-fullfile-x86-glb.exe</name>
 			<description>Microsoft Visio 2016</description>
-			<url>http://download.microsoft.com/download/3/8/8/3886f445-d902-42e3-9d2c-46be59eafdec/visio2016-kb4493151-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/b/3/3/b336e037-6aed-4b33-af31-c11cc27357c7/visio2016-kb4504718-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5001949</kb>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/07/13" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/08/10" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -551,13 +551,13 @@
 			<url>http://download.microsoft.com/download/b/d/f/bdf12f58-a359-4cda-bda6-8a053e0fe179/vbe72013-kb4484435-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486673</kb>
-			<date>2021/02/24</date>
+			<kb>KB4504728</kb>
+			<date>2021/07/28</date>
 			<size>183.84 MB</size>
-			<category>Security</category>
-			<name>visio2013-kb4486673-fullfile-x64-glb.exe</name>
+			<category>General</category>
+			<name>visio2013-kb4504728-fullfile-x64-glb.exe</name>
 			<description>Microsoft Visio 2013</description>
-			<url>http://download.microsoft.com/download/d/f/1/df1895e2-2eea-42ed-9aa6-d201d1e49b0d/visio2013-kb4486673-fullfile-x64-glb.exe</url>
+			<url>http://download.microsoft.com/download/e/3/a/e3ac24fe-7248-451e-b1f2-3c84e7b0bd01/visio2013-kb4504728-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2817301</kb>

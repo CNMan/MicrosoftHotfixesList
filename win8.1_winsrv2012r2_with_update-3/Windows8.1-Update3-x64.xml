@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/07/13" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/08/10" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1955,40 +1955,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4577586</kb>
-			<date>2020/10/22</date>
-			<size>180 KB</size>
+			<kb>KB5004754</kb>
+			<date>2021/06/28</date>
+			<size>54.03 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4577586-x64.msu</name>
-			<description>Update for Removal of Adobe Flash Player</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/10/windows8.1-kb4577586-x64_1c039dbdafaf12e9163e8d56cf578cc998306ecd.msu</url>
+			<name>Windows8.1-KB5004754-x64-NDP48.msu</name>
+			<description>2021-08 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/07/windows8.1-kb5004754-x64-ndp48_a9214826282eb39c883c6efbc3cbb0f08e29a00d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4601058</kb>
-			<date>2021/01/05</date>
-			<size>51.40 MB</size>
+			<kb>KB5005076</kb>
+			<date>2021/08/05</date>
+			<size>533.08 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB4601058-x64-NDP48.msu</name>
-			<description>2021-02 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/01/windows8.1-kb4601058-x64-ndp48_83fc9e3a0898ccbff2c76087fc37c667e365f8ef.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5004118</kb>
-			<date>2021/05/26</date>
-			<size>54.06 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB5004118-x64-NDP48.msu</name>
-			<description>2021-07 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/06/windows8.1-kb5004118-x64-ndp48_f3d142969dc0b09641c4475c36cc5e6b80f344ed.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5004298</kb>
-			<date>2021/07/07</date>
-			<size>533.01 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB5004298-x64.msu</name>
-			<description>2021-07 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/07/windows8.1-kb5004298-x64_e98bbac284034aac90559c0d311967d97ebfc0e5.msu</url>
+			<name>Windows8.1-KB5005076-x64.msu</name>
+			<description>2021-08 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows8.1-kb5005076-x64_76a3e122bd0979784a084e4ccf0501c45661a83e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
