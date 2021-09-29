@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/08/10" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/09/14" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -29,15 +29,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x86_d38ebe43baeabaef927675c7ff2295843f19a077.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001402</kb>
-			<date>2021/04/16</date>
-			<size>5.27 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5001402-x86.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2021/04/windows10.0-kb5001402-x86_27a769112966bdc171f5f300bfd4819f02941f5a.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5004752</kb>
 			<date>2021/06/28</date>
 			<size>31.36 MB</size>
@@ -47,13 +38,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/07/windows10.0-kb5004752-x86-ndp48_3bb84eda3881486e1a9390a3c9b7c1058a52adad.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5005043</kb>
-			<date>2021/08/06</date>
-			<size>892.67 MB</size>
+			<kb>KB5005573</kb>
+			<date>2021/09/13</date>
+			<size>892.62 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5005043-x86.msu</name>
+			<name>Windows10.0-KB5005573-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows10.0-kb5005043-x86_7e72b64b264e89ec87cf35af180b43c879b3ef5b.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/09/windows10.0-kb5005573-x86_325f209aa9b767a702ea35e64bd0280185eb956b.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5005698</kb>
+			<date>2021/09/11</date>
+			<size>5.29 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5005698-x86.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/09/windows10.0-kb5005698-x86_06f40c13dd0a54b98a69aa146ee4e9aa79a70717.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -83,15 +83,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/06/windows10.0-kb5004332-x86-ndp48_9b3f922fe01de0e1945177a52dfe8692e7794a91.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5005030</kb>
-			<date>2021/08/03</date>
-			<size>278.95 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB5005030-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005030-x86_493fae3f27c82ab210f8bd408e89bc07aea5f5de.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5005112</kb>
 			<date>2021/07/16</date>
 			<size>6.20 MB</size>
@@ -99,6 +90,15 @@
 			<name>Windows10.0-KB5005112-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1809</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005112-x86_9c52dee3181a27bdc2a3f7dbbc8391c081c6871d.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5005568</kb>
+			<date>2021/09/13</date>
+			<size>294.02 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB5005568-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/09/windows10.0-kb5005568-x86_da72812ea0313dea7aebd87560295bb5729bbb5d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4517245</kb>
@@ -119,15 +119,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/06/windows10.0-kb5004333-x86-ndp48_298465543e6993907621e82b8abf1f5969b4620f.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5005031</kb>
-			<date>2021/08/03</date>
-			<size>329.36 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB5005031-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005031-x86_38c48394e2f3c067febbdd0219d37d38545715d8.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5005412</kb>
 			<date>2021/08/03</date>
 			<size>6.56 MB</size>
@@ -135,6 +126,15 @@
 			<name>Windows10.0-KB5005412-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1903</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005412-x86_98f99f0aee4af93a076e5beeb72bf979c4b41f64.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5005566</kb>
+			<date>2021/09/13</date>
+			<size>345.58 MB</size>
+			<category>General/18362</category>
+			<name>Windows10.0-KB5005566-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1903</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/09/windows10.0-kb5005566-x86_abadb75dda6444c514fd9da659c9ed91cff5c61c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5004331</kb>
@@ -146,15 +146,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/06/windows10.0-kb5004331-x86-ndp48_e9bbfa68eeb3743e1d250146a558921b32bb3a05.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5005033</kb>
-			<date>2021/08/03</date>
-			<size>282.08 MB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB5005033-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 2004</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows10.0-kb5005033-x86_d5b969d54b3155cca9ad2e36565e1d8603aab21a.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5005260</kb>
 			<date>2021/07/30</date>
 			<size>6.75 MB</size>
@@ -162,6 +153,15 @@
 			<name>Windows10.0-KB5005260-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 2004</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/ssu-19041.1161-x86_8c24024a060d03801fdc05a1dd06dcb874f3c847.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5005565</kb>
+			<date>2021/09/13</date>
+			<size>277.39 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB5005565-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 2004</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/09/windows10.0-kb5005565-x86_ac8d1b1ed006217a80deb7a2a9b57a69594c8309.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4562830</kb>
@@ -180,6 +180,15 @@
 			<name>Windows10.0-KB5000736-x86.msu</name>
 			<description>Feature Update to Windows 10 Version 21H1 via Enablement Package</description>
 			<url>http://b1.download.windowsupdate.com/d/upgr/2021/03/windows10.0-kb5000736-x86_428ba21ee5118bac619f4de6977de69c1f65b066.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5003791</kb>
+			<date>2021/06/25</date>
+			<size>166 KB</size>
+			<category>General/19041/v21H2</category>
+			<name>Windows10.0-KB5003791-x86.msu</name>
+			<description>Feature Update to Windows 10 Version 21H2 via Enablement Package</description>
+			<url>http://b1.download.windowsupdate.com/c/upgr/2021/08/windows10.0-kb5003791-x86_faeb8ca98a01bb326efd734b11aa2e1affdc0470.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

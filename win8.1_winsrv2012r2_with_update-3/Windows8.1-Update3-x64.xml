@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/08/10" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/09/14" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -17,7 +17,7 @@
 			<category>Additional/Do.Not.Integrate</category>
 			<name>Windows8.1-KB2990967-x64.msu</name>
 			<description>Some versions of the OneDrive desktop app for Windows do not update automatically</description>
-			<url>http://download.microsoft.com/download/2/A/F/2AFFA0E8-B4BA-4B3A-A872-A44736940A63/Windows8.1-KB2990967-x64.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/09/windows8.1-kb2990967-x64_e3f425d271aeadfe382fe4e6f3ead1363217f605.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3021128</kb>
@@ -35,7 +35,7 @@
 			<category>Additional/Do.Not.Integrate</category>
 			<name>Windows8.1-KB3053946-x64.msu</name>
 			<description>0x00000113 Stop error when you wake a computer from sleep mode in Windows 8.1</description>
-			<url>http://download.microsoft.com/download/6/E/4/6E4D1D9A-3A66-4023-B6A6-4BCE016079BE/Windows8.1-KB3053946-x64.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3053946-x64_a9d7484e1058e701599c21dcbdc5010b673dc285.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3083669</kb>
@@ -53,7 +53,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB2898847-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: May 13, 2014</description>
-			<url>http://download.microsoft.com/download/F/1/B/F1BF9452-5708-439E-87A2-9C11827ABD36/Windows8.1-KB2898847-x64.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windows8.1-kb2898847-x64_8e0232c90fc7c7fe06f319af2ea7ba3f59af77d0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2966826</kb>
@@ -62,7 +62,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB2966826-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: August 12, 2014</description>
-			<url>http://download.microsoft.com/download/D/D/E/DDEB4CD3-4226-464F-A3F5-C4E479D85DF3/Windows8.1-KB2966826-x64.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/07/windows8.1-kb2966826-x64_72425c975269efb37b5452e6e568406376915416.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2966828</kb>
@@ -71,7 +71,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB2966828-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: October 14, 2014</description>
-			<url>http://download.microsoft.com/download/4/3/F/43F0465E-45AC-4901-8CE2-7B4B94A70356/Windows8.1-KB2966828-x64.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/10/windows8.1-kb2966828-x64_fd121aa72ab226d40f8d1d41504a5b9c57655d66.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2968296</kb>
@@ -80,7 +80,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB2968296-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: October 14, 2014</description>
-			<url>http://download.microsoft.com/download/8/8/C/88C26123-A81A-45A9-8411-BEBEA6D00C24/Windows8.1-KB2968296-x64.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows8.1-kb2968296-x64_a5d0de083618322cd696c91d30a01c0ff060af0f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2972103</kb>
@@ -89,7 +89,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB2972103-v2-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: October 14, 2014</description>
-			<url>http://download.microsoft.com/download/8/3/F/83F4E6D4-A590-4FC5-ACE3-0615D5A640FF/Windows8.1-KB2972103-v2-x64.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows8.1-kb2972103-v2-x64_539f9c91d2cfdf2d046dbd96cd6efe2748702ee0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2978122</kb>
@@ -107,7 +107,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3023219-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: May 12, 2015</description>
-			<url>http://download.microsoft.com/download/3/8/A/38AE5EA8-5979-478A-89AB-8172982357B5/Windows8.1-KB3023219-x64.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/04/windows8.1-kb3023219-x64_43fb4f610d1444c7fcd7c6b44621f4adbe3c4b29.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3031989</kb>
@@ -125,7 +125,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3037576-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: April 14, 2015</description>
-			<url>http://download.microsoft.com/download/8/1/3/81370BD4-3765-4C17-803D-3A2D483889E2/Windows8.1-KB3037576-x64.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows8.1-kb3037576-x64_c7d62ca77c38a718ede5ed2c6b83f8ed47518682.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3048803</kb>
@@ -143,7 +143,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3072307-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/4/C/E/4CEAC042-CB72-4CC9-B394-46739C5FB015/Windows8.1-KB3072307-x64.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3072307-x64_d7ef9cd675e336cdbbdc8c8ad4bb8ce3a7915ede.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3074545</kb>
@@ -151,8 +151,8 @@
 			<size>746 KB</size>
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3074545-x64.msu</name>
-			<description>Security ppdate for the .NET Framework 3.5: September 8, 2015</description>
-			<url>http://download.microsoft.com/download/1/9/8/198342D8-AA34-4E90-B626-136074B7F749/Windows8.1-KB3074545-x64.msu</url>
+			<description>Security update for the .NET Framework 3.5: September 8, 2015</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3074545-x64_c661a2ceeef53613333c09f226922716e41e8d66.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3096438</kb>
@@ -170,7 +170,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3097992-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: November 10, 2015</description>
-			<url>http://download.microsoft.com/download/4/0/4/40465EB6-1606-4328-BE0F-657602D68E41/Windows8.1-KB3097992-x64.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3097992-x64_df6c3c9b272ebe747a8da9cb827fa6b8c475b45c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3127222</kb>
@@ -179,7 +179,7 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB3127222-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5: February 9, 2016</description>
-			<url>http://download.microsoft.com/download/E/1/3/E13FEAB4-F6ED-44A5-8DB2-981BAF5E3F1F/Windows8.1-KB3127222-x64.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3127222-x64_12907814077e7b409aef1cb31c2f9ff26cec9e28.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3142026</kb>
@@ -965,15 +965,6 @@
 			<url>http://download.microsoft.com/download/B/8/8/B881884D-67B3-4A17-8DC2-0F9BC0C64618/Windows8.1-KB3094486-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3099834</kb>
-			<date>2015/10/09</date>
-			<size>249 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3099834-x64.msu</name>
-			<description>Access violation error and application that uses private keys crashes</description>
-			<url>http://download.microsoft.com/download/F/5/C/F5CAB6EE-C02D-4D25-B332-7082C793EC1E/Windows8.1-KB3099834-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3100473</kb>
 			<date>2016/02/04</date>
 			<size>1.97 MB</size>
@@ -1190,13 +1181,13 @@
 			<url>http://download.microsoft.com/download/4/7/C/47CA73B8-E168-4FE5-8FBC-A627C8BBE5B5/Windows8.1-KB3161102-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3166740</kb>
-			<date>2016/06/30</date>
-			<size>74.55 MB</size>
+			<kb>KB3102467</kb>
+			<date>2015/11/06</date>
+			<size>86.99 MB</size>
 			<category>General</category>
-			<name>Windows8.1-KB3166740-x64.msu</name>
+			<name>Windows8.1-KB3102467-x64.msu</name>
 			<description>Microsoft .NET Framework 4.6.1</description>
-			<url>http://download.microsoft.com/download/C/8/0/C80D277F-D54A-4F26-993B-B29F2D39957D/Windows8.1-KB3166740-x64.msu</url>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2016/01/windows8.1-kb3102467-x64_f18e30847e0402c22cd4aadec832fc860dbc344e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172614</kb>
@@ -1251,15 +1242,6 @@
 			<name>Windows8.1-KB2908802-x64.msu</name>
 			<description>"Installation Prevented by Policy" warning is not displayed when you install a device</description>
 			<url>https://raw.githubusercontent.com/stdin82/htfx/master/W9600/Windows8.1-KB2908802-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB2966038</kb>
-			<date>2015/05/19</date>
-			<size>2.16 MB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB2966038-x64.msu</name>
-			<description>Printer managed by custom print providers is not visible in Devices and Printers</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/08/windows8.1-kb2966038-x64_de5db7bf55d58b97399db37370acf5d62071aa46.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3003385</kb>
@@ -1892,24 +1874,6 @@
 			<url>http://download.microsoft.com/download/F/0/9/F09B0ECE-22F5-42C8-985D-5ECF9C4C39C6/Windows8.1-KB3161949-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3162343</kb>
-			<date>2016/05/06</date>
-			<size>380 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3162343-x64.msu</name>
-			<description>Security update for Netlogon Digest Security Package: June 14, 2016</description>
-			<url>http://download.microsoft.com/download/8/2/B/82B7A728-3B9A-42E0-8435-A7AFF535F219/Windows8.1-KB3162343-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3164294</kb>
-			<date>2016/05/18</date>
-			<size>264 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3164294-x64.msu</name>
-			<description>Security update for Windows Hyper-V: June 14, 2016</description>
-			<url>http://download.microsoft.com/download/E/B/1/EB1EA564-1F6C-4132-AEA0-D195B634A4FA/Windows8.1-KB3164294-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3172729</kb>
 			<date>2016/07/12</date>
 			<size>265 KB</size>
@@ -1964,13 +1928,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/07/windows8.1-kb5004754-x64-ndp48_a9214826282eb39c883c6efbc3cbb0f08e29a00d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5005076</kb>
-			<date>2021/08/05</date>
-			<size>533.08 MB</size>
+			<kb>KB5005613</kb>
+			<date>2021/09/13</date>
+			<size>533.79 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5005076-x64.msu</name>
-			<description>2021-08 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows8.1-kb5005076-x64_76a3e122bd0979784a084e4ccf0501c45661a83e.msu</url>
+			<name>Windows8.1-KB5005613-x64.msu</name>
+			<description>2021-09 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/09/windows8.1-kb5005613-x64_52d05012aa71c9d14f218559dba1baa82e4515c9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

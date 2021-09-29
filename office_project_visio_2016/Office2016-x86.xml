@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/08/10" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/09/14" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB4504711</kb>
@@ -11,13 +11,13 @@
 			<url>http://download.microsoft.com/download/9/e/a/9ea9fb26-11f2-4aec-8a31-3fe60cf4502b/access2016-kb4504711-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001971</kb>
-			<date>2021/06/29</date>
-			<size>3.79 MB</size>
-			<category>General</category>
-			<name>ace2016-kb5001971-fullfile-x86-glb.exe</name>
+			<kb>KB5001997</kb>
+			<date>2021/09/02</date>
+			<size>3.78 MB</size>
+			<category>Security</category>
+			<name>ace2016-kb5001997-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/1/8/f/18fc5bce-a9df-49e5-960f-08bd5c3220c9/ace2016-kb5001971-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/0/3/e/03e65f3f-16b7-4d40-9ad9-c931413172b9/ace2016-kb5001997-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011259</kb>
@@ -83,13 +83,13 @@
 			<url>http://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001977</kb>
-			<date>2021/06/29</date>
-			<size>131.27 MB</size>
+			<kb>KB5002003</kb>
+			<date>2021/09/02</date>
+			<size>131.28 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5001977-fullfile-x86-glb.exe</name>
+			<name>excel2016-kb5002003-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>http://download.microsoft.com/download/8/8/0/8804ec4e-5323-40e3-a925-48359b2f4bd6/excel2016-kb5001977-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/b/7/2/b7277c8b-1353-4aad-92af-662778f659f7/excel2016-kb5002003-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -200,13 +200,13 @@
 			<url>http://download.microsoft.com/download/1/7/7/17728583-D4F3-4EF4-99D3-7B4BA5BF2395/msmipc2016-kb3178666-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001979</kb>
-			<date>2021/06/29</date>
+			<kb>KB5002005</kb>
+			<date>2021/09/02</date>
 			<size>128.03 MB</size>
 			<category>Security</category>
-			<name>mso2016-kb5001979-fullfile-x86-glb.exe</name>
+			<name>mso2016-kb5002005-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/a/c/7/ac7e4821-6da9-49a9-95d9-b43ac43a897a/mso2016-kb5001979-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/1/c/21c4ed0e-9bc6-4fa6-b28f-46d777a041d5/mso2016-kb5002005-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4486672</kb>
@@ -227,13 +227,13 @@
 			<url>http://download.microsoft.com/download/4/1/6/4166fe00-9a54-40ca-b131-dacfd7d5755e/msodll302016-kb4486747-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484174</kb>
-			<date>2020/06/30</date>
+			<kb>KB4484467</kb>
+			<date>2021/09/02</date>
 			<size>7.91 MB</size>
 			<category>General</category>
-			<name>msodll40ui2016-kb4484174-fullfile-x86-glb.exe</name>
+			<name>msodll40ui2016-kb4484467-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll40ui-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/2/c/5/2c5b5aad-0ebb-402c-9503-f2308276836d/msodll40ui2016-kb4484174-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/8/8/5887ce62-e5cf-42ec-82dd-fa73050abfca/msodll40ui2016-kb4484467-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>kb4484395</kb>
@@ -335,13 +335,13 @@
 			<url>http://download.microsoft.com/download/6/F/4/6F4BA1BD-1BD4-4D8C-9644-B19BFC9FB906/osetup2016-kb4032254-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4475580</kb>
-			<date>2019/08/19</date>
-			<size>5.54 MB</size>
-			<category>General</category>
-			<name>osfclient2016-kb4475580-fullfile-x86-glb.exe</name>
+			<kb>KB4484103</kb>
+			<date>2021/09/02</date>
+			<size>5.36 MB</size>
+			<category>Security</category>
+			<name>osfclient2016-kb4484103-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Office Apps)</description>
-			<url>http://download.microsoft.com/download/7/f/2/7f2e3d08-35ff-404a-84a3-7267d2014fcb/osfclient2016-kb4475580-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/3/8/8/388baa45-52d8-46c1-9d88-0f3627c91227/osfclient2016-kb4484103-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2920724</kb>
