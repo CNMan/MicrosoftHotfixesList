@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/09/14" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/10/12" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1739,15 +1739,6 @@
 			<url>http://download.microsoft.com/download/5/1/5/515E4C78-57D6-4151-B4B4-BCC0437402FB/Windows8.1-KB3138962-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3139398</kb>
-			<date>2016/02/02</date>
-			<size>300 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3139398-x86.msu</name>
-			<description>Security update for Windows USB Mass Storage Class Driver: March 8, 2016</description>
-			<url>http://download.microsoft.com/download/B/C/8/BC874497-9584-4DFB-923D-DEA2ABB45268/Windows8.1-KB3139398-x86.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3139914</kb>
 			<date>2016/02/06</date>
 			<size>210 KB</size>
@@ -1838,22 +1829,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x86_a6af9c16d559e00e42ed45cdf1d7a72235edf5f2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5004754</kb>
-			<date>2021/06/28</date>
-			<size>31.29 MB</size>
+			<kb>KB5006067</kb>
+			<date>2021/09/08</date>
+			<size>31.30 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5004754-x86-NDP48.msu</name>
-			<description>2021-08 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/07/windows8.1-kb5004754-x86-ndp48_6c785e6ef34a6b3a0457f1998c2c7b6f0c4ba6ce.msu</url>
+			<name>Windows8.1-KB5006067-x86-NDP48.msu</name>
+			<description>2021-10 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/09/windows8.1-kb5006067-x86-ndp48_113590dc5f8a5babc9bff84850f9a0a391a98dde.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5005613</kb>
-			<date>2021/09/13</date>
-			<size>348.15 MB</size>
+			<kb>KB5006714</kb>
+			<date>2021/10/06</date>
+			<size>349.01 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5005613-x86.msu</name>
-			<description>2021-09 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/09/windows8.1-kb5005613-x86_904b4f33a9e41726b4930b4984ec7b1ae6ce406e.msu</url>
+			<name>Windows8.1-KB5006714-x86.msu</name>
+			<description>2021-10 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/10/windows8.1-kb5006714-x86_25a3970d79fb1ea7e17746b68fcb357f0e47c30a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

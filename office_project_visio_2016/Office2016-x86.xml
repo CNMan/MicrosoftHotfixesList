@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/09/14" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/10/12" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
-			<kb>KB4504711</kb>
-			<date>2021/06/02</date>
+			<kb>KB5001978</kb>
+			<date>2021/09/29</date>
 			<size>18.33 MB</size>
-			<category>Security</category>
-			<name>access2016-kb4504711-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>access2016-kb5001978-fullfile-x86-glb.exe</name>
 			<description>Microsoft Access 2016</description>
-			<url>http://download.microsoft.com/download/9/e/a/9ea9fb26-11f2-4aec-8a31-3fe60cf4502b/access2016-kb4504711-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/5/0/9/5098ac8e-4ab7-4753-ab53-a7affaa38aed/access2016-kb5001978-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5001997</kb>
@@ -83,13 +83,13 @@
 			<url>http://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002003</kb>
-			<date>2021/09/02</date>
+			<kb>KB5002030</kb>
+			<date>2021/09/29</date>
 			<size>131.28 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002003-fullfile-x86-glb.exe</name>
+			<name>excel2016-kb5002030-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>http://download.microsoft.com/download/b/7/2/b7277c8b-1353-4aad-92af-662778f659f7/excel2016-kb5002003-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/2/c/0/2c0a10e8-3239-49ab-9190-64e448780207/excel2016-kb5002030-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -110,13 +110,13 @@
 			<url>http://download.microsoft.com/download/D/E/E/DEE029FA-B808-4316-AEE0-2A950B024990/exppdf2016-kb2920720-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4475584</kb>
-			<date>2020/09/30</date>
+			<kb>KB4486711</kb>
+			<date>2021/09/29</date>
 			<size>7.94 MB</size>
 			<category>General</category>
-			<name>filterpack2016-kb4475584-fullfile-x86-glb.exe</name>
+			<name>filterpack2016-kb4486711-fullfile-x86-glb.exe</name>
 			<description>Microsoft Filter Pack 2.0</description>
-			<url>http://download.microsoft.com/download/e/7/d/e7d0d916-f8ce-411f-a525-43eb8a5567fb/filterpack2016-kb4475584-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/8/1/0/81028bb2-685f-4987-8edf-94cd54e45b9b/filterpack2016-kb4486711-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114903</kb>
@@ -137,13 +137,13 @@
 			<url>http://download.microsoft.com/download/5/0/3/503C678A-FC9B-433C-BD93-4ECD55B3A295/gkall2016-kb3115276-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001950</kb>
-			<date>2021/05/27</date>
+			<kb>KB5001982</kb>
+			<date>2021/09/29</date>
 			<size>3.31 MB</size>
 			<category>Security</category>
-			<name>graph2016-kb5001951-fullfile-x86-glb.exe</name>
+			<name>graph2016-kb5001982-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/3/a/7/3a70d436-3c17-4794-9535-4601ba4cb900/graph2016-kb5001951-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/d/e/a/dea0a036-abfa-4da8-92c0-5a77699fef8e/graph2016-kb5001982-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022219</kb>
@@ -308,13 +308,13 @@
 			<url>http://download.microsoft.com/download/9/3/1/931fc101-9b03-4aaa-979c-3957df6ad50f/onenote2016-kb4484329-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB2920712</kb>
-			<date>2015/11/12</date>
-			<size>1.62 MB</size>
+			<kb>KB3114524</kb>
+			<date>2021/09/29</date>
+			<size>1.68 MB</size>
 			<category>General</category>
-			<name>orgidcrl2016-kb2920712-fullfile-x86-glb.exe</name>
+			<name>orgidcrl2016-kb3114524-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Online Services Control)</description>
-			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/orgidcrl2016-kb2920712-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/a/b/8/ab86567f-6fa9-4c41-921c-8a87b53b6570/orgidcrl2016-kb3114524-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022176</kb>
@@ -380,13 +380,13 @@
 			<url>http://download.microsoft.com/download/B/4/8/B480C326-8984-4D40-BAA2-33F3A44F20CB/outlfltr2016-kb3115407-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001980</kb>
-			<date>2021/06/29</date>
+			<kb>KB5001998</kb>
+			<date>2021/09/29</date>
 			<size>91.62 MB</size>
-			<category>Security</category>
-			<name>outlook2016-kb5001980-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>outlook2016-kb5001998-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>http://download.microsoft.com/download/e/e/3/ee3bcc44-9cca-4757-b80d-0b599ccfec57/outlook2016-kb5001980-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/7/6/2/762e3749-4776-4c41-a60c-1ba707b20e12/outlook2016-kb5001998-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -452,13 +452,13 @@
 			<url>http://download.microsoft.com/download/7/a/b/7ab68d73-9edb-4edd-a60c-e4a9892a3780/publisher2016-kb4484334-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011669</kb>
-			<date>2018/09/12</date>
-			<size>2.29 MB</size>
-			<category>General</category>
-			<name>riched202016-kb4011669-fullfile-x86-glb.exe</name>
+			<kb>KB4461476</kb>
+			<date>2021/09/29</date>
+			<size>2.30 MB</size>
+			<category>Security</category>
+			<name>riched202016-kb4461476-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (RichEdit 8.0)</description>
-			<url>http://download.microsoft.com/download/4/1/E/41EBBF48-582D-4660-BA87-B7F240B70711/riched202016-kb4011669-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/b/e/2/be201cf2-7c3c-4c31-a3bc-75dad8c9517c/riched202016-kb4461476-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4032236</kb>
@@ -479,13 +479,13 @@
 			<url>http://download.microsoft.com/download/D/8/8/D88B3C52-20F8-4819-89EC-A2A29F25F52C/setupexe2016-kb3141456-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022161</kb>
-			<date>2019/01/16</date>
+			<kb>KB4462197</kb>
+			<date>2021/09/29</date>
 			<size>2.54 MB</size>
 			<category>General</category>
-			<name>stslist2016-kb4022161-fullfile-x86-glb.exe</name>
+			<name>stslist2016-kb4462197-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Access Web Datasheet)</description>
-			<url>http://download.microsoft.com/download/E/6/5/E65E72CB-9925-40F8-BACA-4FD53CEBC290/stslist2016-kb4022161-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/9/a/8/9a860189-4798-4e15-8b37-d5d917ba6dc1/stslist2016-kb4462197-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2920678</kb>
@@ -515,13 +515,13 @@
 			<url>http://download.microsoft.com/download/b/3/3/b336e037-6aed-4b33-af31-c11cc27357c7/visio2016-kb4504718-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001949</kb>
-			<date>2021/06/29</date>
-			<size>42.67 MB</size>
+			<kb>KB5002004</kb>
+			<date>2021/09/29</date>
+			<size>42.66 MB</size>
 			<category>Security</category>
-			<name>word2016-kb5001949-fullfile-x86-glb.exe</name>
+			<name>word2016-kb5002004-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>http://download.microsoft.com/download/b/7/6/b765dc1c-4402-4476-9c43-67ec25e33dc9/word2016-kb5001949-fullfile-x86-glb.exe</url>
+			<url>http://download.microsoft.com/download/e/9/d/e9db22f3-840b-436c-af65-f6a4ab171c5c/word2016-kb5002004-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>

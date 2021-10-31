@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/09/14" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/10/12" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4673,13 +4673,13 @@
 			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5004755</kb>
-			<date>2021/06/28</date>
-			<size>40.68 MB</size>
+			<kb>KB5006060</kb>
+			<date>2021/09/09</date>
+			<size>40.70 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5004755-x64.exe</name>
-			<description>2021-08 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/07/ndp48-kb5004755-x64_0a0f70aa68b1c703c09060895016cb2d890f8478.exe</url>
+			<name>NDP48-KB5006060-x64.exe</name>
+			<description>2021-10 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/09/ndp48-kb5006060-x64_c789dccee4fcf4f4d47e9f0d10432fea9a4265b4.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -4700,22 +4700,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4578952-x64_30ac0df8554c2647017f3b36cc02e833a3187364.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5004378</kb>
-			<date>2021/06/08</date>
-			<size>9.15 MB</size>
+			<kb>KB5006743</kb>
+			<date>2021/10/07</date>
+			<size>363.78 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5004378-x64.msu</name>
-			<description>2021-07 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows6.1-kb5004378-x64_e295e0dfb732d1d4712c6aa5ac72aa28a7067359.msu</url>
+			<name>Windows6.1-KB5006743-x64.msu</name>
+			<description>2021-10 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/10/windows6.1-kb5006743-x64_fb16fb35510d187cd7cf879684d6a125b5e3bb35.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5005633</kb>
-			<date>2021/09/13</date>
-			<size>362.73 MB</size>
+			<kb>KB5006749</kb>
+			<date>2021/09/14</date>
+			<size>9.19 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5005633-x64.msu</name>
-			<description>2021-09 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/09/windows6.1-kb5005633-x64_59086895fe5fdba20aba8361778708f76489f834.msu</url>
+			<name>Windows6.1-KB5006749-x64.msu</name>
+			<description>2021-10 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/10/windows6.1-kb5006749-x64_4934673a816c4c0e5d6c380e0a61428da8aab4ac.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>
