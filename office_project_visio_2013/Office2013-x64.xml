@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/10/12" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/11/09" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -8,16 +8,16 @@
 			<category>Security</category>
 			<name>access2013-kb4484527-fullfile-x64-glb.exe</name>
 			<description>Microsoft Access 2013</description>
-			<url>http://download.microsoft.com/download/e/6/f/e6fc2b90-fc78-4e20-9de9-d43b48120bf4/access2013-kb4484527-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/e/6/f/e6fc2b90-fc78-4e20-9de9-d43b48120bf4/access2013-kb4484527-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001958</kb>
-			<date>2021/09/02</date>
-			<size>10.98 MB</size>
+			<kb>KB5002038</kb>
+			<date>2021/10/27</date>
+			<size>10.99 MB</size>
 			<category>Security</category>
-			<name>ace2013-kb5001958-fullfile-x64-glb.exe</name>
+			<name>ace2013-kb5002038-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Access Database Engine)</description>
-			<url>http://download.microsoft.com/download/9/5/b/95bff86e-aa99-4e04-91d2-9714aab8d674/ace2013-kb5001958-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/b/e/5be26a90-bcf0-469a-967a-2adbf7fc0c49/ace2013-kb5002038-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2899522</kb>
@@ -35,7 +35,7 @@
 			<category>General</category>
 			<name>analys322013-kb5001937-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Analysis ToolPak)</description>
-			<url>http://download.microsoft.com/download/c/3/b/c3bd4fa6-4e91-451e-b304-ec69d616d7d8/analys322013-kb5001937-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/c/3/b/c3bd4fa6-4e91-451e-b304-ec69d616d7d8/analys322013-kb5001937-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3101503</kb>
@@ -44,7 +44,7 @@
 			<category>General</category>
 			<name>clview2013-kb3101503-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Help Viewer)</description>
-			<url>http://download.microsoft.com/download/7/5/C/75C81E37-A98B-4080-8D64-609E501A7673/clview2013-kb3101503-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/7/5/C/75C81E37-A98B-4080-8D64-609E501A7673/clview2013-kb3101503-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213564</kb>
@@ -53,7 +53,7 @@
 			<category>Security</category>
 			<name>conv2013-kb3213564-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (File Format Converters)</description>
-			<url>http://download.microsoft.com/download/F/2/E/F2E593B9-A5A7-4A99-BEE0-FCC3BF60F6BB/conv2013-kb3213564-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/F/2/E/F2E593B9-A5A7-4A99-BEE0-FCC3BF60F6BB/conv2013-kb3213564-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172545</kb>
@@ -62,7 +62,7 @@
 			<category>General</category>
 			<name>csi2013-kb3172545-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Document Cache)</description>
-			<url>http://download.microsoft.com/download/C/7/5/C752F185-509E-470E-934E-90ACB996B695/csi2013-kb3172545-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/C/7/5/C752F185-509E-470E-934E-90ACB996B695/csi2013-kb3172545-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114488</kb>
@@ -71,7 +71,7 @@
 			<category>General</category>
 			<name>csisyncclient2013-kb3114488-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Document Cache Sync Client)</description>
-			<url>http://download.microsoft.com/download/E/8/3/E83FE60D-23A7-45A2-BE05-67FCBCF54DBD/csisyncclient2013-kb3114488-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/E/8/3/E83FE60D-23A7-45A2-BE05-67FCBCF54DBD/csisyncclient2013-kb3114488-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162051</kb>
@@ -80,7 +80,7 @@
 			<category>Security</category>
 			<name>dcf2013-kb3162051-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (dcf-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/5/4/1/541B8938-9B4D-4E2F-9D89-9028793CA711/dcf2013-kb3162051-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/4/1/541B8938-9B4D-4E2F-9D89-9028793CA711/dcf2013-kb3162051-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011580</kb>
@@ -89,7 +89,7 @@
 			<category>Security</category>
 			<name>eqnedt322013-kb4011580-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Equation Editor)</description>
-			<url>http://download.microsoft.com/download/3/C/3/3C39EBC9-1AC9-4955-A606-E21235255DBC/eqnedt322013-kb4011580-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/3/C/3/3C39EBC9-1AC9-4955-A606-E21235255DBC/eqnedt322013-kb4011580-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3178643</kb>
@@ -98,16 +98,16 @@
 			<category>Security</category>
 			<name>eurotool2013-kb3178643-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Euro Converter)</description>
-			<url>http://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002043</kb>
-			<date>2021/09/29</date>
-			<size>114.84 MB</size>
+			<kb>KB5002072</kb>
+			<date>2021/10/27</date>
+			<size>114.83 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002043-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb5002072-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>http://download.microsoft.com/download/4/b/0/4b068e9c-70b0-44c1-b71c-647097b260fa/excel2013-kb5002043-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/6/d/5/6d5773a4-324d-49ed-9b6a-b6c69b61dc90/excel2013-kb5002072-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -116,7 +116,7 @@
 			<category>General</category>
 			<name>excelpp2013-kb3191872-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Excel Data Model Engine)</description>
-			<url>http://download.microsoft.com/download/A/C/B/ACBBEA68-8C51-450C-95F0-7E7D4253AC39/excelpp2013-kb3191872-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/A/C/B/ACBBEA68-8C51-450C-95F0-7E7D4253AC39/excelpp2013-kb3191872-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3085587</kb>
@@ -125,7 +125,7 @@
 			<category>General</category>
 			<name>exppdf2013-kb3085587-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (PDF Export)</description>
-			<url>http://download.microsoft.com/download/0/3/0/030E4AE7-5D4D-4C1F-9C2E-B15B934A96FD/exppdf2013-kb3085587-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/3/0/030E4AE7-5D4D-4C1F-9C2E-B15B934A96FD/exppdf2013-kb3085587-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039756</kb>
@@ -134,7 +134,7 @@
 			<category>General</category>
 			<name>filterpack2013-kb3039756-fullfile-x64-glb.exe</name>
 			<description>Microsoft Filter Pack 2.0</description>
-			<url>http://download.microsoft.com/download/6/0/B/60B5E8AD-3793-4BFC-8B1D-00C7054011B3/filterpack2013-kb3039756-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/6/0/B/60B5E8AD-3793-4BFC-8B1D-00C7054011B3/filterpack2013-kb3039756-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3023052</kb>
@@ -161,7 +161,7 @@
 			<category>General</category>
 			<name>gkall2013-kb3039795-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (File Verification)</description>
-			<url>http://download.microsoft.com/download/F/5/6/F56E87B6-700E-4B99-97C6-DABF20F95CD7/gkall2013-kb3039795-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/F/5/6/F56E87B6-700E-4B99-97C6-DABF20F95CD7/gkall2013-kb3039795-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5001985</kb>
@@ -170,7 +170,7 @@
 			<category>Security</category>
 			<name>graph2013-kb5001985-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Microsoft Graph)</description>
-			<url>http://download.microsoft.com/download/1/b/8/1b86602c-f6a9-4d62-8afb-be02bfedd8be/graph2013-kb5001985-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/1/b/8/1b86602c-f6a9-4d62-8afb-be02bfedd8be/graph2013-kb5001985-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022226</kb>
@@ -179,7 +179,7 @@
 			<category>General</category>
 			<name>groove2013-kb4022226-fullfile-x64-glb.exe</name>
 			<description>Microsoft OneDrive for Business 2013</description>
-			<url>http://download.microsoft.com/download/E/2/A/E2AF6658-46E9-43BB-8580-2F4054D4730F/groove2013-kb4022226-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/E/2/A/E2AF6658-46E9-43BB-8580-2F4054D4730F/groove2013-kb4022226-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039798</kb>
@@ -188,7 +188,7 @@
 			<category>Security</category>
 			<name>ieawsdc2013-kb3039798-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Template and Media Control)</description>
-			<url>http://download.microsoft.com/download/4/4/3/443A852C-2360-409F-A66B-AAEF296AC5D9/ieawsdc2013-kb3039798-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/4/4/3/443A852C-2360-409F-A66B-AAEF296AC5D9/ieawsdc2013-kb3039798-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114946</kb>
@@ -197,7 +197,7 @@
 			<category>General</category>
 			<name>infopath2013-kb3114946-fullfile-x64-glb.exe</name>
 			<description>Microsoft InfoPath 2013</description>
-			<url>http://download.microsoft.com/download/D/1/1/D119CA1A-B14B-4B58-B2C0-15479939140E/infopath2013-kb3114946-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/D/1/1/D119CA1A-B14B-4B58-B2C0-15479939140E/infopath2013-kb3114946-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3127916</kb>
@@ -206,7 +206,7 @@
 			<category>General</category>
 			<name>infopathpc2013-kb3127916-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Contact Metadata Picker)</description>
-			<url>http://download.microsoft.com/download/3/2/B/32B44941-9304-4F8F-875E-A0F9C3E3AF8E/infopathpc2013-kb3127916-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/3/2/B/32B44941-9304-4F8F-875E-A0F9C3E3AF8E/infopathpc2013-kb3127916-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2825670</kb>
@@ -224,7 +224,7 @@
 			<category>General</category>
 			<name>ipeditor2013-kb4022181-fullfile-x64-glb.exe</name>
 			<description>Microsoft InfoPath 2013 (InfoPath Editor)</description>
-			<url>http://download.microsoft.com/download/F/2/1/F2151EA6-684F-4B00-9B64-FB4E2D041C90/ipeditor2013-kb4022181-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/F/2/1/F2151EA6-684F-4B00-9B64-FB4E2D041C90/ipeditor2013-kb4022181-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4484289</kb>
@@ -233,7 +233,7 @@
 			<category>General</category>
 			<name>lync2013-kb4484289-fullfile-x64-glb.exe</name>
 			<description>Microsoft Skype for Business 2015</description>
-			<url>http://download.microsoft.com/download/6/7/5/67532ad2-1517-4e85-8299-b0fa4b2314c5/lync2013-kb4484289-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/6/7/5/67532ad2-1517-4e85-8299-b0fa4b2314c5/lync2013-kb4484289-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191937</kb>
@@ -242,7 +242,7 @@
 			<category>Security</category>
 			<name>lynchelploc2013-kb3191937-fullfile-x64-glb.exe</name>
 			<description>Microsoft Skype for Business 2015 (Help Content)</description>
-			<url>http://download.microsoft.com/download/0/7/E/07E3B3F6-23D8-4BB8-A5E1-32171F6DD91C/lynchelploc2013-kb3191937-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/7/E/07E3B3F6-23D8-4BB8-A5E1-32171F6DD91C/lynchelploc2013-kb3191937-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2760272</kb>
@@ -251,7 +251,7 @@
 			<category>Security</category>
 			<name>mscomct22013-kb2760272-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Common Controls 2 ActiveX)</description>
-			<url>http://download.microsoft.com/download/2/1/B/21B40719-4924-49A1-BBEB-D353DC7179C1/mscomct22013-kb2760272-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/2/1/B/21B40719-4924-49A1-BBEB-D353DC7179C1/mscomct22013-kb2760272-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172523</kb>
@@ -260,16 +260,16 @@
 			<category>General</category>
 			<name>msmipc2013-KB3172523-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Active Directory RMS)</description>
-			<url>http://download.microsoft.com/download/6/2/D/62DC8E6F-39F0-4155-923E-E43BFDC29C8D/msmipc2013-kb3172523-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/6/2/D/62DC8E6F-39F0-4155-923E-E43BFDC29C8D/msmipc2013-kb3172523-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002007</kb>
-			<date>2021/09/02</date>
-			<size>225.68 MB</size>
+			<kb>KB5002035</kb>
+			<date>2021/10/27</date>
+			<size>225.63 MB</size>
 			<category>Security</category>
-			<name>mso2013-kb5002007-fullfile-x64-glb.exe</name>
+			<name>mso2013-kb5002035-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/3/9/4/394ef546-cc7f-4040-b462-a00aca41474e/mso2013-kb5002007-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/f/5/d/f5d483b0-bb65-4a68-888b-741d307c627d/mso2013-kb5002035-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172522</kb>
@@ -278,7 +278,7 @@
 			<category>Security</category>
 			<name>msohevi2013-kb3172522-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (HTML MIME Handler)</description>
-			<url>http://download.microsoft.com/download/6/2/2/622D01DD-1A21-4BDD-9CAD-5B5D1CE6F7E0/msohevi2013-kb3172522-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/6/2/2/622D01DD-1A21-4BDD-9CAD-5B5D1CE6F7E0/msohevi2013-kb3172522-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4018378</kb>
@@ -287,7 +287,7 @@
 			<category>General</category>
 			<name>msptls2013-kb4018378-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (msptls-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/5/2/1/52130C97-82B6-4E59-A43D-510E94B4982C/msptls2013-kb4018378-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/2/1/52130C97-82B6-4E59-A43D-510E94B4982C/msptls2013-kb4018378-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2889863</kb>
@@ -305,7 +305,7 @@
 			<category>General</category>
 			<name>mtextra2013-kb4022212-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (MathType Extra Font)</description>
-			<url>http://download.microsoft.com/download/D/3/A/D3A9C532-E1FF-4E7E-BABE-FBB19D8E7178/mtextra2013-kb4022212-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/D/3/A/D3A9C532-E1FF-4E7E-BABE-FBB19D8E7178/mtextra2013-kb4022212-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2883095</kb>
@@ -323,7 +323,7 @@
 			<category>Security</category>
 			<name>oart2013-kb4464542-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Art)</description>
-			<url>http://download.microsoft.com/download/e/4/a/e4aea28f-4244-4cf8-8606-9ad2f2a2246a/oart2013-kb4464542-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/e/4/a/e4aea28f-4244-4cf8-8606-9ad2f2a2246a/oart2013-kb4464542-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039720</kb>
@@ -350,7 +350,7 @@
 			<category>General</category>
 			<name>oleo2013-kb3178640-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Open Document Format)</description>
-			<url>http://download.microsoft.com/download/5/8/6/586C2A71-0F4F-4CDE-8AF9-2B0CAFE02E50/oleo2013-kb3178640-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/8/6/586C2A71-0F4F-4CDE-8AF9-2B0CAFE02E50/oleo2013-kb3178640-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011281</kb>
@@ -359,7 +359,7 @@
 			<category>General</category>
 			<name>onenote2013-kb4011281-fullfile-x64-glb.exe</name>
 			<description>Microsoft OneNote 2013</description>
-			<url>http://download.microsoft.com/download/2/D/3/2D388F79-A406-43B7-A982-6C99C1B0CD10/onenote2013-kb4011281-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/2/D/3/2D388F79-A406-43B7-A982-6C99C1B0CD10/onenote2013-kb4011281-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3085565</kb>
@@ -368,7 +368,7 @@
 			<category>General</category>
 			<name>orgidcrl2013-kb3085565-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Online Services Control)</description>
-			<url>http://download.microsoft.com/download/8/B/6/8B643CDB-2694-45D5-9F45-75BFB249CECB/orgidcrl2013-kb3085565-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/8/B/6/8B643CDB-2694-45D5-9F45-75BFB249CECB/orgidcrl2013-kb3085565-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054854</kb>
@@ -395,7 +395,7 @@
 			<category>Security</category>
 			<name>ose2013-kb4022188-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Source Engine)</description>
-			<url>http://download.microsoft.com/download/B/4/7/B477529B-3D22-49E8-A0F0-3C2E809804C0/ose2013-kb4022188-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/B/4/7/B477529B-3D22-49E8-A0F0-3C2E809804C0/ose2013-kb4022188-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022189</kb>
@@ -404,7 +404,7 @@
 			<category>Security</category>
 			<name>osetup2013-kb4022189-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Setup Engine)</description>
-			<url>http://download.microsoft.com/download/0/C/7/0C75AC06-5A65-49EF-BE65-E331BCCFA517/osetup2013-kb4022189-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/C/7/0C75AC06-5A65-49EF-BE65-E331BCCFA517/osetup2013-kb4022189-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4484108</kb>
@@ -413,7 +413,7 @@
 			<category>Security</category>
 			<name>osfclient2013-kb4484108-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Apps)</description>
-			<url>http://download.microsoft.com/download/d/8/7/d879fe17-f769-4926-9612-3744289cffd7/osfclient2013-kb4484108-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/d/8/7/d879fe17-f769-4926-9612-3744289cffd7/osfclient2013-kb4484108-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039778</kb>
@@ -431,7 +431,7 @@
 			<category>General</category>
 			<name>outexum2013-kb4092455-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Exchange Outlook Addin)</description>
-			<url>http://download.microsoft.com/download/E/9/5/E95AA488-134F-4591-A8E1-3A381B7029F2/outexum2013-kb4092455-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/E/9/5/E95AA488-134F-4591-A8E1-3A381B7029F2/outexum2013-kb4092455-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115404</kb>
@@ -440,7 +440,7 @@
 			<category>General</category>
 			<name>outlfltr2013-KB3115404-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Junk Email Links Filter)</description>
-			<url>http://download.microsoft.com/download/2/E/6/2E63A2FD-7C84-4E7D-8189-3FCEE678B377/outlfltr2013-kb3115404-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/2/E/6/2E63A2FD-7C84-4E7D-8189-3FCEE678B377/outlfltr2013-kb3115404-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5001934</kb>
@@ -449,7 +449,7 @@
 			<category>Security</category>
 			<name>outlook2013-kb5001934-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>http://download.microsoft.com/download/8/0/f/80f4745e-d4f6-44c5-b517-fed4e5460cc5/outlook2013-kb5001934-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/8/0/f/80f4745e-d4f6-44c5-b517-fed4e5460cc5/outlook2013-kb5001934-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>
@@ -467,7 +467,7 @@
 			<category>Security</category>
 			<name>powerpoint2013-kb4493227-fullfile-x64-glb.exe</name>
 			<description>Microsoft PowerPoint 2013</description>
-			<url>http://download.microsoft.com/download/9/4/4/944d2766-f5d6-4dcd-88a3-25b4813dc854/powerpoint2013-kb4493227-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/9/4/4/944d2766-f5d6-4dcd-88a3-25b4813dc854/powerpoint2013-kb4493227-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213536</kb>
@@ -476,7 +476,7 @@
 			<category>General</category>
 			<name>ppaddin2013-kb3213536-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (ppaddin-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/A/6/3/A632D7DA-90EF-4A4E-9F9B-1E24086E84BB/ppaddin2013-kb3213536-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/A/6/3/A632D7DA-90EF-4A4E-9F9B-1E24086E84BB/ppaddin2013-kb3213536-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4484450</kb>
@@ -485,7 +485,7 @@
 			<category>Security</category>
 			<name>project2013-kb4484450-fullfile-x64-glb.exe</name>
 			<description>Microsoft Project 2013</description>
-			<url>http://download.microsoft.com/download/c/0/c/c0c0fe4e-3626-4d7e-965d-51b4e0fecdcf/project2013-kb4484450-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/c/0/c/c0c0fe4e-3626-4d7e-965d-51b4e0fecdcf/project2013-kb4484450-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011677</kb>
@@ -494,7 +494,7 @@
 			<category>General</category>
 			<name>proofloc2013-kb4011677-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Proofing Tools)</description>
-			<url>http://download.microsoft.com/download/D/2/2/D227B2E8-4A40-4464-B0EB-0E889CB183A6/proofloc2013-kb4011677-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/D/2/2/D227B2E8-4A40-4464-B0EB-0E889CB183A6/proofloc2013-kb4011677-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3023049</kb>
@@ -503,7 +503,7 @@
 			<category>General</category>
 			<name>protocolhandler2013-kb3023049-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Protocol Handler)</description>
-			<url>http://download.microsoft.com/download/1/9/F/19FDA3A3-660E-4180-9297-EC6B37178850/protocolhandler2013-kb3023049-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/1/9/F/19FDA3A3-660E-4180-9297-EC6B37178850/protocolhandler2013-kb3023049-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162033</kb>
@@ -512,7 +512,7 @@
 			<category>Security</category>
 			<name>publisher2013-kb3162033-fullfile-x64-glb.exe</name>
 			<description>Microsoft Publisher 2013</description>
-			<url>http://download.microsoft.com/download/a/0/0/a0097462-6d63-4ec4-ab08-207fd92b2e76/publisher2013-kb3162033-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/a/0/0/a0097462-6d63-4ec4-ab08-207fd92b2e76/publisher2013-kb3162033-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4018332</kb>
@@ -521,7 +521,7 @@
 			<category>Security</category>
 			<name>riched202013-kb4018332-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (RichEdit 8.0)</description>
-			<url>http://download.microsoft.com/download/1/7/2/172d805d-c1df-4b2e-9bf8-4ce966469fb2/riched202013-kb4018332-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/1/7/2/172d805d-c1df-4b2e-9bf8-4ce966469fb2/riched202013-kb4018332-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011155</kb>
@@ -530,7 +530,7 @@
 			<category>General</category>
 			<name>seguiemj2013-kb4011155-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Segoe UI Emoji Font)</description>
-			<url>http://download.microsoft.com/download/5/F/4/5F441412-6091-4C05-8D45-74A49D18715F/seguiemj2013-kb4011155-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/F/4/5F441412-6091-4C05-8D45-74A49D18715F/seguiemj2013-kb4011155-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172473</kb>
@@ -539,7 +539,7 @@
 			<category>General</category>
 			<name>stslist2013-kb3172473-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Access Web Datasheet)</description>
-			<url>http://download.microsoft.com/download/7/B/C/7BCD1BCF-DABC-4FBC-9CDC-5600614BD801/stslist2013-kb3172473-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/7/B/C/7BCD1BCF-DABC-4FBC-9CDC-5600614BD801/stslist2013-kb3172473-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4484435</kb>
@@ -548,7 +548,7 @@
 			<category>Security</category>
 			<name>vbe72013-kb4484435-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Visual Basic for Applications)</description>
-			<url>http://download.microsoft.com/download/b/d/f/bdf12f58-a359-4cda-bda6-8a053e0fe179/vbe72013-kb4484435-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/b/d/f/bdf12f58-a359-4cda-bda6-8a053e0fe179/vbe72013-kb4484435-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4504728</kb>
@@ -557,7 +557,7 @@
 			<category>General</category>
 			<name>visio2013-kb4504728-fullfile-x64-glb.exe</name>
 			<description>Microsoft Visio 2013</description>
-			<url>http://download.microsoft.com/download/e/3/a/e3ac24fe-7248-451e-b1f2-3c84e7b0bd01/visio2013-kb4504728-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/e/3/a/e3ac24fe-7248-451e-b1f2-3c84e7b0bd01/visio2013-kb4504728-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2817301</kb>
@@ -575,7 +575,7 @@
 			<category>General</category>
 			<name>wec2013-kb3172533-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (FrontPage Client)</description>
-			<url>http://download.microsoft.com/download/8/4/7/847A162A-06AA-47D6-ABAD-F9D59CC377C9/wec2013-kb3172533-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/8/4/7/847A162A-06AA-47D6-ABAD-F9D59CC377C9/wec2013-kb3172533-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5001960</kb>
@@ -584,7 +584,7 @@
 			<category>Security</category>
 			<name>word2013-kb5001960-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>http://download.microsoft.com/download/8/a/d/8ad69bde-0431-4962-97ae-505477588cbc/word2013-kb5001960-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/8/a/d/8ad69bde-0431-4962-97ae-505477588cbc/word2013-kb5001960-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>
@@ -593,7 +593,7 @@
 			<category>General</category>
 			<name>wordpia2013-kb3162081-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2013 (Wordpia-x-none.msp)</description>
-			<url>http://download.microsoft.com/download/A/D/8/AD8F61BB-8D35-4D0B-8147-F8EC4AAD2733/wordpia2013-kb3162081-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/A/D/8/AD8F61BB-8D35-4D0B-8147-F8EC4AAD2733/wordpia2013-kb3162081-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114499</kb>
@@ -602,7 +602,7 @@
 			<category>General</category>
 			<name>wxpcore2013-kb3114499-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Upload Center)</description>
-			<url>http://download.microsoft.com/download/E/1/F/E1F53FD2-B515-414A-AB79-55C01D8E0883/wxpcore2013-kb3114499-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/E/1/F/E1F53FD2-B515-414A-AB79-55C01D8E0883/wxpcore2013-kb3114499-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039701</kb>

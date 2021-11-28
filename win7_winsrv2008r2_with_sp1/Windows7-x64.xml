@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/10/12" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/11/09" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -26,7 +26,7 @@
 			<category>Additional/_IE11</category>
 			<name>IE11-Windows6.1-KB2841134-x64.cab</name>
 			<description>Internet Explorer 11 Main Package</description>
-			<url>http://download.microsoft.com/download/5/C/7/5C7074F0-CE81-4612-902F-DAAF3061B959/IE11-Windows6.1-KB2841134-x64.cab</url>
+			<url>https://download.microsoft.com/download/5/C/7/5C7074F0-CE81-4612-902F-DAAF3061B959/IE11-Windows6.1-KB2841134-x64.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2849696</kb>
@@ -35,7 +35,7 @@
 			<category>Additional/_IE11</category>
 			<name>IE11-Windows6.1-KB2849696-x64.msu</name>
 			<description>IE-Spelling-en.msu</description>
-			<url>http://download.microsoft.com/download/B/D/9/BD9A7786-6C54-4425-BE04-7914E5D77FBC/IE-Spelling-en.msu</url>
+			<url>https://download.microsoft.com/download/B/D/9/BD9A7786-6C54-4425-BE04-7914E5D77FBC/IE-Spelling-en.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2849697</kb>
@@ -44,7 +44,7 @@
 			<category>Additional/_IE11</category>
 			<name>IE11-Windows6.1-KB2849697-x64.msu</name>
 			<description>IE-Hyphenation-en.msu</description>
-			<url>http://download.microsoft.com/download/4/0/E/40E0AF15-3404-4C1E-8FB3-2DE7087F01F7/IE-Hyphenation-en.msu</url>
+			<url>https://download.microsoft.com/download/4/0/E/40E0AF15-3404-4C1E-8FB3-2DE7087F01F7/IE-Hyphenation-en.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2841134</kb>
@@ -233,7 +233,7 @@
 			<category>Additional/WMF</category>
 			<name>Win7AndW2K8R2-KB3191566-x64.msu</name>
 			<description>Windows Management Framework 5.1</description>
-			<url>http://download.microsoft.com/download/6/F/5/6F5FF66C-6775-42B0-86C4-47D41F2DA187/Win7AndW2K8R2-KB3191566-x64.zip</url>
+			<url>https://download.microsoft.com/download/6/F/5/6F5FF66C-6775-42B0-86C4-47D41F2DA187/Win7AndW2K8R2-KB3191566-x64.zip</url>
 		</update>
 		<update extract="0">
 			<kb>KB2222223</kb>
@@ -359,7 +359,7 @@
 			<category>Extra/Addons/WIF</category>
 			<name>Windows6.1-KB974405-x64.msu</name>
 			<description>Windows Identity Foundation</description>
-			<url>http://download.microsoft.com/download/D/7/2/D72FD747-69B6-40B7-875B-C2B40A6B2BDD/Windows6.1-KB974405-x64.msu</url>
+			<url>https://download.microsoft.com/download/D/7/2/D72FD747-69B6-40B7-875B-C2B40A6B2BDD/Windows6.1-KB974405-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2891638</kb>
@@ -386,7 +386,7 @@
 			<category>Extra/IE10</category>
 			<name>IE10-Windows6.1-KB2718695-x64.cab</name>
 			<description>Internet Explorer 10 Main Package</description>
-			<url>http://download.microsoft.com/download/1/1/3/11353609-F9C4-4C9A-9773-429CCF4CF0F0/IE10-Windows6.1-KB2718695-x64.cab</url>
+			<url>https://download.microsoft.com/download/1/1/3/11353609-F9C4-4C9A-9773-429CCF4CF0F0/IE10-Windows6.1-KB2718695-x64.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2764913</kb>
@@ -395,7 +395,7 @@
 			<category>Extra/IE10</category>
 			<name>IE10-Windows6.1-KB2764913-x64.msu</name>
 			<description>IE-Hyphenation-en.msu</description>
-			<url>http://download.microsoft.com/download/B/3/9/B39C9E62-5C64-4D7B-AFB3-D01EDD23BB98/IE-Hyphenation-en.msu</url>
+			<url>https://download.microsoft.com/download/B/3/9/B39C9E62-5C64-4D7B-AFB3-D01EDD23BB98/IE-Hyphenation-en.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2764916</kb>
@@ -404,7 +404,7 @@
 			<category>Extra/IE10</category>
 			<name>IE10-Windows6.1-KB2764916-x64.msu</name>
 			<description>IE-Spelling-en.msu</description>
-			<url>http://download.microsoft.com/download/4/8/C/48CA86E9-96CB-4F7F-BBAA-82ACE5060F50/IE-Spelling-en.msu</url>
+			<url>https://download.microsoft.com/download/4/8/C/48CA86E9-96CB-4F7F-BBAA-82ACE5060F50/IE-Spelling-en.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2718695</kb>
@@ -467,7 +467,7 @@
 			<category>Extra/IE9</category>
 			<name>IE9-Windows6.1-KB982861-x64.msu</name>
 			<description>Internet Explorer 9</description>
-			<url>http://download.microsoft.com/download/2/5/7/257166C5-14B7-428B-8C1B-3E01E2330BA4/NeutralMSU/amd64fre/IE9-win7.msu</url>
+			<url>https://download.microsoft.com/download/2/5/7/257166C5-14B7-428B-8C1B-3E01E2330BA4/NeutralMSU/amd64fre/IE9-win7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3124275</kb>
@@ -485,7 +485,7 @@
 			<category>Extra/MediaFeaturePack</category>
 			<name>Windows6.1-KB968211-x64-RefreshPkg.msu</name>
 			<description>Windows Media Feature Pack for Windows 7 N and for Windows 7 KN</description>
-			<url>http://web.archive.org/web/20181208200645if_/http://download.microsoft.com/download/B/9/B/B9BED058-8669-490E-BA61-D502E4E8BEB1/Windows6.1-KB968211-x64-RefreshPkg.msu</url>
+			<url>http://web.archive.org/web/20181208200645if_/https://download.microsoft.com/download/B/9/B/B9BED058-8669-490E-BA61-D502E4E8BEB1/Windows6.1-KB968211-x64-RefreshPkg.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB968212</kb>
@@ -503,7 +503,7 @@
 			<category>Extra/RSAT</category>
 			<name>Windows6.1-KB958830-x64-RefreshPkg.msu</name>
 			<description>Remote Server Administration Tools for Windows 7</description>
-			<url>http://web.archive.org/web/20150322103752if_/http://download.microsoft.com/download/4/F/7/4F71806A-1C56-4EF2-9B4F-9870C4CFD2EE/Windows6.1-KB958830-x64-RefreshPkg.msu</url>
+			<url>http://web.archive.org/web/20150322103752if_/https://download.microsoft.com/download/4/F/7/4F71806A-1C56-4EF2-9B4F-9870C4CFD2EE/Windows6.1-KB958830-x64-RefreshPkg.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB970985</kb>
@@ -665,7 +665,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB2779272-x64.msu</name>
 			<description>Update adds support for some new glyphs and features in Windows 8 to common fonts in Windows 7</description>
-			<url>http://download.microsoft.com/download/4/E/C/4EC01D1B-2BE2-4E33-9AEC-624666AC09B2/Windows6.1-KB2779272-x64.msu</url>
+			<url>https://download.microsoft.com/download/4/E/C/4EC01D1B-2BE2-4E33-9AEC-624666AC09B2/Windows6.1-KB2779272-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2786081</kb>
@@ -890,7 +890,7 @@
 			<category>Extra/WithoutKB3125574/#General</category>
 			<name>Windows6.1-KB3079821-x64.msu</name>
 			<description>Update adds support for Windows 10 clients to Windows 7 KMS hosts</description>
-			<url>http://download.microsoft.com/download/1/8/7/18710B86-673C-4C56-8C2F-9171152A1D36/Windows6.1-KB3079821-x64.msu</url>
+			<url>https://download.microsoft.com/download/1/8/7/18710B86-673C-4C56-8C2F-9171152A1D36/Windows6.1-KB3079821-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3102429</kb>
@@ -4184,7 +4184,7 @@
 			<category>Extra/WithoutKB3125574/SL/WinRE</category>
 			<name>Windows6.1-KB2883457-x64.msu</name>
 			<description>Update for Windows Recovery Environment</description>
-			<url>http://download.microsoft.com/download/D/F/2/DF239CED-F8B5-4955-BF20-6E91BC82D709/Windows6.1-KB2883457-x64.msu</url>
+			<url>https://download.microsoft.com/download/D/F/2/DF239CED-F8B5-4955-BF20-6E91BC82D709/Windows6.1-KB2883457-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2652034</kb>
@@ -4283,7 +4283,7 @@
 			<category>Extra/WMF3.0</category>
 			<name>Windows6.1-KB2506143-x64.msu</name>
 			<description>Windows Management Framework 3.0</description>
-			<url>http://download.microsoft.com/download/E/7/6/E76850B8-DA6E-4FF5-8CCE-A24FC513FD16/Windows6.1-KB2506143-x64.msu</url>
+			<url>https://download.microsoft.com/download/E/7/6/E76850B8-DA6E-4FF5-8CCE-A24FC513FD16/Windows6.1-KB2506143-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2802886</kb>
@@ -4427,7 +4427,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB3064209-x64.msu</name>
 			<description>Microcode update for Intel processors</description>
-			<url>http://download.microsoft.com/download/3/7/A/37A7BC0A-9E57-4B7D-B143-39CFFA4F2A2D/Windows6.1-KB3064209-x64.msu</url>
+			<url>https://download.microsoft.com/download/3/7/A/37A7BC0A-9E57-4B7D-B143-39CFFA4F2A2D/Windows6.1-KB3064209-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3125574</kb>
@@ -4673,13 +4673,13 @@
 			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5006060</kb>
-			<date>2021/09/09</date>
-			<size>40.70 MB</size>
+			<kb>KB5007149</kb>
+			<date>2021/10/05</date>
+			<size>40.85 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5006060-x64.exe</name>
-			<description>2021-10 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/09/ndp48-kb5006060-x64_c789dccee4fcf4f4d47e9f0d10432fea9a4265b4.exe</url>
+			<name>NDP48-KB5007149-x64.exe</name>
+			<description>2021-11 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/10/ndp48-kb5007149-x64_aaecc0eaccacec0a368ed7b41538a3ade8262ffe.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -4700,13 +4700,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4578952-x64_30ac0df8554c2647017f3b36cc02e833a3187364.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5006743</kb>
-			<date>2021/10/07</date>
-			<size>363.78 MB</size>
+			<kb>KB5007236</kb>
+			<date>2021/11/04</date>
+			<size>368.64 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5006743-x64.msu</name>
-			<description>2021-10 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/10/windows6.1-kb5006743-x64_fb16fb35510d187cd7cf879684d6a125b5e3bb35.msu</url>
+			<name>Windows6.1-KB5007236-x64.msu</name>
+			<description>2021-11 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows6.1-kb5007236-x64_565c856b7c9b814eb75f7f66b25ec2b49f10bc42.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5006749</kb>
@@ -4716,6 +4716,15 @@
 			<name>Windows6.1-KB5006749-x64.msu</name>
 			<description>2021-10 Servicing Stack Update</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/10/windows6.1-kb5006749-x64_4934673a816c4c0e5d6c380e0a61428da8aab4ac.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5008605</kb>
+			<date>2021/11/14</date>
+			<size>55.23 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB5008605-x64.msu</name>
+			<description>2021-11 Fix for Authentication fails on domain controllers</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/11/windows6.1-kb5008605-x64_447625edeb90a37737ca4c413358a91927e513ab.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

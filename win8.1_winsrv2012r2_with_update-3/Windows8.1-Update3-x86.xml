@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/10/12" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/11/09" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -224,7 +224,7 @@
 			<category>Additional/Windows10</category>
 			<name>Windows8.1-KB3044374-x86.msu</name>
 			<description>Update that enables you to upgrade from Windows 8.1 to a later version of Windows</description>
-			<url>http://download.microsoft.com/download/8/3/F/83FD4418-9DB0-4BF1-8E61-EABF1BDE415F/Windows8.1-KB3044374-x86.msu</url>
+			<url>https://download.microsoft.com/download/8/3/F/83FD4418-9DB0-4BF1-8E61-EABF1BDE415F/Windows8.1-KB3044374-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080149</kb>
@@ -233,7 +233,7 @@
 			<category>Additional/Windows10</category>
 			<name>Windows8.1-KB3080149-x86.msu</name>
 			<description>August 2015 Unified Telemetry Client update</description>
-			<url>http://download.microsoft.com/download/C/B/F/CBF18876-FA6C-4B85-8D1E-2C41CD5F828F/Windows8.1-KB3080149-x86.msu</url>
+			<url>https://download.microsoft.com/download/C/B/F/CBF18876-FA6C-4B85-8D1E-2C41CD5F828F/Windows8.1-KB3080149-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2974735</kb>
@@ -269,7 +269,7 @@
 			<category>Additional/WMF</category>
 			<name>Windows8.1-KB3191564-x86.msu</name>
 			<description>Windows Management Framework 5.1</description>
-			<url>http://download.microsoft.com/download/6/F/5/6F5FF66C-6775-42B0-86C4-47D41F2DA187/Win8.1-KB3191564-x86.msu</url>
+			<url>https://download.microsoft.com/download/6/F/5/6F5FF66C-6775-42B0-86C4-47D41F2DA187/Win8.1-KB3191564-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2883200</kb>
@@ -287,7 +287,7 @@
 			<category>Additional/WU.Satisfy</category>
 			<name>Windows8.1-KB2894852-v2-x86.msu</name>
 			<description>dotNET 35 / Supersded by KB3000059</description>
-			<url>http://download.microsoft.com/download/5/A/8/5A8252A9-4285-40F9-9C89-90823888EA6D/Windows8.1-KB2894852-v2-x86.msu</url>
+			<url>https://download.microsoft.com/download/5/A/8/5A8252A9-4285-40F9-9C89-90823888EA6D/Windows8.1-KB2894852-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3004545</kb>
@@ -305,7 +305,7 @@
 			<category>Additional/WU.Satisfy</category>
 			<name>Windows8.1-KB3030947-x86.msu</name>
 			<description>Memory code layout / Superseded by KB3061512 + Monthly Quality Rollup</description>
-			<url>http://download.microsoft.com/download/7/A/B/7AB9710E-3C8F-4322-89C8-8520C3BA2AEB/Windows8.1-KB3030947-x86.msu</url>
+			<url>https://download.microsoft.com/download/7/A/B/7AB9710E-3C8F-4322-89C8-8520C3BA2AEB/Windows8.1-KB3030947-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3038936</kb>
@@ -314,7 +314,7 @@
 			<category>Additional/WU.Satisfy</category>
 			<name>Windows8.1-KB3038936-x86.msu</name>
 			<description>Windows Defender / Superseded by Monthly Quality Rollup</description>
-			<url>http://download.microsoft.com/download/A/6/8/A689758C-94EE-43FC-8F23-8A8DD37CC548/Windows8.1-KB3038936-x86.msu</url>
+			<url>https://download.microsoft.com/download/A/6/8/A689758C-94EE-43FC-8F23-8A8DD37CC548/Windows8.1-KB3038936-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118401</kb>
@@ -341,7 +341,7 @@
 			<category>Additional/WU.Satisfy</category>
 			<name>Windows8.1-KB3162835-x86.msu</name>
 			<description>June 2016 DST update / Superseded by Monthly Rollup</description>
-			<url>http://download.microsoft.com/download/2/A/7/2A7DDF8A-2B5C-4C8E-AD45-306E19A579B6/Windows8.1-KB3162835-x86.msu</url>
+			<url>https://download.microsoft.com/download/2/A/7/2A7DDF8A-2B5C-4C8E-AD45-306E19A579B6/Windows8.1-KB3162835-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3173424</kb>
@@ -377,7 +377,7 @@
 			<category>Additional/WU.Satisfy/ProfessionalWMC</category>
 			<name>Windows8.1-KB2973201-x86.msu</name>
 			<description>WMC Soft Keyboard / Included in KB3000850</description>
-			<url>http://download.microsoft.com/download/6/E/C/6EC7E87B-A132-43A1-9E0A-3C67DD92606E/Windows8.1-KB2973201-x86.msu</url>
+			<url>https://download.microsoft.com/download/6/E/C/6EC7E87B-A132-43A1-9E0A-3C67DD92606E/Windows8.1-KB2973201-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2919355</kb>
@@ -395,7 +395,7 @@
 			<category>Baseline</category>
 			<name>Windows8.1-KB3021910-x86.msu</name>
 			<description>April 2015 servicing stack update</description>
-			<url>http://download.microsoft.com/download/2/B/8/2B832205-A313-45A4-9356-DF5E47B70663/Windows8.1-KB3021910-x86.msu</url>
+			<url>https://download.microsoft.com/download/2/B/8/2B832205-A313-45A4-9356-DF5E47B70663/Windows8.1-KB3021910-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5001403</kb>
@@ -413,7 +413,7 @@
 			<category>Extra/MediaFeaturePack</category>
 			<name>Windows8.1-KB2929699-x86.msu</name>
 			<description>Media Feature Pack for Windows 8.1 N and Windows 8.1 KN Editions: April 2014</description>
-			<url>http://download.microsoft.com/download/8/9/7/89775613-432E-4ECF-93A9-5BAFCB5B7807/Windows8.1-KB2929699-x86.msu</url>
+			<url>https://download.microsoft.com/download/8/9/7/89775613-432E-4ECF-93A9-5BAFCB5B7807/Windows8.1-KB2929699-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2693643</kb>
@@ -422,7 +422,7 @@
 			<category>Extra/RSAT</category>
 			<name>Windows8.1-KB2693643-x86.msu</name>
 			<description>Remote Server Administration Tools for Windows 8.1</description>
-			<url>http://download.microsoft.com/download/1/8/E/18EA4843-C596-4542-9236-DE46F780806E/Windows8.1-KB2693643-x86.msu</url>
+			<url>https://download.microsoft.com/download/1/8/E/18EA4843-C596-4542-9236-DE46F780806E/Windows8.1-KB2693643-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3159706</kb>
@@ -440,7 +440,7 @@
 			<category>Extra/RSAT/Updates</category>
 			<name>Windows8.1-KB2962409-x86.msu</name>
 			<description>June 2014 update rollup</description>
-			<url>http://download.microsoft.com/download/9/E/8/9E850A06-CDF4-4130-92FC-2D8208E34BA7/Windows8.1-KB2962409-x86.msu</url>
+			<url>https://download.microsoft.com/download/9/E/8/9E850A06-CDF4-4130-92FC-2D8208E34BA7/Windows8.1-KB2962409-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2996883</kb>
@@ -521,7 +521,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB2899189-x86.msu</name>
 			<description>Update adds support for many camera-specific file formats in Windows 8.1: December 2013</description>
-			<url>http://download.microsoft.com/download/1/1/5/115D0998-8AEF-40E5-B37A-4449A349825A/Windows8.1-KB2899189-x86.msu</url>
+			<url>https://download.microsoft.com/download/1/1/5/115D0998-8AEF-40E5-B37A-4449A349825A/Windows8.1-KB2899189-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2913236</kb>
@@ -530,7 +530,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB2913236-x86.msu</name>
 			<description>You may experience poor battery life on a Lenovo Miix2 8 tablet running Windows 8.1</description>
-			<url>http://download.microsoft.com/download/6/F/F/6FF0C28E-8757-42C9-91C2-BA7DDD05634A/Windows8.1-KB2913236-x86.msu</url>
+			<url>https://download.microsoft.com/download/6/F/F/6FF0C28E-8757-42C9-91C2-BA7DDD05634A/Windows8.1-KB2913236-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2989930</kb>
@@ -539,7 +539,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB2989930-x86.msu</name>
 			<description>Not Connected status for a paired Surface Pen in Bluetooth settings</description>
-			<url>http://download.microsoft.com/download/0/4/8/048E9E0F-553E-4FA8-B905-9218DBFDB84A/Windows8.1-KB2989930-x86.msu</url>
+			<url>https://download.microsoft.com/download/0/4/8/048E9E0F-553E-4FA8-B905-9218DBFDB84A/Windows8.1-KB2989930-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2994290</kb>
@@ -548,7 +548,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB2994290-x86.msu</name>
 			<description>November 2014 Language Interface Pack</description>
-			<url>http://download.microsoft.com/download/8/7/2/872B5B98-1BBE-4346-BB4F-819CB11CC242/Windows8.1-KB2994290-x86.msu</url>
+			<url>https://download.microsoft.com/download/8/7/2/872B5B98-1BBE-4346-BB4F-819CB11CC242/Windows8.1-KB2994290-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2995518</kb>
@@ -575,7 +575,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3012235-v3-x86.msu</name>
 			<description>The Print Pictures Wizard stops responding in Windows 8.1</description>
-			<url>http://download.microsoft.com/download/3/0/B/30B13AA9-DC62-40F0-A387-C8996868BCBC/Windows8.1-KB3012235-v3-x86.msu</url>
+			<url>https://download.microsoft.com/download/3/0/B/30B13AA9-DC62-40F0-A387-C8996868BCBC/Windows8.1-KB3012235-v3-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3012702</kb>
@@ -584,7 +584,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3012702-x86.msu</name>
 			<description>Some default program associations for a roamed user may be lost when you log on to an RDS server</description>
-			<url>http://download.microsoft.com/download/0/2/5/025476D7-ED0F-461D-A812-883F6A8153EA/Windows8.1-KB3012702-x86.msu</url>
+			<url>https://download.microsoft.com/download/0/2/5/025476D7-ED0F-461D-A812-883F6A8153EA/Windows8.1-KB3012702-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3013172</kb>
@@ -593,7 +593,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3013172-x86.msu</name>
 			<description>Individual memory devices cannot be ejected through the Safely Remove Hardware UI</description>
-			<url>http://download.microsoft.com/download/1/5/B/15B395CC-ADDE-41D5-9380-AF645A04A004/Windows8.1-KB3013172-x86.msu</url>
+			<url>https://download.microsoft.com/download/1/5/B/15B395CC-ADDE-41D5-9380-AF645A04A004/Windows8.1-KB3013172-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3013531</kb>
@@ -602,7 +602,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3013531-x86.msu</name>
 			<description>Update to support copying .mkv files to Windows Phone from a computer that is running Windows</description>
-			<url>http://download.microsoft.com/download/3/6/0/3603F244-D6B8-4AFE-B4D4-361D0FE04366/Windows8.1-KB3013531-x86.msu</url>
+			<url>https://download.microsoft.com/download/3/6/0/3603F244-D6B8-4AFE-B4D4-361D0FE04366/Windows8.1-KB3013531-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3013538</kb>
@@ -611,7 +611,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3013538-x86.msu</name>
 			<description>Automatic brightness option is disabled unexpectedly after you switch between PC settings pages in Windows</description>
-			<url>http://download.microsoft.com/download/F/E/1/FE123C9C-60F6-4CA9-AF73-66B0B4C3E184/Windows8.1-KB3013538-x86.msu</url>
+			<url>https://download.microsoft.com/download/F/E/1/FE123C9C-60F6-4CA9-AF73-66B0B4C3E184/Windows8.1-KB3013538-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3013769</kb>
@@ -620,7 +620,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3013769-x86.msu</name>
 			<description>December 2014 update rollup</description>
-			<url>http://download.microsoft.com/download/4/5/2/4523ACEE-9CF5-4209-AE2D-52BA993A1CD4/Windows8.1-KB3013769-x86.msu</url>
+			<url>https://download.microsoft.com/download/4/5/2/4523ACEE-9CF5-4209-AE2D-52BA993A1CD4/Windows8.1-KB3013769-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3013791</kb>
@@ -629,7 +629,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3013791-x86.msu</name>
 			<description>0x00000133 Stop error when there's faulty hardware</description>
-			<url>http://download.microsoft.com/download/3/C/E/3CEFF22C-4461-4058-8BA4-389BFB9518A6/Windows8.1-KB3013791-x86.msu</url>
+			<url>https://download.microsoft.com/download/3/C/E/3CEFF22C-4461-4058-8BA4-389BFB9518A6/Windows8.1-KB3013791-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3013816</kb>
@@ -638,7 +638,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3013816-x86.msu</name>
 			<description>December 2014 update for MDM client</description>
-			<url>http://download.microsoft.com/download/F/8/9/F8930D4F-88A5-4A01-B8E4-091181EFF40C/Windows8.1-KB3013816-x86.msu</url>
+			<url>https://download.microsoft.com/download/F/8/9/F8930D4F-88A5-4A01-B8E4-091181EFF40C/Windows8.1-KB3013816-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3014176</kb>
@@ -656,7 +656,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3015696-x86.msu</name>
 			<description>The InputPersonalization.exe process crashes in Windows</description>
-			<url>http://download.microsoft.com/download/D/B/5/DB5D3550-32E4-4915-8391-7BC564050A02/Windows8.1-KB3015696-x86.msu</url>
+			<url>https://download.microsoft.com/download/D/B/5/DB5D3550-32E4-4915-8391-7BC564050A02/Windows8.1-KB3015696-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3018133</kb>
@@ -665,7 +665,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3018133-x86.msu</name>
 			<description>Content on the lock screen is displayed inappropriately in Windows that has update 2919355 installed</description>
-			<url>http://download.microsoft.com/download/1/2/2/1223EB78-9C5D-499E-A0BA-DF9F1463EEB2/Windows8.1-KB3018133-x86.msu</url>
+			<url>https://download.microsoft.com/download/1/2/2/1223EB78-9C5D-499E-A0BA-DF9F1463EEB2/Windows8.1-KB3018133-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3020370</kb>
@@ -674,7 +674,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3020370-x86.msu</name>
 			<description>Update for the trustinfo installer plugin cmitrust.dll</description>
-			<url>http://download.microsoft.com/download/2/C/6/2C65DAF4-2596-406A-9954-7D5E29E7827A/Windows8.1-KB3020370-x86.msu</url>
+			<url>https://download.microsoft.com/download/2/C/6/2C65DAF4-2596-406A-9954-7D5E29E7827A/Windows8.1-KB3020370-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3024751</kb>
@@ -683,7 +683,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3024751-x86.msu</name>
 			<description>The TAB key inserts a tab stop when you enter Wi-Fi credentials</description>
-			<url>http://download.microsoft.com/download/6/2/E/62EC4593-132E-45EA-AF5B-8B9D2D34018F/Windows8.1-KB3024751-x86.msu</url>
+			<url>https://download.microsoft.com/download/6/2/E/62EC4593-132E-45EA-AF5B-8B9D2D34018F/Windows8.1-KB3024751-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3024755</kb>
@@ -692,7 +692,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3024755-x86.msu</name>
 			<description>Multi-touch gesture does not work after you exit the Calculator</description>
-			<url>http://download.microsoft.com/download/4/5/6/45699495-0F5E-4E1D-9EAD-F68114FD5D5B/Windows8.1-KB3024755-x86.msu</url>
+			<url>https://download.microsoft.com/download/4/5/6/45699495-0F5E-4E1D-9EAD-F68114FD5D5B/Windows8.1-KB3024755-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3029606</kb>
@@ -701,7 +701,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3029606-v2-x86.msu</name>
 			<description>Update to improve Bluetooth driver diagnosis in Windows 8.1</description>
-			<url>http://download.microsoft.com/download/7/D/1/7D1C12F0-EA46-42C8-AFBE-416743290DC4/Windows8.1-KB3029606-v2-x86.msu</url>
+			<url>https://download.microsoft.com/download/7/D/1/7D1C12F0-EA46-42C8-AFBE-416743290DC4/Windows8.1-KB3029606-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3031044</kb>
@@ -719,7 +719,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3036612-x86.msu</name>
 			<description>Windows Store apps may crash in Windows 8.1</description>
-			<url>http://download.microsoft.com/download/7/6/1/761FDEC0-DC93-49B4-9AC8-04396FEDE0DC/Windows8.1-KB3036612-x86.msu</url>
+			<url>https://download.microsoft.com/download/7/6/1/761FDEC0-DC93-49B4-9AC8-04396FEDE0DC/Windows8.1-KB3036612-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3044673</kb>
@@ -728,7 +728,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3044673-v2-x86.msu</name>
 			<description>Photos taken by certain Android devices show blank value in Date taken field in Windows Explorer</description>
-			<url>http://download.microsoft.com/download/B/C/5/BC5DF293-C76F-4BA2-BC91-4E0B469DC17B/Windows8.1-KB3044673-v2-x86.msu</url>
+			<url>https://download.microsoft.com/download/B/C/5/BC5DF293-C76F-4BA2-BC91-4E0B469DC17B/Windows8.1-KB3044673-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3045634</kb>
@@ -737,7 +737,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3045634-x86.msu</name>
 			<description>You cannot make a PPP connection after you reconnect a PLC device in Windows 8.1</description>
-			<url>http://download.microsoft.com/download/4/3/C/43CC2598-80FD-4F07-9252-B767E5B212FE/Windows8.1-KB3045634-x86.msu</url>
+			<url>https://download.microsoft.com/download/4/3/C/43CC2598-80FD-4F07-9252-B767E5B212FE/Windows8.1-KB3045634-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3045717</kb>
@@ -746,7 +746,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3045717-x86.msu</name>
 			<description>Narrator does not stop reading when you press Ctrl key in Windows</description>
-			<url>http://download.microsoft.com/download/A/B/A/ABAE1468-F17C-4269-A80E-BCCD77CCB2D8/Windows8.1-KB3045717-x86.msu</url>
+			<url>https://download.microsoft.com/download/A/B/A/ABAE1468-F17C-4269-A80E-BCCD77CCB2D8/Windows8.1-KB3045717-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3045719</kb>
@@ -755,7 +755,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3045719-x86.msu</name>
 			<description>Microsoft Project Siena crashes when you use galleries in the application in Windows</description>
-			<url>http://download.microsoft.com/download/4/B/7/4B785949-9205-47BD-BF49-C2AEFD463E89/Windows8.1-KB3045719-x86.msu</url>
+			<url>https://download.microsoft.com/download/4/B/7/4B785949-9205-47BD-BF49-C2AEFD463E89/Windows8.1-KB3045719-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3046480</kb>
@@ -764,7 +764,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3046480-x86.msu</name>
 			<description>Update helps to determine whether to migrate the .NET Framework 1.1 when you upgrade Windows</description>
-			<url>http://download.microsoft.com/download/0/A/6/0A67DAA3-C091-43AC-9A82-CA5B056AA7F9/Windows8.1-KB3046480-x86.msu</url>
+			<url>https://download.microsoft.com/download/0/A/6/0A67DAA3-C091-43AC-9A82-CA5B056AA7F9/Windows8.1-KB3046480-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3046737</kb>
@@ -773,7 +773,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3046737-x86.msu</name>
 			<description>Paired text is not translated correctly in Korean when you disconnect a paired Bluetooth device in Windows</description>
-			<url>http://download.microsoft.com/download/9/4/2/94247D41-3EFE-4299-B87E-0D18CD89E996/Windows8.1-KB3046737-x86.msu</url>
+			<url>https://download.microsoft.com/download/9/4/2/94247D41-3EFE-4299-B87E-0D18CD89E996/Windows8.1-KB3046737-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3047254</kb>
@@ -782,7 +782,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3047254-x86.msu</name>
 			<description>Stop error 0x0000009F when you use the Bluetooth Hands-Free Audio and Call Control HID Enumerator driver</description>
-			<url>http://download.microsoft.com/download/B/1/5/B1567426-ADBA-4002-8B1E-AD845A119F07/Windows8.1-KB3047254-x86.msu</url>
+			<url>https://download.microsoft.com/download/B/1/5/B1567426-ADBA-4002-8B1E-AD845A119F07/Windows8.1-KB3047254-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3053863</kb>
@@ -791,7 +791,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3053863-x86.msu</name>
 			<description>Windows 8.1 can't discover Samsung TV as wireless display device</description>
-			<url>http://download.microsoft.com/download/1/1/E/11E6B95B-827F-4DC9-B691-392F0CC6B92E/Windows8.1-KB3053863-x86.msu</url>
+			<url>https://download.microsoft.com/download/1/1/E/11E6B95B-827F-4DC9-B691-392F0CC6B92E/Windows8.1-KB3053863-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054169</kb>
@@ -800,7 +800,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3054169-x86.msu</name>
 			<description>Update to add more information to minidump files that helps OCA servers categorize failures correctly</description>
-			<url>http://download.microsoft.com/download/2/D/7/2D733A19-CA16-4760-A803-EC2C78E0D42A/Windows8.1-KB3054169-x86.msu</url>
+			<url>https://download.microsoft.com/download/2/D/7/2D733A19-CA16-4760-A803-EC2C78E0D42A/Windows8.1-KB3054169-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054256</kb>
@@ -809,7 +809,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3054256-v2-x86.msu</name>
 			<description>Reliability improvements for Windows 8.1: June 2015</description>
-			<url>http://download.microsoft.com/download/A/C/9/AC9737D5-98EB-476D-8641-4C1F70C4F9FB/Windows8.1-KB3054256-v2-x86.msu</url>
+			<url>https://download.microsoft.com/download/A/C/9/AC9737D5-98EB-476D-8641-4C1F70C4F9FB/Windows8.1-KB3054256-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054464</kb>
@@ -818,7 +818,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3054464-x86.msu</name>
 			<description>Applications that use the AddEntry method may crash</description>
-			<url>http://download.microsoft.com/download/C/1/4/C1440F28-5578-4B70-9787-7DA72D0E7EC3/Windows8.1-KB3054464-x86.msu</url>
+			<url>https://download.microsoft.com/download/C/1/4/C1440F28-5578-4B70-9787-7DA72D0E7EC3/Windows8.1-KB3054464-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3055323</kb>
@@ -827,7 +827,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3055323-x86.msu</name>
 			<description>Update to enable a security feature for the rgb9rast.dll binary</description>
-			<url>http://download.microsoft.com/download/E/E/B/EEBFAA2E-3017-4DFA-BFC5-0E4D9F6BE006/Windows8.1-KB3055323-x86.msu</url>
+			<url>https://download.microsoft.com/download/E/E/B/EEBFAA2E-3017-4DFA-BFC5-0E4D9F6BE006/Windows8.1-KB3055323-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3056347</kb>
@@ -836,7 +836,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3056347-x86.msu</name>
 			<description>Location feature is not turned off after you enable "Turn off location" policy setting</description>
-			<url>http://download.microsoft.com/download/8/B/9/8B91B562-2E99-4235-B8B9-F95F95AACBCB/Windows8.1-KB3056347-x86.msu</url>
+			<url>https://download.microsoft.com/download/8/B/9/8B91B562-2E99-4235-B8B9-F95F95AACBCB/Windows8.1-KB3056347-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3060793</kb>
@@ -845,7 +845,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3060793-x86.msu</name>
 			<description>0x0000001E or "0x00000133" Stop error when you transfer data through a USB-based RNDIS device on</description>
-			<url>http://download.microsoft.com/download/C/0/8/C080032B-D235-4C7B-A8FE-F15F36754D2B/Windows8.1-KB3060793-x86.msu</url>
+			<url>https://download.microsoft.com/download/C/0/8/C080032B-D235-4C7B-A8FE-F15F36754D2B/Windows8.1-KB3060793-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3061493</kb>
@@ -854,7 +854,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3061493-x86.msu</name>
 			<description>Update enables magstripe drivers to support new devices</description>
-			<url>http://download.microsoft.com/download/5/B/2/5B298AE8-5C35-4E51-AE07-FC2249E4D577/Windows8.1-KB3061493-x86.msu</url>
+			<url>https://download.microsoft.com/download/5/B/2/5B298AE8-5C35-4E51-AE07-FC2249E4D577/Windows8.1-KB3061493-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3063843</kb>
@@ -863,7 +863,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3063843-x86.msu</name>
 			<description>Registry bloat causes slow logons or insufficient system resources error 0x800705AA</description>
-			<url>http://download.microsoft.com/download/3/F/2/3F29A540-3697-4EFE-86CE-ED0D7F7350CD/Windows8.1-KB3063843-x86.msu</url>
+			<url>https://download.microsoft.com/download/3/F/2/3F29A540-3697-4EFE-86CE-ED0D7F7350CD/Windows8.1-KB3063843-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3064059</kb>
@@ -881,7 +881,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3064209-x86.msu</name>
 			<description>June 2015 microcode update for Intel processors</description>
-			<url>http://download.microsoft.com/download/0/A/4/0A409CF8-E8B5-4E36-AFFB-76F157C9819C/Windows8.1-KB3064209-x86.msu</url>
+			<url>https://download.microsoft.com/download/0/A/4/0A409CF8-E8B5-4E36-AFFB-76F157C9819C/Windows8.1-KB3064209-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3077715</kb>
@@ -890,7 +890,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3077715-x86.msu</name>
 			<description>August 2015 cumulative time zone update for Windows operating systems</description>
-			<url>http://download.microsoft.com/download/E/1/D/E1D88BD8-DDB0-4BDA-BC85-6175D454B992/Windows8.1-KB3077715-x86.msu</url>
+			<url>https://download.microsoft.com/download/E/1/D/E1D88BD8-DDB0-4BDA-BC85-6175D454B992/Windows8.1-KB3077715-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3078405</kb>
@@ -899,7 +899,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3078405-v2-x86.msu</name>
 			<description>0x0000004A or "0x0000009F" Stop error occurs in Windows 8.1</description>
-			<url>http://download.microsoft.com/download/D/9/0/D90DC070-2A60-4583-8ECE-FAD81EBE253C/Windows8.1-KB3078405-v2-x86.msu</url>
+			<url>https://download.microsoft.com/download/D/9/0/D90DC070-2A60-4583-8ECE-FAD81EBE253C/Windows8.1-KB3078405-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3080800</kb>
@@ -908,7 +908,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3080800-x86.msu</name>
 			<description>Access violation (c0000005) error if the Network Connected Devices Auto-Setup service crashes</description>
-			<url>http://download.microsoft.com/download/6/8/6/68604A10-4BCD-4281-A0F9-E29CE912BF5F/Windows8.1-KB3080800-x86.msu</url>
+			<url>https://download.microsoft.com/download/6/8/6/68604A10-4BCD-4281-A0F9-E29CE912BF5F/Windows8.1-KB3080800-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3084905</kb>
@@ -917,7 +917,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3084905-v2-x86.msu</name>
 			<description>TPM lockout occurs unexpectedly</description>
-			<url>http://download.microsoft.com/download/8/C/5/8C53D428-FD4D-4466-A63D-85F49CE4D6B2/Windows8.1-KB3084905-v2-x86.msu</url>
+			<url>https://download.microsoft.com/download/8/C/5/8C53D428-FD4D-4466-A63D-85F49CE4D6B2/Windows8.1-KB3084905-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3087137</kb>
@@ -926,7 +926,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3087137-x86.msu</name>
 			<description>Gradient rendering issue when an application has nested transformed geometries</description>
-			<url>http://download.microsoft.com/download/7/B/B/7BB2BB9D-84AB-4A29-A1C4-DBF298AFA2A0/Windows8.1-KB3087137-x86.msu</url>
+			<url>https://download.microsoft.com/download/7/B/B/7BB2BB9D-84AB-4A29-A1C4-DBF298AFA2A0/Windows8.1-KB3087137-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3091297</kb>
@@ -935,7 +935,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3091297-x86.msu</name>
 			<description>You can't logon to an AD FS server from a Windows Store app on a Windows 8.1 device</description>
-			<url>http://download.microsoft.com/download/6/8/F/68F09CC0-1A39-476F-85D6-0825FB1E3772/Windows8.1-KB3091297-x86.msu</url>
+			<url>https://download.microsoft.com/download/6/8/F/68F09CC0-1A39-476F-85D6-0825FB1E3772/Windows8.1-KB3091297-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3100473</kb>
@@ -944,7 +944,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3100473-x86.msu</name>
 			<description>DNS records get deleted when you delete the scope on a Windows DHCP server</description>
-			<url>http://download.microsoft.com/download/C/6/5/C65E8BEF-53AB-4DD3-852A-1374CC9E9B24/Windows8.1-KB3100473-x86.msu</url>
+			<url>https://download.microsoft.com/download/C/6/5/C65E8BEF-53AB-4DD3-852A-1374CC9E9B24/Windows8.1-KB3100473-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3102429</kb>
@@ -971,7 +971,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3103696-x86.msu</name>
 			<description>Update for USB Type-C billboard support and Kingston thumb drive is enumerated incorrectly</description>
-			<url>http://download.microsoft.com/download/4/2/2/4229DCF9-75E8-49EE-B9DC-A4A0CDDBA7F7/Windows8.1-KB3103696-x86.msu</url>
+			<url>https://download.microsoft.com/download/4/2/2/4229DCF9-75E8-49EE-B9DC-A4A0CDDBA7F7/Windows8.1-KB3103696-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3103709</kb>
@@ -989,7 +989,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3109976-x86.msu</name>
 			<description>Application compatibility update for Windows 8.1: March 15, 2016</description>
-			<url>http://download.microsoft.com/download/1/3/2/13236682-5FCE-4F9A-B11A-AC001CC58B68/Windows8.1-KB3109976-x86.msu</url>
+			<url>https://download.microsoft.com/download/1/3/2/13236682-5FCE-4F9A-B11A-AC001CC58B68/Windows8.1-KB3109976-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115224</kb>
@@ -998,7 +998,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3115224-v2-x86.msu</name>
 			<description>Reliability update for Windows Boot Environment</description>
-			<url>http://download.microsoft.com/download/7/B/B/7BBCB716-BDDE-4001-A816-88473E3060E9/Windows8.1-KB3115224-v2-x86.msu</url>
+			<url>https://download.microsoft.com/download/7/B/B/7BBCB716-BDDE-4001-A816-88473E3060E9/Windows8.1-KB3115224-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3121261</kb>
@@ -1025,7 +1025,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3137728-x86.msu</name>
 			<description>Volume Shadow Copy Service restore fails when you use ResyncLuns VSS API</description>
-			<url>http://download.microsoft.com/download/C/4/E/C4EC9C6A-B71F-4A38-B579-6A44758A437F/Windows8.1-KB3137728-x86.msu</url>
+			<url>https://download.microsoft.com/download/C/4/E/C4EC9C6A-B71F-4A38-B579-6A44758A437F/Windows8.1-KB3137728-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3138378</kb>
@@ -1043,7 +1043,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3138602-v2-x86.msu</name>
 			<description>File contents option is always selectable, Start screen becomes blank, or computer freezes when startup</description>
-			<url>http://download.microsoft.com/download/F/3/7/F37B7C4B-5A6C-4977-B273-A60D3865FADE/Windows8.1-KB3138602-v2-x86.msu</url>
+			<url>https://download.microsoft.com/download/F/3/7/F37B7C4B-5A6C-4977-B273-A60D3865FADE/Windows8.1-KB3138602-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3140185</kb>
@@ -1061,7 +1061,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3140185-x86.msu</name>
 			<description>Update removes the commerce specific entry points for Windows Anytime Upgrade since it's no longer supported</description>
-			<url>http://download.microsoft.com/download/E/8/C/E8C6CF1A-3AE9-492A-BC21-12CEE81D10A1/Windows8.1-KB3140185-x86.msu</url>
+			<url>https://download.microsoft.com/download/E/8/C/E8C6CF1A-3AE9-492A-BC21-12CEE81D10A1/Windows8.1-KB3140185-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3140219</kb>
@@ -1070,7 +1070,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3140219-x86.msu</name>
 			<description>0x00000133 Stop error in the Intelligent Platform Management Interface driver</description>
-			<url>http://download.microsoft.com/download/E/C/6/EC684C60-8D0B-4406-BD24-53CB57C661E3/Windows8.1-KB3140219-x86.msu</url>
+			<url>https://download.microsoft.com/download/E/C/6/EC684C60-8D0B-4406-BD24-53CB57C661E3/Windows8.1-KB3140219-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3140234</kb>
@@ -1079,7 +1079,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3140234-x86.msu</name>
 			<description>0x0000009F Stop error when a VPN client computer is shutdown with an active L2TP VPN connection </description>
-			<url>http://download.microsoft.com/download/8/6/8/868B264F-C591-41D5-BC50-99459052C8A3/Windows8.1-KB3140234-x86.msu</url>
+			<url>https://download.microsoft.com/download/8/6/8/868B264F-C591-41D5-BC50-99459052C8A3/Windows8.1-KB3140234-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3145384</kb>
@@ -1115,7 +1115,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3147071-x86.msu</name>
 			<description>Connection to Oracle database fails when you use Microsoft ODBC, OLE DB Driver for Oracle, Microsoft DTC</description>
-			<url>http://download.microsoft.com/download/A/9/8/A988C2CC-A83C-4FAE-97BA-E268BC3BA0B1/Windows8.1-KB3147071-x86.msu</url>
+			<url>https://download.microsoft.com/download/A/9/8/A988C2CC-A83C-4FAE-97BA-E268BC3BA0B1/Windows8.1-KB3147071-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3161102</kb>
@@ -1124,7 +1124,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3161102-x86.msu</name>
 			<description>Update to remove Windows Journal components</description>
-			<url>http://download.microsoft.com/download/1/5/8/15878A63-FC16-40BB-ABDD-6349FA9F78C6/Windows8.1-KB3161102-x86.msu</url>
+			<url>https://download.microsoft.com/download/1/5/8/15878A63-FC16-40BB-ABDD-6349FA9F78C6/Windows8.1-KB3161102-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3102467</kb>
@@ -1133,7 +1133,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3102467-x86.cab</name>
 			<description>Microsoft .NET Framework 4.6.1</description>
-			<url>http://download.microsoft.com/download/A/A/5/AA5F5984-510E-4023-BBBA-49AA550DEC99/enu_netfx/Windows8_1-KB3102467-x86_cab/Windows8.1-KB3102467-x86.cab</url>
+			<url>https://download.microsoft.com/download/A/A/5/AA5F5984-510E-4023-BBBA-49AA550DEC99/enu_netfx/Windows8_1-KB3102467-x86_cab/Windows8.1-KB3102467-x86.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172614</kb>
@@ -1151,7 +1151,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3179574-x86.msu</name>
 			<description>August 2016 update rollup</description>
-			<url>http://download.microsoft.com/download/A/6/B/A6BB75F6-6F4C-44FE-B697-438866FFDE19/Windows8.1-KB3179574-x86.msu</url>
+			<url>https://download.microsoft.com/download/A/6/B/A6BB75F6-6F4C-44FE-B697-438866FFDE19/Windows8.1-KB3179574-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3184143</kb>
@@ -1160,7 +1160,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB3184143-x86.msu</name>
 			<description>Update to remove GWX and software related to the Windows 10 free upgrade offer</description>
-			<url>http://download.microsoft.com/download/2/8/5/285CD542-6751-4ECB-98FA-E0253D01A59B/Windows8.1-KB3184143-x86.msu</url>
+			<url>https://download.microsoft.com/download/2/8/5/285CD542-6751-4ECB-98FA-E0253D01A59B/Windows8.1-KB3184143-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4486105</kb>
@@ -1178,7 +1178,7 @@
 			<category>General</category>
 			<name>Windows8.1-KB917607-x86.msu</name>
 			<description>Error opening Help in Windows-based programs: "Feature not included" or "Help not supported"</description>
-			<url>http://download.microsoft.com/download/3/8/C/38C68F7C-1769-4089-BF21-3F5D8A556CBC/Windows8.1-KB917607-x86.msu</url>
+			<url>https://download.microsoft.com/download/3/8/C/38C68F7C-1769-4089-BF21-3F5D8A556CBC/Windows8.1-KB917607-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2908802</kb>
@@ -1556,7 +1556,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB2898850-x86.msu</name>
 			<description>Security update for the .NET Framework 4.5.1 and 4.5.2: May 13, 2014</description>
-			<url>http://download.microsoft.com/download/C/6/9/C690CC33-18F7-405D-B18A-0A8E199E531C/Windows8.1-KB2898850-x86.msu</url>
+			<url>https://download.microsoft.com/download/C/6/9/C690CC33-18F7-405D-B18A-0A8E199E531C/Windows8.1-KB2898850-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3000483</kb>
@@ -1565,7 +1565,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3000483-x86.msu</name>
 			<description>Vulnerability in Group Policy could allow remote code execution: February 10, 2015</description>
-			<url>http://download.microsoft.com/download/4/D/6/4D6B901D-F7BA-4196-BD3B-2B2ED67EAF48/Windows8.1-KB3000483-x86.msu</url>
+			<url>https://download.microsoft.com/download/4/D/6/4D6B901D-F7BA-4196-BD3B-2B2ED67EAF48/Windows8.1-KB3000483-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3019978</kb>
@@ -1574,7 +1574,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3019978-x86.msu</name>
 			<description>Security update for Terminal Services WebProxy: January 13, 2015</description>
-			<url>http://download.microsoft.com/download/D/D/4/DD4C6CB3-941C-420F-9F22-53FCD55F1239/Windows8.1-KB3019978-x86.msu</url>
+			<url>https://download.microsoft.com/download/D/D/4/DD4C6CB3-941C-420F-9F22-53FCD55F1239/Windows8.1-KB3019978-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3020393</kb>
@@ -1583,7 +1583,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3020393-x86.msu</name>
 			<description>Vulnerability in Windows Telnet service could cause remote code execution: January 13, 2015</description>
-			<url>http://download.microsoft.com/download/6/8/7/687B371A-633E-43D2-8408-92E17626CF65/Windows8.1-KB3020393-x86.msu</url>
+			<url>https://download.microsoft.com/download/6/8/7/687B371A-633E-43D2-8408-92E17626CF65/Windows8.1-KB3020393-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3045685</kb>
@@ -1592,7 +1592,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3045685-x86.msu</name>
 			<description>Security update for Windows: April 14, 2015</description>
-			<url>http://download.microsoft.com/download/0/3/A/03A3F70E-4C76-47F9-B0D3-D1F1674FF4A6/Windows8.1-KB3045685-x86.msu</url>
+			<url>https://download.microsoft.com/download/0/3/A/03A3F70E-4C76-47F9-B0D3-D1F1674FF4A6/Windows8.1-KB3045685-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3045999</kb>
@@ -1601,7 +1601,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3045999-x86.msu</name>
 			<description>Security update for Windows: April 14, 2015</description>
-			<url>http://download.microsoft.com/download/3/D/8/3D8AF9B8-B528-4A20-A913-A07EC342C674/Windows8.1-KB3045999-x86.msu</url>
+			<url>https://download.microsoft.com/download/3/D/8/3D8AF9B8-B528-4A20-A913-A07EC342C674/Windows8.1-KB3045999-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3046017</kb>
@@ -1610,7 +1610,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3046017-x86.msu</name>
 			<description>Unsafe Command Line Parameter Passing Could Allow Information Disclosure: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/E/5/1/E51A31DA-F0F7-4B7A-9563-D141FD946F71/Windows8.1-KB3046017-x86.msu</url>
+			<url>https://download.microsoft.com/download/E/5/1/E51A31DA-F0F7-4B7A-9563-D141FD946F71/Windows8.1-KB3046017-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3059317</kb>
@@ -1619,7 +1619,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3059317-x86.msu</name>
 			<description>Vulnerability in Microsoft Common Controls Could Allow Remote Code Execution: June 9, 2015</description>
-			<url>http://download.microsoft.com/download/D/4/B/D4B2582C-CD23-447A-8A8F-7209786C8BBB/Windows8.1-KB3059317-x86.msu</url>
+			<url>https://download.microsoft.com/download/D/4/B/D4B2582C-CD23-447A-8A8F-7209786C8BBB/Windows8.1-KB3059317-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3061512</kb>
@@ -1628,7 +1628,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3061512-x86.msu</name>
 			<description>Vulnerabilities in Windows could allow remote code execution: July 14, 2015</description>
-			<url>http://download.microsoft.com/download/9/B/4/9B4C92CF-A10B-49D9-AE35-FF9F57E601C7/Windows8.1-KB3061512-x86.msu</url>
+			<url>https://download.microsoft.com/download/9/B/4/9B4C92CF-A10B-49D9-AE35-FF9F57E601C7/Windows8.1-KB3061512-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3062760</kb>
@@ -1637,7 +1637,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3062760-x86.msu</name>
 			<description>Vulnerability in Juniper Networks Windows In-Box Junos Pulse client: June 9, 2015</description>
-			<url>http://download.microsoft.com/download/2/1/8/21878E28-126D-44CA-ADC8-60937F5D89FB/Windows8.1-KB3062760-x86.msu</url>
+			<url>https://download.microsoft.com/download/2/1/8/21878E28-126D-44CA-ADC8-60937F5D89FB/Windows8.1-KB3062760-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3071756</kb>
@@ -1646,7 +1646,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3071756-x86.msu</name>
 			<description>Security update for Windows Mount Manager: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/B/8/E/B8EDC158-E9BA-49B0-ADC2-FF6976A76E21/Windows8.1-KB3071756-x86.msu</url>
+			<url>https://download.microsoft.com/download/B/8/E/B8EDC158-E9BA-49B0-ADC2-FF6976A76E21/Windows8.1-KB3071756-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3076949</kb>
@@ -1655,7 +1655,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3076949-x86.msu</name>
 			<description>Vulnerability in WebDAV could allow security feature bypass: August 11, 2015</description>
-			<url>http://download.microsoft.com/download/B/3/1/B3106E49-430F-4393-8533-37974571548A/Windows8.1-KB3076949-x86.msu</url>
+			<url>https://download.microsoft.com/download/B/3/1/B3106E49-430F-4393-8533-37974571548A/Windows8.1-KB3076949-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3084135</kb>
@@ -1664,7 +1664,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3084135-x86.msu</name>
 			<description>Vulnerability in Task Scheduler Service could allow remote code execution: September 8, 2015</description>
-			<url>http://download.microsoft.com/download/5/A/F/5AF1BB5C-5CDE-4EB5-B236-7D764D5582D5/Windows8.1-KB3084135-x86.msu</url>
+			<url>https://download.microsoft.com/download/5/A/F/5AF1BB5C-5CDE-4EB5-B236-7D764D5582D5/Windows8.1-KB3084135-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3086255</kb>
@@ -1673,7 +1673,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3086255-x86.msu</name>
 			<description>Security update for SafeDisc Protection Driver: September 8, 2015</description>
-			<url>http://download.microsoft.com/download/0/6/7/0672E565-2FA7-4FEC-9FEA-7D34AF607891/Windows8.1-KB3086255-x86.msu</url>
+			<url>https://download.microsoft.com/download/0/6/7/0672E565-2FA7-4FEC-9FEA-7D34AF607891/Windows8.1-KB3086255-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3109103</kb>
@@ -1682,7 +1682,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3109103-x86.msu</name>
 			<description>Security update for Windows Pragmatic General Multicast (PGM) protocol: December 8, 2015</description>
-			<url>http://download.microsoft.com/download/C/8/6/C8623BA6-B28E-4844-B4F8-55BF216265EF/Windows8.1-KB3109103-x86.msu</url>
+			<url>https://download.microsoft.com/download/C/8/6/C8623BA6-B28E-4844-B4F8-55BF216265EF/Windows8.1-KB3109103-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3109560</kb>
@@ -1691,7 +1691,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3109560-x86.msu</name>
 			<description>Security update for DirectShow Dexter: January 12, 2016</description>
-			<url>http://download.microsoft.com/download/F/B/B/FBB2CDE2-A985-4D58-B665-D05F0E76D734/Windows8.1-KB3109560-x86.msu</url>
+			<url>https://download.microsoft.com/download/F/B/B/FBB2CDE2-A985-4D58-B665-D05F0E76D734/Windows8.1-KB3109560-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3110329</kb>
@@ -1700,7 +1700,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3110329-x86.msu</name>
 			<description>Security update for Windows Media Foundation: January 12, 2016</description>
-			<url>http://download.microsoft.com/download/6/C/3/6C3CCAED-382E-4FA5-B829-631CFA391B89/Windows8.1-KB3110329-x86.msu</url>
+			<url>https://download.microsoft.com/download/6/C/3/6C3CCAED-382E-4FA5-B829-631CFA391B89/Windows8.1-KB3110329-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3126434</kb>
@@ -1709,7 +1709,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3126434-x86.msu</name>
 			<description>Security update for Microsoft Sync Framework: February 9, 2016</description>
-			<url>http://download.microsoft.com/download/E/2/0/E20A5B54-1B45-4BB6-B6F8-DEE8A25913F6/Windows8.1-KB3126434-x86.msu</url>
+			<url>https://download.microsoft.com/download/E/2/0/E20A5B54-1B45-4BB6-B6F8-DEE8A25913F6/Windows8.1-KB3126434-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3126587</kb>
@@ -1718,7 +1718,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3126587-x86.msu</name>
 			<description>Security update for Windows Kernel: February 9, 2016</description>
-			<url>http://download.microsoft.com/download/A/1/A/A1A8C15A-5DDC-4FD0-9C99-E33DEA62653C/Windows8.1-KB3126587-x86.msu</url>
+			<url>https://download.microsoft.com/download/A/1/A/A1A8C15A-5DDC-4FD0-9C99-E33DEA62653C/Windows8.1-KB3126587-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3138910</kb>
@@ -1727,7 +1727,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3138910-x86.msu</name>
 			<description>Security update for Windows Media Foundation: March 8, 2016</description>
-			<url>http://download.microsoft.com/download/A/4/B/A4B5C830-3BC5-4A02-A372-B13487A5FC76/Windows8.1-KB3138910-x86.msu</url>
+			<url>https://download.microsoft.com/download/A/4/B/A4B5C830-3BC5-4A02-A372-B13487A5FC76/Windows8.1-KB3138910-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3138962</kb>
@@ -1736,7 +1736,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3138962-x86.msu</name>
 			<description>Security update for Windows Media Player: March 8, 2016</description>
-			<url>http://download.microsoft.com/download/5/1/5/515E4C78-57D6-4151-B4B4-BCC0437402FB/Windows8.1-KB3138962-x86.msu</url>
+			<url>https://download.microsoft.com/download/5/1/5/515E4C78-57D6-4151-B4B4-BCC0437402FB/Windows8.1-KB3138962-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3139914</kb>
@@ -1745,7 +1745,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3139914-x86.msu</name>
 			<description>Security update for Secondary Logon Service: March 8, 2016</description>
-			<url>http://download.microsoft.com/download/5/6/2/562B9006-4A47-4071-9F44-8BA74BBE6438/Windows8.1-KB3139914-x86.msu</url>
+			<url>https://download.microsoft.com/download/5/6/2/562B9006-4A47-4071-9F44-8BA74BBE6438/Windows8.1-KB3139914-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3146723</kb>
@@ -1754,7 +1754,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3146723-x86.msu</name>
 			<description>Security update for Client-Server Run-time Subsystem (CSRSS): April 12, 2016</description>
-			<url>http://download.microsoft.com/download/1/E/C/1EC07A11-959E-42F8-9E7B-8FEC3A4C26A3/Windows8.1-KB3146723-x86.msu</url>
+			<url>https://download.microsoft.com/download/1/E/C/1EC07A11-959E-42F8-9E7B-8FEC3A4C26A3/Windows8.1-KB3146723-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3156059</kb>
@@ -1763,7 +1763,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3156059-x86.msu</name>
 			<description>Security update for Windows UI Shell: May 10, 2016</description>
-			<url>http://download.microsoft.com/download/2/4/7/2476447B-A227-42AB-9B63-ADE88B34ECA2/Windows8.1-KB3156059-x86.msu</url>
+			<url>https://download.microsoft.com/download/2/4/7/2476447B-A227-42AB-9B63-ADE88B34ECA2/Windows8.1-KB3156059-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3159398</kb>
@@ -1772,7 +1772,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3159398-x86.msu</name>
 			<description>Security update for Group Policy: June 14, 2016</description>
-			<url>http://download.microsoft.com/download/A/3/E/A3EA8704-3402-42B9-B7C2-B6BB631FD32E/Windows8.1-KB3159398-x86.msu</url>
+			<url>https://download.microsoft.com/download/A/3/E/A3EA8704-3402-42B9-B7C2-B6BB631FD32E/Windows8.1-KB3159398-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3161949</kb>
@@ -1781,7 +1781,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3161949-x86.msu</name>
 			<description>Security update for Web Proxy Auto Discovery (WPAD): June 14, 2016</description>
-			<url>http://download.microsoft.com/download/E/E/4/EE4C1954-63BE-44E3-BBF8-2DCCB7A4D07A/Windows8.1-KB3161949-x86.msu</url>
+			<url>https://download.microsoft.com/download/E/E/4/EE4C1954-63BE-44E3-BBF8-2DCCB7A4D07A/Windows8.1-KB3161949-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172729</kb>
@@ -1799,7 +1799,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3175024-x86.msu</name>
 			<description>Security update for Windows Kernel: September 13, 2016</description>
-			<url>http://download.microsoft.com/download/8/A/A/8AAF5FC8-CDE1-43DA-8514-646948D1CAFC/Windows8.1-KB3175024-x86.msu</url>
+			<url>https://download.microsoft.com/download/8/A/A/8AAF5FC8-CDE1-43DA-8514-646948D1CAFC/Windows8.1-KB3175024-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3178539</kb>
@@ -1817,7 +1817,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB3187754-v2-x86.msu</name>
 			<description>Security update for Windows NTLM authentication: September 13, 2016</description>
-			<url>http://download.microsoft.com/download/4/B/3/4B317DF9-249B-4823-802F-76D9D8D58F6C/Windows8.1-KB3187754-v2-x86.msu</url>
+			<url>https://download.microsoft.com/download/4/B/3/4B317DF9-249B-4823-802F-76D9D8D58F6C/Windows8.1-KB3187754-v2-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4014551</kb>
@@ -1829,22 +1829,31 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x86_a6af9c16d559e00e42ed45cdf1d7a72235edf5f2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5006067</kb>
-			<date>2021/09/08</date>
-			<size>31.30 MB</size>
+			<kb>KB5007154</kb>
+			<date>2021/10/05</date>
+			<size>31.40 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5006067-x86-NDP48.msu</name>
-			<description>2021-10 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/09/windows8.1-kb5006067-x86-ndp48_113590dc5f8a5babc9bff84850f9a0a391a98dde.msu</url>
+			<name>Windows8.1-KB5007154-x86-NDP48.msu</name>
+			<description>2021-11 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/10/windows8.1-kb5007154-x86-ndp48_02bf37b913e4d91f8413fb29fd3f56aea9d42792.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5006714</kb>
-			<date>2021/10/06</date>
-			<size>349.01 MB</size>
+			<kb>KB5007247</kb>
+			<date>2021/11/04</date>
+			<size>353.46 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5006714-x86.msu</name>
-			<description>2021-10 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/10/windows8.1-kb5006714-x86_25a3970d79fb1ea7e17746b68fcb357f0e47c30a.msu</url>
+			<name>Windows8.1-KB5007247-x86.msu</name>
+			<description>2021-11 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows8.1-kb5007247-x86_9e24efca570d32cf36029feb853f88c168226a04.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5008603</kb>
+			<date>2021/11/14</date>
+			<size>33.49 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB5008603-x86.msu</name>
+			<description>2021-11 Fix for Authentication fails on domain controllers</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/11/windows8.1-kb5008603-x86_65af320ac7dbaaac2498a0ae4f3db749a92acbbc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
@@ -1862,7 +1871,7 @@
 			<category>Security/NET452</category>
 			<name>Windows8.1-KB3097997-x86.msu</name>
 			<description>Security update for the .NET Framework 4.5.2: November 10, 2015</description>
-			<url>http://download.microsoft.com/download/B/7/7/B7725368-B86B-41C3-8C01-E94C6E9F104D/Windows8.1-KB3097997-x86.msu</url>
+			<url>https://download.microsoft.com/download/B/7/7/B7725368-B86B-41C3-8C01-E94C6E9F104D/Windows8.1-KB3097997-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3098779</kb>
@@ -1871,7 +1880,7 @@
 			<category>Security/NET452</category>
 			<name>Windows8.1-KB3098779-x86.msu</name>
 			<description>Security update for the .NET Framework 4.5.2: November 10, 2015</description>
-			<url>http://download.microsoft.com/download/A/4/9/A49D7716-74D6-40EB-80AF-F65AF91ABE94/Windows8.1-KB3098779-x86.msu</url>
+			<url>https://download.microsoft.com/download/A/4/9/A49D7716-74D6-40EB-80AF-F65AF91ABE94/Windows8.1-KB3098779-x86.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
