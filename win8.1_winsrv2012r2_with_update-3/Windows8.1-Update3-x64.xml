@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/11/09" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/12/14" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1919,22 +1919,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/10/windows8.1-kb5007154-x64-ndp48_cad8de2be0afd8661af98c78b52374afa7808e35.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5007247</kb>
-			<date>2021/11/04</date>
-			<size>538.52 MB</size>
+			<kb>KB5008263</kb>
+			<date>2021/12/08</date>
+			<size>540.35 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5007247-x64.msu</name>
-			<description>2021-11 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows8.1-kb5007247-x64_7536d20ab5c66ee4156f408044a6c65482352acf.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5008603</kb>
-			<date>2021/11/14</date>
-			<size>52.94 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB5008603-x64.msu</name>
-			<description>2021-11 Fix for Authentication fails on domain controllers</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/11/windows8.1-kb5008603-x64_58f1b60cb6250c4fb1e2d4c86016eeef71ce6d1e.msu</url>
+			<name>Windows8.1-KB5008263-x64.msu</name>
+			<description>2021-12 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows8.1-kb5008263-x64_6d9eb2beed6c47dcc395371503d718fc061b3b80.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

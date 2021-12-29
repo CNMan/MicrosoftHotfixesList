@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/11/09" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/12/14" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4628,15 +4628,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4578952-x86_7246565d7fec14ad0381deac93faef3024068eb6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5007236</kb>
-			<date>2021/11/04</date>
-			<size>246.42 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB5007236-x86.msu</name>
-			<description>2021-11 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows6.1-kb5007236-x86_a0f80c93010ba469535af31269e03a27cefffbff.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5006749</kb>
 			<date>2021/09/14</date>
 			<size>4.05 MB</size>
@@ -4646,13 +4637,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/10/windows6.1-kb5006749-x86_99d455a36c7a77b89cf45c303b728f06ace34332.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5008605</kb>
-			<date>2021/11/14</date>
-			<size>34.88 MB</size>
+			<kb>KB5008244</kb>
+			<date>2021/12/09</date>
+			<size>247.83 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5008605-x86.msu</name>
-			<description>2021-11 Fix for Authentication fails on domain controllers</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/11/windows6.1-kb5008605-x86_ac65909cb800f1ac38e0297b55ff15e0fb676b76.msu</url>
+			<name>Windows6.1-KB5008244-x86.msu</name>
+			<description>2021-12 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows6.1-kb5008244-x86_dcdc36e40807179b4cc3fec3e5a3ba3b80c8cfec.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>
