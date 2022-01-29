@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/12/14" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/01/11" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4673,13 +4673,13 @@
 			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5007149</kb>
-			<date>2021/10/05</date>
-			<size>40.85 MB</size>
+			<kb>KB5008858</kb>
+			<date>2021/12/10</date>
+			<size>40.79 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5007149-x64.exe</name>
-			<description>2021-11 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/10/ndp48-kb5007149-x64_aaecc0eaccacec0a368ed7b41538a3ade8262ffe.exe</url>
+			<name>NDP48-KB5008858-x64.exe</name>
+			<description>2022-01 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/ndp48-kb5008858-x64_1eb5d90d3431cb5d4ff3997d3ac6414a0e9fd26a.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -4691,15 +4691,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4578952</kb>
-			<date>2020/09/11</date>
-			<size>23.83 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB4578952-x64.msu</name>
-			<description>2020-10 Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows6.1-kb4578952-x64_30ac0df8554c2647017f3b36cc02e833a3187364.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5006749</kb>
 			<date>2021/09/14</date>
 			<size>9.19 MB</size>
@@ -4709,13 +4700,31 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/10/windows6.1-kb5006749-x64_4934673a816c4c0e5d6c380e0a61428da8aab4ac.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5008244</kb>
-			<date>2021/12/09</date>
-			<size>368.77 MB</size>
+			<kb>KB5008867</kb>
+			<date>2021/12/13</date>
+			<size>23.83 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5008244-x64.msu</name>
-			<description>2021-12 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows6.1-kb5008244-x64_c81c585d39ba28e41a30dee804279e3cc9e746a6.msu</url>
+			<name>Windows6.1-KB5008867-x64.msu</name>
+			<description>2022-01 Security and Quality Rollup for .NET Framework 3.5.1</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows6.1-kb5008867-x64_8bc4ae723a7b87774224b1105aa13937f658bc58.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5009610</kb>
+			<date>2022/01/06</date>
+			<size>370.00 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB5009610-x64.msu</name>
+			<description>2022-01 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windows6.1-kb5009610-x64_ddbe2d2900684802fec97880c50fbd2bf4287cb4.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5010798</kb>
+			<date>2022/01/16</date>
+			<size>52.61 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB5010798-x64.msu</name>
+			<description>2022-01 Out-of-band update</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/01/windows6.1-kb5010798-x64_6f690ddb42ab85d3dcac7e6b34e16eb70df6e477.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

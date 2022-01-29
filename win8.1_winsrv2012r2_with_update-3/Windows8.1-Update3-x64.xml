@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2021/12/14" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/01/11" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -983,6 +983,15 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/01/Windows8.1-KB3102429-v2-x64_0336f192bd7bfdb01930ba46e6fdcf61b28220ed.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB3102467</kb>
+			<date>2015/11/06</date>
+			<size>86.99 MB</size>
+			<category>General</category>
+			<name>Windows8.1-KB3102467-x64.msu</name>
+			<description>Microsoft .NET Framework 4.6.1</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2016/01/windows8.1-kb3102467-x64_f18e30847e0402c22cd4aadec832fc860dbc344e.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB3103616</kb>
 			<date>2016/03/04</date>
 			<size>360 KB</size>
@@ -1179,15 +1188,6 @@
 			<name>Windows8.1-KB3161102-x64.msu</name>
 			<description>Update to remove Windows Journal components</description>
 			<url>https://download.microsoft.com/download/4/7/C/47CA73B8-E168-4FE5-8FBC-A627C8BBE5B5/Windows8.1-KB3161102-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3102467</kb>
-			<date>2015/11/06</date>
-			<size>86.99 MB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3102467-x64.msu</name>
-			<description>Microsoft .NET Framework 4.6.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2016/01/windows8.1-kb3102467-x64_f18e30847e0402c22cd4aadec832fc860dbc344e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172614</kb>
@@ -1467,15 +1467,6 @@
 			<name>Windows8.1-KB3061817-v3-x64.msu</name>
 			<description>Windows 8.1 does not prompt for a smart card when the "Interactive Logon: Require Smart Card" Group Policy Object is enabled</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/07/windows8.1-kb3061817-v3-x64_5df93efe2a0f000c21aa97bcdcbca42014a4679f.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3066685</kb>
-			<date>2015/05/26</date>
-			<size>480 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3066685-x64.msu</name>
-			<description>Strong key protection cannot be enforced</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/07/windows8.1-kb3066685-x64_5ec3b7f254f8b574c4e58d5dc4c795c1c0d23146.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3067699</kb>
@@ -1910,22 +1901,31 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5007154</kb>
-			<date>2021/10/05</date>
-			<size>54.14 MB</size>
+			<kb>KB5008883</kb>
+			<date>2021/12/09</date>
+			<size>55.86 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5007154-x64-NDP48.msu</name>
-			<description>2021-11 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/10/windows8.1-kb5007154-x64-ndp48_cad8de2be0afd8661af98c78b52374afa7808e35.msu</url>
+			<name>Windows8.1-KB5008883-x64-NDP48.msu</name>
+			<description>2022-01 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows8.1-kb5008883-x64-ndp48_8b9ed3b3bc498a687c2c875088a41843284a04f5.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5008263</kb>
-			<date>2021/12/08</date>
-			<size>540.35 MB</size>
+			<kb>KB5009624</kb>
+			<date>2022/01/07</date>
+			<size>546.85 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5008263-x64.msu</name>
-			<description>2021-12 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows8.1-kb5008263-x64_6d9eb2beed6c47dcc395371503d718fc061b3b80.msu</url>
+			<name>Windows8.1-KB5009624-x64.msu</name>
+			<description>2022-01 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5009624-x64_ae9f21e6bcae6274ea54ed380ab0a961aa7d6377.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5010794</kb>
+			<date>2022/01/16</date>
+			<size>81.09 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB5010794-x64.msu</name>
+			<description>2022-01 Out-of-band update</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/01/windows8.1-kb5010794-x64_3b350eb34833c9a3ac71d973db3fd8ae86a6b220.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
