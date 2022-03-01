@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/01/11" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/02/08" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4601,13 +4601,13 @@
 			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5008858</kb>
-			<date>2021/12/10</date>
+			<kb>KB5010457</kb>
+			<date>2022/01/07</date>
 			<size>26.47 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5008858-x86.exe</name>
-			<description>2022-01 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/ndp48-kb5008858-x86_34c06ddd2e6f567ebe3992360c21bb90d2726079.exe</url>
+			<name>NDP48-KB5010457-x86.exe</name>
+			<description>2022-02 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/01/ndp48-kb5010457-x86_57e4d3c5a691a80fbd3744a442395ad5d02af6a9.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -4619,15 +4619,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x86_5905c774f806205b5d25b04523bb716e1966306d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5006749</kb>
-			<date>2021/09/14</date>
-			<size>4.05 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB5006749-x86.msu</name>
-			<description>2021-10 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/10/windows6.1-kb5006749-x86_99d455a36c7a77b89cf45c303b728f06ace34332.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5008867</kb>
 			<date>2021/12/13</date>
 			<size>16.59 MB</size>
@@ -4637,22 +4628,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows6.1-kb5008867-x86_d017444b0a7e175141ad3b8cbc1f01f43845e51c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5009610</kb>
-			<date>2022/01/06</date>
-			<size>248.76 MB</size>
+			<kb>KB5010404</kb>
+			<date>2022/02/05</date>
+			<size>249.25 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5009610-x86.msu</name>
-			<description>2022-01 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows6.1-kb5009610-x86_f1b7d3229d3626e44b9137d6a1c3c04cd872cc72.msu</url>
+			<name>Windows6.1-KB5010404-x86.msu</name>
+			<description>2022-02 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/02/windows6.1-kb5010404-x86_e4ab419e0c3343af3d0a75992e1729648c792d6e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5010798</kb>
-			<date>2022/01/16</date>
-			<size>29.87 MB</size>
+			<kb>KB5010451</kb>
+			<date>2022/01/07</date>
+			<size>4.06 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5010798-x86.msu</name>
-			<description>2022-01 Out-of-band update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows6.1-kb5010798-x86_3c5d6092c9c3f20f3ae0333fa8f5ed12298c4e6a.msu</url>
+			<name>Windows6.1-KB5010451-x86.msu</name>
+			<description>2022-02 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows6.1-kb5010451-x86_c059fc27db2ff7529da5c8c694a4551601458f28.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

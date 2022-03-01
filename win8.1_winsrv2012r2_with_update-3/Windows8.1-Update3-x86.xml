@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/01/11" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/02/08" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -198,6 +198,15 @@
 			<name>Windows8.1-KB4578953-x86.msu</name>
 			<description>2020-10 Security and Quality Rollup for .NET Framework 3.5</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows8.1-kb4578953-x86_3784363d0cd9cab5b218cdaa789e730d13985a03.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5008868</kb>
+			<date>2021/12/13</date>
+			<size>18.51 MB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB5008868-x86.msu</name>
+			<description>2022-01 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows8.1-kb5008868-x86_884661ebfa740d582deac36d6e73b0cb541fd455.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -1820,31 +1829,31 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x86_a6af9c16d559e00e42ed45cdf1d7a72235edf5f2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5008883</kb>
-			<date>2021/12/09</date>
-			<size>31.43 MB</size>
+			<kb>KB5010419</kb>
+			<date>2022/01/27</date>
+			<size>356.96 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5008883-x86-NDP48.msu</name>
-			<description>2022-01 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows8.1-kb5008883-x86-ndp48_90b8b5dc25a6a126b62e4ac46f2ad8c8c5ed70e5.msu</url>
+			<name>Windows8.1-KB5010419-x86.msu</name>
+			<description>2022-02 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010419-x86_cabe61a0eebf053617ce422ffed936c0b2ca45e7.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5009624</kb>
+			<kb>KB5010462</kb>
 			<date>2022/01/07</date>
-			<size>357.08 MB</size>
+			<size>31.42 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5009624-x86.msu</name>
-			<description>2022-01 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5009624-x86_19ac6e71c2630f1fe80d78fcd7b2ea72350a5e27.msu</url>
+			<name>Windows8.1-KB5010462-x86-NDP48.msu</name>
+			<description>2022-02 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows8.1-kb5010462-x86-ndp48_f843a4fcd6c86002023c6c1021d03f4a1f49b93b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5010794</kb>
-			<date>2022/01/16</date>
-			<size>45.02 MB</size>
+			<kb>KB5011266</kb>
+			<date>2022/01/26</date>
+			<size>358 KB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5010794-x86.msu</name>
-			<description>2022-01 Out-of-band update</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/01/windows8.1-kb5010794-x86_1e0449836b9140a3b968c0678438fa001f834aa6.msu</url>
+			<name>Windows8.1-KB5011266-x86-NDP48.msu</name>
+			<description>2022-02 Out-of-band update for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/02/windows8.1-kb5011266-x86-ndp48_1703dc19e3a498f4e2b5a07e7e6a52cfcb229769.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

@@ -30,9 +30,21 @@ https://download.visualstudio.microsoft.com/download/pr/10912113/5da66ddebb0ad32
 
 Visual Studio 2015~2019 (VC++ 14.0) 14.22.27821
 
+https://aka.ms/vs/15/release/vc_redist.x64.exe
+
+https://aka.ms/vs/15/release/vc_redist.x86.exe
+
 https://aka.ms/vs/16/release/vc_redist.x64.exe
 
 https://aka.ms/vs/16/release/vc_redist.x86.exe
+
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+https://aka.ms/vs/17/release/vc_redist.x86.exe
+
+https://aka.ms/vs/18/release/vc_redist.x64.exe
+
+https://aka.ms/vs/18/release/vc_redist.x86.exe
 
 Visual F# 2.0 (10.0.40219)
 
