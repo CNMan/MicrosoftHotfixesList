@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/02/08" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/03/08" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1046,15 +1046,6 @@
 			<url>https://download.microsoft.com/download/C/4/E/C4EC9C6A-B71F-4A38-B579-6A44758A437F/Windows8.1-KB3137728-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3138378</kb>
-			<date>2016/03/07</date>
-			<size>931 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3138378-x86.msu</name>
-			<description>Update for Tablet PC Journal Reader binary</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/04/windows8.1-kb3138378-x86_4cf9ed7a64ab5f6761928d6930cb8994f20c8082.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3138602</kb>
 			<date>2016/02/08</date>
 			<size>15.98 MB</size>
@@ -1811,15 +1802,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/09/windows8.1-kb3178539-x86_bcf957a9f18d52c7d6920cccaf1967cd91def40b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3187754</kb>
-			<date>2016/09/08</date>
-			<size>2.48 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3187754-v2-x86.msu</name>
-			<description>Security update for Windows NTLM authentication: September 13, 2016</description>
-			<url>https://download.microsoft.com/download/4/B/3/4B317DF9-249B-4823-802F-76D9D8D58F6C/Windows8.1-KB3187754-v2-x86.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4014551</kb>
 			<date>2017/03/20</date>
 			<size>40.45 MB</size>
@@ -1827,15 +1809,6 @@
 			<name>Windows8.1-KB4014551-x86.msu</name>
 			<description>Security and Quality Rollup for .NET Framework 4.6.1</description>
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x86_a6af9c16d559e00e42ed45cdf1d7a72235edf5f2.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5010419</kb>
-			<date>2022/01/27</date>
-			<size>356.96 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB5010419-x86.msu</name>
-			<description>2022-02 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows8.1-kb5010419-x86_cabe61a0eebf053617ce422ffed936c0b2ca45e7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5010462</kb>
@@ -1854,6 +1827,15 @@
 			<name>Windows8.1-KB5011266-x86-NDP48.msu</name>
 			<description>2022-02 Out-of-band update for .NET Framework 4.8</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/02/windows8.1-kb5011266-x86-ndp48_1703dc19e3a498f4e2b5a07e7e6a52cfcb229769.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5011564</kb>
+			<date>2022/03/02</date>
+			<size>358.45 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB5011564-x86.msu</name>
+			<description>2022-03 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/03/windows8.1-kb5011564-x86_beee60d763ec3b4d40f7dd395d6a574b20efc96e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

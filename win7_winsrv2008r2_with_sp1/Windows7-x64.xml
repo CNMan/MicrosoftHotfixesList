@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/02/08" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/03/08" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -4700,22 +4700,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows6.1-kb5008867-x64_8bc4ae723a7b87774224b1105aa13937f658bc58.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5010404</kb>
-			<date>2022/02/05</date>
-			<size>371.75 MB</size>
+			<kb>KB5011552</kb>
+			<date>2022/03/02</date>
+			<size>374.45 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5010404-x64.msu</name>
-			<description>2022-02 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/02/windows6.1-kb5010404-x64_7208a0bd02f249d1293abfb7ddf3391c2802d2f0.msu</url>
+			<name>Windows6.1-KB5011552-x64.msu</name>
+			<description>2022-03 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/03/windows6.1-kb5011552-x64_6e52667087856241a314914ef1febe19eb0d52f1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5010451</kb>
-			<date>2022/01/07</date>
+			<kb>KB5011649</kb>
+			<date>2022/02/04</date>
 			<size>9.20 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5010451-x64.msu</name>
-			<description>2022-02 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/01/windows6.1-kb5010451-x64_992659d57fa1fab0b083f29b7e323cf5cb856f24.msu</url>
+			<name>Windows6.1-KB5011649-x64.msu</name>
+			<description>2022-03 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/02/windows6.1-kb5011649-x64_e3da05ce0ed02d8d121824cc518f2a08656cad14.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

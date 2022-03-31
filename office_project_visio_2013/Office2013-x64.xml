@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/02/08" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/03/08" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -578,13 +578,13 @@
 			<url>https://download.microsoft.com/download/8/4/7/847A162A-06AA-47D6-ABAD-F9D59CC377C9/wec2013-kb3172533-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001960</kb>
-			<date>2021/09/29</date>
-			<size>166.32 MB</size>
+			<kb>KB5002139</kb>
+			<date>2022/02/23</date>
+			<size>166.41 MB</size>
 			<category>Security</category>
-			<name>word2013-kb5001960-fullfile-x64-glb.exe</name>
+			<name>word2013-kb5002068-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>https://download.microsoft.com/download/8/a/d/8ad69bde-0431-4962-97ae-505477588cbc/word2013-kb5001960-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/7/e/5/7e5707fd-e55e-4b75-baea-d76e7d0cbea2/word2013-kb5002068-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>

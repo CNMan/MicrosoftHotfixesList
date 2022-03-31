@@ -1,6 +1,6 @@
-[Windows 10 release information](https://technet.microsoft.com/en-us/windows/release-info)
+[Windows 10 release information](https://docs.microsoft.com/en-us/windows/release-health/release-information)
 
-[Windows Server release information](https://docs.microsoft.com/en-us/windows-server/get-started/windows-server-release-info)
+[Windows Server release information](https://docs.microsoft.com/en-us/windows/release-health/windows-server-release-info)
 
 [Windows 10 version 1607 and Windows Server 2016 update history](https://support.microsoft.com/en-us/help/4000825)
 
