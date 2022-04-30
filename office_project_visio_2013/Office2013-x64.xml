@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/03/08" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/04/12" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002156</kb>
-			<date>2022/01/26</date>
-			<size>114.85 MB</size>
+			<kb>KB5002175</kb>
+			<date>2022/03/30</date>
+			<size>115.81 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002156-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb5002175-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/7/5/8/75845fc4-4472-4bf0-aeac-d19885038290/excel2013-kb5002156-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/d/0/2/d02ac9d4-c43b-4908-918a-3e689c602411/excel2013-kb5002175-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -164,13 +164,13 @@
 			<url>https://download.microsoft.com/download/e/7/9/e79286d3-df43-4c0b-8138-4d17c5dc03be/gkall2013-kb3172514-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002064</kb>
-			<date>2021/12/29</date>
+			<kb>KB5002148</kb>
+			<date>2022/03/30</date>
 			<size>3.35 MB</size>
 			<category>Security</category>
-			<name>graph2013-kb5002064-fullfile-x64-glb.exe</name>
+			<name>graph2013-kb5002148-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Microsoft Graph)</description>
-			<url>https://download.microsoft.com/download/b/f/a/bfa2fe5d-948c-46d5-a70b-10f78a016ee3/graph2013-kb5002064-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/8/3/b/83b92b1b-d2ba-426f-9394-6e6742f6da33/graph2013-kb5002148-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022226</kb>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/03/08" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/04/12" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -218,6 +218,15 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows8.1-kb5008868-x64_2bba90c33e85a3bc1b1f83de38937a0c79729646.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB5012139</kb>
+			<date>2022/03/21</date>
+			<size>2.04 MB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB5012139-x64.msu</name>
+			<description>2022-04 Update for .NET Framework 3.5</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5012139-x64_526973564b93943b8527795a388ce4cc052dc4fd.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB2976978</kb>
 			<date>2016/03/01</date>
 			<size>1.00 KB</size>
@@ -416,13 +425,13 @@
 			<url>https://download.microsoft.com/download/6/1/5/615B8D87-A02C-485E-B9B5-D6F4AEB52D78/Windows8.1-KB3021910-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001403</kb>
-			<date>2021/03/27</date>
-			<size>10.43 MB</size>
+			<kb>KB5012672</kb>
+			<date>2022/03/22</date>
+			<size>10.35 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB5001403-x64.msu</name>
-			<description>2021-04 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/04/windows8.1-kb5001403-x64_7f15c4b281f38d43475abb785a32dbaf0355bad5.msu</url>
+			<name>Windows8.1-KB5012672-x64.msu</name>
+			<description>2022-04 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012672-x64_66e19403859f08376e346bf7b191aa8ae543b87a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -1892,15 +1901,6 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5010462</kb>
-			<date>2021/12/09</date>
-			<size>55.87 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB5010462-x64-NDP48.msu</name>
-			<description>2022-02 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows8.1-kb5010462-x64-ndp48_46276ee8c0dc5de0cc6f8dcc3c98f3831d6fedc1.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5011266</kb>
 			<date>2022/01/26</date>
 			<size>360 KB</size>
@@ -1910,13 +1910,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/02/windows8.1-kb5011266-x64-ndp48_20dc635a4d8b4490985c0bc8a99353479b74a3b0.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5011564</kb>
-			<date>2022/03/02</date>
-			<size>549.77 MB</size>
+			<kb>KB5012124</kb>
+			<date>2022/03/03</date>
+			<size>54.83 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5011564-x64.msu</name>
-			<description>2022-03 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5011564-x64_5a580cee56603bc7e278f24bbc1e28fed7ab1f71.msu</url>
+			<name>Windows8.1-KB5012124-x64-NDP48.msu</name>
+			<description>2022-04 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5012124-x64-ndp48_caf162c8783e0e5d9a0d43d4e65c80f49ead68cf.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5012670</kb>
+			<date>2022/04/04</date>
+			<size>554.91 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB5012670-x64.msu</name>
+			<description>2022-04 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x64_07585eb5c24babfb0627903fc1436a4a4ab54a82.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
