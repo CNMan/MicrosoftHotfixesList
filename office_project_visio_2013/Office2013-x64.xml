@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/04/12" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/05/10" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002175</kb>
-			<date>2022/03/30</date>
-			<size>115.81 MB</size>
+			<kb>KB5002204</kb>
+			<date>2022/05/02</date>
+			<size>115.79 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002175-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb5002204-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/d/0/2/d02ac9d4-c43b-4908-918a-3e689c602411/excel2013-kb5002175-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/c/e/b/ceb07f1d-7a08-40c7-9789-a613c8680db4/excel2013-kb5002204-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -506,13 +506,13 @@
 			<url>https://download.microsoft.com/download/1/9/F/19FDA3A3-660E-4180-9297-EC6B37178850/protocolhandler2013-kb3023049-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3162033</kb>
-			<date>2020/03/27</date>
-			<size>42.21 MB</size>
+			<kb>KB4484347</kb>
+			<date>2022/05/02</date>
+			<size>42.25 MB</size>
 			<category>Security</category>
-			<name>publisher2013-kb3162033-fullfile-x64-glb.exe</name>
+			<name>publisher2013-kb4484347-fullfile-x64-glb.exe</name>
 			<description>Microsoft Publisher 2013</description>
-			<url>https://download.microsoft.com/download/a/0/0/a0097462-6d63-4ec4-ab08-207fd92b2e76/publisher2013-kb3162033-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/6/7/3/673e4c30-36ba-4b3a-b62d-f54dc925151b/publisher2013-kb4484347-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4018332</kb>
@@ -578,13 +578,13 @@
 			<url>https://download.microsoft.com/download/8/4/7/847A162A-06AA-47D6-ABAD-F9D59CC377C9/wec2013-kb3172533-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002139</kb>
-			<date>2022/02/23</date>
-			<size>166.41 MB</size>
+			<kb>KB5002187</kb>
+			<date>2022/05/02</date>
+			<size>166.35 MB</size>
 			<category>Security</category>
-			<name>word2013-kb5002068-fullfile-x64-glb.exe</name>
+			<name>word2013-kb5002187-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>https://download.microsoft.com/download/7/e/5/7e5707fd-e55e-4b75-baea-d76e7d0cbea2/word2013-kb5002068-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/b/9/d/b9ddb3ad-5d51-4c5c-8ad3-40beddc13ad2/word2013-kb5002187-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>

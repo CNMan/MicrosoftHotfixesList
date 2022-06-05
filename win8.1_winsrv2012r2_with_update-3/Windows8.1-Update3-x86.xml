@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/04/12" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/05/10" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -209,13 +209,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows8.1-kb5008868-x86_884661ebfa740d582deac36d6e73b0cb541fd455.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5012139</kb>
-			<date>2022/03/21</date>
-			<size>1.78 MB</size>
+			<kb>KB5013638</kb>
+			<date>2022/04/19</date>
+			<size>6.31 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB5012139-x86.msu</name>
-			<description>2022-04 Update for .NET Framework 3.5</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5012139-x86_e6d6aae2003702d386791f77d6e7bce906402ee9.msu</url>
+			<name>Windows8.1-KB5013638-x86.msu</name>
+			<description>2022-05 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5013638-x86_67aadd8a551a4771db926ca2052c6254e4838547.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -416,13 +416,13 @@
 			<url>https://download.microsoft.com/download/2/B/8/2B832205-A313-45A4-9356-DF5E47B70663/Windows8.1-KB3021910-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5012672</kb>
-			<date>2022/03/22</date>
+			<kb>KB5014025</kb>
+			<date>2022/04/16</date>
 			<size>4.67 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB5012672-x86.msu</name>
-			<description>2022-04 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5012672-x86_2999ec9917fa4e5822f8ac5a2bd05903081cce29.msu</url>
+			<name>Windows8.1-KB5014025-x86.msu</name>
+			<description>2022-05 Servicing Stack Update</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014025-x86_0201d799b4a1883492ce1eecf04cb09a3f45c5b3.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -810,15 +810,6 @@
 			<name>Windows8.1-KB3053863-x86.msu</name>
 			<description>Windows 8.1 can't discover Samsung TV as wireless display device</description>
 			<url>https://download.microsoft.com/download/1/1/E/11E6B95B-827F-4DC9-B691-392F0CC6B92E/Windows8.1-KB3053863-x86.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3054169</kb>
-			<date>2015/04/02</date>
-			<size>1.56 MB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3054169-x86.msu</name>
-			<description>Update to add more information to minidump files that helps OCA servers categorize failures correctly</description>
-			<url>https://download.microsoft.com/download/2/D/7/2D733A19-CA16-4760-A803-EC2C78E0D42A/Windows8.1-KB3054169-x86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054256</kb>
@@ -1820,31 +1811,22 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x86_a6af9c16d559e00e42ed45cdf1d7a72235edf5f2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5011266</kb>
-			<date>2022/01/26</date>
-			<size>358 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB5011266-x86-NDP48.msu</name>
-			<description>2022-02 Out-of-band update for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/02/windows8.1-kb5011266-x86-ndp48_1703dc19e3a498f4e2b5a07e7e6a52cfcb229769.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5012124</kb>
-			<date>2022/03/03</date>
-			<size>31.00 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB5012124-x86-NDP48.msu</name>
-			<description>2022-04 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows8.1-kb5012124-x86-ndp48_8affd6cea3d8a875248ea56c999de3004b159905.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5012670</kb>
+			<kb>KB5013631</kb>
 			<date>2022/04/04</date>
-			<size>357.87 MB</size>
+			<size>31.72 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5012670-x86.msu</name>
-			<description>2022-04 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows8.1-kb5012670-x86_d4f8fdac13c434cc2e8284c8813ae65460808a8f.msu</url>
+			<name>Windows8.1-KB5013631-x86-NDP48.msu</name>
+			<description>2022-05 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5013631-x86-ndp48_ec95cec9d0a63ae4721ebbc7c09aecca7a8db2c4.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5014011</kb>
+			<date>2022/05/04</date>
+			<size>363.57 MB</size>
+			<category>Security</category>
+			<name>Windows8.1-KB5014011-x86.msu</name>
+			<description>2022-05 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x86_6d92ac7b5cbb8ae79c78eb75e7964a240e40dbdd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
