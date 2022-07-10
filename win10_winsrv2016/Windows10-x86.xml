@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/05/10" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/06/24" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -29,24 +29,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x86_d38ebe43baeabaef927675c7ff2295843f19a077.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5013625</kb>
-			<date>2022/04/04</date>
-			<size>31.77 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5013625-x86-NDP48.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows10.0-kb5013625-x86-ndp48_6158c30fba18479f9f78fb9b9fd0aec6bc77e7e4.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5013952</kb>
-			<date>2022/05/04</date>
-			<size>833.15 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5013952-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x86_b2adf7f0b5163f0efc86cd13bc9fbb59b5ede70f.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5014026</kb>
 			<date>2022/05/02</date>
 			<size>5.36 MB</size>
@@ -54,6 +36,24 @@
 			<name>Windows10.0-KB5014026-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1607</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5014026-x86_3932a25aaa5b39d8184be730f779db103bec3a72.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5014630</kb>
+			<date>2022/05/08</date>
+			<size>31.79 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5014630-x86-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/05/windows10.0-kb5014630-x86-ndp48_c5d285919dcea21c88cd026d5b817f797c9d85fe.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5014702</kb>
+			<date>2022/06/10</date>
+			<size>833.35 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5014702-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013952-x86_b2adf7f0b5163f0efc86cd13bc9fbb59b5ede70f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -92,49 +92,13 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/04/windows10.0-kb5013888-x86-ndp48_bf3136a3ca67cc9170712b82ce24df0164689fb6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5014022</kb>
-			<date>2022/05/20</date>
-			<size>317.65 MB</size>
+			<kb>KB5014669</kb>
+			<date>2022/06/21</date>
+			<size>317.19 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5014022-x86.msu</name>
+			<name>Windows10.0-KB5014669-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/05/windows10.0-kb5014022-x86_dc72943c1c20e9f19cb5a80c0cf05009f6d56a6f.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4517245</kb>
-			<date>2019/09/26</date>
-			<size>179.87 KB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB4517245-x86.msu</name>
-			<description>Feature Update to Windows 10 Version 1909 via Enablement Package</description>
-			<url>http://b1.download.windowsupdate.com/d/upgr/2019/11/windows10.0-kb4517245-x86_5a6bd71217bb5a4181c69b4294e4c5e74fd41398.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5005412</kb>
-			<date>2021/08/03</date>
-			<size>6.56 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB5005412-x86.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1903</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005412-x86_98f99f0aee4af93a076e5beeb72bf979c4b41f64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5013627</kb>
-			<date>2022/04/04</date>
-			<size>44.95 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB5013627-x86-NDP48.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 10 Version 1903</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/04/windows10.0-kb5013627-x86-ndp48_d4103484e9676b846b6d8604d5c14853f7a96b52.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5013945</kb>
-			<date>2022/05/02</date>
-			<size>366.86 MB</size>
-			<category>General/18362</category>
-			<name>Windows10.0-KB5013945-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1903</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows10.0-kb5013945-x86_ffe9f97b69bae287fd46b6795cb19e5234cc98a8.msu</url>
+			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/06/windows10.0-kb5014669-x86_94f502ecb7c8254f7cbb513e9296ae62287d1820.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -155,15 +119,6 @@
 			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/04/windows10.0-kb5013887-x86-ndp48_2481ad51ae585b293315da873f4a5b43e3d5ea22.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5014023</kb>
-			<date>2022/05/31</date>
-			<size>318.60 MB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB5014023-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 2004</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/05/windows10.0-kb5014023-x86_5ddd1d3b9a7923695b39ba25b4426f3d3feab0a9.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5014032</kb>
 			<date>2022/05/05</date>
 			<size>6.83 MB</size>
@@ -171,6 +126,15 @@
 			<name>Windows10.0-KB5014032-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 2004</description>
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/ssu-19041.1704-x86_3cec66c3891a613e6656f141547e573f9d700d35.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5014666</kb>
+			<date>2022/06/22</date>
+			<size>330.77 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB5014666-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 2004</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/06/windows10.0-kb5014666-x86_45be15e56c6c7210e0861f9e658de35d997e7270.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4562830</kb>

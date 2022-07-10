@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/05/10" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/06/14" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002048</kb>
@@ -11,13 +11,13 @@
 			<url>https://download.microsoft.com/download/7/f/a/7fa2e7b5-b7c7-4372-9459-e99e435c3f08/access2016-kb5002048-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002160</kb>
-			<date>2022/02/23</date>
+			<kb>KB5002182</kb>
+			<date>2022/06/01</date>
 			<size>4.30 MB</size>
 			<category>General</category>
-			<name>ace2016-kb5002160-fullfile-x64-glb.exe</name>
+			<name>ace2016-kb5002182-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Access Database Engine)</description>
-			<url>https://download.microsoft.com/download/5/6/a/56aec9f9-a166-48df-ac2c-30fcc0e1a3c9/ace2016-kb5002160-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/b/e/5bed2876-7a3b-4c97-a38e-0dad69e5498c/ace2016-kb5002182-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011259</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002196</kb>
-			<date>2022/05/02</date>
-			<size>136.66 MB</size>
+			<kb>KB5002208</kb>
+			<date>2022/06/01</date>
+			<size>136.62 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002196-fullfile-x64-glb.exe</name>
+			<name>excel2016-kb5002208-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/6/d/8/6d8a5178-e67f-41a0-ae7c-7495578d591f/excel2016-kb5002196-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/a/a/3/aa39817c-1e33-4fce-832c-48b69ceef648/excel2016-kb5002208-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -416,13 +416,13 @@
 			<url>https://download.microsoft.com/download/0/7/E/07E743F1-C512-4BB7-A7E0-2053630CA971/proof2016-kb4464538-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3114852</kb>
-			<date>2019/08/19</date>
+			<kb>KB4484104</kb>
+			<date>2022/06/01</date>
 			<size>1.63 MB</size>
 			<category>General</category>
-			<name>protocolhndlr2016-kb3114852-fullfile-x64-glb.exe</name>
+			<name>protocolhndlr2016-kb4484104-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Office Protocol Handler)</description>
-			<url>https://download.microsoft.com/download/9/0/a/90a1dbb9-ca31-4110-bd1b-5c57269465bf/protocolhndlr2016-kb3114852-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/1/4/4/1441bd37-2a43-43cd-b3a6-41814f3bad35/protocolhndlr2016-kb4484104-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493152</kb>

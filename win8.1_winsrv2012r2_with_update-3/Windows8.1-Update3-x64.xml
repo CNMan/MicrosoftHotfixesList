@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/05/10" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/06/14" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1892,22 +1892,22 @@
 			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x64_f94ceacbe02a896299f835ffdbd59772c43d6206.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5013631</kb>
-			<date>2022/04/04</date>
-			<size>56.26 MB</size>
+			<kb>KB5014633</kb>
+			<date>2022/05/09</date>
+			<size>53.95 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5013631-x64-NDP48.msu</name>
-			<description>2022-05 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows8.1-kb5013631-x64-ndp48_79a027e74f6c108df901717e5e2a6d2539e67594.msu</url>
+			<name>Windows8.1-KB5014633-x64-NDP48.msu</name>
+			<description>2022-06 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/05/windows8.1-kb5014633-x64-ndp48_b4520eecb81d11e23d084905a943f74a290345fd.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5014011</kb>
-			<date>2022/05/04</date>
-			<size>560.67 MB</size>
+			<kb>KB5014738</kb>
+			<date>2022/06/11</date>
+			<size>562.37 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5014011-x64.msu</name>
-			<description>2022-05 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/windows8.1-kb5014011-x64_8677efb857d5a370986406a2bf133ba4e1947f16.msu</url>
+			<name>Windows8.1-KB5014738-x64.msu</name>
+			<description>2022-06 Security Monthly Quality Rollup</description>
+			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/06/windows8.1-kb5014738-x64_5a8213e20854c2462b6b3dd005fe30caba1a7da2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

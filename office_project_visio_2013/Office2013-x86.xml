@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/05/10" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/06/14" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/c/6/d/c6d93e13-1850-4f13-970b-796b13c8be12/eurotool2013-kb3178643-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002204</kb>
-			<date>2022/05/02</date>
-			<size>109.84 MB</size>
+			<kb>KB5002220</kb>
+			<date>2022/06/01</date>
+			<size>109.95 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002204-fullfile-x86-glb.exe</name>
+			<name>excel2013-kb5002220-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/e/1/0/e10961b7-6c4c-4eb6-bb09-565f55d6d102/excel2013-kb5002204-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/f/1/e/f1e1e10d-f1ee-4f72-9440-8fe5f3c66e8d/excel2013-kb5002220-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
