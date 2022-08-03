@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/06/14" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/07/12" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -560,13 +560,13 @@
 			<url>https://download.microsoft.com/download/0/8/2/082ec168-b885-45c5-a974-82e44b764ee5/stslist2013-kb4462205-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486726</kb>
-			<date>2021/12/01</date>
-			<size>3.41 MB</size>
+			<kb>KB5002121</kb>
+			<date>2022/06/24</date>
+			<size>3.42 MB</size>
 			<category>Security</category>
-			<name>vbe72013-kb4486726-fullfile-x86-glb.exe</name>
+			<name>vbe72013-kb5002121-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (Visual Basic for Applications)</description>
-			<url>https://download.microsoft.com/download/a/a/e/aaea43fe-6962-4f0d-8fb3-9ad479f0b070/vbe72013-kb4486726-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/b/2/3/b2388e2d-0c69-424a-97ed-b319de7c0595/vbe72013-kb5002121-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054828</kb>
