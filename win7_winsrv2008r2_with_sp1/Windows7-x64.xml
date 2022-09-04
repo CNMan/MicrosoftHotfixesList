@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/07/12" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/08/09" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -80,7 +80,7 @@
 			<category>Additional/_NotAllowedOffline</category>
 			<name>Windows6.1-KB2603229-x64.msu</name>
 			<description>The values of the 32-bit versions of two registry entries are incorrect in 64-bit versions</description>
-			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2011/10/windows6.1-kb2603229-x64_aea29b57253c8f271d99b76f09839dbf1c0a7f86.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2011/10/windows6.1-kb2603229-x64_aea29b57253c8f271d99b76f09839dbf1c0a7f86.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2646060</kb>
@@ -98,7 +98,7 @@
 			<category>Additional/_NotAllowedOffline</category>
 			<name>Windows6.1-KB3046269-x64.msu</name>
 			<description>Vulnerability in Windows Task Scheduler could allow elevation of privilege: April 14, 2015</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows6.1-kb3046269-x64_9cdabeb9c2a859414c27c4f981d6b1334aee0ad5.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows6.1-kb3046269-x64_9cdabeb9c2a859414c27c4f981d6b1334aee0ad5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4099950</kb>
@@ -107,7 +107,7 @@
 			<category>Additional/_NotAllowedOffline</category>
 			<name>Windows6.1-KB4099950-x64.msu</name>
 			<description>Network Interface Card settings can be replaced, or static IP address settings can be lost </description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2018/03/windows6.1-kb4099950-x64_245d5aaf7d50587297825f9176be166c47ad10f7.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2018/03/windows6.1-kb4099950-x64_245d5aaf7d50587297825f9176be166c47ad10f7.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB947821</kb>
@@ -116,7 +116,7 @@
 			<category>Additional/_NotAllowedOffline</category>
 			<name>Windows6.1-KB947821-v34-x64.msu</name>
 			<description>Use System Update Readiness Tool to fix Windows Update or Packages corruption errors</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.1-kb947821-v34-x64_cc4a605bcda8288af75983312e8fb25367e98fdd.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.1-kb947821-v34-x64_cc4a605bcda8288af75983312e8fb25367e98fdd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4497410</kb>
@@ -134,7 +134,7 @@
 			<category>Additional/NET48</category>
 			<name>NDP48-KB4503548-x86-x64-ENU.exe</name>
 			<description>Microsoft .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2019/08/ndp48-x86-x64-enu_0885a72554ca76d2cd3ad76f98878f22b6a1d0b2.exe</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/ftpk/2019/08/ndp48-x86-x64-enu_0885a72554ca76d2cd3ad76f98878f22b6a1d0b2.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4503575</kb>
@@ -143,7 +143,7 @@
 			<category>Additional/NET48</category>
 			<name>ndp48-kb4503575-x64_6c25d7b9595000a2575fd1596e70341234df7bfe.exe</name>
 			<description>Microsoft .NET Framework 4.8 Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/ndp48-kb4503575-x64_6c25d7b9595000a2575fd1596e70341234df7bfe.exe</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/ndp48-kb4503575-x64_6c25d7b9595000a2575fd1596e70341234df7bfe.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532941</kb>
@@ -152,7 +152,7 @@
 			<category>Additional/NET48</category>
 			<name>ndp48-kb4532941-x64_3220ceb5d24711680ceb3dfef6d7847305185ea2.exe</name>
 			<description>Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/ndp48-kb4532941-x64_3220ceb5d24711680ceb3dfef6d7847305185ea2.exe</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/ndp48-kb4532941-x64_3220ceb5d24711680ceb3dfef6d7847305185ea2.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2574819</kb>
@@ -170,7 +170,7 @@
 			<category>Additional/RDP</category>
 			<name>Windows6.1-KB2574819-v2-x64.msu</name>
 			<description>An update to adds support for DTLS in Windows 7 SP1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2013/06/windows6.1-kb2574819-v2-x64_a0b7ffff5c8fc9b2f16b323e582bcda3bbe972d5.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2013/06/windows6.1-kb2574819-v2-x64_a0b7ffff5c8fc9b2f16b323e582bcda3bbe972d5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2592687</kb>
@@ -179,7 +179,7 @@
 			<category>Additional/RDP</category>
 			<name>Windows6.1-KB2592687-x64.msu</name>
 			<description>Remote Desktop Protocol 8.0</description>
-			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows6.1-kb2592687-x64_f5cd9f3dab8cdbbf287fee84148e8ea69042bcc3.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows6.1-kb2592687-x64_f5cd9f3dab8cdbbf287fee84148e8ea69042bcc3.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2830477</kb>
@@ -188,7 +188,7 @@
 			<category>Additional/RDP</category>
 			<name>Windows6.1-KB2830477-x64.msu</name>
 			<description>Remote Desktop Protocol 8.1</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/11/windows6.1-kb2830477-x64_21cae4796ac834f66eec9a190815e1e1b8195908.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2013/11/windows6.1-kb2830477-x64_21cae4796ac834f66eec9a190815e1e1b8195908.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB971033</kb>
@@ -206,7 +206,7 @@
 			<category>Additional/Windows10</category>
 			<name>Windows6.1-KB3021917-x64.msu</name>
 			<description>Update for performance improvements</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/01/windows6.1-kb3021917-x64_d516fd2300ae1077ab2a5d899e31d795a52c2da0.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2015/01/windows6.1-kb3021917-x64_d516fd2300ae1077ab2a5d899e31d795a52c2da0.msu</url>
 		</update>
 		<update extract="1">
 			<kb>KB3191566</kb>
@@ -314,7 +314,7 @@
 			<category>Extra/Addons/WorkFolders</category>
 			<name>Windows6.1-KB2891638-x64.msu</name>
 			<description>Work Folders is available on Windows 7 client</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/06/windows6.1-kb2891638-x64_dfcdbd51d891599e7ff9488807633be9497d914b.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2014/06/windows6.1-kb2891638-x64_dfcdbd51d891599e7ff9488807633be9497d914b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB968211</kb>
@@ -386,7 +386,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB2670838-x64.msu</name>
 			<description>Platform update for Windows 7 SP1</description>
-			<url>http://download.windowsupdate.com/msdownload/update/software/ftpk/2013/02/windows6.1-kb2670838-x64_9f667ff60e80b64cbed2774681302baeaf0fc6a6.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/msdownload/update/software/ftpk/2013/02/windows6.1-kb2670838-x64_9f667ff60e80b64cbed2774681302baeaf0fc6a6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2685811</kb>
@@ -395,7 +395,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB2685811-x64.msu</name>
 			<description>Kernel-Mode Driver Framework 1.11. Warning: Recommended not to offline integrate or Install LDR branch of this update</description>
-			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2685811-x64_191e09df632b70fd4f4b27d4cb9227f7c5a1c98c.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2685811-x64_191e09df632b70fd4f4b27d4cb9227f7c5a1c98c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2685813</kb>
@@ -404,7 +404,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB2685813-x64.msu</name>
 			<description>User-Mode Driver Framework 1.11. Warning: Recommended not to offline integrate or Install LDR branch of this update</description>
-			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2685813-x64_22a969bada171678b0936bb320e6a7778e8adc07.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2685813-x64_22a969bada171678b0936bb320e6a7778e8adc07.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2750841</kb>
@@ -413,7 +413,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB2750841-x64.msu</name>
 			<description>Update for IPv6 readiness</description>
-			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2750841-x64_bb08f9dbac0d72f1227b362ee503deda2f3dceb6.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2750841-x64_bb08f9dbac0d72f1227b362ee503deda2f3dceb6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2818604</kb>
@@ -422,7 +422,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB2818604-x64.msu</name>
 			<description>Microcode update for AMD processors</description>
-			<url>http://download.windowsupdate.com/msdownload/update/software/updt/2013/05/Windows6.1-KB2818604-x64_dee27dd953d006d41a9d37f4f557743b8f140580.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/msdownload/update/software/updt/2013/05/Windows6.1-KB2818604-x64_dee27dd953d006d41a9d37f4f557743b8f140580.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3046480</kb>
@@ -431,7 +431,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB3046480-x64.msu</name>
 			<description>Update helps to determine whether to migrate the .NET Framework 1.1 when you upgrade Windows</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows6.1-kb3046480-x64_a8a96659f292ce4d85aa1370fdfe8ee58c6194fc.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows6.1-kb3046480-x64_a8a96659f292ce4d85aa1370fdfe8ee58c6194fc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3064209</kb>
@@ -449,7 +449,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB3125574-v4-x64.msu</name>
 			<description>Convenience rollup update: May 2016</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows6.1-kb3125574-v4-x64_2dafb1d203c8964239af3048b5dd4b1264cd93b9.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows6.1-kb3125574-v4-x64_2dafb1d203c8964239af3048b5dd4b1264cd93b9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3161102</kb>
@@ -458,7 +458,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB3161102-v2-x64.msu</name>
 			<description>Update to remove Windows Journal components</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/08/windows6.1-kb3161102-v2-x64_5608a28abe55f59aed12ec690eb8033efecfcc4e.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2016/08/windows6.1-kb3161102-v2-x64_5608a28abe55f59aed12ec690eb8033efecfcc4e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172605</kb>
@@ -467,7 +467,7 @@
 			<category>General</category>
 			<name>windows6.1-kb3172605-x64_2bb9bc55f347eee34b1454b50c436eb6fd9301fc.msu</name>
 			<description>July 2016 update rollup</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/09/windows6.1-kb3172605-x64_2bb9bc55f347eee34b1454b50c436eb6fd9301fc.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2016/09/windows6.1-kb3172605-x64_2bb9bc55f347eee34b1454b50c436eb6fd9301fc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3179573</kb>
@@ -476,7 +476,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB3179573-x64.msu</name>
 			<description>August 2016 update rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/windows6.1-kb3179573-x64_0ec541490b3f7b02e41f26cb2c444cbd9e13df4d.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2016/07/windows6.1-kb3179573-x64_0ec541490b3f7b02e41f26cb2c444cbd9e13df4d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3184143</kb>
@@ -485,7 +485,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB3184143-x64.msu</name>
 			<description>Update to remove GWX and software related to the Windows 10 free upgrade offer</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/09/windows6.1-kb3184143-x64_6db4ed132eacefab0f780ef5ce4611ffe4f577a4.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2016/09/windows6.1-kb3184143-x64_6db4ed132eacefab0f780ef5ce4611ffe4f577a4.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4490628</kb>
@@ -494,7 +494,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB4490628-x64.msu</name>
 			<description>Servicing stack update: March 2019</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4490628-x64_d3de52d6987f7c8bdc2c015dca69eac96047c76e.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4490628-x64_d3de52d6987f7c8bdc2c015dca69eac96047c76e.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB917607</kb>
@@ -512,7 +512,7 @@
 			<category>General</category>
 			<name>Windows6.x-HyperVIntegrationServices-x64.cab</name>
 			<description>Hyper-V guest integration components</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2019/09/windows6.x-hypervintegrationservices-x64_0fe69ca056658f2a860a3041686f7a892128354c.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2019/09/windows6.x-hypervintegrationservices-x64_0fe69ca056658f2a860a3041686f7a892128354c.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2695321</kb>
@@ -530,7 +530,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2727994-v3-x64.msu</name>
 			<description>You cannot open or save Office 2010 documents on a WebDAV file server</description>
-			<url>http://download.windowsupdate.com/msdownload/update/software/htfx/2013/04/windows6.1-kb2727994-v3-x64_c3ee2b7aec7a02cfe413337703610c1ef062fe49.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/msdownload/update/software/htfx/2013/04/windows6.1-kb2727994-v3-x64_c3ee2b7aec7a02cfe413337703610c1ef062fe49.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2728738</kb>
@@ -539,7 +539,7 @@
 			<category>Hotfix</category>
 			<name>Windows6.1-KB2728738-v3-x64.msu</name>
 			<description>You experience a long logon time when on a computer with roaming profiles</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/htfx/2013/11/windows6.1-kb2728738-v3-x64_22e4457734ff8c995a3637f95ea7848de7956a0d.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/htfx/2013/11/windows6.1-kb2728738-v3-x64_22e4457734ff8c995a3637f95ea7848de7956a0d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2752259</kb>
@@ -620,7 +620,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB2898851-x64.msu</name>
 			<description>Security update for the .NET Framework 3.5.1: May 13, 2014</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windows6.1-kb2898851-x64_37f0780a032414c1fc6a98a274c319564546716f.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windows6.1-kb2898851-x64_37f0780a032414c1fc6a98a274c319564546716f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2900986</kb>
@@ -629,7 +629,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB2900986-x64.msu</name>
 			<description>Cumulative security update for ActiveX Kill Bits: December 10, 2013</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2013/11/windows6.1-kb2900986-x64_a56afda70b8208665280cb79d0a6704bb7dcc3bb.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2013/11/windows6.1-kb2900986-x64_a56afda70b8208665280cb79d0a6704bb7dcc3bb.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3059317</kb>
@@ -638,7 +638,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB3059317-x64.msu</name>
 			<description>Security update for Microsoft Common Controls: June 9, 2015</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows6.1-kb3059317-x64_b68db33239bddcb59e881252cfc7b79d58a2f26b.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows6.1-kb3059317-x64_b68db33239bddcb59e881252cfc7b79d58a2f26b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3156016</kb>
@@ -647,7 +647,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB3156016-x64.msu</name>
 			<description>Security update for Windows Graphics Component (Direct3D10Level9): May 10, 2016</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows6.1-kb3156016-x64_97fa9ecb5f3a03a0739c6baeea3d9371c1474a6a.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows6.1-kb3156016-x64_97fa9ecb5f3a03a0739c6baeea3d9371c1474a6a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3159398</kb>
@@ -656,7 +656,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB3159398-x64.msu</name>
 			<description>Security update for Group Policy: June 14, 2016</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows6.1-kb3159398-x64_dc2b2c11af4b38b0b632bd7f6d683d57a93b711c.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows6.1-kb3159398-x64_dc2b2c11af4b38b0b632bd7f6d683d57a93b711c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3161949</kb>
@@ -665,7 +665,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB3161949-x64.msu</name>
 			<description>Security update for Web Proxy Auto Discovery (WPAD): June 14, 2016</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows6.1-kb3161949-x64_e2372fb5746e9474cec6ef1710f8d58ec5c6c000.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows6.1-kb3161949-x64_e2372fb5746e9474cec6ef1710f8d58ec5c6c000.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4474419</kb>
@@ -674,7 +674,7 @@
 			<category>Security</category>
 			<name>Windows6.1-KB4474419-v3-x64.msu</name>
 			<description>SHA-2 code signing support update: August 2019</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4474419-v3-x64_b5614c6cea5cb4e198717789633dca16308ef79c.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4474419-v3-x64_b5614c6cea5cb4e198717789633dca16308ef79c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4444444</kb>
@@ -686,13 +686,13 @@
 			<url>https://dl.dropboxusercontent.com/s/mvcixkg8jyh2t8b/ExtendedSecurityUpdates-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5014631</kb>
-			<date>2022/05/09</date>
-			<size>40.78 MB</size>
+			<kb>KB5016367</kb>
+			<date>2022/07/08</date>
+			<size>41.31 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5014631-x64.exe</name>
-			<description>2022-06 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/05/ndp48-kb5014631-x64_3ef140ffdbffd80657c3feca0e24267a890ff388.exe</url>
+			<name>NDP48-KB5016367-x64.exe</name>
+			<description>2022-08 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/07/ndp48-kb5016367-x64_8c9223924612a9af0f592adce16e43661b6df56e.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -701,7 +701,7 @@
 			<category>Security/ESU</category>
 			<name>Windows6.1-KB4575903-x64.msu</name>
 			<description>Extended Security Updates (ESU) Licensing Preparation Package</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5013637</kb>
@@ -710,16 +710,7 @@
 			<category>Security/ESU</category>
 			<name>Windows6.1-KB5013637-x64.msu</name>
 			<description>2022-05 Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows6.1-kb5013637-x64_9adc2154ff84511c2dd3aeebab9594999b5c7297.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5015861</kb>
-			<date>2022/07/09</date>
-			<size>377.20 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB5015861-x64.msu</name>
-			<description>2022-07 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/07/windows6.1-kb5015861-x64_9c1b1ec1cadb716c578f530aa8937e970457d614.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/04/windows6.1-kb5013637-x64_9adc2154ff84511c2dd3aeebab9594999b5c7297.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5016057</kb>
@@ -728,7 +719,16 @@
 			<category>Security/ESU</category>
 			<name>Windows6.1-KB5016057-x64.msu</name>
 			<description>2022-07 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/07/windows6.1-kb5016057-x64_7f66297be90ab258559f7559645ca52e13cc2498.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/07/windows6.1-kb5016057-x64_7f66297be90ab258559f7559645ca52e13cc2498.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5016676</kb>
+			<date>2022/08/05</date>
+			<size>378.03 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB5016676-x64.msu</name>
+			<description>2022-08 Security Monthly Quality Rollup</description>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows6.1-kb5016676-x64_d03027b24fdb5b2f4743da145f93d9219c18d597.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>
@@ -737,7 +737,7 @@
 			<category>Security/WithoutESU</category>
 			<name>Windows6.1-KB4532945-x64.msu</name>
 			<description>2020-01 Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4532945-x64_d070fb06c4c56f70e4d2e891181028fa7c35694d.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4532945-x64_d070fb06c4c56f70e4d2e891181028fa7c35694d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4534310</kb>
@@ -746,7 +746,7 @@
 			<category>Security/WithoutESU</category>
 			<name>Windows6.1-KB4534310-x64.msu</name>
 			<description>2020-01 Security Monthly Quality Rollup</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4534310-x64_4dc78a6eeb14e2eac1ede7381f4a93658c8e2cdc.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4534310-x64_4dc78a6eeb14e2eac1ede7381f4a93658c8e2cdc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4536952</kb>
@@ -755,7 +755,7 @@
 			<category>Security/WithoutESU</category>
 			<name>Windows6.1-KB4536952-x64.msu</name>
 			<description>2020-01 Servicing Stack Update</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4536952-x64_87f81056110003107fa0e0ec35a3b600ef300a14.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/windows6.1-kb4536952-x64_87f81056110003107fa0e0ec35a3b600ef300a14.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4539602</kb>
@@ -764,7 +764,7 @@
 			<category>Security/WithoutESU</category>
 			<name>Windows6.1-KB4539602-x64.msu</name>
 			<description>2020-01 Security Only Update</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows6.1-kb4539602-x64_977d8a5421d03ba7ddd992ddf79175dddcfb90d4.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows6.1-kb4539602-x64_977d8a5421d03ba7ddd992ddf79175dddcfb90d4.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

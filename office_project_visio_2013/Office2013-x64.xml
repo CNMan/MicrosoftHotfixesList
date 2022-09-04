@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/07/12" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/08/09" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -26,7 +26,7 @@
 			<category>General</category>
 			<name>airspacewer2013-kb2899522-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2013 (Error Reporting)</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/12/airspacewer-x-none_57f43ccba4ed31a188e008ac0c226cd45e51ea9e.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2014/12/airspacewer-x-none_57f43ccba4ed31a188e008ac0c226cd45e51ea9e.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB5001937</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002220</kb>
-			<date>2022/06/01</date>
+			<kb>KB5002242</kb>
+			<date>2022/07/27</date>
 			<size>116.11 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002220-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb5002242-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/d/5/7/d57bd794-0729-4060-8c6e-653b01a49ab5/excel2013-kb5002220-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/7/1/2/71213bfa-d743-471e-b47b-bffdff5ccbe6/excel2013-kb5002242-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -143,7 +143,7 @@
 			<category>General</category>
 			<name>fm202013-kb3023052-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2013 (Microsoft Forms 2.0)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/07/fm20-x-none_3569ec01700333c46517f0739c72dea44edd2c50.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/07/fm20-x-none_3569ec01700333c46517f0739c72dea44edd2c50.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2760371</kb>
@@ -152,7 +152,7 @@
 			<category>General</category>
 			<name>gfonts2013-kb2760371-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2013 (Arial Narrow Font)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/gfonts-x-none_737554067918c42637069e9ba2e4f774e3019839.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/gfonts-x-none_737554067918c42637069e9ba2e4f774e3019839.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172514</kb>
@@ -272,13 +272,13 @@
 			<url>https://download.microsoft.com/download/3/3/1/331d1f7c-a536-4674-9101-6ba2e85fbf9b/mso2013-kb5002146-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3172522</kb>
-			<date>2018/12/14</date>
-			<size>1.53 MB</size>
+			<kb>KB4462142</kb>
+			<date>2022/07/27</date>
+			<size>1.51 MB</size>
 			<category>Security</category>
-			<name>msohevi2013-kb3172522-fullfile-x64-glb.exe</name>
+			<name>msohevi2013-kb4462142-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (HTML MIME Handler)</description>
-			<url>https://download.microsoft.com/download/6/2/2/622D01DD-1A21-4BDD-9CAD-5B5D1CE6F7E0/msohevi2013-kb3172522-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/2/b/0/2b0bc93f-d039-4d9d-9a9a-71f4afea721c/msohevi2013-kb4462142-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4018378</kb>
@@ -296,7 +296,7 @@
 			<category>General</category>
 			<name>msqry322013-KB2889863-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2013 (Microsoft Query)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/msqry32-x-none_5fa1c4151e44c00ec3c8c66b91cf92e4076f79af.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/msqry32-x-none_5fa1c4151e44c00ec3c8c66b91cf92e4076f79af.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022212</kb>
@@ -314,7 +314,7 @@
 			<category>General</category>
 			<name>nlgmsfad2013-kb2883095-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2013 (Forgotten Attachment Detector)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/nlgmsfad-x-none_1223811d6585b3a89744d39c845a0b29290345d3.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/nlgmsfad-x-none_1223811d6585b3a89744d39c845a0b29290345d3.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4464542</kb>
@@ -332,7 +332,7 @@
 			<category>General</category>
 			<name>ocfxca2013-kb3039720-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2013 (ocfxca-x-none.msp)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/10/ocfxca-x-none_0a7d5d89e9254b85074fc88d3fb71e3ba4dd2857.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/10/ocfxca-x-none_0a7d5d89e9254b85074fc88d3fb71e3ba4dd2857.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2760344</kb>
@@ -341,7 +341,7 @@
 			<category>General</category>
 			<name>ocr2013-kb2760344-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2013 (Optical Character Recognition)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/04/ocr-x-none_3d6d1ff8c3241588bc1456409dedc98f0aef59cd.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2014/04/ocr-x-none_3d6d1ff8c3241588bc1456409dedc98f0aef59cd.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3178640</kb>
@@ -377,7 +377,7 @@
 			<category>General</category>
 			<name>osc2013-KB3054854-fullfile-x64-glb.cab</name>
 			<description>Microsoft Outlook Social Connector 2013</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/osc-x-none_295b23903d59b06c1287bd5b7d01642cafee051a.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/osc-x-none_295b23903d59b06c1287bd5b7d01642cafee051a.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3054856</kb>
@@ -386,7 +386,7 @@
 			<category>General</category>
 			<name>oscfb2013-KB3054856-fullfile-x64-glb.cab</name>
 			<description>Microsoft Outlook Facebook Provider 2013</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/oscfb-x-none_4ec490ded87757f4f61d4a7f679bad1828269dbe.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/oscfb-x-none_4ec490ded87757f4f61d4a7f679bad1828269dbe.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022188</kb>
@@ -422,7 +422,7 @@
 			<category>General</category>
 			<name>ospp2013-kb3039778-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2013 (License Management Tool)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/10/ospp-x-none_f7f3e7afc9564da8f0c7a568bef3e1a663850f07.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/10/ospp-x-none_f7f3e7afc9564da8f0c7a568bef3e1a663850f07.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4092455</kb>
@@ -443,13 +443,13 @@
 			<url>https://download.microsoft.com/download/2/E/6/2E63A2FD-7C84-4E7D-8189-3FCEE678B377/outlfltr2013-kb3115404-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001934</kb>
-			<date>2021/05/27</date>
-			<size>92.08 MB</size>
+			<kb>KB5001990</kb>
+			<date>2022/07/27</date>
+			<size>92.23 MB</size>
 			<category>Security</category>
-			<name>outlook2013-kb5001934-fullfile-x64-glb.exe</name>
+			<name>outlook2013-kb5001990-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>https://download.microsoft.com/download/8/0/f/80f4745e-d4f6-44c5-b517-fed4e5460cc5/outlook2013-kb5001934-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/8/3/083d66ca-9718-4c08-9e43-6aecc40aea4b/outlook2013-kb5001990-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>
@@ -458,7 +458,7 @@
 			<category>General</category>
 			<name>peopledata2013-kb3039766-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2013 (People Data Handler)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/09/peopledatahandler-x-none_3092197e853ada51606a0a1418b23bc808802cef.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/09/peopledatahandler-x-none_3092197e853ada51606a0a1418b23bc808802cef.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493227</kb>
@@ -542,13 +542,13 @@
 			<url>https://download.microsoft.com/download/4/3/0/430bd1e0-11a7-46ee-8a1d-d0a5f1cbab4e/stslist2013-kb4462205-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002121</kb>
-			<date>2022/06/24</date>
+			<kb>KB5002250</kb>
+			<date>2022/07/27</date>
 			<size>4.82 MB</size>
 			<category>Security</category>
-			<name>vbe72013-kb5002121-fullfile-x64-glb.exe</name>
+			<name>vbe72013-kb5002250-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Visual Basic for Applications)</description>
-			<url>https://download.microsoft.com/download/5/3/a/53ae50d8-7256-40d5-b939-432882e041f9/vbe72013-kb5002121-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/9/e/9/9e9e181d-7b94-4f6a-a2be-cf7c8cfa8d39/vbe72013-kb5002250-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4504728</kb>
@@ -566,7 +566,7 @@
 			<category>General</category>
 			<name>vviewer2013-kb2817301-fullfile-x64-glb.cab</name>
 			<description>Microsoft Visio Viewer 2013</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/04/vviewer-x-none_2d9781378de87134db46d3ae7840e225254fc3e2.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2014/04/vviewer-x-none_2d9781378de87134db46d3ae7840e225254fc3e2.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3172533</kb>
@@ -611,7 +611,7 @@
 			<category>General</category>
 			<name>wxpnse2013-kb3039701-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2013 (Upload Center Extension)</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/10/wxpnse-x-none_4267a9db77f7dc8b685fc1675bd59d629fb01734.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2015/10/wxpnse-x-none_4267a9db77f7dc8b685fc1675bd59d629fb01734.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2883063</kb>

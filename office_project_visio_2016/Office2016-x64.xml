@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/07/12" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/08/09" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002048</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002208</kb>
-			<date>2022/06/01</date>
-			<size>136.62 MB</size>
+			<kb>KB5002232</kb>
+			<date>2022/07/27</date>
+			<size>136.63 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002208-fullfile-x64-glb.exe</name>
+			<name>excel2016-kb5002232-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/a/a/3/aa39817c-1e33-4fce-832c-48b69ceef648/excel2016-kb5002208-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/c/b/3/cb3e1288-2158-4943-90f9-000afc12e791/excel2016-kb5002232-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -236,13 +236,13 @@
 			<url>https://download.microsoft.com/download/e/0/d/e0d4825b-e437-4448-9250-8713ed177849/msodll99l2016-kb4486670-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4022162</kb>
-			<date>2018/12/11</date>
-			<size>1.57 MB</size>
+			<kb>KB4462148</kb>
+			<date>2022/07/27</date>
+			<size>1.62 MB</size>
 			<category>Security</category>
-			<name>msohevi2016-kb4022162-fullfile-x64-glb.exe</name>
+			<name>msohevi2016-kb4462148-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (HTML MIME Handler)</description>
-			<url>https://download.microsoft.com/download/1/1/0/110266D1-C449-4C11-A126-E1D9FD0BFCF7/msohevi2016-kb4022162-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/a/3/0/a30a3813-1b20-40e2-8c70-f11703450296/msohevi2016-kb4462148-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022193</kb>
@@ -362,13 +362,13 @@
 			<url>https://download.microsoft.com/download/C/A/B/CABA6265-DE0E-4458-A701-0BE43690D8F1/outlfltr2016-kb3115407-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001998</kb>
-			<date>2021/09/29</date>
-			<size>96.71 MB</size>
-			<category>General</category>
-			<name>outlook2016-kb5001998-fullfile-x64-glb.exe</name>
+			<kb>KB5002051</kb>
+			<date>2022/07/27</date>
+			<size>96.72 MB</size>
+			<category>Security</category>
+			<name>outlook2016-kb5002051-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>https://download.microsoft.com/download/e/7/a/e7aad961-7346-4a23-8fd5-8593c7aa109c/outlook2016-kb5001998-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/f/d/6/fd6631b8-6507-4b4e-bdb7-d69fcbe3deec/outlook2016-kb5002051-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -479,13 +479,13 @@
 			<url>https://download.microsoft.com/download/0/8/1/081136EE-CA7E-4F84-86D6-B8BA8504A658/stsupld2016-kb2920678-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002112</kb>
-			<date>2022/06/24</date>
+			<kb>KB4484401</kb>
+			<date>2022/08/18</date>
 			<size>3.11 MB</size>
-			<category>Security</category>
-			<name>vbe72016-kb5002112-fullfile-x64-glb.exe</name>
+			<category>General</category>
+			<name>vbe72016-kb4484401-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Visual Basic for Applications)</description>
-			<url>https://download.microsoft.com/download/f/7/0/f7022887-e0a3-48d5-aa61-ba413f002eac/vbe72016-kb5002112-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/7/1/071cd5fd-f89f-441f-85aa-af360edb7376/vbe72016-kb4484401-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4504718</kb>

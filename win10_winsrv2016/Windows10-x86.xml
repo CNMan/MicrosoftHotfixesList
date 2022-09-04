@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/07/12" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/08/09" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -26,34 +26,43 @@
 			<category>General/14393</category>
 			<name>Windows10.0-KB4486129-x86-NDP48.msu</name>
 			<description>Microsoft .NET Framework 4.8 for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x86_d38ebe43baeabaef927675c7ff2295843f19a077.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x86_d38ebe43baeabaef927675c7ff2295843f19a077.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5014630</kb>
-			<date>2022/05/08</date>
-			<size>31.79 MB</size>
+			<kb>KB5012170</kb>
+			<date>2022/07/13</date>
+			<size>210 KB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5014630-x86-NDP48.msu</name>
+			<name>windows10.0-kb5012170-x86_85c835ef88ff8a7ee7feee6b38a3fa9945d140cd.msu</name>
+			<description>Security update for Secure Boot DBX</description>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x86_85c835ef88ff8a7ee7feee6b38a3fa9945d140cd.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5016373</kb>
+			<date>2022/07/18</date>
+			<size>31.81 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5016373-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/05/windows10.0-kb5014630-x86-ndp48_c5d285919dcea21c88cd026d5b817f797c9d85fe.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/07/windows10.0-kb5016373-x86-ndp48_7a9fd2199de4d5cadbe3e560d63bf3c1ea6d945a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5015808</kb>
-			<date>2022/07/06</date>
-			<size>833.35 MB</size>
+			<kb>KB5016622</kb>
+			<date>2022/08/06</date>
+			<size>84.13 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5015808-x86.msu</name>
+			<name>Windows10.0-KB5016622-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/07/windows10.0-kb5015808-x86_6af9866887c4f1d096fa7ee6987d307b1c8981f6.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5016622-x86_6c37257accbd13d4954e7371375c0a07cbe70955.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5016058</kb>
-			<date>2022/07/04</date>
+			<kb>KB5017095</kb>
+			<date>2022/08/01</date>
 			<size>5.35 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5016058-x86.msu</name>
+			<name>Windows10.0-KB5017095-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/07/windows10.0-kb5016058-x86_28e5d22c831f720fd2694b7bec2785f714ed68b3.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5017095-x86_67f30659558127f48914e3ab708b0be8fad70e1a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -71,7 +80,7 @@
 			<category>General/17763</category>
 			<name>Windows10.0-KB4486153-x86-NDP48.msu</name>
 			<description>Microsoft .NET Framework 4.8 for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486153-x86_de1c8a0152b298f88ff42dc9114eabfa61d5e957.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486153-x86_de1c8a0152b298f88ff42dc9114eabfa61d5e957.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5005112</kb>
@@ -80,25 +89,34 @@
 			<category>General/17763</category>
 			<name>Windows10.0-KB5005112-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005112-x86_9c52dee3181a27bdc2a3f7dbbc8391c081c6871d.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005112-x86_9c52dee3181a27bdc2a3f7dbbc8391c081c6871d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5015731</kb>
-			<date>2022/06/21</date>
+			<kb>KB5012170</kb>
+			<date>2022/07/13</date>
+			<size>212 KB</size>
+			<category>General/17763</category>
+			<name>windows10.0-kb5012170-x86_c70ff8fcb26f9f9650f6117527712e1d7ee19b96.msu</name>
+			<description>Security update for Secure Boot DBX</description>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x86_c70ff8fcb26f9f9650f6117527712e1d7ee19b96.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5016593</kb>
+			<date>2022/07/14</date>
 			<size>46.60 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5015731-x86-NDP48.msu</name>
+			<name>Windows10.0-KB5016593-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/06/windows10.0-KB5015731-x86-ndp48_5223d18c5763f182091ba0ff7e90b5046d4a689b.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/07/windows10.0-kb5016593-x86-ndp48_40f0ac9739c5dfc2277027b5756f9cfd906e4469.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5015880</kb>
-			<date>2022/07/20</date>
-			<size>317.46 MB</size>
+			<kb>KB5016690</kb>
+			<date>2022/08/18</date>
+			<size>323.06 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5015880-x86.msu</name>
+			<name>Windows10.0-KB5016690-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/07/windows10.0-KB5015880-x86_e0c5dc5df22ce16c92cd3d791d3b5ea6e7b1efa6.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/08/windows10.0-kb5016690-x86_4cb5dcb9787df19bb504ee13518b0189e7eceecb.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -107,7 +125,16 @@
 			<category>General/19041</category>
 			<name>Windows10.0-KB5007401-x86.cab</name>
 			<description>Critical Dynamic Update for .NET 3.5 for Windows 10 Versions 20H1-22H2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2021/11/windows10.0-kb5007401-x86_70e75294c8753f96b7d1b036c9caa9ab9ab5e1f2.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2021/11/windows10.0-kb5007401-x86_70e75294c8753f96b7d1b036c9caa9ab9ab5e1f2.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB5012170</kb>
+			<date>2022/07/13</date>
+			<size>251 KB</size>
+			<category>General/19041</category>
+			<name>windows10.0-kb5012170-x86_c2557ae14f54f3523ffc156c2f16ce4547254560.msu</name>
+			<description>Security update for Secure Boot DBX</description>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x86_c2557ae14f54f3523ffc156c2f16ce4547254560.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5014032</kb>
@@ -116,25 +143,25 @@
 			<category>General/19041</category>
 			<name>Windows10.0-KB5014032-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/ssu-19041.1704-x86_3cec66c3891a613e6656f141547e573f9d700d35.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/ssu-19041.1704-x86_3cec66c3891a613e6656f141547e573f9d700d35.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5015730</kb>
-			<date>2022/06/21</date>
+			<kb>KB5016592</kb>
+			<date>2022/07/14</date>
 			<size>43.02 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5015730-x86-NDP48.msu</name>
+			<name>Windows10.0-KB5016592-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/06/windows10.0-kb5015730-x86-ndp48_5e9aaf086b8fc67c7d90ab073ab9b38fc34dae9a.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/07/windows10.0-kb5016592-x86-ndp48_8495c70c6fa54d676d8ed5a4c9ac65923d0fa45e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5015878</kb>
-			<date>2022/07/25</date>
-			<size>333.48 MB</size>
+			<kb>KB5016688</kb>
+			<date>2022/08/25</date>
+			<size>347.76 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5015878-x86.msu</name>
+			<name>Windows10.0-KB5016688-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/07/windows10.0-kb5015878-x86_a63a9370b3eabdd4bcccb3940a9ac0bf5413b887.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2022/08/windows10.0-kb5016688-x86_d8f9afdf31562f65b4770aa5d243b1a1177fa233.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4562830</kb>
@@ -143,7 +170,7 @@
 			<category>General/19041/v20H2</category>
 			<name>Windows10.0-KB4562830-x86.msu</name>
 			<description>Feature Update to Windows 10 Version 20H2 via Enablement Package</description>
-			<url>http://b1.download.windowsupdate.com/c/upgr/2020/12/windows10.0-kb4562830-x86_f351f1af1971616730644a722c64b1ba3ea53f5a.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/upgr/2020/12/windows10.0-kb4562830-x86_f351f1af1971616730644a722c64b1ba3ea53f5a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>
@@ -152,7 +179,7 @@
 			<category>General/19041/v21H1</category>
 			<name>Windows10.0-KB5000736-x86.msu</name>
 			<description>Feature Update to Windows 10 Version 21H1 via Enablement Package</description>
-			<url>http://b1.download.windowsupdate.com/d/upgr/2021/03/windows10.0-kb5000736-x86_428ba21ee5118bac619f4de6977de69c1f65b066.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/upgr/2021/03/windows10.0-kb5000736-x86_428ba21ee5118bac619f4de6977de69c1f65b066.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5003791</kb>
@@ -161,7 +188,7 @@
 			<category>General/19041/v21H2</category>
 			<name>windows10.0-kb5003791-x86_ac1fc53b104c6ce0ffa50b70af754b81e56829ce.msu</name>
 			<description>Feature Update to Windows 10 Version 21H2 via Enablement Package</description>
-			<url>http://b1.download.windowsupdate.com/d/upgr/2021/11/windows10.0-kb5003791-x86_ac1fc53b104c6ce0ffa50b70af754b81e56829ce.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/upgr/2021/11/windows10.0-kb5003791-x86_ac1fc53b104c6ce0ffa50b70af754b81e56829ce.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

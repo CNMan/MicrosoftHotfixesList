@@ -17,7 +17,7 @@
 			<category>General</category>
 			<name>accessolkaddin2010-kb2791057-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (Access Outlook Data Collection Addin)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/11/accessolkaddin-x-none_92a9f3df41dd1eee91d376e8159d43002b274d1f.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/11/accessolkaddin-x-none_92a9f3df41dd1eee91d376e8159d43002b274d1f.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493143</kb>
@@ -53,7 +53,7 @@
 			<category>General</category>
 			<name>csi2010-kb3054886-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (Document Cache)</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/10/csi-x-none_24e919861b4033ea61f03b7aa7642606a0acf01a.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2015/10/csi-x-none_24e919861b4033ea61f03b7aa7642606a0acf01a.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011610</kb>
@@ -89,7 +89,7 @@
 			<category>General</category>
 			<name>exppdf2010-kb3055047-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (PDF Export)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/09/exppdf-x-none_574de74d60106c51af53f803931cb70e67a1f148.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/09/exppdf-x-none_574de74d60106c51af53f803931cb70e67a1f148.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114879</kb>
@@ -107,7 +107,7 @@
 			<category>General</category>
 			<name>fm202010-kb3054873-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (Microsoft Forms 2.0)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/07/fm20-x-none_2f31d0382f92c4b7696a4244b546c3e80bf27627.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/07/fm20-x-none_2f31d0382f92c4b7696a4244b546c3e80bf27627.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589386</kb>
@@ -116,7 +116,7 @@
 			<category>General</category>
 			<name>gfonts2010-kb2589386-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (Arial Narrow Font)</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/11/gfonts-x-none_65a9333b980b236db95a3f4ee22d2ceb56b06782.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2014/11/gfonts-x-none_65a9333b980b236db95a3f4ee22d2ceb56b06782.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2760787</kb>
@@ -188,7 +188,7 @@
 			<category>General</category>
 			<name>ipeditor2010-kb2817369-fullfile-x64-glb.cab</name>
 			<description>Microsoft InfoPath 2010 (InfoPath Editor)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/01/ipeditor-x-none_3e1a46984b30c47c063c191cfcccb24a5f05a84c.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2014/01/ipeditor-x-none_3e1a46984b30c47c063c191cfcccb24a5f05a84c.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2553398</kb>
@@ -251,7 +251,7 @@
 			<category>General</category>
 			<name>msocf2010-kb2589375-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (msocf-x-none.msp)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2013/09/msocf-x-none_8631aea04930ce6715ce7c7cf5d99f8e74a0b014.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2013/09/msocf-x-none_8631aea04930ce6715ce7c7cf5d99f8e74a0b014.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2553332</kb>
@@ -278,7 +278,7 @@
 			<category>General</category>
 			<name>msores2010-kb2597087-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (msores-x-none.msp)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2013/11/msores-x-none_a5073f59425f5cddc90fd6c4a3d6ea0f6ffa61b5.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2013/11/msores-x-none_a5073f59425f5cddc90fd6c4a3d6ea0f6ffa61b5.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114565</kb>
@@ -296,7 +296,7 @@
 			<category>General</category>
 			<name>mstore2010-kb2553140-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (mstore-x-none.msp)</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/12/mstore-x-none_92f96abf8c2434777e0415fda4aa56ba2cbff845.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2014/12/mstore-x-none_92f96abf8c2434777e0415fda4aa56ba2cbff845.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4092436</kb>
@@ -332,7 +332,7 @@
 			<category>General</category>
 			<name>ocfxca2010-kb2553347-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (ocfxca-x-none.msp)</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/07/ocfxca-x-none_1137a662edf16a9ae8bc00c33f3627e860cd1995.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2015/07/ocfxca-x-none_1137a662edf16a9ae8bc00c33f3627e860cd1995.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2879953</kb>
@@ -395,7 +395,7 @@
 			<category>General</category>
 			<name>osc2010-kb2553308-fullfile-x64-glb.cab</name>
 			<description>Microsoft Outlook Social Connector 2010</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/osc-x-none_082fb6610bec5df51d9a4b14b4376528ff68fc35.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/osc-x-none_082fb6610bec5df51d9a4b14b4376528ff68fc35.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022206</kb>
@@ -422,7 +422,7 @@
 			<category>General</category>
 			<name>ospp2010-kb2883019-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (License Management Tool)</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/12/ospp-x-none_73edfbcb12902977719894668b42472c15064f48.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2014/12/ospp-x-none_73edfbcb12902977719894668b42472c15064f48.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2920748</kb>
@@ -530,7 +530,7 @@
 			<category>General</category>
 			<name>riched202010-kb2589318-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (RichEdit 8.0)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/08/riched20-x-none_524c6ce65e16445486df31f1588e39cb7215dcb3.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/08/riched20-x-none_524c6ce65e16445486df31f1588e39cb7215dcb3.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589339</kb>
@@ -548,7 +548,7 @@
 			<category>General</category>
 			<name>targetdir2010-kb2825640-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (targetdir-x-none.msp)</description>
-			<url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2013/08/targetdir-x-none_b0a8007d1122c7672d60adc4a4c7f2522fcbb28f.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2013/08/targetdir-x-none_b0a8007d1122c7672d60adc4a4c7f2522fcbb28f.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213631</kb>
@@ -611,7 +611,7 @@
 			<category>General</category>
 			<name>wec2010-kb2553388-fullfile-x64-glb.cab</name>
 			<description>Microsoft Office 2010 (FrontPage Client)</description>
-			<url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/10/wec-x-none_58115058b4a5cf2f5607f03da85d8658e9bbfe2c.cab</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2015/10/wec-x-none_58115058b4a5cf2f5607f03da85d8658e9bbfe2c.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493218</kb>
