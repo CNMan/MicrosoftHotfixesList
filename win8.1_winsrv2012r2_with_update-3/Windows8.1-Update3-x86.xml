@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/08/09" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/09/13" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -296,7 +296,7 @@
 			<category>Additional/WU.Satisfy</category>
 			<name>Windows8.1-KB2894852-v2-x86.msu</name>
 			<description>dotNET 35 / Supersded by KB3000059</description>
-			<url>https://download.microsoft.com/download/5/A/8/5A8252A9-4285-40F9-9C89-90823888EA6D/Windows8.1-KB2894852-v2-x86.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/windows8.1-kb2894852-v2-x86_b29dac10c4df7b8a9294af01e08bc922e348ffaf.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3004545</kb>
@@ -407,13 +407,13 @@
 			<url>https://download.microsoft.com/download/2/B/8/2B832205-A313-45A4-9356-DF5E47B70663/Windows8.1-KB3021910-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5016264</kb>
-			<date>2022/06/23</date>
+			<kb>KB5017398</kb>
+			<date>2022/08/09</date>
 			<size>4.72 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB5016264-x86.msu</name>
-			<description>2022-07 Servicing Stack Update</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/07/windows8.1-kb5016264-x86_d0ee16b8888330370fd4cca64b01f009782525f1.msu</url>
+			<name>Windows8.1-KB5017398-x86.msu</name>
+			<description>2022-09 Servicing Stack Update</description>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/09/windows8.1-kb5017398-x86_fcb41ce710e15f32f38b0d6b2018dd524183635a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -1511,7 +1511,7 @@
 			<category>Security</category>
 			<name>Windows8.1-KB2898850-x86.msu</name>
 			<description>Security update for the .NET Framework 4.5.1 and 4.5.2: May 13, 2014</description>
-			<url>https://download.microsoft.com/download/C/6/9/C690CC33-18F7-405D-B18A-0A8E199E531C/Windows8.1-KB2898850-x86.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/windows8.1-kb2898850-x86_8f023b22dd2b9d9da9f6984979d8eca6018c14ca.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3000483</kb>
@@ -1784,22 +1784,22 @@
 			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows8.1-kb5012170-x86_56c633178e62f1f439e4113c585a09010660b318.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5016370</kb>
-			<date>2022/07/08</date>
-			<size>31.75 MB</size>
+			<kb>KB5017038</kb>
+			<date>2022/08/09</date>
+			<size>31.76 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5016370-x86-NDP48.msu</name>
-			<description>2022-08 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2022/07/windows8.1-kb5016370-x86-ndp48_cd16364bd5c813c8ddd518a5a5489b6d913f06af.msu</url>
+			<name>Windows8.1-KB5017038-x86-NDP48.msu</name>
+			<description>2022-09 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2022/08/windows8.1-kb5017038-x86-ndp48_7eedd2f4842454f4b34fb135f27243efb67a75ed.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5016681</kb>
-			<date>2022/08/06</date>
-			<size>366.34 MB</size>
+			<kb>KB5017367</kb>
+			<date>2022/09/09</date>
+			<size>367.41 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5016681-x86.msu</name>
-			<description>2022-08 Security Monthly Quality Rollup</description>
-			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/08/windows8.1-kb5016681-x86_78efe4e7f3c2d692e89fab89d08232d8d28e2a9d.msu</url>
+			<name>Windows8.1-KB5017367-x86.msu</name>
+			<description>2022-09 Security Monthly Quality Rollup</description>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/09/windows8.1-kb5017367-x86_f6548e80587b149e809439e80977f01cd8107b6b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
@@ -1817,7 +1817,7 @@
 			<category>Security/NET452</category>
 			<name>Windows8.1-KB3097997-x86.msu</name>
 			<description>Security update for the .NET Framework 4.5.2: November 10, 2015</description>
-			<url>https://download.microsoft.com/download/B/7/7/B7725368-B86B-41C3-8C01-E94C6E9F104D/Windows8.1-KB3097997-x86.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2015/10/windows8.1-kb3097997-x86_7604483b6c845f30975f86e79038b8eefb4ece9c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3098779</kb>
@@ -1826,7 +1826,7 @@
 			<category>Security/NET452</category>
 			<name>Windows8.1-KB3098779-x86.msu</name>
 			<description>Security update for the .NET Framework 4.5.2: November 10, 2015</description>
-			<url>https://download.microsoft.com/download/A/4/9/A49D7716-74D6-40EB-80AF-F65AF91ABE94/Windows8.1-KB3098779-x86.msu</url>
+			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2015/10/windows8.1-kb3098779-x86_23534b5cabebd971b7d9990a4c3a345a54661c5e.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

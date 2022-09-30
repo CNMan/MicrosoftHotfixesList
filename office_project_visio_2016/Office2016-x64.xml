@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/08/09" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/09/13" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002048</kb>
@@ -89,7 +89,7 @@
 			<category>Security</category>
 			<name>excel2016-kb5002232-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/c/b/3/cb3e1288-2158-4943-90f9-000afc12e791/excel2016-kb5002232-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/9/0/d/90ddf9a4-1ea4-4978-af12-4ba2ad2e9f1d/excel2016-kb5002232-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -191,13 +191,13 @@
 			<url>https://download.microsoft.com/download/8/A/5/8A5660A8-E87F-44C6-A9CF-E127F099F3EC/msmipc2016-kb3178666-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002140</kb>
-			<date>2022/01/26</date>
-			<size>249.86 MB</size>
+			<kb>KB5002178</kb>
+			<date>2022/08/31</date>
+			<size>249.89 MB</size>
 			<category>Security</category>
-			<name>mso2016-kb5002140-fullfile-x64-glb.exe</name>
+			<name>mso2016-kb5002178-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/8/a/5/8a5c044b-1621-4fc0-b281-1374a287a1d6/mso2016-kb5002140-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/2/b/f/2bf9962a-f3c0-4de2-a3f4-36c04ec6b605/mso2016-kb5002178-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4504745</kb>
@@ -242,7 +242,7 @@
 			<category>Security</category>
 			<name>msohevi2016-kb4462148-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (HTML MIME Handler)</description>
-			<url>https://download.microsoft.com/download/a/3/0/a30a3813-1b20-40e2-8c70-f11703450296/msohevi2016-kb4462148-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/e/4/0e42c2ab-ea40-451d-b18d-0aafcae003c8/msohevi2016-kb4462148-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022193</kb>
@@ -368,7 +368,7 @@
 			<category>Security</category>
 			<name>outlook2016-kb5002051-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>https://download.microsoft.com/download/f/d/6/fd6631b8-6507-4b4e-bdb7-d69fcbe3deec/outlook2016-kb5002051-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/b/a/a/baa8e87c-2ef6-4bf9-a928-ac4587f210fc/outlook2016-kb5002051-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -479,22 +479,22 @@
 			<url>https://download.microsoft.com/download/0/8/1/081136EE-CA7E-4F84-86D6-B8BA8504A658/stsupld2016-kb2920678-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484401</kb>
-			<date>2022/08/18</date>
+			<kb>KB5002251</kb>
+			<date>2022/08/31</date>
 			<size>3.11 MB</size>
 			<category>General</category>
-			<name>vbe72016-kb4484401-fullfile-x64-glb.exe</name>
+			<name>vbe72016-kb5002251-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Visual Basic for Applications)</description>
-			<url>https://download.microsoft.com/download/0/7/1/071cd5fd-f89f-441f-85aa-af360edb7376/vbe72016-kb4484401-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/2/7/c/27c4d3f5-2bbe-4ff1-b623-b26c16e35961/vbe72016-kb5002251-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4504718</kb>
-			<date>2021/07/28</date>
-			<size>66.78 MB</size>
-			<category>General</category>
-			<name>visio2016-kb4504718-fullfile-x64-glb.exe</name>
+			<kb>KB5002016</kb>
+			<date>2022/09/09</date>
+			<size>66.84 MB</size>
+			<category>Security</category>
+			<name>visio2016-kb5002016-fullfile-x64-glb.exe</name>
 			<description>Microsoft Visio 2016</description>
-			<url>https://download.microsoft.com/download/0/9/7/097fd581-7aac-41d6-a725-9d7f8e550eff/visio2016-kb4504718-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/b/6/0b602e79-5246-41b8-9426-e98a06366ad7/visio2016-kb5002016-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002184</kb>

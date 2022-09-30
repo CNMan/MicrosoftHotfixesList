@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/08/09" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/09/13" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002242</kb>
-			<date>2022/07/27</date>
-			<size>116.11 MB</size>
-			<category>Security</category>
-			<name>excel2013-kb5002242-fullfile-x64-glb.exe</name>
+			<kb>KB5002268</kb>
+			<date>2022/08/31</date>
+			<size>116.12 MB</size>
+			<category>General</category>
+			<name>excel2013-kb5002268-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/7/1/2/71213bfa-d743-471e-b47b-bffdff5ccbe6/excel2013-kb5002242-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/4/8/3/48359c04-c9e5-4023-8d4e-ad241e47042a/excel2013-kb5002268-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -263,13 +263,13 @@
 			<url>https://download.microsoft.com/download/6/2/D/62DC8E6F-39F0-4155-923E-E43BFDC29C8D/msmipc2013-kb3172523-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002146</kb>
-			<date>2022/01/26</date>
-			<size>225.68 MB</size>
+			<kb>KB5002166</kb>
+			<date>2022/08/31</date>
+			<size>225.81 MB</size>
 			<category>Security</category>
-			<name>mso2013-kb5002146-fullfile-x64-glb.exe</name>
+			<name>mso2013-kb5002166-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/3/3/1/331d1f7c-a536-4674-9101-6ba2e85fbf9b/mso2013-kb5002146-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/1/e/8/1e864b80-02f3-467a-b0dd-7391d7eea825/mso2013-kb5002166-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4462142</kb>
@@ -542,22 +542,22 @@
 			<url>https://download.microsoft.com/download/4/3/0/430bd1e0-11a7-46ee-8a1d-d0a5f1cbab4e/stslist2013-kb4462205-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002250</kb>
-			<date>2022/07/27</date>
+			<kb>KB5002252</kb>
+			<date>2022/08/31</date>
 			<size>4.82 MB</size>
-			<category>Security</category>
-			<name>vbe72013-kb5002250-fullfile-x64-glb.exe</name>
+			<category>General</category>
+			<name>vbe72013-kb5002252-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Visual Basic for Applications)</description>
-			<url>https://download.microsoft.com/download/9/e/9/9e9e181d-7b94-4f6a-a2be-cf7c8cfa8d39/vbe72013-kb5002250-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/2/3/d/23d68c58-9b38-4618-b97a-8ffec8c8fd3e/vbe72013-kb5002252-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4504728</kb>
-			<date>2021/07/28</date>
-			<size>183.84 MB</size>
-			<category>General</category>
-			<name>visio2013-kb4504728-fullfile-x64-glb.exe</name>
+			<kb>KB5002017</kb>
+			<date>2022/09/09</date>
+			<size>235.45 MB</size>
+			<category>Security</category>
+			<name>visio2013-kb5002017-fullfile-x64-glb.exe</name>
 			<description>Microsoft Visio 2013</description>
-			<url>https://download.microsoft.com/download/e/3/a/e3ac24fe-7248-451e-b1f2-3c84e7b0bd01/visio2013-kb4504728-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/f/8/8/f8866f1a-e70e-498b-86ef-a7ff841b16e6/visio2013-kb5002017-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2817301</kb>
