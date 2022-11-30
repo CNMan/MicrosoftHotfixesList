@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/10/11" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/11/08" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -353,24 +353,6 @@
 			<url>https://download.microsoft.com/download/2/A/7/2A7DDF8A-2B5C-4C8E-AD45-306E19A579B6/Windows8.1-KB3162835-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3172729</kb>
-			<date>2016/07/12</date>
-			<size>258 KB</size>
-			<category>Additional/WU.Satisfy</category>
-			<name>Windows8.1-KB3172729-x86.msu</name>
-			<description>Security update for Secure Boot DBX: August 9, 2016</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2016/07/windows8.1-kb3172729-x86_acb9dd33c1657ac9189158c1176e91540ba60ca3.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3173424</kb>
-			<date>2016/06/28</date>
-			<size>4.69 MB</size>
-			<category>Additional/WU.Satisfy</category>
-			<name>Windows8.1-KB3173424-x86.msu</name>
-			<description>Servicing stack update / companion with KB3172729</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2016/06/windows8.1-kb3173424-x86_fcf7142a388a08fde7c54f23e84450f18a8aaec5.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3185319</kb>
 			<date>2016/09/01</date>
 			<size>28.81 MB</size>
@@ -378,15 +360,6 @@
 			<name>Windows8.1-KB3185319-v2-x86.msu</name>
 			<description>Cumulative security update for Internet Explorer 11: September 13, 2016</description>
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2016/09/windows8.1-kb3185319-v2-x86_5f4bf5ccc49a798cf6a78f49462befe62934a937.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB4580325</kb>
-			<date>2020/10/05</date>
-			<size>10.48 MB</size>
-			<category>Additional/WU.Satisfy</category>
-			<name>Windows8.1-KB4580325-x86.msu</name>
-			<description>2020-10 Security Update for Adobe Flash Player</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2020/10/windows8.1-kb4580325-x86_992b926821066d41c24cfcd37282a69ae85f0cd9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2973201</kb>
@@ -1784,31 +1757,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows8.1-kb5012170-x86_56c633178e62f1f439e4113c585a09010660b318.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5018519</kb>
-			<date>2022/09/09</date>
-			<size>31.76 MB</size>
+			<kb>KB5020620</kb>
+			<date>2022/10/19</date>
+			<size>31.77 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5018519-x86-NDP48.msu</name>
-			<description>2022-10 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2022/09/windows8.1-kb5018519-x86-ndp48_590d9aecbedd98f16393ad134c923a18abe8f005.msu</url>
+			<name>Windows8.1-KB5020620-x86-NDP48.msu</name>
+			<description>2022-11 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/10/windows8.1-kb5020620-x86-ndp48_6bda7025ca04cf0047ee8568fd8dac6e31c55dfd.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5018474</kb>
-			<date>2022/10/05</date>
-			<size>367.88 MB</size>
+			<kb>KB5020023</kb>
+			<date>2022/11/05</date>
+			<size>368.28 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5018474-x86.msu</name>
-			<description>2022-10 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/10/windows8.1-kb5018474-x86_915591a5557e013cd9a4478d55fb272f1d9db211.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5020447</kb>
-			<date>2022/10/13</date>
-			<size>39.32 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB5020447-x86.msu</name>
-			<description>2022-10 Security Only Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2022/10/windows8.1-kb5020447-x86_2f8e523be980cd335519deaff1d51350fc963845.msu</url>
+			<name>Windows8.1-KB5020023-x86.msu</name>
+			<description>2022-11 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2022/11/windows8.1-kb5020023-x86_81bb5156df1b524f7d65fd10915964ce175b176c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

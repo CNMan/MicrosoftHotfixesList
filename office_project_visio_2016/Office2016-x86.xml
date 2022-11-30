@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/10/11" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/11/08" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002048</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002232</kb>
-			<date>2022/07/27</date>
+			<kb>KB5002253</kb>
+			<date>2022/10/26</date>
 			<size>131.59 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002232-fullfile-x86-glb.exe</name>
+			<name>excel2016-kb5002253-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/c/b/3/cb3e1288-2158-4943-90f9-000afc12e791/excel2016-kb5002232-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/f/6/4/f642914c-dc1b-48eb-86d2-eb508abf8e00/excel2016-kb5002253-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -191,22 +191,22 @@
 			<url>https://download.microsoft.com/download/8/6/3/8633BDA9-DE5B-4520-A900-73462E96BE97/mscomctlocx2016-kb2920727-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3178666</kb>
-			<date>2017/03/15</date>
-			<size>8.21 MB</size>
-			<category>General</category>
-			<name>msmipc2016-kb3178666-fullfile-x86-glb.exe</name>
+			<kb>KB3191869</kb>
+			<date>2022/10/26</date>
+			<size>14.61 MB</size>
+			<category>Security</category>
+			<name>msmipc2016-kb3191869-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Active Directory RMS)</description>
-			<url>https://download.microsoft.com/download/1/7/7/17728583-D4F3-4EF4-99D3-7B4BA5BF2395/msmipc2016-kb3178666-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/f/6/5f69e581-96c0-4db0-b421-69d448dff763/msmipc2016-kb3191869-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002288</kb>
-			<date>2022/09/28</date>
+			<kb>KB5002306</kb>
+			<date>2022/10/26</date>
 			<size>128.04 MB</size>
-			<category>Security</category>
-			<name>mso2016-kb5002288-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>mso2016-kb5002306-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/2/9/8/2987dcfd-4638-49c5-a2dc-0d37b458275a/mso2016-kb5002288-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/7/0/f/70f94cb7-f6f5-4b67-883a-c15db8e123cc/mso2016-kb5002306-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4504745</kb>
@@ -515,13 +515,13 @@
 			<url>https://download.microsoft.com/download/3/0/0/300df689-01fa-42ab-b840-07b54d9c1cc7/visio2016-kb5002016-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002184</kb>
-			<date>2022/05/02</date>
+			<kb>KB5002223</kb>
+			<date>2022/10/26</date>
 			<size>42.67 MB</size>
 			<category>Security</category>
-			<name>word2016-kb5002184-fullfile-x86-glb.exe</name>
+			<name>word2016-kb5002223-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>https://download.microsoft.com/download/4/8/2/48287199-9bb3-4edf-a025-0a85056264e3/word2016-kb5002184-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/a/1/7/a17a5a9d-08cf-4b99-924d-cd069d2614a5/word2016-kb5002223-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>
