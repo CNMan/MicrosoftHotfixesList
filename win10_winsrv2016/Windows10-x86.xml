@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/11/08" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/12/13" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -47,22 +47,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2022/09/windows10.0-kb5017396-x86_1f28b02e464e15350a2de79825fe4128ae76de09.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5019964</kb>
-			<date>2022/11/05</date>
-			<size>835.12 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5019964-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/11/windows10.0-kb5019964-x86_a35091d957c57b6075af108839a1700864038ef9.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5020614</kb>
-			<date>2022/10/19</date>
+			<kb>KB5020873</kb>
+			<date>2022/10/28</date>
 			<size>31.82 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5020614-x86-NDP48.msu</name>
+			<name>Windows10.0-KB5020873-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2022/10/windows10.0-kb5020614-x86-ndp48_c704fc5009895c839320e28669bc4edebc8ccb08.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/10/windows10.0-kb5020873-x86-ndp48_4684378f23b76080913b72853fec8feb3896985c.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5021235</kb>
+			<date>2022/12/05</date>
+			<size>834.92 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5021235-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows10.0-kb5021235-x86_d9f8ad330f3c4a5be2641ba48bc4838e9f3d580f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -101,22 +101,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x86_c70ff8fcb26f9f9650f6117527712e1d7ee19b96.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5019966</kb>
-			<date>2022/11/05</date>
-			<size>324.89 MB</size>
+			<kb>KB5020874</kb>
+			<date>2022/10/28</date>
+			<size>47.01 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5019966-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/11/windows10.0-kb5019966-x86_d2e560f8146009af70349134b3ddc557073f2f55.msu</url>
+			<name>Windows10.0-KB5020874-x86-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/10/windows10.0-kb5020874-x86-ndp48_566c639db5a30567716a69470e3003bfe0662b5c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5020615</kb>
-			<date>2022/10/19</date>
-			<size>47.48 MB</size>
+			<kb>KB5021237</kb>
+			<date>2022/12/11</date>
+			<size>324.85 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5020615-x86-NDP48.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2022/10/windows10.0-kb5020615-x86-ndp48_e1955276865f9af6f9c25cfaa1afad6998d0c5a8.msu</url>
+			<name>Windows10.0-KB5021237-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2022/12/windows10.0-kb5021237-x86_e9ee9fe2da520d493d62c4ab37265738bcad8716.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -146,22 +146,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/ssu-19041.1704-x86_3cec66c3891a613e6656f141547e573f9d700d35.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5020030</kb>
-			<date>2022/11/14</date>
-			<size>358.58 MB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB5020030-x86.msu</name>
-			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2022/11/windows10.0-kb5020030-x86_fe8521b2fcdc474f9911d6adfebc22dc4d989b65.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5020613</kb>
-			<date>2022/10/19</date>
+			<kb>KB5020872</kb>
+			<date>2022/10/28</date>
 			<size>43.37 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5020613-x86-NDP48.msu</name>
+			<name>Windows10.0-KB5020872-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/10/windows10.0-kb5020613-x86-ndp48_cb5f6a61fdd3fb23695236ec5a6291cc4837a101.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2022/11/windows10.0-kb5020872-x86-ndp48_2d12d9d77384c93b0fb1e481d7e4a9bf7cb3202c.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5021233</kb>
+			<date>2022/12/06</date>
+			<size>359.94 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB5021233-x86.msu</name>
+			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows10.0-kb5021233-x86_e21531f654715af20b2aa329d6786080bd798963.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4562830</kb>

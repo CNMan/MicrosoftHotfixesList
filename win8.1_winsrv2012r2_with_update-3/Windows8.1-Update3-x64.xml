@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/11/08" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/12/13" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -209,13 +209,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows8.1-kb4578953-x64_a69c4f610be6fcb6ff81d6668314c833f14cfed1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5016268</kb>
-			<date>2022/07/02</date>
+			<kb>KB5020862</kb>
+			<date>2022/10/28</date>
 			<size>25.04 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB5016268-x64.msu</name>
-			<description>2022-07 Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/07/windows8.1-kb5016268-x64_5924ff3c1f92a21a162de45f48e6534793d01826.msu</url>
+			<name>Windows8.1-KB5020862-x64.msu</name>
+			<description>2022-12 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/11/windows8.1-kb5020862-x64_4d67610e5283cd7f26ad801b5e37ff4401670601.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -1766,15 +1766,6 @@
 			<url>https://download.microsoft.com/download/A/5/4/A54F9EE9-94B1-475E-883D-70E0EE92C64E/Windows8.1-KB3139914-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3146723</kb>
-			<date>2016/03/03</date>
-			<size>12.28 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3146723-x64.msu</name>
-			<description>Security Update for Client-Server Run-time Subsystem (CSRSS): April 12, 2016</description>
-			<url>https://download.microsoft.com/download/4/F/1/4F141F30-EB96-41E3-8AEB-EDEA70DD9E23/Windows8.1-KB3146723-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3156059</kb>
 			<date>2016/04/09</date>
 			<size>458 KB</size>
@@ -1800,15 +1791,6 @@
 			<name>Windows8.1-KB3161949-x64.msu</name>
 			<description>Security update for Web Proxy Auto Discovery (WPAD): June 14, 2016</description>
 			<url>https://download.microsoft.com/download/F/0/9/F09B0ECE-22F5-42C8-985D-5ECF9C4C39C6/Windows8.1-KB3161949-x64.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3175024</kb>
-			<date>2016/08/13</date>
-			<size>12.25 MB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3175024-x64.msu</name>
-			<description>Security update for Windows Kernel: September 13, 2016</description>
-			<url>https://download.microsoft.com/download/1/1/7/11757669-2E56-4FFA-B624-3BE403BA609A/Windows8.1-KB3175024-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3178539</kb>
@@ -1839,21 +1821,21 @@
 		</update>
 		<update extract="0">
 			<kb>KB5020620</kb>
-			<date>2022/10/19</date>
-			<size>53.82 MB</size>
+			<date>2022/10/28</date>
+			<size>53.81 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5020620-x64-NDP48.msu</name>
-			<description>2022-11 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/10/windows8.1-kb5020620-x64-ndp48_ae0a2e3e698ab78ce3ebf30499f371d3e4cfa921.msu</url>
+			<name>Windows8.1-KB5020878-x64-NDP48.msu</name>
+			<description>2022-12 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/11/windows8.1-kb5020878-x64-ndp48_f9684f5aa02c3f4cd27a1ca1a55b31f720b275af.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5020023</kb>
-			<date>2022/11/05</date>
-			<size>567.62 MB</size>
+			<kb>KB5021294</kb>
+			<date>2022/12/02</date>
+			<size>569.56 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5020023-x64.msu</name>
-			<description>2022-11 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/11/windows8.1-kb5020023-x64_bac631bd04b0ed264983ca415368a38aff5e323f.msu</url>
+			<name>Windows8.1-KB5021294-x64.msu</name>
+			<description>2022-12 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows8.1-kb5021294-x64_59371f615ea43f5b202a6688d522e0cdff060ed2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

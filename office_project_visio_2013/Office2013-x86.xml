@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/11/08" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/12/13" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -578,13 +578,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2015/07/visconv-x-none_f540f60928d0e054be693450201fd0db2abf068f.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002017</kb>
-			<date>2022/09/09</date>
+			<kb>KB5002280</kb>
+			<date>2022/11/30</date>
 			<size>179.83 MB</size>
 			<category>Security</category>
-			<name>visio2013-kb5002017-fullfile-x86-glb.exe</name>
+			<name>visio2013-kb5002280-fullfile-x86-glb.exe</name>
 			<description>Microsoft Visio 2013</description>
-			<url>https://download.microsoft.com/download/6/f/3/6f325ccf-080f-459e-bd0a-e926954a3ccf/visio2013-kb5002017-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/d/1/e/d1e94376-13f7-4dc7-86d8-0fabcffcd86a/visio2013-kb5002280-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2817301</kb>
