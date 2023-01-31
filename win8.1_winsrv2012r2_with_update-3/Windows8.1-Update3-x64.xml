@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/12/13" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/01/10" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1469,15 +1469,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/09/windows8.1-kb3078627-x64_725d476e3b2008d8b5ab32af41763f5da894e675.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3078689</kb>
-			<date>2015/07/10</date>
-			<size>321 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3078689-x64.msu</name>
-			<description>The prompt is not displayed to the correct user in Windows-based RDS server</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/08/windows8.1-kb3078689-x64_1032354f11f66d90016d5a7bcfa02ded992f5f3d.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3078919</kb>
 			<date>2015/07/10</date>
 			<size>333 KB</size>
@@ -1829,13 +1820,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/11/windows8.1-kb5020878-x64-ndp48_f9684f5aa02c3f4cd27a1ca1a55b31f720b275af.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5021294</kb>
-			<date>2022/12/02</date>
-			<size>569.56 MB</size>
+			<kb>KB5022352</kb>
+			<date>2023/01/07</date>
+			<size>568.31 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5021294-x64.msu</name>
-			<description>2022-12 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows8.1-kb5021294-x64_59371f615ea43f5b202a6688d522e0cdff060ed2.msu</url>
+			<name>Windows8.1-KB5022352-x64.msu</name>
+			<description>2023-01 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022352-x64_d625561eda52f6d1f768dc444b817af0650ce81f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

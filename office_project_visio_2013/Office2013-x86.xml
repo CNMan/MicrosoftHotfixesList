@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/12/13" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/01/10" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/c/6/d/c6d93e13-1850-4f13-970b-796b13c8be12/eurotool2013-kb3178643-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002275</kb>
-			<date>2022/10/26</date>
+			<kb>KB5002320</kb>
+			<date>2022/12/28</date>
 			<size>109.95 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002275-fullfile-x86-glb.exe</name>
+			<name>excel2013-kb5002320-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/9/2/8/92875a4e-aa55-4964-b876-ee433013c47c/excel2013-kb5002275-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/d/d/0/dd0530b7-f300-4589-bb8b-133f00598fd1/excel2013-kb5002320-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -578,13 +578,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2015/07/visconv-x-none_f540f60928d0e054be693450201fd0db2abf068f.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002280</kb>
-			<date>2022/11/30</date>
-			<size>179.83 MB</size>
+			<kb>KB5002332</kb>
+			<date>2022/12/28</date>
+			<size>179.84 MB</size>
 			<category>Security</category>
-			<name>visio2013-kb5002280-fullfile-x86-glb.exe</name>
+			<name>visio2013-kb5002332-fullfile-x86-glb.exe</name>
 			<description>Microsoft Visio 2013</description>
-			<url>https://download.microsoft.com/download/d/1/e/d1e94376-13f7-4dc7-86d8-0fabcffcd86a/visio2013-kb5002280-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/f/5/a/f5aa28cd-bed3-48c6-9d54-9f3d47a8ff23/visio2013-kb5002332-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2817301</kb>

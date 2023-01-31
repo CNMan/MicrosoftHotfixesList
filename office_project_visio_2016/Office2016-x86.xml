@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/12/13" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/01/10" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002048</kb>
@@ -11,13 +11,13 @@
 			<url>https://download.microsoft.com/download/b/e/a/bea1e24b-0eac-44fc-afcd-c529b8c1e522/access2016-kb5002048-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002243</kb>
-			<date>2022/09/28</date>
+			<kb>KB5002293</kb>
+			<date>2022/12/28</date>
 			<size>3.82 MB</size>
 			<category>General</category>
-			<name>ace2016-kb5002243-fullfile-x86-glb.exe</name>
+			<name>ace2016-kb5002293-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Access Database Engine)</description>
-			<url>https://download.microsoft.com/download/1/2/5/1257a3e2-1f7e-4829-ae7a-f3a3d3a4c884/ace2016-kb5002243-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/9/8/7/98754ac6-7636-4fa6-84ae-d40a6a2b7f2c/ace2016-kb5002293-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011259</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002253</kb>
-			<date>2022/10/26</date>
+			<kb>KB5002322</kb>
+			<date>2022/12/28</date>
 			<size>131.59 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002253-fullfile-x86-glb.exe</name>
+			<name>excel2016-kb5002322-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/f/6/4/f642914c-dc1b-48eb-86d2-eb508abf8e00/excel2016-kb5002253-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/a/6/e/a6e4dcd9-6d4e-44da-bb3f-cd17a697403f/excel2016-kb5002322-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -479,13 +479,13 @@
 			<url>https://download.microsoft.com/download/D/8/8/D88B3C52-20F8-4819-89EC-A2A29F25F52C/setupexe2016-kb3141456-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002192</kb>
-			<date>2022/06/24</date>
+			<kb>KB5002244</kb>
+			<date>2022/12/28</date>
 			<size>2.55 MB</size>
 			<category>General</category>
-			<name>stslist2016-kb5002192-fullfile-x86-glb.exe</name>
+			<name>stslist2016-kb5002244-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Access Web Datasheet)</description>
-			<url>https://download.microsoft.com/download/b/b/f/bbf74f42-9bd5-409d-b462-e5a58649efeb/stslist2016-kb5002192-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/4/0/040cfa12-14db-46cf-b440-41996f94a687/stslist2016-kb5002244-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2920678</kb>
@@ -506,13 +506,13 @@
 			<url>https://download.microsoft.com/download/6/2/5/625b5006-3ab0-4fee-8f0e-35c416348d89/vbe72016-kb5002251-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002286</kb>
-			<date>2022/11/30</date>
-			<size>59.87 MB</size>
+			<kb>KB5002337</kb>
+			<date>2022/12/28</date>
+			<size>59.88 MB</size>
 			<category>Security</category>
-			<name>visio2016-kb5002286-fullfile-x86-glb.exe</name>
+			<name>visio2016-kb5002337-fullfile-x86-glb.exe</name>
 			<description>Microsoft Visio 2016</description>
-			<url>https://download.microsoft.com/download/b/1/c/b1c567ef-b1d6-4fbd-8bad-ca537f231d4b/visio2016-kb5002286-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/c/c/0/cc0197b4-4365-4931-bf92-b87653192915/visio2016-kb5002337-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002223</kb>

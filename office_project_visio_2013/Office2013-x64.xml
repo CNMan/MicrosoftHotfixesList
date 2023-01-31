@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2022/12/13" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/01/10" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002275</kb>
-			<date>2022/10/26</date>
+			<kb>KB5002320</kb>
+			<date>2022/12/28</date>
 			<size>116.12 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002275-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb5002320-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/d/5/e/d5e34fc2-b7a5-49a1-8663-4ed3803d2bf4/excel2013-kb5002275-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/a/1/d/a1dbfcec-1934-4428-8427-19dbbbea4829/excel2013-kb5002320-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -551,13 +551,13 @@
 			<url>https://download.microsoft.com/download/8/d/c/8dc9b0a6-dd81-47dd-9558-03968ae0170a/vbe72013-kb5002274-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002280</kb>
-			<date>2022/09/09</date>
+			<kb>KB5002332</kb>
+			<date>2022/12/28</date>
 			<size>235.44 MB</size>
 			<category>Security</category>
-			<name>visio2013-kb5002280-fullfile-x64-glb.exe</name>
+			<name>visio2013-kb5002332-fullfile-x64-glb.exe</name>
 			<description>Microsoft Visio 2013</description>
-			<url>https://download.microsoft.com/download/d/f/4/df4a494a-e628-47a0-88ca-ef07f5aba683/visio2013-kb5002280-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/d/b/6/db62b69e-564c-48f8-8cbd-5ce20e328552/visio2013-kb5002332-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2817301</kb>
