@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/01/10" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/02/14" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002048</kb>
@@ -515,13 +515,13 @@
 			<url>https://download.microsoft.com/download/c/c/0/cc0197b4-4365-4931-bf92-b87653192915/visio2016-kb5002337-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002223</kb>
-			<date>2022/10/26</date>
+			<kb>KB5002323</kb>
+			<date>2023/02/01</date>
 			<size>42.67 MB</size>
 			<category>Security</category>
-			<name>word2016-kb5002223-fullfile-x86-glb.exe</name>
+			<name>word2016-kb5002323-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>https://download.microsoft.com/download/a/1/7/a17a5a9d-08cf-4b99-924d-cd069d2614a5/word2016-kb5002223-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/2/e/52e01048-4450-473f-a681-8f2549c468f6/word2016-kb5002323-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>
