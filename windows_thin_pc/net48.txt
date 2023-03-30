@@ -1,0 +1,4 @@
+http://download.windowsupdate.com/c/msdownload/update/software/ftpk/2019/08/ndp48-x86-x64-enu_0885a72554ca76d2cd3ad76f98878f22b6a1d0b2.exe
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/01/ndp48-kb4532941-x86_19370dea90744c58926b12d239c99134d068a13d.exe
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/09/ndp48-kb5006060-x86_38da0ba9c6b1f13672ce933b8eae7f61c4c80325.exe
+http://download.windowsupdate.com/d/msdownload/update/software/ftpk/2020/01/ndp48-kb4503575-x86_78fea8088b0dbdd3384d248eda91b538b8ca3345.exe

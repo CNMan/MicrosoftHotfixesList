@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/02/14" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/03/14" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -389,13 +389,13 @@
 			<url>https://download.microsoft.com/download/2/B/8/2B832205-A313-45A4-9356-DF5E47B70663/Windows8.1-KB3021910-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5018922</kb>
-			<date>2022/09/15</date>
-			<size>4.72 MB</size>
+			<kb>KB5023790</kb>
+			<date>2023/02/20</date>
+			<size>4.79 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB5018922-x86.msu</name>
-			<description>2022-10 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2022/10/windows8.1-kb5018922-x86_89c862bb560e6fa744d101884431da988c8d7dd1.msu</url>
+			<name>Windows8.1-KB5023790-x86.msu</name>
+			<description>2023-03 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/03/windows8.1-kb5023790-x86_4ed85e39e1fbce3ef0ffd40722b20eeeb69906e4.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -1757,13 +1757,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/02/windows8.1-kb5023819-x86_98855b6a261529f1bc450509187b6b2e770fae53.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5022899</kb>
-			<date>2023/02/07</date>
-			<size>368.50 MB</size>
+			<kb>KB5023765</kb>
+			<date>2023/03/10</date>
+			<size>370.71 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5022899-x86.msu</name>
-			<description>2023-02 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/02/windows8.1-kb5022899-x86_0f59a6b896aa83b0f3ec2703619648c032f7dde5.msu</url>
+			<name>Windows8.1-KB5023765-x86.msu</name>
+			<description>2023-03 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/03/windows8.1-kb5023765-x86_82677fa97b5e1b2ea98652aaf6301bc1f00ff2a3.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

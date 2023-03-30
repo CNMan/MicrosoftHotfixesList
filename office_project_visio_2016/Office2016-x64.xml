@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/02/14" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/03/14" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002048</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002322</kb>
-			<date>2022/12/28</date>
-			<size>136.62 MB</size>
+			<kb>KB5002351</kb>
+			<date>2023/03/01</date>
+			<size>136.63 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002322-fullfile-x64-glb.exe</name>
+			<name>excel2016-kb5002351-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/5/2/4/524a7c5a-9195-45b5-90c4-2551eb9779b2/excel2016-kb5002322-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/f/0/f/f0fefb43-d9d3-476e-913b-bdb884fcbf9d/excel2016-kb5002351-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -137,13 +137,13 @@
 			<url>https://download.microsoft.com/download/5/2/4/524fc839-4f91-474c-a9c7-6348dcca46e7/gkall2016-kb3118335-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002143</kb>
-			<date>2022/03/30</date>
+			<kb>KB5002197</kb>
+			<date>2023/03/01</date>
 			<size>3.64 MB</size>
 			<category>Security</category>
-			<name>graph2016-kb5002143-fullfile-x64-glb.exe</name>
+			<name>graph2016-kb5002197-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Microsoft Graph)</description>
-			<url>https://download.microsoft.com/download/6/4/b/64babc1f-c32b-4b0a-84a2-6df10c433c7e/graph2016-kb5002143-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/b/8/2/b8226be3-7d24-4e92-8cfe-ab76cb75234e/graph2016-kb5002197-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022219</kb>
@@ -362,13 +362,13 @@
 			<url>https://download.microsoft.com/download/C/A/B/CABA6265-DE0E-4458-A701-0BE43690D8F1/outlfltr2016-kb3115407-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002051</kb>
-			<date>2022/07/27</date>
+			<kb>KB5002254</kb>
+			<date>2023/03/01</date>
 			<size>96.72 MB</size>
 			<category>Security</category>
-			<name>outlook2016-kb5002051-fullfile-x64-glb.exe</name>
+			<name>outlook2016-kb5002254-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>https://download.microsoft.com/download/b/a/a/baa8e87c-2ef6-4bf9-a928-ac4587f210fc/outlook2016-kb5002051-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/b/d/d/bddae87d-5111-4e55-9200-236e84b2bfc8/outlook2016-kb5002254-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -404,7 +404,7 @@
 			<category>General</category>
 			<name>project2016-kb5002193-fullfile-x64-glb.exe</name>
 			<description>Microsoft Project 2016</description>
-			<url>https://download.microsoft.com/download/b/b/4/bb431462-ac12-4df1-a188-925c1009687a/project2016-kb5002193-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/e/4/d/e4d2a97f-1c93-4c1d-8ae0-f4d47e09efc6/project2016-kb5002193-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4464538</kb>

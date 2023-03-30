@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/02/14" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/03/14" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002320</kb>
-			<date>2022/12/28</date>
-			<size>116.12 MB</size>
+			<kb>KB5002348</kb>
+			<date>2023/03/01</date>
+			<size>116.11 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002320-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb5002348-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/a/1/d/a1dbfcec-1934-4428-8427-19dbbbea4829/excel2013-kb5002320-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/9/d/6/9d68de67-9924-4d8c-8725-3916e9f0bac8/excel2013-kb5002348-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -164,13 +164,13 @@
 			<url>https://download.microsoft.com/download/e/7/9/e79286d3-df43-4c0b-8138-4d17c5dc03be/gkall2013-kb3172514-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002148</kb>
-			<date>2022/03/30</date>
+			<kb>KB5002198</kb>
+			<date>2023/03/01</date>
 			<size>3.35 MB</size>
 			<category>Security</category>
-			<name>graph2013-kb5002148-fullfile-x64-glb.exe</name>
+			<name>graph2013-kb5002198-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Microsoft Graph)</description>
-			<url>https://download.microsoft.com/download/8/3/b/83b92b1b-d2ba-426f-9394-6e6742f6da33/graph2013-kb5002148-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/8/4/584bbc98-8374-4f5c-8a41-472b125dbb53/graph2013-kb5002198-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022226</kb>
@@ -443,13 +443,13 @@
 			<url>https://download.microsoft.com/download/2/E/6/2E63A2FD-7C84-4E7D-8189-3FCEE678B377/outlfltr2013-kb3115404-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5001990</kb>
-			<date>2022/07/27</date>
-			<size>92.23 MB</size>
+			<kb>KB5002265</kb>
+			<date>2023/03/01</date>
+			<size>92.28 MB</size>
 			<category>Security</category>
-			<name>outlook2013-kb5001990-fullfile-x64-glb.exe</name>
+			<name>outlook2013-kb5002265-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>https://download.microsoft.com/download/0/8/3/083d66ca-9718-4c08-9e43-6aecc40aea4b/outlook2013-kb5001990-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/6/7/9/6795090b-a2cf-402d-9304-94e080f516fb/outlook2013-kb5002265-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>
