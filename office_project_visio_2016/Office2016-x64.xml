@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/03/14" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/04/11" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002048</kb>
@@ -425,13 +425,13 @@
 			<url>https://download.microsoft.com/download/1/4/4/1441bd37-2a43-43cd-b3a6-41814f3bad35/protocolhndlr2016-kb4484104-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4493152</kb>
-			<date>2022/05/02</date>
-			<size>34.97 MB</size>
+			<kb>KB5002221</kb>
+			<date>2023/03/29</date>
+			<size>34.95 MB</size>
 			<category>Security</category>
-			<name>publisher2016-kb4493152-fullfile-x64-glb.exe</name>
+			<name>publisher2016-kb5002221-fullfile-x64-glb.exe</name>
 			<description>Microsoft Publisher 2016</description>
-			<url>https://download.microsoft.com/download/4/9/4/494143cd-b179-4331-9dbd-75d340110e18/publisher2016-kb4493152-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/3/0/7/30729e7d-5340-42b4-af22-c38efdb8c046/publisher2016-kb5002221-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461476</kb>

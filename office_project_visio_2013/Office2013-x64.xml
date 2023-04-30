@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/03/14" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/04/11" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -506,13 +506,13 @@
 			<url>https://download.microsoft.com/download/1/9/F/19FDA3A3-660E-4180-9297-EC6B37178850/protocolhandler2013-kb3023049-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484347</kb>
-			<date>2022/05/02</date>
-			<size>42.25 MB</size>
+			<kb>KB5002213</kb>
+			<date>2023/03/29</date>
+			<size>44.19 MB</size>
 			<category>Security</category>
-			<name>publisher2013-kb4484347-fullfile-x64-glb.exe</name>
+			<name>publisher2013-kb5002213-fullfile-x64-glb.exe</name>
 			<description>Microsoft Publisher 2013</description>
-			<url>https://download.microsoft.com/download/6/7/3/673e4c30-36ba-4b3a-b62d-f54dc925151b/publisher2013-kb4484347-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/c/c/2/cc2ce508-14bf-4fd8-9d3d-374745c9658b/publisher2013-kb5002213-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4018332</kb>

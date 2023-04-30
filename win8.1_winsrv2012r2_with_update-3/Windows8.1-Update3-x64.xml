@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/03/14" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/04/11" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1685,15 +1685,6 @@
 			<url>https://download.microsoft.com/download/4/D/4/4D4FE931-2EF1-4392-B27E-1568AEC318A8/Windows8.1-KB3086255-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3109103</kb>
-			<date>2015/11/05</date>
-			<size>284 KB</size>
-			<category>Security</category>
-			<name>Windows8.1-KB3109103-x64.msu</name>
-			<description>Security update for Windows Pragmatic General Multicast (PGM) protocol: December 8, 2015</description>
-			<url>https://download.microsoft.com/download/7/C/8/7C8C91DA-217E-454D-B32F-9FA6B490553E/Windows8.1-KB3109103-x64.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3109560</kb>
 			<date>2015/12/03</date>
 			<size>654 KB</size>
@@ -1838,13 +1829,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/02/windows8.1-kb5023819-x64_216643feae639629bf4f8a0eb2f4bd557e0fd8f6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5023765</kb>
-			<date>2023/03/10</date>
-			<size>571.58 MB</size>
+			<kb>KB5025285</kb>
+			<date>2023/04/06</date>
+			<size>570.73 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5023765-x64.msu</name>
-			<description>2023-03 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/03/windows8.1-kb5023765-x64_18c14ac47cdee2cf2329a3f80e176862fe3e4ccb.msu</url>
+			<name>Windows8.1-KB5025285-x64.msu</name>
+			<description>2023-04 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/04/windows8.1-kb5025285-x64_f6df5e1bb2e6d0f6a94f12d383e7c1b381406024.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
