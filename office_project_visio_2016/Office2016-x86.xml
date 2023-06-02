@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/04/11" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/05/09" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002048</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002351</kb>
-			<date>2023/03/01</date>
+			<kb>KB5002386</kb>
+			<date>2023/04/26</date>
 			<size>131.59 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002351-fullfile-x86-glb.exe</name>
+			<name>excel2016-kb5002386-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/3/0/9/30956e06-f1ed-413f-8842-83850564b4ab/excel2016-kb5002351-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/6/a/06a875b8-a272-495c-9d33-1d0d24011011/excel2016-kb5002386-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -515,13 +515,13 @@
 			<url>https://download.microsoft.com/download/c/c/0/cc0197b4-4365-4931-bf92-b87653192915/visio2016-kb5002337-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002323</kb>
-			<date>2023/02/01</date>
-			<size>42.67 MB</size>
+			<kb>KB5002369</kb>
+			<date>2023/04/26</date>
+			<size>42.68 MB</size>
 			<category>Security</category>
-			<name>word2016-kb5002323-fullfile-x86-glb.exe</name>
+			<name>word2016-kb5002369-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>https://download.microsoft.com/download/5/2/e/52e01048-4450-473f-a681-8f2549c468f6/word2016-kb5002323-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/9/4/594df493-fcbe-427c-9e38-1de95b5da2d7/word2016-kb5002369-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>

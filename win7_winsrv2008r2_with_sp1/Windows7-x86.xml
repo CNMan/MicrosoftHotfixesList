@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/04/11" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/05/09" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -731,13 +731,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows6.1-kb5022523-x86_5277e9a419dbcc786a6523bdb232b1e1e79a3a18.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5025279</kb>
-			<date>2023/04/03</date>
-			<size>257.41 MB</size>
+			<kb>KB5026413</kb>
+			<date>2023/05/01</date>
+			<size>257.44 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5025279-x86.msu</name>
-			<description>2023-04 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/04/windows6.1-kb5025279-x86_2a2e4d2cf10d42586099f5ad68543412e24f20e3.msu</url>
+			<name>Windows6.1-KB5026413-x86.msu</name>
+			<description>2023-05 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/05/windows6.1-kb5026413-x86_e40325fc44753254f17b7db50ff9f1275754ea14.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

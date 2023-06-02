@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/04/11" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/05/09" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
-			<date>2022/12/14</date>
-			<size>5.85 KB</size>
+			<date>2023/05/10</date>
+			<size>5.99 KB</size>
 			<category>General</category>
-			<name>Information-PleaseRead.txt</name>
+			<name>Information-ReadMe.txt</name>
 			<description>Info to differentiate updates based on build number</description>
-			<url>https://dl.dropboxusercontent.com/s/bdr1sp6k6f0fu7m/Information-PleaseRead.txt</url>
+			<url>https://dl.dropboxusercontent.com/s/9a6o6p08gr8vhcm/Information-ReadMe.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087515</kb>
@@ -65,13 +65,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/03/windows10.0-kb5023788-x64_33ea5888c89d2888b845cf02e8d3950d13d1d1f9.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5025228</kb>
-			<date>2023/04/03</date>
+			<kb>KB5026363</kb>
+			<date>2023/05/05</date>
 			<size>1.50 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5025228-x64.msu</name>
+			<name>Windows10.0-KB5026363-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/04/windows10.0-kb5025228-x64_cd9da61ebd73a46181ba5839bdd59f1fe8e55890.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026363-x64_8fc1ee2832426d09b9b6088873afc82420609730.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -128,13 +128,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/01/windows10.0-kb5023326-x64-ndp48_6d536fbda03c4fdfbf8be86347de1e29c0c1013a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5025229</kb>
-			<date>2023/04/03</date>
-			<size>596.08 MB</size>
+			<kb>KB5026362</kb>
+			<date>2023/05/03</date>
+			<size>599.13 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5025229-x64.msu</name>
+			<name>Windows10.0-KB5026362-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/04/windows10.0-kb5025229-x64_51315f30dd290d51ba049760d7c107c4b90b27c7.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026362-x64_6984e22fb6e5980f59d8731da8b38415146acb50.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -164,22 +164,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/ssu-19041.1704-x64_70e350118b85fdae082ab7fde8165a947341ba1a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5025183</kb>
-			<date>2023/03/14</date>
-			<size>68.77 MB</size>
+			<kb>KB5026435</kb>
+			<date>2023/05/19</date>
+			<size>746.60 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5025183-x64-NDP48.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/03/windows10.0-kb5025183-x64-ndp48_57b6bdb9f6cbc209fae17acd4edad6a6db242898.msu</url>
+			<name>Windows10.0-KB5026435-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/05/windows10.0-kb5026435-x64_91e6c5b7b7a008702996a2aee3995ec8b6e98afb.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5025297</kb>
-			<date>2023/04/18</date>
-			<size>746.12 MB</size>
+			<kb>KB5026513</kb>
+			<date>2023/05/15</date>
+			<size>68.66 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5025297-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/04/windows10.0-kb5025297-x64_bc3ca445d705f22eb104525ab4827c0b5158a532.msu</url>
+			<name>Windows10.0-KB5026513-x64-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/05/windows10.0-kb5026513-x64-ndp48_c62155c6fc85868fb7a1d35a01dff9eb4c7ba9aa.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4562830</kb>

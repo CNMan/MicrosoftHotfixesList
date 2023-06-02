@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/05/09" architecture="x64" version="Windows11">
+	<updates>
+		<update extract="0">
+			<kb>KB1000000</kb>
+			<date>2022/10/01</date>
+			<size>1.65 KB</size>
+			<category>General</category>
+			<name>Info11-ReadMe.txt</name>
+			<description>Info to differentiate updates based on build number</description>
+			<url>https://dl.dropboxusercontent.com/s/j6snb7acj27xr2b/Info11-ReadMe.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB5007575</kb>
+			<date>2021/11/01</date>
+			<size>272 KB</size>
+			<category>General/22000</category>
+			<name>Windows10.0-KB5007575-x64.cab</name>
+			<description>Critical Dynamic Update for .NET 3.5 for Windows 11 Version 21H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2021/11/windows10.0-kb5007575-x64_28e206f7d3a99eb798dfa403e6439dfb5e358e16.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB5012170</kb>
+			<date>2022/07/13</date>
+			<size>214 KB</size>
+			<category>General/22000</category>
+			<name>windows10.0-kb5012170-x64_0558b5879de03bfb5319b1244d84ca3735a6a377.msu</name>
+			<description>Security update for Secure Boot DBX for Windows 11 Version 21H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x64_0558b5879de03bfb5319b1244d84ca3735a6a377.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5026436</kb>
+			<date>2023/05/17</date>
+			<size>338.42 MB</size>
+			<category>General/22621</category>
+			<name>Windows10.0-KB5026436-x64.msu</name>
+			<description>Cumulative Update for Windows 11 Version 21H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/05/windows10.0-kb5026436-x64_957718f5cb053e3e728f989108454f1284e7999b.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5026514</kb>
+			<date>2023/05/15</date>
+			<size>63.52 MB</size>
+			<category>General/22621</category>
+			<name>Windows10.0-KB5026514-x64-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 11 Version 21H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/05/windows10.0-kb5026514-x64-ndp48_73af9739a32230344be8f5f6292a805dd8315604.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5012170</kb>
+			<date>2022/07/18</date>
+			<size>183 KB</size>
+			<category>General/22621</category>
+			<name>Windows11.0-KB5012170-x64.msu</name>
+			<description>Security update for Secure Boot DBX for Windows 11 Version 22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows11.0-kb5012170-x64_a7bdcaed87329716522cf6d0b464363d2599fb1c.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5026446</kb>
+			<date>2023/05/22</date>
+			<size>287.44 MB</size>
+			<category>General/22621</category>
+			<name>Windows11.0-KB5026446-x64.msu</name>
+			<description>Cumulative Update for Windows 11 Version 22H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2804e87b-301b-4087-b2dd-a124c53338ba/public/windows11.0-kb5026446-x64_e264756c2d8b4a37b6319c7bc36bb72001b38084.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5026515</kb>
+			<date>2023/05/11</date>
+			<size>55.79 MB</size>
+			<category>General/22621</category>
+			<name>Windows11.0-KB5026515-x64-NDP481.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 11 Version 22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/05/windows11.0-kb5026515-x64-ndp481_4d84d22adb0953d71578b862202994ba9455bd7d.msu</url>
+		</update>
+	</updates>
+</hotfixlist>

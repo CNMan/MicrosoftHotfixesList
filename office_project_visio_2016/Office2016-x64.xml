@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/04/11" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/05/09" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002048</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002351</kb>
-			<date>2023/03/01</date>
-			<size>136.63 MB</size>
+			<kb>KB5002386</kb>
+			<date>2023/04/26</date>
+			<size>136.61 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002351-fullfile-x64-glb.exe</name>
+			<name>excel2016-kb5002386-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/f/0/f/f0fefb43-d9d3-476e-913b-bdb884fcbf9d/excel2016-kb5002351-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/1/3/013030a0-5c74-47e1-ab19-3b1a955ba675/excel2016-kb5002386-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -497,13 +497,13 @@
 			<url>https://download.microsoft.com/download/2/1/3/2138cf3f-9c4b-4f96-9fdb-7c3429922f1c/visio2016-kb5002337-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002323</kb>
-			<date>2023/02/01</date>
-			<size>47.53 MB</size>
+			<kb>KB5002369</kb>
+			<date>2023/04/26</date>
+			<size>47.51 MB</size>
 			<category>Security</category>
-			<name>word2016-kb5002323-fullfile-x64-glb.exe</name>
+			<name>word2016-kb5002369-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>https://download.microsoft.com/download/0/4/7/04722d65-8742-46a0-b81f-7c6ad2ca21e3/word2016-kb5002323-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/e/5/1/e511dd91-38dd-4a5b-a63a-5ac24bc8d19f/word2016-kb5002369-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>

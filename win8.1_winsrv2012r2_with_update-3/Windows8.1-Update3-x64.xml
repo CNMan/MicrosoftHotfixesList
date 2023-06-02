@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/04/11" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/05/09" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1829,13 +1829,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/02/windows8.1-kb5023819-x64_216643feae639629bf4f8a0eb2f4bd557e0fd8f6.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5025285</kb>
-			<date>2023/04/06</date>
-			<size>570.73 MB</size>
+			<kb>KB5026415</kb>
+			<date>2023/05/04</date>
+			<size>571.46 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5025285-x64.msu</name>
-			<description>2023-04 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/04/windows8.1-kb5025285-x64_f6df5e1bb2e6d0f6a94f12d383e7c1b381406024.msu</url>
+			<name>Windows8.1-KB5026415-x64.msu</name>
+			<description>2023-05 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows8.1-kb5026415-x64_26ed788220d49ad631f8051fc8059bdeb5164d49.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
