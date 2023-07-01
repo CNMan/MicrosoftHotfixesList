@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/05/09" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/06/13" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002384</kb>
-			<date>2023/04/26</date>
-			<size>116.13 MB</size>
+			<kb>KB5002414</kb>
+			<date>2023/05/31</date>
+			<size>116.16 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002384-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb5002414-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/c/a/5/ca5e4d3a-0c76-40ab-bd13-b41889383d24/excel2013-kb5002384-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/a/6/4/a6479b94-6fdf-4208-87da-7b4626e571ce/excel2013-kb5002414-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -443,13 +443,13 @@
 			<url>https://download.microsoft.com/download/2/E/6/2E63A2FD-7C84-4E7D-8189-3FCEE678B377/outlfltr2013-kb3115404-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002265</kb>
-			<date>2023/03/01</date>
-			<size>92.28 MB</size>
+			<kb>KB5002382</kb>
+			<date>2023/05/31</date>
+			<size>92.31 MB</size>
 			<category>Security</category>
-			<name>outlook2013-kb5002265-fullfile-x64-glb.exe</name>
+			<name>outlook2013-kb5002382-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>https://download.microsoft.com/download/6/7/9/6795090b-a2cf-402d-9304-94e080f516fb/outlook2013-kb5002265-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/c/5/9/c59ca382-7a18-4542-be20-3445603e4d9b/outlook2013-kb5002382-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>
@@ -551,13 +551,13 @@
 			<url>https://download.microsoft.com/download/8/d/c/8dc9b0a6-dd81-47dd-9558-03968ae0170a/vbe72013-kb5002274-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002332</kb>
-			<date>2022/12/28</date>
-			<size>235.44 MB</size>
-			<category>Security</category>
-			<name>visio2013-kb5002332-fullfile-x64-glb.exe</name>
+			<kb>KB5002343</kb>
+			<date>2023/05/31</date>
+			<size>235.46 MB</size>
+			<category>General</category>
+			<name>visio2013-kb5002343-fullfile-x64-glb.exe</name>
 			<description>Microsoft Visio 2013</description>
-			<url>https://download.microsoft.com/download/d/b/6/db62b69e-564c-48f8-8cbd-5ce20e328552/visio2013-kb5002332-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/8/2/2/822571fb-666e-419a-beb1-a4f7c4cd41e3/visio2013-kb5002343-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2817301</kb>

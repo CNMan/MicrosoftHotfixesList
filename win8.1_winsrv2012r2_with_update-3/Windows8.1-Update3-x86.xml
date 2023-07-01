@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/05/09" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/06/13" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -187,7 +187,7 @@
 			<size>19.25 MB</size>
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB4054999-x86.msu</name>
-			<description>Security and Quality Rollup for .NET Framework 3.5</description>
+			<description>2018-02 Security and Quality Rollup for .NET Framework 3.5</description>
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2018/01/windows8.1-kb4054999-x86_ab1d1a2831cdd588de1551786c1372025e2997e8.msu</url>
 		</update>
 		<update extract="0">
@@ -200,13 +200,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows8.1-kb4578953-x86_3784363d0cd9cab5b218cdaa789e730d13985a03.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5022525</kb>
-			<date>2023/01/11</date>
-			<size>19.00 MB</size>
+			<kb>KB5027141</kb>
+			<date>2023/05/12</date>
+			<size>17.54 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB5022525-x86.msu</name>
-			<description>2023-02 Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022525-x86_6925cd1d2d2d452cdcb452771ff56541181975c8.msu</url>
+			<name>Windows8.1-KB5027141-x86.msu</name>
+			<description>2023-06 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/05/windows8.1-kb5027141-x86_92fe218de460f71e8495ad7c391c21a7ed40064d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -389,13 +389,13 @@
 			<url>https://download.microsoft.com/download/2/B/8/2B832205-A313-45A4-9356-DF5E47B70663/Windows8.1-KB3021910-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5023790</kb>
-			<date>2023/02/20</date>
-			<size>4.79 MB</size>
+			<kb>KB5027574</kb>
+			<date>2023/05/16</date>
+			<size>4.80 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB5023790-x86.msu</name>
-			<description>2023-03 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/03/windows8.1-kb5023790-x86_4ed85e39e1fbce3ef0ffd40722b20eeeb69906e4.msu</url>
+			<name>Windows8.1-KB5027574-x86.msu</name>
+			<description>2023-06 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/06/windows8.1-kb5027574-x86_a1503f45fca3b4d6cc916eb784e45a53cb8d8ff0.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -1730,31 +1730,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows8.1-kb5012170-x86_56c633178e62f1f439e4113c585a09010660b318.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5022508</kb>
-			<date>2023/01/09</date>
-			<size>32.11 MB</size>
+			<kb>KB5027128</kb>
+			<date>2023/05/10</date>
+			<size>31.77 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5022508-x86-NDP48.msu</name>
-			<description>2023-02 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/01/windows8.1-kb5022508-x86-ndp48_3e2072b4f233357c07e71c8704aeb22c61ceec49.msu</url>
+			<name>Windows8.1-KB5027128-x86-NDP48.msu</name>
+			<description>2023-06 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows8.1-kb5027128-x86-ndp48_3b2312e803eca5b2eb3b178a001d9a0e31aa5ed7.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5023819</kb>
-			<date>2023/02/09</date>
-			<size>5.79 MB</size>
+			<kb>KB5027271</kb>
+			<date>2023/05/18</date>
+			<size>369.80 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5023819-x86-NDP48.msu</name>
-			<description>2023-02 Update for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/02/windows8.1-kb5023819-x86_98855b6a261529f1bc450509187b6b2e770fae53.msu</url>
+			<name>Windows8.1-KB5027271-x86.msu</name>
+			<description>2023-06 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/06/windows8.1-kb5027271-x86_a26d6389c94934cfdfc21e94029f4e995b40ffaf.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5026415</kb>
-			<date>2023/05/04</date>
-			<size>369.78 MB</size>
+			<kb>KB5028585</kb>
+			<date>2023/06/18</date>
+			<size>12.40 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5026415-x86.msu</name>
-			<description>2023-05 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows8.1-kb5026415-x86_9854c1cead3944e1f6813a887e6f066a4f32d909.msu</url>
+			<name>Windows8.1-KB5028585-x86-NDP48.msu</name>
+			<description>2023-06 Update for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/windows8.1-kb5028585-x86-ndp48_55b740276f90c948cff1fbea7acdf78c7567e4bc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

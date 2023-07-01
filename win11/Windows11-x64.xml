@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/05/09" architecture="x64" version="Windows11">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/06/13" architecture="x64" version="Windows11">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -20,58 +20,76 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2021/11/windows10.0-kb5007575-x64_28e206f7d3a99eb798dfa403e6439dfb5e358e16.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5012170</kb>
-			<date>2022/07/13</date>
-			<size>214 KB</size>
-			<category>General/22000</category>
-			<name>windows10.0-kb5012170-x64_0558b5879de03bfb5319b1244d84ca3735a6a377.msu</name>
-			<description>Security update for Secure Boot DBX for Windows 11 Version 21H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x64_0558b5879de03bfb5319b1244d84ca3735a6a377.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5026436</kb>
-			<date>2023/05/17</date>
-			<size>338.42 MB</size>
-			<category>General/22621</category>
-			<name>Windows10.0-KB5026436-x64.msu</name>
-			<description>Cumulative Update for Windows 11 Version 21H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/05/windows10.0-kb5026436-x64_957718f5cb053e3e728f989108454f1284e7999b.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5026514</kb>
+			<kb>KB5027125</kb>
 			<date>2023/05/15</date>
-			<size>63.52 MB</size>
-			<category>General/22621</category>
-			<name>Windows10.0-KB5026514-x64-NDP48.msu</name>
+			<size>63.53 MB</size>
+			<category>General/22000</category>
+			<name>Windows10.0-KB5027125-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Version 21H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/05/windows10.0-kb5026514-x64-ndp48_73af9739a32230344be8f5f6292a805dd8315604.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/05/windows10.0-kb5027125-x64-ndp48_fcf3fd5fc8b0a8cdd217cabeb88b05c784242d0e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5012170</kb>
-			<date>2022/07/18</date>
-			<size>183 KB</size>
-			<category>General/22621</category>
-			<name>Windows11.0-KB5012170-x64.msu</name>
-			<description>Security update for Secure Boot DBX for Windows 11 Version 22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows11.0-kb5012170-x64_a7bdcaed87329716522cf6d0b464363d2599fb1c.msu</url>
+			<kb>KB5027292</kb>
+			<date>2023/06/26</date>
+			<size>338.64 MB</size>
+			<category>General/22000</category>
+			<name>Windows10.0-KB5027292-x64.msu</name>
+			<description>Cumulative Update for Windows 11 Version 21H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/windows10.0-kb5027292-x64_d3723789ce08dbc092cb019587c1ae1ead8dbc83.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5026446</kb>
-			<date>2023/05/22</date>
-			<size>287.44 MB</size>
-			<category>General/22621</category>
-			<name>Windows11.0-KB5026446-x64.msu</name>
-			<description>Cumulative Update for Windows 11 Version 22H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2804e87b-301b-4087-b2dd-a124c53338ba/public/windows11.0-kb5026446-x64_e264756c2d8b4a37b6319c7bc36bb72001b38084.msu</url>
+			<kb>KB5028582</kb>
+			<date>2023/06/18</date>
+			<size>26.29 MB</size>
+			<category>General/22000</category>
+			<name>Windows10.0-KB5028582-x64-NDP48.msu</name>
+			<description>2023-06 Update for .NET Framework for Windows 11 Version 21H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/windows10.0-kb5028582-x64-ndp48_43a4ec76b36b4346aa0fcefb46ab258115252714.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5026515</kb>
-			<date>2023/05/11</date>
-			<size>55.79 MB</size>
+			<kb>KB5029007</kb>
+			<date>2023/06/27</date>
+			<size>9.34 MB</size>
+			<category>General/22000</category>
+			<name>Windows10.0-KB5029007-x64-NDP48.msu</name>
+			<description>2023-06 Update for .NET Framework for Windows 11 Version 21H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/windows10.0-kb5029007-x64-ndp48_73b07fb67e292bc58c78cabb527d32ed53a5495f.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5027119</kb>
+			<date>2023/05/15</date>
+			<size>57.93 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5026515-x64-NDP481.msu</name>
+			<name>Windows11.0-KB5027119-x64-NDP481.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Version 22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/05/windows11.0-kb5026515-x64-ndp481_4d84d22adb0953d71578b862202994ba9455bd7d.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows11.0-kb5027119-x64-ndp481_604c0d1f3bd95ee4e06048ca115ffefac024d77a.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5027303</kb>
+			<date>2023/06/26</date>
+			<size>299.73 MB</size>
+			<category>General/22621</category>
+			<name>Windows11.0-KB5027303-x64.msu</name>
+			<description>Cumulative Update for Windows 11 Version 22H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/88ba9d26-81b6-424b-ad86-6236188c258d/public/windows11.0-kb5027303-x64_eed66664062f8f6faec682d196d0588f153e78b4.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5028576</kb>
+			<date>2023/06/18</date>
+			<size>25.68 MB</size>
+			<category>General/22621</category>
+			<name>Windows11.0-KB5028576-x64-NDP481.msu</name>
+			<description>2023-06 Update for .NET Framework for Windows 11 Version 22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/06/windows11.0-kb5028576-x64-ndp481_872f1fcc72632a99ccc12d9fee6d68062ecc24fb.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5029008</kb>
+			<date>2023/06/27</date>
+			<size>9.34 MB</size>
+			<category>General/22621</category>
+			<name>Windows11.0-KB5029008-x64-NDP481.msu</name>
+			<description>2023-06 Update for .NET Framework for Windows 11 Version 22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/06/windows11.0-kb5029008-x64-ndp481_00b8f5c2fcd70308b4d85211b10baa2d693b080e.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
