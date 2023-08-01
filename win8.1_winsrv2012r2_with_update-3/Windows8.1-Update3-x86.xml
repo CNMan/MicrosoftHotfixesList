@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/06/13" architecture="x86" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/07/11" architecture="x86" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -200,6 +200,15 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/10/windows8.1-kb4578953-x86_3784363d0cd9cab5b218cdaa789e730d13985a03.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB5022525</kb>
+			<date>2023/01/11</date>
+			<size>19.00 MB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB5022525-x86.msu</name>
+			<description>2023-02 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022525-x86_6925cd1d2d2d452cdcb452771ff56541181975c8.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB5027141</kb>
 			<date>2023/05/12</date>
 			<size>17.54 MB</size>
@@ -207,6 +216,24 @@
 			<name>Windows8.1-KB5027141-x86.msu</name>
 			<description>2023-06 Security and Quality Rollup for .NET Framework 3.5</description>
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/05/windows8.1-kb5027141-x86_92fe218de460f71e8495ad7c391c21a7ed40064d.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5028872</kb>
+			<date>2023/06/27</date>
+			<size>17.55 MB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB5028872-x86.msu</name>
+			<description>2023-07 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/windows8.1-kb5028872-x86_96de0f628925811a260d2aef655d8545e82f6295.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5028918</kb>
+			<date>2023/06/29</date>
+			<size>4.66 MB</size>
+			<category>Additional/NET35</category>
+			<name>Windows8.1-KB5028918-x86.msu</name>
+			<description>2023-07 Update for .NET Framework 3.5</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/06/windows8.1-kb5028918-x86_e253d30cb724f7ca9ede685e3f145b8992448e59.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -1046,15 +1073,6 @@
 			<url>https://download.microsoft.com/download/E/C/6/EC684C60-8D0B-4406-BD24-53CB57C661E3/Windows8.1-KB3140219-x86.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3145384</kb>
-			<date>2016/03/14</date>
-			<size>324 KB</size>
-			<category>General</category>
-			<name>Windows8.1-KB3145384-x86.msu</name>
-			<description>MinDiffAreaFileSize registry value limit is increased from 3 GB to 50 GB</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3145384-x86_ca1e15c7404c0706943be03fccee494d4625d9b5.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3146604</kb>
 			<date>2016/03/12</date>
 			<size>678 KB</size>
@@ -1721,13 +1739,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8.1-kb4014551-x86_a6af9c16d559e00e42ed45cdf1d7a72235edf5f2.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5012170</kb>
-			<date>2022/07/13</date>
-			<size>230 KB</size>
+			<kb>KB5022508</kb>
+			<date>2023/01/11</date>
+			<size>32.11 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5012170-x86.msu</name>
-			<description>Security update for Secure Boot DBX: August 9, 2022</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows8.1-kb5012170-x86_56c633178e62f1f439e4113c585a09010660b318.msu</url>
+			<name>Windows8.1-KB5022508-x86-NDP48.msu</name>
+			<description>2023-02 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/01/windows8.1-kb5022508-x86-ndp48_3e2072b4f233357c07e71c8704aeb22c61ceec49.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5027128</kb>
@@ -1739,22 +1757,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows8.1-kb5027128-x86-ndp48_3b2312e803eca5b2eb3b178a001d9a0e31aa5ed7.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5027271</kb>
-			<date>2023/05/18</date>
-			<size>369.80 MB</size>
+			<kb>KB5028228</kb>
+			<date>2023/07/05</date>
+			<size>371.99 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5027271-x86.msu</name>
-			<description>2023-06 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/06/windows8.1-kb5027271-x86_a26d6389c94934cfdfc21e94029f4e995b40ffaf.msu</url>
+			<name>Windows8.1-KB5028228-x86.msu</name>
+			<description>2023-07 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/07/windows8.1-kb5028228-x86_dca8e08b662ad071e6ba2c052a0d1ca4399bfe4b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5028585</kb>
-			<date>2023/06/18</date>
-			<size>12.40 MB</size>
+			<kb>KB5028859</kb>
+			<date>2023/06/23</date>
+			<size>32.20 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5028585-x86-NDP48.msu</name>
-			<description>2023-06 Update for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/windows8.1-kb5028585-x86-ndp48_55b740276f90c948cff1fbea7acdf78c7567e4bc.msu</url>
+			<name>Windows8.1-KB5028859-x86-NDP48.msu</name>
+			<description>2023-07 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/06/windows8.1-kb5028859-x86-ndp48_4f6d75997b2e01bf39d177fc65ea6cc055930240.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

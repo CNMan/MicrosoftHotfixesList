@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/06/13" architecture="x64" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/07/11" architecture="x64" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/2/6/b/26b73444-fdf2-43ea-9481-f39bfbbc1685/eurotool2013-kb3178643-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002414</kb>
-			<date>2023/05/31</date>
+			<kb>KB5002434</kb>
+			<date>2023/06/28</date>
 			<size>116.16 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002414-fullfile-x64-glb.exe</name>
+			<name>excel2013-kb5002434-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/a/6/4/a6479b94-6fdf-4208-87da-7b4626e571ce/excel2013-kb5002414-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/7/3/7/73730883-ecce-4356-aca0-f0eec8752235/excel2013-kb5002434-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -133,7 +133,7 @@
 			<size>4.65 MB</size>
 			<category>General</category>
 			<name>filterpack2013-kb3039756-fullfile-x64-glb.exe</name>
-			<description>Microsoft Filter Pack 2.0</description>
+			<description>Microsoft Office 2013 (Filter Pack 2.0)</description>
 			<url>https://download.microsoft.com/download/6/0/B/60B5E8AD-3793-4BFC-8B1D-00C7054011B3/filterpack2013-kb3039756-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
@@ -263,13 +263,13 @@
 			<url>https://download.microsoft.com/download/b/6/2/b6206691-9159-45a0-8cf3-a199a1dca763/msmipc2013-kb3191875-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002297</kb>
-			<date>2023/04/26</date>
-			<size>225.71 MB</size>
-			<category>General</category>
-			<name>mso2013-kb5002297-fullfile-x64-glb.exe</name>
+			<kb>KB5002400</kb>
+			<date>2023/06/28</date>
+			<size>225.74 MB</size>
+			<category>Security</category>
+			<name>mso2013-kb5002400-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/d/7/1/d71bce1a-f5da-4aa8-9692-fbbe4d7ec2a6/mso2013-kb5002297-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/9/f/59f6d7e0-c39a-4886-affb-d6147aa47011/mso2013-kb5002400-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4462142</kb>
@@ -317,13 +317,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/nlgmsfad-x-none_1223811d6585b3a89744d39c845a0b29290345d3.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB4464542</kb>
-			<date>2021/04/28</date>
-			<size>12.19 MB</size>
+			<kb>KB5001952</kb>
+			<date>2023/06/28</date>
+			<size>12.20 MB</size>
 			<category>Security</category>
-			<name>oart2013-kb4464542-fullfile-x64-glb.exe</name>
+			<name>oart2013-kb5001952-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Office Art)</description>
-			<url>https://download.microsoft.com/download/e/4/a/e4aea28f-4244-4cf8-8606-9ad2f2a2246a/oart2013-kb4464542-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/9/e/f/9efcb32c-c76b-4506-ac1d-7f6b931b0198/oart2013-kb5001952-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039720</kb>
@@ -385,7 +385,7 @@
 			<size>94 KB</size>
 			<category>General</category>
 			<name>oscfb2013-KB3054856-fullfile-x64-glb.cab</name>
-			<description>Microsoft Outlook Facebook Provider 2013</description>
+			<description>Microsoft Office 2013 (Facebook Provider)</description>
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/oscfb-x-none_4ec490ded87757f4f61d4a7f679bad1828269dbe.cab</url>
 		</update>
 		<update extract="0">
@@ -425,13 +425,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2015/10/ospp-x-none_f7f3e7afc9564da8f0c7a568bef3e1a663850f07.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB4092455</kb>
-			<date>2019/02/17</date>
-			<size>1.69 MB</size>
-			<category>General</category>
-			<name>outexum2013-kb4092455-fullfile-x64-glb.exe</name>
+			<kb>KB2910941</kb>
+			<date>2014/11/13</date>
+			<size>1.28 MB</size>
+			<category>Security</category>
+			<name>otkruntimertl2013-kb2910941-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2013 (otkruntimertl-x-none.msp)</description>
+			<url>https://download.microsoft.com/download/A/C/2/AC2D26D2-81C4-4026-8C6D-3EEA598F5B6E/otkruntimertl2013-kb2910941-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB4464506</kb>
+			<date>2023/06/28</date>
+			<size>1.68 MB</size>
+			<category>Security</category>
+			<name>outexum2013-kb4464506-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (Exchange Outlook Addin)</description>
-			<url>https://download.microsoft.com/download/E/9/5/E95AA488-134F-4591-A8E1-3A381B7029F2/outexum2013-kb4092455-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/d/c/6/dc6ceefb-f337-432f-90dc-ec967db88170/outexum2013-kb4464506-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115404</kb>
@@ -443,13 +452,13 @@
 			<url>https://download.microsoft.com/download/2/E/6/2E63A2FD-7C84-4E7D-8189-3FCEE678B377/outlfltr2013-kb3115404-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002382</kb>
-			<date>2023/05/31</date>
-			<size>92.31 MB</size>
+			<kb>KB5002432</kb>
+			<date>2023/06/28</date>
+			<size>92.22 MB</size>
 			<category>Security</category>
-			<name>outlook2013-kb5002382-fullfile-x64-glb.exe</name>
+			<name>outlook2013-kb5002432-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>https://download.microsoft.com/download/c/5/9/c59ca382-7a18-4542-be20-3445603e4d9b/outlook2013-kb5002382-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/7/2/b/72b74644-b0c6-4825-86c8-eced3ec4d30b/outlook2013-kb5002432-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>
@@ -515,13 +524,13 @@
 			<url>https://download.microsoft.com/download/c/c/2/cc2ce508-14bf-4fd8-9d3d-374745c9658b/publisher2013-kb5002213-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4018332</kb>
-			<date>2021/09/29</date>
-			<size>2.28 MB</size>
+			<kb>KB5002069</kb>
+			<date>2023/06/28</date>
+			<size>2.34 MB</size>
 			<category>Security</category>
-			<name>riched202013-kb4018332-fullfile-x64-glb.exe</name>
+			<name>riched202013-kb5002069-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2013 (RichEdit 8.0)</description>
-			<url>https://download.microsoft.com/download/1/7/2/172d805d-c1df-4b2e-9bf8-4ce966469fb2/riched202013-kb4018332-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/a/e/c/aeccfdf5-5b23-425d-abb6-3fd97fe0c9e0/riched202013-kb5002069-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011155</kb>
@@ -578,13 +587,13 @@
 			<url>https://download.microsoft.com/download/8/4/7/847A162A-06AA-47D6-ABAD-F9D59CC377C9/wec2013-kb3172533-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002365</kb>
-			<date>2023/04/26</date>
-			<size>169.51 MB</size>
+			<kb>KB5002411</kb>
+			<date>2023/06/28</date>
+			<size>169.53 MB</size>
 			<category>Security</category>
-			<name>word2013-kb5002365-fullfile-x64-glb.exe</name>
+			<name>word2013-kb5002411-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>https://download.microsoft.com/download/2/e/2/2e232422-7ec2-4ec8-afe9-658a0ec47823/word2013-kb5002365-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/a/a/e/aae776db-18c9-4d56-8444-a5e1300a3831/word2013-kb5002411-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>
