@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/07/11" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/08/08" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -101,13 +101,13 @@
 			<url>https://download.microsoft.com/download/c/6/d/c6d93e13-1850-4f13-970b-796b13c8be12/eurotool2013-kb3178643-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002434</kb>
-			<date>2023/06/28</date>
-			<size>109.95 MB</size>
+			<kb>KB5002451</kb>
+			<date>2023/07/27</date>
+			<size>109.98 MB</size>
 			<category>Security</category>
-			<name>excel2013-kb5002434-fullfile-x86-glb.exe</name>
+			<name>excel2013-kb5002451-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2013</description>
-			<url>https://download.microsoft.com/download/4/5/2/452ccfe9-10df-4505-bd93-e27f33b545c8/excel2013-kb5002434-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/8/8/0/88097ecc-3f35-4272-9e13-de2bedd90093/excel2013-kb5002451-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191872</kb>
@@ -272,13 +272,13 @@
 			<url>https://download.microsoft.com/download/9/7/2/972e865f-37d6-45d0-a02f-2952a49f4b19/msmipc2013-kb3191875-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002400</kb>
-			<date>2023/06/28</date>
-			<size>153.60 MB</size>
+			<kb>KB5002439</kb>
+			<date>2023/07/27</date>
+			<size>153.64 MB</size>
 			<category>Security</category>
-			<name>mso2013-kb5002400-fullfile-x86-glb.exe</name>
+			<name>mso2013-kb5002439-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2013 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/a/3/6/a36ace37-6c93-480e-855f-095d7f558d48/mso2013-kb5002400-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/a/3/0a326bbf-f164-4aa3-b053-f33a4de8ac85/mso2013-kb5002439-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4462142</kb>
@@ -362,13 +362,13 @@
 			<url>https://download.microsoft.com/download/0/4/A/04A4760A-A74D-4A8D-BDA9-0D118F027D50/oleo2013-kb3178640-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4011281</kb>
-			<date>2018/04/11</date>
-			<size>78.55 MB</size>
-			<category>General</category>
-			<name>onenote2013-kb4011281-fullfile-x86-glb.exe</name>
+			<kb>KB4022167</kb>
+			<date>2023/07/27</date>
+			<size>78.51 MB</size>
+			<category>Security</category>
+			<name>onenote2013-kb4022167-fullfile-x86-glb.exe</name>
 			<description>Microsoft OneNote 2013</description>
-			<url>https://download.microsoft.com/download/3/F/3/3F3AE4FE-6F3A-46BE-8FCA-91C6FFAFC5E2/onenote2013-kb4011281-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/c/f/5/cf5aa835-2d44-4340-baa3-e4f2a75457f9/onenote2013-kb4022167-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3085565</kb>
@@ -461,13 +461,13 @@
 			<url>https://download.microsoft.com/download/0/A/2/0A23AFBE-375F-4262-AADD-188782E4DA8F/outlfltr2013-kb3115404-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002432</kb>
-			<date>2023/06/28</date>
+			<kb>KB5002449</kb>
+			<date>2023/07/27</date>
 			<size>88.72 MB</size>
 			<category>Security</category>
-			<name>outlook2013-kb5002432-fullfile-x86-glb.exe</name>
+			<name>outlook2013-kb5002449-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>https://download.microsoft.com/download/2/b/e/2be0a28d-f7dc-4de6-8dab-662fc3c83cee/outlook2013-kb5002432-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/a/a/5aa7913d-2354-46c3-a098-a228baed82ec/outlook2013-kb5002449-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>
@@ -479,13 +479,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2015/09/peopledatahandler-x-none_39cd7aa7f75201bbe9b76f1d4bd0858caa100db7.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB4504725</kb>
-			<date>2023/04/26</date>
+			<kb>KB5002399</kb>
+			<date>2023/07/27</date>
 			<size>51.42 MB</size>
-			<category>General</category>
-			<name>powerpoint2013-kb4504725-fullfile-x86-glb.exe</name>
+			<category>Security</category>
+			<name>powerpoint2013-kb5002399-fullfile-x86-glb.exe</name>
 			<description>Microsoft PowerPoint 2013</description>
-			<url>https://download.microsoft.com/download/9/c/1/9c1ab605-cc6a-4af7-ada9-d6767247e8f1/powerpoint2013-kb4504725-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/3/5/0/350cfbe5-c349-478a-8f23-6ebbc5c6b7d4/powerpoint2013-kb5002399-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213536</kb>
@@ -497,13 +497,13 @@
 			<url>https://download.microsoft.com/download/0/D/A/0DA57350-C742-45B9-A475-C07907BC0D7F/ppaddin2013-kb3213536-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484450</kb>
-			<date>2020/07/01</date>
-			<size>30.89 MB</size>
+			<kb>KB4484489</kb>
+			<date>2023/07/27</date>
+			<size>30.90 MB</size>
 			<category>Security</category>
-			<name>project2013-kb4484450-fullfile-x86-glb.exe</name>
+			<name>project2013-kb4484489-fullfile-x86-glb.exe</name>
 			<description>Microsoft Project 2013</description>
-			<url>https://download.microsoft.com/download/4/4/4/444ab680-e45f-4c16-b81e-0f766da85b8b/project2013-kb4484450-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/3/b/9/3b9d3688-ed77-472c-a4eb-e57c76681c98/project2013-kb4484489-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011677</kb>
@@ -524,13 +524,13 @@
 			<url>https://download.microsoft.com/download/B/7/C/B7C71BAE-73DB-41FF-A92A-0A03A30AE033/protocolhandler2013-kb3023049-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002213</kb>
-			<date>2023/03/29</date>
-			<size>41.13 MB</size>
+			<kb>KB5002391</kb>
+			<date>2023/07/27</date>
+			<size>41.18 MB</size>
 			<category>Security</category>
-			<name>publisher2013-kb5002213-fullfile-x86-glb.exe</name>
+			<name>publisher2013-kb5002391-fullfile-x86-glb.exe</name>
 			<description>Microsoft Publisher 2013</description>
-			<url>https://download.microsoft.com/download/9/f/7/9f71eac4-33ba-4327-a7a0-73b753beffc1/publisher2013-kb5002213-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/7/c/f/7cf9e1f8-87cc-48ce-952a-5b8acc0419e4/publisher2013-kb5002391-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002069</kb>
@@ -569,13 +569,13 @@
 			<url>https://download.microsoft.com/download/7/6/e/76eacc18-e3b0-4488-b5d6-fb84bf5dafe1/vbe72013-kb5002274-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002343</kb>
-			<date>2023/05/31</date>
-			<size>179.82 MB</size>
-			<category>General</category>
-			<name>visio2013-kb5002343-fullfile-x86-glb.exe</name>
+			<kb>KB5002417</kb>
+			<date>2023/07/27</date>
+			<size>179.83 MB</size>
+			<category>Security</category>
+			<name>visio2013-kb5002417-fullfile-x86-glb.exe</name>
 			<description>Microsoft Visio 2013</description>
-			<url>https://download.microsoft.com/download/6/b/e/6be4c2db-c199-4bc2-8fe6-89b783d34c60/visio2013-kb5002343-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/7/6/4/7643bf79-7dac-40fa-9e07-1522105adce8/visio2013-kb5002417-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2817301</kb>
@@ -596,13 +596,13 @@
 			<url>https://download.microsoft.com/download/1/6/E/16E6EBD1-B8D4-4BC7-838A-E8B75C3A9401/wec2013-kb3172533-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002411</kb>
-			<date>2023/06/28</date>
-			<size>166.40 MB</size>
+			<kb>KB5002445</kb>
+			<date>2023/07/27</date>
+			<size>166.43 MB</size>
 			<category>Security</category>
-			<name>word2013-kb5002411-fullfile-x86-glb.exe</name>
+			<name>word2013-kb5002445-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2013</description>
-			<url>https://download.microsoft.com/download/7/8/7/787b6b36-9153-4a23-a5b3-e230c4ffc282/word2013-kb5002411-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/6/9/a/69acf16c-0fec-4b4d-bd2b-b12b794c1007/word2013-kb5002445-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3162081</kb>

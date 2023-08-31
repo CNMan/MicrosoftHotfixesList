@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/07/11" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/08/08" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -695,13 +695,13 @@
 			<url>https://dl.dropboxusercontent.com/s/54af6h05qo96s9m/Last-Official-ESU.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5028860</kb>
-			<date>2023/06/23</date>
-			<size>42.22 MB</size>
+			<kb>KB5028958</kb>
+			<date>2023/07/13</date>
+			<size>42.23 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5028860-x64.exe</name>
-			<description>2023-07 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/06/ndp48-kb5028860-x64_bf49e93d5b30d14c2ed83376a617978d376f03ea.exe</url>
+			<name>NDP48-KB5028958-x64.exe</name>
+			<description>2023-08 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/07/ndp48-kb5028958-x64_0a0b2dd92ee327f451b880c3c201caa63684729f.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -713,15 +713,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5028240</kb>
-			<date>2023/07/06</date>
-			<size>389.24 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB5028240-x64.msu</name>
-			<description>2023-07 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/07/windows6.1-kb5028240-x64_cdd0357ba773b14556ad2bcf4a4b72917f90204e.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5028264</kb>
 			<date>2023/06/13</date>
 			<size>9.20 MB</size>
@@ -731,22 +722,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/07/windows6.1-kb5028264-x64_1142dafe4d79f24f014a975a6012d2bdfea9197d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5028871</kb>
-			<date>2023/06/27</date>
+			<kb>KB5028969</kb>
+			<date>2023/07/17</date>
 			<size>24.21 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5028871-x64.msu</name>
-			<description>2023-07 Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/06/windows6.1-kb5028871-x64_e7d8c1e34b1d56e6575e44c7de2f0504799d0f9a.msu</url>
+			<name>Windows6.1-KB5028969-x64.msu</name>
+			<description>2023-08 Security and Quality Rollup for .NET Framework 3.5.1</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/07/windows6.1-kb5028969-x64_b365e9c2a88221481a1634cad355fbaebdf7fa01.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5028917</kb>
-			<date>2023/06/28</date>
-			<size>9.29 MB</size>
+			<kb>KB5029296</kb>
+			<date>2023/07/06</date>
+			<size>393.34 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5028917-x64.msu</name>
-			<description>2023-07 Update for .NET Framework 3.5.1</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/06/windows6.1-kb5028917-x64_4c37beecaa12f054b2bab87c4ab6b38c457dcf61.msu</url>
+			<name>Windows6.1-KB5029296-x64.msu</name>
+			<description>2023-08 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/08/windows6.1-kb5029296-x64_d10ce5982169aec1c03e488170b4b19dc30b3d9f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

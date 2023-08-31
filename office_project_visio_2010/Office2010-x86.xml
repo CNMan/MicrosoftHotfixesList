@@ -17,7 +17,7 @@
 			<category>General</category>
 			<name>accessolkaddin2010-kb2791057-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (Access Outlook Data Collection Addin)</description>
-			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2015/11/accessolkaddin-x-none_4571200d0c9db16b528f6102c7efcc394775f61f.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2015/11/accessolkaddin-x-none_4571200d0c9db16b528f6102c7efcc394775f61f.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493143</kb>
@@ -53,16 +53,25 @@
 			<category>General</category>
 			<name>csi2010-kb3054886-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (Document Cache)</description>
-			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2015/10/csi-x-none_d8eb94e0c20a0a6e007dbcf657ace19a293e5171.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2015/10/csi-x-none_d8eb94e0c20a0a6e007dbcf657ace19a293e5171.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011610</kb>
-			<date>2017/12/19</date>
+			<date>2017/12/31</date>
 			<size>21.49 KB</size>
 			<category>Security</category>
 			<name>eqnedt322010-kb4011610.txt</name>
 			<description>Microsoft Office 2010 (Equation Editor)</description>
 			<url>https://dl.dropboxusercontent.com/s/wnb166z83c0357p/eqnedt322010-kb4011610.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB4011610</kb>
+			<date>2017/12/31</date>
+			<size>14 KB</size>
+			<category>Security</category>
+			<name>eqnedt32loc2010-kb4011610-fullfile-x86-glb.cab</name>
+			<description>Microsoft Office 2007 (Equation Editor)</description>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/eqnedt32loc2010-kb4011610-fullfile-x86-glb.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589361</kb>
@@ -89,7 +98,7 @@
 			<category>General</category>
 			<name>exppdf2010-kb3055047-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (PDF Export)</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/09/exppdf-x-none_78e193d7fa3be46fa6c07f73d3efebeed167a549.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2015/09/exppdf-x-none_78e193d7fa3be46fa6c07f73d3efebeed167a549.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114879</kb>
@@ -107,7 +116,7 @@
 			<category>General</category>
 			<name>fm202010-kb3054873-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (Microsoft Forms 2.0)</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/07/fm20-x-none_9649a309eee15b5d32c65c1d1b522c4d8eeee716.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2015/07/fm20-x-none_9649a309eee15b5d32c65c1d1b522c4d8eeee716.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589386</kb>
@@ -116,7 +125,7 @@
 			<category>General</category>
 			<name>gfonts2010-kb2589386-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (Arial Narrow Font)</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2014/11/gfonts-x-none_23715aec547df5d7824747f46ff04e82f36a2d33.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2014/11/gfonts-x-none_23715aec547df5d7824747f46ff04e82f36a2d33.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2760787</kb>
@@ -188,7 +197,7 @@
 			<category>General</category>
 			<name>ipeditor2010-kb2817369-fullfile-x86-glb.cab</name>
 			<description>Microsoft InfoPath 2010 (InfoPath Editor)</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2014/01/ipeditor-x-none_286d99c11bb8da6afadfd38842eb965a3869a40a.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2014/01/ipeditor-x-none_286d99c11bb8da6afadfd38842eb965a3869a40a.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2553398</kb>
@@ -216,15 +225,6 @@
 			<name>mscomct22010-kb2589288-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2010 (Global Controls)</description>
 			<url>https://download.microsoft.com/download/2/6/8/268F054D-0D44-46E6-A6EC-B72866B6CC84/mscomct22010-kb2589288-fullfile-x86-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB2589288</kb>
-			<date>2014/04/17</date>
-			<size>1.00 KB</size>
-			<category>Security</category>
-			<name>mscomct22010-kb2589288-info.txt</name>
-			<description>Microsoft Office 2010 (Global Controls)</description>
-			<url>https://dl.dropboxusercontent.com/s/03no9lvcq27i2zp/mscomct22010-kb2589288-info.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB2881029</kb>
@@ -260,7 +260,7 @@
 			<category>General</category>
 			<name>msocf2010-kb2589375-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (msocf-x-none.msp)</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2013/09/msocf-x-none_b6de60914c3e537e2c9fa1053f90faebc4b61e92.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2013/09/msocf-x-none_b6de60914c3e537e2c9fa1053f90faebc4b61e92.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2553332</kb>
@@ -287,7 +287,7 @@
 			<category>General</category>
 			<name>msores2010-kb2597087-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (msores-x-none.msp)</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2013/11/msores-x-none_c7a4834f7b28175fd385cb8c83b4420b73384a09.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2013/11/msores-x-none_c7a4834f7b28175fd385cb8c83b4420b73384a09.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114565</kb>
@@ -295,7 +295,7 @@
 			<size>1.66 MB</size>
 			<category>Security</category>
 			<name>msptls2010-kb3114565-fullfile-x86-glb.exe</name>
-			<description>Microsoft Office 2010 (msptls-x-none.msp)</description>
+			<description>Microsoft Office 2010 (Page Table and Line Services Library)</description>
 			<url>https://download.microsoft.com/download/7/5/4/754870D8-C1F8-4EBB-BE05-A85447D8ADAA/msptls2010-kb3114565-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
@@ -305,7 +305,7 @@
 			<category>General</category>
 			<name>mstore2010-kb2553140-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (mstore-x-none.msp)</description>
-			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2014/12/mstore-x-none_c408d603eb2a9c0c0573a888818c1e8533e44fa7.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2014/12/mstore-x-none_c408d603eb2a9c0c0573a888818c1e8533e44fa7.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4092436</kb>
@@ -341,7 +341,7 @@
 			<category>General</category>
 			<name>ocfxca2010-kb2553347-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (ocfxca-x-none.msp)</description>
-			<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/crup/2015/07/ocfxca-x-none_ea01b56460836086e46ac9135fa5ff094dd4b818.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2015/07/ocfxca-x-none_ea01b56460836086e46ac9135fa5ff094dd4b818.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2879953</kb>
@@ -373,11 +373,11 @@
 		<update extract="0">
 			<kb>KB2726880</kb>
 			<date>2014/10/15</date>
-			<size>16.73 MB</size>
+			<size>1.04 MB</size>
 			<category>Hotfix</category>
-			<name>olc2010-kb2726880-fullfile-x86-glb.msp</name>
+			<name>olc2010-kb2726880-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (Outlook Hotmail Connector)</description>
-			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/olc2010-kb2726880-fullfile-x86-glb.msp</url>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/olc2010-kb2726880-fullfile-x86-glb.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4461579</kb>
@@ -404,7 +404,7 @@
 			<category>General</category>
 			<name>osc2010-kb2553308-fullfile-x86-glb.cab</name>
 			<description>Microsoft Outlook Social Connector 2010</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/osc-x-none_31d563081f0a879ba0c775ae9b25578279591abd.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/osc-x-none_31d563081f0a879ba0c775ae9b25578279591abd.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022206</kb>
@@ -431,7 +431,7 @@
 			<category>General</category>
 			<name>ospp2010-kb2883019-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (License Management Tool)</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2014/12/ospp-x-none_5d0c591708ab6fdb76553c0a2ca137dc3a8b7282.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2014/12/ospp-x-none_5d0c591708ab6fdb76553c0a2ca137dc3a8b7282.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2956063</kb>
@@ -507,12 +507,21 @@
 		</update>
 		<update extract="0">
 			<kb>KB3054882</kb>
-			<date>2015/09/25</date>
+			<date>2015/09/23</date>
 			<size>18 KB</size>
 			<category>General</category>
 			<name>projectloc2010-kb3054882.txt</name>
 			<description>Microsoft Project 2010 (Localizations)</description>
 			<url>https://dl.dropboxusercontent.com/s/xbgi29o9zow6uyv/projectloc2010-kb3054882.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB3054882</kb>
+			<date>2015/09/23</date>
+			<size>16.04 MB</size>
+			<category>General</category>
+			<name>pjloc2010-kb3054882-fullfile-x86-glb.cab</name>
+			<description>Microsoft Project 2010 (Localizations)</description>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/pjloc2010-kb3054882-fullfile-x86-glb.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3203468</kb>
@@ -539,7 +548,16 @@
 			<category>General</category>
 			<name>riched202010-kb2589318-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (RichEdit 8.0)</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/08/riched20-x-none_e31f07b596a5e1c0989d04d214a55225955c68cc.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2015/08/riched20-x-none_e31f07b596a5e1c0989d04d214a55225955c68cc.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB2879953</kb>
+			<date>2020/10/29</date>
+			<size>942 KB</size>
+			<category>General</category>
+			<name>rmaddlocal2010-kb2879953-fullfile-x86-glb.cab</name>
+			<description>Microsoft Office 2010 (rmaddlocal-x-none.msp)</description>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/rmaddlocal2010-kb2879953-fullfile-x86-glb.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2589339</kb>
@@ -557,7 +575,7 @@
 			<category>General</category>
 			<name>targetdir2010-kb2825640-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (targetdir-x-none.msp)</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2013/08/targetdir-x-none_4df7780127a2023254259c63c856feaed955abb5.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2013/08/targetdir-x-none_4df7780127a2023254259c63c856feaed955abb5.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213631</kb>
@@ -588,12 +606,21 @@
 		</update>
 		<update extract="0">
 			<kb>KB2881025</kb>
-			<date>2015/03/23</date>
+			<date>2015/03/22</date>
 			<size>18 KB</size>
 			<category>General</category>
 			<name>visioloc2010-kb2881025.txt</name>
 			<description>Microsoft Visio 2010 (Localizations)</description>
 			<url>https://dl.dropboxusercontent.com/s/e0i8u8thndhv7we/visioloc2010-kb2881025.txt</url>
+		</update>
+		<update extract="0">
+			<kb>KB2881025</kb>
+			<date>2015/03/22</date>
+			<size>8.00 MB</size>
+			<category>General</category>
+			<name>visioloc2010-kb2881025-fullfile-x86-glb.cab</name>
+			<description>Microsoft Visio 2010 (Localizations)</description>
+			<url>https://raw.githubusercontent.com/stdin82/htfx/master/Office/visioloc2010-kb2881025-fullfile-x86-glb.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB2999465</kb>
@@ -620,7 +647,7 @@
 			<category>General</category>
 			<name>wec2010-kb2553388-fullfile-x86-glb.cab</name>
 			<description>Microsoft Office 2010 (FrontPage Client)</description>
-			<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2015/10/wec-x-none_9524dc91a4f6d1b09c4f5ff2ae22d6a9779d9a65.cab</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2015/10/wec-x-none_9524dc91a4f6d1b09c4f5ff2ae22d6a9779d9a65.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4493218</kb>
