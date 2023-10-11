@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/08/08" architecture="x64" version="Windows11">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/10/10" architecture="x64" version="Windows11">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -20,40 +20,40 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2021/11/windows10.0-kb5007575-x64_28e206f7d3a99eb798dfa403e6439dfb5e358e16.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5029332</kb>
-			<date>2023/08/16</date>
-			<size>348.66 MB</size>
+			<kb>KB5030842</kb>
+			<date>2023/08/24</date>
+			<size>65.58 MB</size>
 			<category>General/22000</category>
-			<name>Windows10.0-KB5029332-x64.msu</name>
-			<description>Cumulative Update for Windows 11 Version 21H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/08/windows10.0-kb5029332-x64_b3bf2afe6c70b2f771cd36b230991309e1830cc6.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5029715</kb>
-			<date>2023/07/23</date>
-			<size>65.72 MB</size>
-			<category>General/22000</category>
-			<name>Windows10.0-KB5029715-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5030842-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Version 21H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/07/windows10.0-kb5029715-x64_7621a55e39b4db1865738de809191975e0569c73.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/08/windows10.0-kb5030842-x64-ndp48_b68269cc9ca65e1dbdd24a87c38afbc23d1a9bc0.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5029351</kb>
-			<date>2023/08/21</date>
-			<size>400.77 MB</size>
-			<category>General/22621</category>
-			<name>Windows11.0-KB5029351-x64.msu</name>
-			<description>Cumulative Update for Windows 11 Version 22H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b987ebde-cc43-4c32-ae6b-e245b2c2c6be/public/windows11.0-kb5029351-x64_fafa3fd62c6973e337a31ff771d2233357ecb7c2.msu</url>
+			<kb>KB5031358</kb>
+			<date>2023/10/04</date>
+			<size>350.46 MB</size>
+			<category>General/22000</category>
+			<name>Windows10.0-KB5031358-x64.msu</name>
+			<description>Cumulative Update for Windows 11 Version 21H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/10/windows10.0-kb5031358-x64_9a39c804178839969adb3511e753a94380227ebd.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5029718</kb>
-			<date>2023/07/23</date>
-			<size>60.51 MB</size>
+			<kb>KB5030651</kb>
+			<date>2023/08/24</date>
+			<size>60.59 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5029718-x64-NDP481.msu</name>
+			<name>Windows11.0-KB5030651-x64-NDP481.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Version 22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/07/windows11.0-kb5029718-x64_ed2f562717d72b158fdcb1b11cdfa15f1ab9a362.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/08/windows11.0-kb5030651-x64-ndp481_16588e0f4646956ccde79a96ad7c2a6c7162cbf5.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5031354</kb>
+			<date>2023/10/09</date>
+			<size>605.08 MB</size>
+			<category>General/22621</category>
+			<name>Windows11.0-KB5031354-x64.msu</name>
+			<description>Cumulative Update for Windows 11 Version 22H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/885dcacb-fb29-4536-88f6-4fd4792a4a65/public/windows11.0-kb5031354-x64_3391407e62562e0e48a437c5c7115667305d788c.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
