@@ -38,22 +38,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/10/windows10.0-kb5031358-x64_9a39c804178839969adb3511e753a94380227ebd.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5030651</kb>
-			<date>2023/08/24</date>
-			<size>60.59 MB</size>
+			<kb>KB5031455</kb>
+			<date>2023/10/25</date>
+			<size>597.90 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5030651-x64-NDP481.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 11 Version 22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/08/windows11.0-kb5030651-x64-ndp481_16588e0f4646956ccde79a96ad7c2a6c7162cbf5.msu</url>
+			<name>Windows11.0-KB5031455-x64.msu</name>
+			<description>Cumulative Update for Windows 11 Version 22H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e3472ba5-22b6-46d5-8de2-db78395b3209/public/windows11.0-kb5031455-x64_d1c3bafaa9abd8c65f0354e2ea89f35470b10b65.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031354</kb>
-			<date>2023/10/09</date>
-			<size>605.08 MB</size>
+			<kb>KB5031817</kb>
+			<date>2023/09/25</date>
+			<size>60.47 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5031354-x64.msu</name>
-			<description>Cumulative Update for Windows 11 Version 22H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/885dcacb-fb29-4536-88f6-4fd4792a4a65/public/windows11.0-kb5031354-x64_3391407e62562e0e48a437c5c7115667305d788c.msu</url>
+			<name>Windows11.0-KB5031817-x64-NDP481.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 11 Version 22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/09/windows11.0-kb5031817-x64-ndp481_b4c515251ee2dfc9091608575ea053ed3b9c4ab0.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5027397</kb>
+			<date>2023/09/06</date>
+			<size>180 KB</size>
+			<category>General/22621/v23H2</category>
+			<name>Windows11.0-KB5027397-x64.msu</name>
+			<description>Feature Update to Windows 11 Version 23H2 via Enablement Package</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/caa3ff4a-6420-4341-aeae-33b2d7f463be/public/windows11.0-kb5027397-x64_3a9c368e239bb928c32a790cf1663338d2cad472.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

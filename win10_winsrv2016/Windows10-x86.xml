@@ -119,13 +119,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/08/windows10.0-kb5030841-x86-ndp48_918c5466588e943649a96235f10492a10c477eb5.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031356</kb>
-			<date>2023/10/02</date>
-			<size>421.99 MB</size>
+			<kb>KB5031445</kb>
+			<date>2023/10/25</date>
+			<size>427.26 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5031356-x86.msu</name>
+			<name>Windows10.0-KB5031445-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/10/windows10.0-kb5031356-x86_fc2850c687e1cee015a2c86b720b17d8c36a31db.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/10/windows10.0-kb5031445-x86_0f41a9fe91c50a7bfb73b6f4ff758872e9d5c4dc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5031539</kb>
