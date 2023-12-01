@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/10/10" architecture="x86" version="Office 2013">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/11/14" architecture="x86" version="Office 2013">
 	<updates>
 		<update extract="0">
 			<kb>KB4484527</kb>
@@ -461,13 +461,13 @@
 			<url>https://download.microsoft.com/download/0/A/2/0A23AFBE-375F-4262-AADD-188782E4DA8F/outlfltr2013-kb3115404-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002449</kb>
-			<date>2023/07/27</date>
+			<kb>KB5002514</kb>
+			<date>2023/11/03</date>
 			<size>88.72 MB</size>
-			<category>Security</category>
-			<name>outlook2013-kb5002449-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>outlook2013-kb5002514-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2013</description>
-			<url>https://download.microsoft.com/download/5/a/a/5aa7913d-2354-46c3-a098-a228baed82ec/outlook2013-kb5002449-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/8/d/9/8d936096-992e-4ef1-87c6-ae8a91776d32/outlook2013-kb5002514-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3039766</kb>

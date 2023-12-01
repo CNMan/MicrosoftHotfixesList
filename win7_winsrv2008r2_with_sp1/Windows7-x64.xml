@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/10/10" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/11/14" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -695,13 +695,13 @@
 			<url>https://dl.dropboxusercontent.com/s/54af6h05qo96s9m/Last-Official-ESU.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031001</kb>
-			<date>2023/08/30</date>
+			<kb>KB5031995</kb>
+			<date>2023/11/01</date>
 			<size>42.24 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5031001-x64.exe</name>
-			<description>2023-10 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/09/ndp48-kb5031001-x64_b13e285a063e8b48c2027d80e2fd3c22b306afea.exe</url>
+			<name>NDP48-KB5031995-x64.exe</name>
+			<description>2023-11 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/ndp48-kb5031995-x64_b4323043699012cd1032ff68dfb50ac28ef094bd.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -713,31 +713,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031658</kb>
-			<date>2023/09/19</date>
+			<kb>KB5032000</kb>
+			<date>2023/10/04</date>
+			<size>24.20 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB5032000-x64.msu</name>
+			<description>2023-11 Security and Quality Rollup for .NET Framework 3.5.1</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/10/windows6.1-kb5032000-x64_9669200533d59d988df55ed5395516e672b36553.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5032252</kb>
+			<date>2023/11/11</date>
+			<size>399.61 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB5032252-x64.msu</name>
+			<description>2023-11 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows6.1-kb5032252-x64_dadcc06695de0b745d5c2061d3587f6ac1b47a4b.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5032383</kb>
+			<date>2023/10/19</date>
 			<size>9.20 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5031658-x64.msu</name>
-			<description>2023-10 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/10/windows6.1-kb5031658-x64_82f5e738206834b83bf904c2d4ab5578976bb325.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5029938</kb>
-			<date>2023/08/03</date>
-			<size>24.21 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB5029938-x64.msu</name>
-			<description>2023-09 Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/08/windows6.1-kb5029938-x64_525e468e7154aa7793a937d7370059d1a14e4e6e.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5031408</kb>
-			<date>2023/10/01</date>
-			<size>399.39 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB5031408-x64.msu</name>
-			<description>2023-10 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/10/windows6.1-kb5031408-x64_c783f4aeedd692fa50618402bc8d4e682a824d4f.msu</url>
+			<name>Windows6.1-KB5032383-x64.msu</name>
+			<description>2023-11 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows6.1-kb5032383-x64_19200212878e01f808d7c823fe66daaae8755419.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/10/10" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/11/14" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002209</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002496</kb>
-			<date>2023/08/31</date>
+			<kb>KB5002518</kb>
+			<date>2023/11/01</date>
 			<size>131.59 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002496-fullfile-x86-glb.exe</name>
+			<name>excel2016-kb5002518-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/4/c/e/4ce97bdb-e17d-43b3-b533-50c904a06717/excel2016-kb5002496-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/c/2/a/c2a50b5e-7887-4f69-b1da-f48a126fdc65/excel2016-kb5002518-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -200,13 +200,13 @@
 			<url>https://download.microsoft.com/download/5/f/6/5f69e581-96c0-4db0-b421-69d448dff763/msmipc2016-kb3191869-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002457</kb>
-			<date>2023/08/31</date>
-			<size>128.62 MB</size>
+			<kb>KB5002521</kb>
+			<date>2023/11/01</date>
+			<size>128.66 MB</size>
 			<category>Security</category>
-			<name>mso2016-kb5002457-fullfile-x86-glb.exe</name>
+			<name>mso2016-kb5002521-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/7/5/8/7580ecda-99ef-4c6a-9487-b24b6fff8081/mso2016-kb5002457-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/7/5/5/75517bec-74c4-4dda-ab36-4af6b7ec6804/mso2016-kb5002521-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002117</kb>
@@ -380,13 +380,13 @@
 			<url>https://download.microsoft.com/download/B/4/8/B480C326-8984-4D40-BAA2-33F3A44F20CB/outlfltr2016-kb3115407-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002499</kb>
-			<date>2023/08/31</date>
-			<size>91.66 MB</size>
-			<category>Security</category>
-			<name>outlook2016-kb5002499-fullfile-x86-glb.exe</name>
+			<kb>KB5002523</kb>
+			<date>2023/11/01</date>
+			<size>91.65 MB</size>
+			<category>General</category>
+			<name>outlook2016-kb5002523-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>https://download.microsoft.com/download/1/b/5/1b5e29ca-eab3-42c3-961b-fa63466622d4/outlook2016-kb5002499-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/4/9/7/497dc2f9-92f4-49b2-8cbc-0fdc4fb17229/outlook2016-kb5002523-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -416,13 +416,13 @@
 			<url>https://download.microsoft.com/download/3/7/5/3755cb32-faed-42fa-a12c-963cc935ff1b/ppaddin2016-kb4011621-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002328</kb>
-			<date>2023/07/27</date>
-			<size>34.29 MB</size>
-			<category>Security</category>
-			<name>project2016-kb5002328-fullfile-x86-glb.exe</name>
+			<kb>KB5002502</kb>
+			<date>2023/11/01</date>
+			<size>34.28 MB</size>
+			<category>General</category>
+			<name>project2016-kb5002502-fullfile-x86-glb.exe</name>
 			<description>Microsoft Project 2016</description>
-			<url>https://download.microsoft.com/download/b/8/b/b8b7d634-c335-4176-9a66-f68947e1a4fa/project2016-kb5002328-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/4/a/a/4aaa8833-305b-4648-9406-c4f5a83e2816/project2016-kb5002502-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4464538</kb>
@@ -534,12 +534,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB4444444</kb>
-			<date>2023/08/08</date>
-			<size>3.06 KB</size>
+			<date>2023/11/14</date>
+			<size>3.56 KB</size>
 			<category>Security</category>
-			<name>WU-SecurityUpdates-20230808.txt</name>
+			<name>WU-SecurityUpdates-20231114.txt</name>
 			<description>Info about WU satisfy updates</description>
-			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20230808.txt</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20231114.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>

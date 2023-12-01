@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/10/10" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/11/14" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -29,31 +29,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x64_0b61d9a03db731562e0a0b49383342a4d8cbe36a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5030504</kb>
-			<date>2023/09/04</date>
-			<size>11.65 MB</size>
+			<kb>KB5031989</kb>
+			<date>2023/11/01</date>
+			<size>55.02 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5030504-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/09/windows10.0-kb5030504-x64_5451b059e3ada37433b65b36ab51bc4c785aab47.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5031000</kb>
-			<date>2023/09/03</date>
-			<size>54.40 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5031000-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5031989-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/09/windows10.0-kb5031000-x64-ndp48_22fab67326c121ee2a1699e992fedec044ab15c2.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5031989-x64-ndp48_849d618eb8cea87a844d7ccd12435fc52a674fc7.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031362</kb>
-			<date>2023/10/02</date>
+			<kb>KB5032197</kb>
+			<date>2023/11/08</date>
 			<size>1.58 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5031362-x64.msu</name>
+			<name>Windows10.0-KB5032197-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/10/windows10.0-kb5031362-x64_d5547372d929a0cfcd12559f75d03507ce6c5d8b.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows10.0-kb5032197-x64_7053d3a67b313280f4bf708f519918061c01168d.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5032391</kb>
+			<date>2023/09/04</date>
+			<size>11.63 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5032391-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows10.0-kb5032391-x64_99db9fc196b41a2b8cc633bd1d863b2cbca6777b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -83,22 +83,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows10.0-kb5005112-x64_81d09dc6978520e1a6d44b3b15567667f83eba2c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031010</kb>
-			<date>2023/09/03</date>
-			<size>80.00 MB</size>
+			<kb>KB5031990</kb>
+			<date>2023/11/01</date>
+			<size>79.78 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5031010-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5031990-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/09/windows10.0-kb5031010-x64-ndp48_07fd36b9f4a96f012d93f6307d64103ceaa3d8bd.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5031990-x64-ndp48_19b08056004a54f9450e37e211acb99d1d21e29c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031361</kb>
-			<date>2023/10/02</date>
-			<size>616.34 MB</size>
+			<kb>KB5032196</kb>
+			<date>2023/11/10</date>
+			<size>620.27 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5031361-x64.msu</name>
+			<name>Windows10.0-KB5032196-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/10/windows10.0-kb5031361-x64_961e82abaca6fa50073f65c96143730824956f7d.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5032196-x64_07be38ad94320c193e1e66ee614f2a2c902c1964.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -110,24 +110,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2021/11/windows10.0-kb5007401-x64_f1bf61d834bb8d9951c7efa23454643daae195b0.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5030841</kb>
-			<date>2023/08/24</date>
-			<size>69.65 MB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB5030841-x64-NDP48.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/08/windows10.0-kb5030841-x64-ndp48_805cf05096bffae4a4f2ff13fa1aa6a888528bb5.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5031445</kb>
-			<date>2023/10/25</date>
-			<size>772.68 MB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB5031445-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2023/10/windows10.0-kb5031445-x64_418ef5fcb1d37c436c0f455324424d23b1cd3c83.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5031539</kb>
 			<date>2023/09/14</date>
 			<size>15.39 MB</size>
@@ -137,13 +119,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/10/ssu-19041.3562-x64_de23c91f483b2e609cec3e4a995639d13205f867.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB4562830</kb>
-			<date>2020/12/03</date>
-			<size>86.85 MB</size>
-			<category>General/19041/v20H2</category>
-			<name>Windows10.0-KB4562830-x64.msu</name>
-			<description>Feature Update to Windows 10 Version 20H2 via Enablement Package</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/upgr/2020/12/windows10.0-kb4562830-x64_93a5c65488affb6e73a0a48ad6a58d8bc1713fd7.msu</url>
+			<kb>KB5031988</kb>
+			<date>2023/11/01</date>
+			<size>69.65 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB5031988-x64-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5031988-x64-ndp48_cf8f8281813f1474b04a83398f4615c08786c2db.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5032278</kb>
+			<date>2023/11/30</date>
+			<size>783.31 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB5032278-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/11/windows10.0-kb5032278-x64_3a2b384f690eaa92c5030c535ac4a7e47c71a635.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>
