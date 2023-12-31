@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/11/14" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/12/12" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002209</kb>
@@ -380,13 +380,13 @@
 			<url>https://download.microsoft.com/download/B/4/8/B480C326-8984-4D40-BAA2-33F3A44F20CB/outlfltr2016-kb3115407-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002523</kb>
-			<date>2023/11/01</date>
-			<size>91.65 MB</size>
-			<category>General</category>
-			<name>outlook2016-kb5002523-fullfile-x86-glb.exe</name>
+			<kb>KB5002529</kb>
+			<date>2023/11/29</date>
+			<size>91.66 MB</size>
+			<category>Security</category>
+			<name>outlook2016-kb5002529-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>https://download.microsoft.com/download/4/9/7/497dc2f9-92f4-49b2-8cbc-0fdc4fb17229/outlook2016-kb5002523-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/4/4/1/44175afd-df70-4e5f-9511-17e38b84106e/outlook2016-kb5002529-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -524,22 +524,22 @@
 			<url>https://download.microsoft.com/download/b/5/6/b565982e-3f25-4ca0-bf1c-9c4773957c88/vviewer2016-kb2920709-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002497</kb>
-			<date>2023/08/31</date>
+			<kb>KB5002520</kb>
+			<date>2023/11/29</date>
 			<size>42.68 MB</size>
 			<category>Security</category>
-			<name>word2016-kb5002497-fullfile-x86-glb.exe</name>
+			<name>word2016-kb5002520-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>https://download.microsoft.com/download/3/1/9/319355b5-bc86-47f7-adc8-f1c52172b77e/word2016-kb5002497-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/b/4/8/b48eefb2-d123-4402-a844-af32c9611ab3/word2016-kb5002520-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4444444</kb>
-			<date>2023/11/14</date>
-			<size>3.56 KB</size>
+			<date>2023/12/12</date>
+			<size>3.31 KB</size>
 			<category>Security</category>
-			<name>WU-SecurityUpdates-20231114.txt</name>
+			<name>WU-SecurityUpdates-20231212.txt</name>
 			<description>Info about WU satisfy updates</description>
-			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20231114.txt</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20231212.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/11/14" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/12/12" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -38,15 +38,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5031989-x64-ndp48_849d618eb8cea87a844d7ccd12435fc52a674fc7.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5032197</kb>
-			<date>2023/11/08</date>
-			<size>1.58 GB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5032197-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows10.0-kb5032197-x64_7053d3a67b313280f4bf708f519918061c01168d.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5032391</kb>
 			<date>2023/09/04</date>
 			<size>11.63 MB</size>
@@ -54,6 +45,15 @@
 			<name>Windows10.0-KB5032391-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1607</description>
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows10.0-kb5032391-x64_99db9fc196b41a2b8cc633bd1d863b2cbca6777b.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5033373</kb>
+			<date>2023/12/04</date>
+			<size>1.60 GB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5033373-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/12/windows10.0-kb5033373-x64_f4d44e665cf4786af6838b4dff2928ac801fa672.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -92,13 +92,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5031990-x64-ndp48_19b08056004a54f9450e37e211acb99d1d21e29c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5032196</kb>
-			<date>2023/11/10</date>
-			<size>620.27 MB</size>
+			<kb>KB5033371</kb>
+			<date>2023/12/04</date>
+			<size>621.59 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5032196-x64.msu</name>
+			<name>Windows10.0-KB5033371-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5032196-x64_07be38ad94320c193e1e66ee614f2a2c902c1964.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/12/windows10.0-kb5033371-x64_5ee5edaf9559ed1da54b3c9522e9b2a8c8c71e59.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -128,13 +128,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5031988-x64-ndp48_cf8f8281813f1474b04a83398f4615c08786c2db.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5032278</kb>
-			<date>2023/11/30</date>
-			<size>783.31 MB</size>
+			<kb>KB5033372</kb>
+			<date>2023/12/04</date>
+			<size>783.30 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5032278-x64.msu</name>
+			<name>Windows10.0-KB5033372-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/11/windows10.0-kb5032278-x64_3a2b384f690eaa92c5030c535ac4a7e47c71a635.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/12/windows10.0-kb5033372-x64_822cb06e298fd32637584b623f2cdaa3468f42a1.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>

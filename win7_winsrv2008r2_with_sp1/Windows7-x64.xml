@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/11/14" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/12/12" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -722,15 +722,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/10/windows6.1-kb5032000-x64_9669200533d59d988df55ed5395516e672b36553.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5032252</kb>
-			<date>2023/11/11</date>
-			<size>399.61 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB5032252-x64.msu</name>
-			<description>2023-11 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows6.1-kb5032252-x64_dadcc06695de0b745d5c2061d3587f6ac1b47a4b.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5032383</kb>
 			<date>2023/10/19</date>
 			<size>9.20 MB</size>
@@ -738,6 +729,15 @@
 			<name>Windows6.1-KB5032383-x64.msu</name>
 			<description>2023-11 Servicing Stack Update</description>
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows6.1-kb5032383-x64_19200212878e01f808d7c823fe66daaae8755419.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5033433</kb>
+			<date>2023/12/04</date>
+			<size>399.77 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB5033433-x64.msu</name>
+			<description>2023-12 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/12/windows6.1-kb5033433-x64_1b7699604f8c35d98fac7b5130161f218e910c23.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>
