@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/12/12" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/01/09" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -227,13 +227,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022525-x64_893d7c29cdbe1e4f342030cc5b2ff3452bcee112.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5032001</kb>
-			<date>2023/10/04</date>
-			<size>24.94 MB</size>
+			<kb>KB5033900</kb>
+			<date>2023/12/04</date>
+			<size>24.95 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB5032001-x64.msu</name>
-			<description>2023-11 Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/10/windows8.1-kb5032001-x64_0ad7ff4a852c8cc4e8d3234abe41feb75de4bef2.msu</url>
+			<name>Windows8.1-KB5033900-x64.msu</name>
+			<description>2024-01 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/12/windows8.1-kb5033900-x64_d4996a95c6ca150e9f3a780441ee5010a8d80e8b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -416,13 +416,13 @@
 			<url>https://download.microsoft.com/download/6/1/5/615B8D87-A02C-485E-B9B5-D6F4AEB52D78/Windows8.1-KB3021910-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5032308</kb>
-			<date>2023/10/19</date>
-			<size>10.49 MB</size>
+			<kb>KB5034587</kb>
+			<date>2023/12/20</date>
+			<size>10.48 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB5032308-x64.msu</name>
-			<description>2023-11 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows8.1-kb5032308-x64_dc1a4ccece3d1ebc077aa331d14f9b7f89ff7337.msu</url>
+			<name>Windows8.1-KB5034587-x64.msu</name>
+			<description>2024-01 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/01/windows8.1-kb5034587-x64_f4ede08e4bf6325900c15f4d00eb7bb905cc8c6b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -1271,15 +1271,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/htfx/2015/03/windows8.1-kb3022776-v3-x64_066559576e9c9439e74b62271c06ae3a80ba0f76.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3023869</kb>
-			<date>2015/02/08</date>
-			<size>1.55 MB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3023869-v4-x64.msu</name>
-			<description>System crash when a WPF driver calls the FwpsConstructIpHeaderForTransportPacket0 function</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/03/windows8.1-kb3023869-v4-x64_0e3e08eef485cc4c8741599c142e7a8c99f457f5.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3024260</kb>
 			<date>2014/12/11</date>
 			<size>632 KB</size>
@@ -1820,22 +1811,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows8.1-kb5027128-x64-ndp48_269d2279069f93c4c4cfe98d9ca7cc3545e8cdff.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031994</kb>
-			<date>2023/11/01</date>
-			<size>55.86 MB</size>
+			<kb>KB5033915</kb>
+			<date>2023/12/08</date>
+			<size>57.97 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5031994-x64-NDP48.msu</name>
-			<description>2023-11 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows8.1-kb5031994-x64-ndp48_18260b623125b037151a4c9b78a20920be9f770a.msu</url>
+			<name>Windows8.1-KB5033915-x64-NDP48.msu</name>
+			<description>2024-01 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/12/windows8.1-kb5033915-x64-ndp48_fe6dcbe0dadca2a7ffa5daaf12656e9231172693.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5033420</kb>
-			<date>2023/12/04</date>
-			<size>586.14 MB</size>
+			<kb>KB5034171</kb>
+			<date>2024/01/03</date>
+			<size>587.36 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5033420-x64.msu</name>
-			<description>2023-12 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/12/windows8.1-kb5033420-x64_97ff216ed399db592897a0641453b6a3f9bcba99.msu</url>
+			<name>Windows8.1-KB5034171-x64.msu</name>
+			<description>2024-01 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/01/windows8.1-kb5034171-x64_39c35e31b711805bfda6ff10025d0a7df265cb1a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

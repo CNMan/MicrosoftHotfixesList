@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/12/12" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/01/09" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002209</kb>
@@ -299,13 +299,13 @@
 			<url>https://download.microsoft.com/download/d/a/f/daf55ed5-26a5-4e91-9e12-70b94e765680/oleo2016-kb4464587-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484434</kb>
-			<date>2023/07/27</date>
-			<size>39.79 MB</size>
-			<category>Security</category>
-			<name>onenote2016-kb4484434-fullfile-x86-glb.exe</name>
+			<kb>KB5002500</kb>
+			<date>2023/12/27</date>
+			<size>39.80 MB</size>
+			<category>General</category>
+			<name>onenote2016-kb5002500-fullfile-x86-glb.exe</name>
 			<description>Microsoft OneNote 2016</description>
-			<url>https://download.microsoft.com/download/7/d/6/7d63116c-085d-4fe5-9535-fa18ae4e1f25/onenote2016-kb4484434-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/9/8/e/98e0a37e-161a-4063-a9ac-b4cdee1068da/onenote2016-kb5002500-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114524</kb>
@@ -534,12 +534,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB4444444</kb>
-			<date>2023/12/12</date>
-			<size>3.31 KB</size>
+			<date>2024/01/09</date>
+			<size>3.56 KB</size>
 			<category>Security</category>
-			<name>WU-SecurityUpdates-20231212.txt</name>
+			<name>WU-SecurityUpdates-20240109.txt</name>
 			<description>Info about WU satisfy updates</description>
-			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20231212.txt</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20240109.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>

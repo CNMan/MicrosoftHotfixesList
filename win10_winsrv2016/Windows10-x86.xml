@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2023/12/12" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/01/09" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -29,15 +29,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x86_d38ebe43baeabaef927675c7ff2295843f19a077.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031989</kb>
-			<date>2023/11/01</date>
-			<size>32.24 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5031989-x86-NDP48.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5031989-x86-ndp48_06b1c4bd768470aa7d2abecdee0981b8850d2cad.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5032391</kb>
 			<date>2023/11/05</date>
 			<size>5.36 MB</size>
@@ -47,13 +38,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows10.0-kb5032391-x86_207416cc435db64b037d353a8693ccdaf83144fd.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5033373</kb>
-			<date>2023/12/04</date>
-			<size>908.53 MB</size>
+			<kb>KB5033910</kb>
+			<date>2023/12/08</date>
+			<size>32.36 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5033373-x86.msu</name>
+			<name>Windows10.0-KB5033910-x86-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/12/windows10.0-kb5033910-x86-ndp48_bdbda668c810fd579b4a409ec09933d72c995110.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5034119</kb>
+			<date>2024/01/04</date>
+			<size>909.23 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5034119-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/12/windows10.0-kb5033373-x86_33926beaf8fc46b5271fe0e625f0da9512a8fbc5.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/01/windows10.0-kb5034119-x86_bc12c8bc00fed6d7fc0cf1a952fc6b2cf08b7e46.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -83,22 +83,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005112-x86_9c52dee3181a27bdc2a3f7dbbc8391c081c6871d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031990</kb>
-			<date>2023/11/01</date>
-			<size>47.47 MB</size>
+			<kb>KB5033911</kb>
+			<date>2023/12/08</date>
+			<size>47.63 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5031990-x86-NDP48.msu</name>
+			<name>Windows10.0-KB5033911-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5031990-x86-ndp48_0451873ceaa1037d85900d40cec6bbcb5f830d6b.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/12/windows10.0-kb5033911-x86-ndp48_fd0408bad44b3b99714854a9849f820417c4fc15.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5033371</kb>
-			<date>2023/12/04</date>
-			<size>342.71 MB</size>
+			<kb>KB5034127</kb>
+			<date>2024/01/02</date>
+			<size>343.76 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5033371-x86.msu</name>
+			<name>Windows10.0-KB5034127-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/12/windows10.0-kb5033371-x86_ebc3cf2db4d94bce8050c0162556380ee5f84588.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/01/windows10.0-kb5034127-x86_d2a02aed1a2a0bc28b77e5c4bc324e3c318c03c6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -119,22 +119,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/10/ssu-19041.3562-x86_5757db67f982216ee2f5973f4b3cfddbcae916b7.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5031988</kb>
-			<date>2023/11/01</date>
-			<size>44.63 MB</size>
+			<kb>KB5034468</kb>
+			<date>2023/12/27</date>
+			<size>45.02 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5031988-x86-NDP48.msu</name>
+			<name>Windows10.0-KB5034468-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/11/windows10.0-kb5031988-x86-ndp48_5840121937ccdad5cf19dd480cb9ab7445d9ac96.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/12/windows10.0-kb5034468-x86-ndp48_9c8481f6970416115e753021461235eb54b912cd.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5033372</kb>
-			<date>2023/12/04</date>
-			<size>434.03 MB</size>
+			<kb>KB5034203</kb>
+			<date>2024/01/22</date>
+			<size>434.08 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5033372-x86.msu</name>
+			<name>Windows10.0-KB5034203-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/12/windows10.0-kb5033372-x86_46b8a47346e75f4a7bb1b3535f159c32382b6c42.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/01/windows10.0-kb5034203-x86_334191b7b37df3c36cd5054b5c9182efbe538c39.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>
