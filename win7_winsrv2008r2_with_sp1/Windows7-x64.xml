@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/01/09" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/02/13" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -695,13 +695,13 @@
 			<url>https://dl.dropboxusercontent.com/s/54af6h05qo96s9m/Last-Official-ESU.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5033916</kb>
-			<date>2023/12/08</date>
-			<size>42.36 MB</size>
+			<kb>KB5034615</kb>
+			<date>2024/01/12</date>
+			<size>42.46 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5033916-x64.exe</name>
-			<description>2024-01 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/12/ndp48-kb5033916-x64_393d85c3d68d11ca34b70050a5f338bde688a117.exe</url>
+			<name>NDP48-KB5034615-x64.exe</name>
+			<description>2024-02 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2024/01/ndp48-kb5034615-x64_b4c20276de04cd381619fd9a228c160735a2cd89.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -713,13 +713,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5032383</kb>
-			<date>2023/10/19</date>
-			<size>9.20 MB</size>
+			<kb>KB5034865</kb>
+			<date>2024/01/09</date>
+			<size>9.21 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5032383-x64.msu</name>
-			<description>2023-11 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/windows6.1-kb5032383-x64_19200212878e01f808d7c823fe66daaae8755419.msu</url>
+			<name>Windows6.1-KB5034865-x64.msu</name>
+			<description>2024-02 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/02/windows6.1-kb5034865-x64_24eeeaffa80c1fdde829f2736183156a2ec455c6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5033899</kb>
@@ -731,13 +731,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/12/windows6.1-kb5033899-x64_9091bf70372797831005a6fe0a9d85285c6771d1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5034169</kb>
-			<date>2023/12/22</date>
-			<size>401.11 MB</size>
+			<kb>KB5034831</kb>
+			<date>2024/01/23</date>
+			<size>401.01 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5034169-x64.msu</name>
-			<description>2024-01 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/01/windows6.1-kb5034169-x64_35389aea632917d5a36df18b992484c73b86cccd.msu</url>
+			<name>Windows6.1-KB5034831-x64.msu</name>
+			<description>2024-02 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/02/windows6.1-kb5034831-x64_25f157afdf6712eee35a3f7cfd0b4ced4bf80ec6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>
