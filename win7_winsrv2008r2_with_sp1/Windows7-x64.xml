@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/02/13" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/03/12" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -731,13 +731,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/12/windows6.1-kb5033899-x64_9091bf70372797831005a6fe0a9d85285c6771d1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5034831</kb>
-			<date>2024/01/23</date>
-			<size>401.01 MB</size>
+			<kb>KB5035888</kb>
+			<date>2024/02/27</date>
+			<size>402.13 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5034831-x64.msu</name>
-			<description>2024-02 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/02/windows6.1-kb5034831-x64_25f157afdf6712eee35a3f7cfd0b4ced4bf80ec6.msu</url>
+			<name>Windows6.1-KB5035888-x64.msu</name>
+			<description>2024-03 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/03/windows6.1-kb5035888-x64_5f50fa6a5e80f4715e5bbe8a87af36182117a1e6.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

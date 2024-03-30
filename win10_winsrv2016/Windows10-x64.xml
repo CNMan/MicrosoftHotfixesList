@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/02/13" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/03/12" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -38,22 +38,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/01/windows10.0-kb5034614-x64-ndp48_57fe0d79c9a52b7e7d5295c935350c6bf980495e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5034767</kb>
-			<date>2024/02/05</date>
-			<size>1.58 GB</size>
+			<kb>KB5034862</kb>
+			<date>2024/03/04</date>
+			<size>11.69 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5034767-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/02/windows10.0-kb5034767-x64_f9031d7e8a8d79d1b6c51ded2dd22527eebacdc2.msu</url>
+			<name>windows10.0-kb5035962-x64_153effc8090bf97d75246c19a95e0b5582e3b1d7.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/03/windows10.0-kb5035962-x64_153effc8090bf97d75246c19a95e0b5582e3b1d7.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5034862</kb>
-			<date>2024/02/05</date>
-			<size>11.66 MB</size>
+			<kb>KB5035855</kb>
+			<date>2024/03/04</date>
+			<size>1.58 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5034862-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/02/windows10.0-kb5034862-x64_9caea9afed955d3a38490a865aa1418a464a246d.msu</url>
+			<name>Windows10.0-KB5035855-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/03/windows10.0-kb5035855-x64_e8a751d90de714d200f1a1491d4d098323e4c2db.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -92,13 +92,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/01/windows10.0-kb5034624-x64-ndp48_9aaf1ded061cdc7fd9107501a2a590835f33540d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5034768</kb>
-			<date>2024/02/05</date>
-			<size>623.63 MB</size>
+			<kb>KB5035849</kb>
+			<date>2024/03/04</date>
+			<size>645.11 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5034768-x64.msu</name>
+			<name>Windows10.0-KB5035849-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/02/windows10.0-kb5034768-x64_04b794598371fdc01bb5840c68487388ca029ad5.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/03/windows10.0-kb5035849-x64_eb960a140cd0ba04dd175df1b3268295295bfefa.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -119,22 +119,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/10/ssu-19041.3562-x64_de23c91f483b2e609cec3e4a995639d13205f867.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5034468</kb>
-			<date>2023/12/27</date>
-			<size>70.21 MB</size>
+			<kb>KB5036036</kb>
+			<date>2024/03/13</date>
+			<size>70.16 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5034468-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5036036-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2023/12/windows10.0-kb5034468-x64-ndp48_97594b5cf615541cde5ffd62d7b9b44ea73c873f.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/03/windows10.0-kb5036036-x64-ndp48_1eadea58a2343e48fab596793ad1caa2735de047.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5034843</kb>
-			<date>2024/02/26</date>
-			<size>818.45 MB</size>
+			<kb>KB5035941</kb>
+			<date>2024/03/20</date>
+			<size>819.19 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5034843-x64.msu</name>
+			<name>Windows10.0-KB5035941-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2024/02/windows10.0-kb5034843-x64_3ea45debbd7ceb7208ff7b24ab611f6bdee47df9.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/03/windows10.0-kb5035941-x64_ae10e283549475067d2e4085d76a2cc1b5cf51d8.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>

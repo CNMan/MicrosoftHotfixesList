@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/02/13" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/03/12" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002209</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002536</kb>
-			<date>2024/01/31</date>
-			<size>131.60 MB</size>
-			<category>Security</category>
-			<name>excel2016-kb5002536-fullfile-x86-glb.exe</name>
+			<kb>KB5002569</kb>
+			<date>2024/02/29</date>
+			<size>131.59 MB</size>
+			<category>General</category>
+			<name>excel2016-kb5002569-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/e/9/f/e9fe612a-67ca-43a4-a543-4fe20545624f/excel2016-kb5002536-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/b/9/2/b928b102-ce29-4da4-b952-1b987782df3d/excel2016-kb5002569-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -452,13 +452,13 @@
 			<url>https://download.microsoft.com/download/d/8/f/d8f0e12b-9f3d-4b89-a66f-faeaa8713241/publisher2016-kb5002492-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002458</kb>
-			<date>2023/07/25</date>
+			<kb>KB5002466</kb>
+			<date>2024/02/29</date>
 			<size>2.36 MB</size>
 			<category>General</category>
-			<name>riched202016-kb5002458-fullfile-x86-glb.exe</name>
+			<name>riched202016-kb5002466-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (RichEdit 8.0)</description>
-			<url>https://download.microsoft.com/download/c/0/9/c09ec653-4a67-4b7f-a017-b0f413f074b5/riched202016-kb5002458-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/f/f/7/ff7f2d95-b743-47b8-af61-12e4ff95ead7/riched202016-kb5002466-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4032236</kb>
@@ -506,13 +506,13 @@
 			<url>https://download.microsoft.com/download/6/2/5/625b5006-3ab0-4fee-8f0e-35c416348d89/vbe72016-kb5002251-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002491</kb>
-			<date>2024/01/31</date>
+			<kb>KB5002565</kb>
+			<date>2024/02/29</date>
 			<size>59.88 MB</size>
 			<category>Security</category>
-			<name>visio2016-kb5002491-fullfile-x86-glb.exe</name>
+			<name>visio2016-kb5002565-fullfile-x86-glb.exe</name>
 			<description>Microsoft Visio 2016</description>
-			<url>https://download.microsoft.com/download/e/b/6/eb6adbf7-3a69-485c-8eb9-776099e92e9c/visio2016-kb5002491-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/d/9/0/d90c5dbe-ed9c-4b0c-afd4-bc0912d5bee5/visio2016-kb5002565-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2920709</kb>
@@ -534,12 +534,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB4444444</kb>
-			<date>2024/02/13</date>
-			<size>2.81 KB</size>
+			<date>2024/03/12</date>
+			<size>3.06 KB</size>
 			<category>Security</category>
-			<name>WU-SecurityUpdates-20240213.txt</name>
+			<name>WU-SecurityUpdates-20240312.txt</name>
 			<description>Info about WU satisfy updates</description>
-			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20240213.txt</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20240312.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>
