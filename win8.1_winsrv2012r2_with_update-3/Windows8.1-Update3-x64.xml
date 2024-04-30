@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/03/12" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/04/09" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -227,13 +227,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022525-x64_893d7c29cdbe1e4f342030cc5b2ff3452bcee112.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5033900</kb>
-			<date>2023/12/04</date>
-			<size>24.95 MB</size>
+			<kb>KB5036627</kb>
+			<date>2024/03/08</date>
+			<size>25.76 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB5033900-x64.msu</name>
-			<description>2024-01 Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/12/windows8.1-kb5033900-x64_d4996a95c6ca150e9f3a780441ee5010a8d80e8b.msu</url>
+			<name>Windows8.1-KB5036627-x64.msu</name>
+			<description>2024-04 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/03/windows8.1-kb5036627-x64_1eed50c5bed0a9ad174815f3a69913658245f0f8.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -416,13 +416,13 @@
 			<url>https://download.microsoft.com/download/6/1/5/615B8D87-A02C-485E-B9B5-D6F4AEB52D78/Windows8.1-KB3021910-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5035968</kb>
-			<date>2024/02/13</date>
-			<size>10.52 MB</size>
+			<kb>KB5037021</kb>
+			<date>2024/04/05</date>
+			<size>10.53 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB5035968-x64.msu</name>
-			<description>2024-03 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/03/windows8.1-kb5035968-x64_10616d25526e7d8f9cae75c319d5445ca47d9fe0.msu</url>
+			<name>Windows8.1-KB5037021-x64.msu</name>
+			<description>2024-04 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/04/windows8.1-kb5037021-x64_b10d07ca6934ae36356c9e49127e31bded3decd5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -1811,22 +1811,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows8.1-kb5027128-x64-ndp48_269d2279069f93c4c4cfe98d9ca7cc3545e8cdff.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5034617</kb>
-			<date>2024/01/12</date>
-			<size>55,69 MB</size>
+			<kb>KB5036614</kb>
+			<date>2024/03/25</date>
+			<size>56.08 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5034617-x64-NDP48.msu</name>
-			<description>2024-02 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2024/01/windows8.1-kb5034617-x64-ndp48_ddeb0d682c40aa0bf9d825a8270a6b41bf6bba21.msu</url>
+			<name>Windows8.1-KB5036614-x64-NDP48.msu</name>
+			<description>2024-04 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/03/windows8.1-kb5036614-x64-ndp48_566300613e4c34a0b38610ca49d8a172617851f8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5035885</kb>
-			<date>2024/03/01</date>
-			<size>586.97 MB</size>
+			<kb>KB5036960</kb>
+			<date>2024/04/05</date>
+			<size>592.38 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5035885-x64.msu</name>
-			<description>2024-03 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/03/windows8.1-kb5035885-x64_a891ae459c9657edc2ba495c7c5fa7c95741fc40.msu</url>
+			<name>Windows8.1-KB5036960-x64.msu</name>
+			<description>2024-04 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/04/windows8.1-kb5036960-x64_97962375e6eb5e08d5d84fd70e354cd472d392fd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

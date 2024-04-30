@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/03/12" architecture="x64" version="Windows11">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/04/09" architecture="x64" version="Windows11">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -20,40 +20,40 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2021/11/windows10.0-kb5007575-x64_28e206f7d3a99eb798dfa403e6439dfb5e358e16.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5034625</kb>
-			<date>2024/01/04</date>
-			<size>66.23 MB</size>
+			<kb>KB5036611</kb>
+			<date>2024/03/27</date>
+			<size>66.88 MB</size>
 			<category>General/22000</category>
-			<name>Windows10.0-KB5034625-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5036611-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Version 21H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/01/windows10.0-kb5034625-x64-ndp48_32ab81887e4182d7460f075f3adabf5a490938ba.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/03/windows10.0-kb5036611-x64-ndp48_e1dd1489039f184ef463530de3b91ffa284248c8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5035854</kb>
-			<date>2024/03/05</date>
-			<size>381.87 MB</size>
+			<kb>KB5036894</kb>
+			<date>2024/04/06</date>
+			<size>395.10 MB</size>
 			<category>General/22000</category>
-			<name>Windows10.0-KB5035854-x64.msu</name>
+			<name>Windows10.0-KB5036894-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Version 21H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/03/windows10.0-kb5035854-x64_7f325ea49a291299d7ce24aca5c438f3b4f94cad.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/04/windows10.0-kb5036894-x64_b9e30678191b417e7c57c388e2361add4518847e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5035942</kb>
-			<date>2024/03/26</date>
-			<size>679.23 MB</size>
+			<kb>KB5037591</kb>
+			<date>2024/04/02</date>
+			<size>66.50 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5035942-x64.msu</name>
-			<description>Cumulative Update for Windows 11 Versions 22H2-23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/396ddabf-b27a-451e-a898-31d0427a36f7/public/windows11.0-kb5035942-x64_3f37174fadabd9d29ffe92a92b3422557586f645.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5036035</kb>
-			<date>2024/03/13</date>
-			<size>62.73 MB</size>
-			<category>General/22621</category>
-			<name>Windows11.0-KB5036035-x64-NDP481.msu</name>
+			<name>Windows11.0-KB5037591-x64-NDP481.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Version 22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/03/windows11.0-kb5036035-x64-ndp481_dafbc93db37227d7601e8c5b82002386f4bdc33f.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/04/windows11.0-kb5037591-x64-ndp481_c9be84bc9c76e3869fdde0a02c610796fb3d05ce.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5036980</kb>
+			<date>2024/04/23</date>
+			<size>712.91 MB</size>
+			<category>General/22621</category>
+			<name>Windows11.0-KB5036980-x64.msu</name>
+			<description>Cumulative Update for Windows 11 Versions 22H2-23H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2d5c57ac-c22e-4ab9-8309-4c911ee9df9f/public/windows11.0-kb5036980-x64_6bfd0dfab47b1e42a5235ebff07e37700b72269c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5027397</kb>
