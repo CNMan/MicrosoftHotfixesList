@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/04/09" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/05/14" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -695,13 +695,13 @@
 			<url>https://dl.dropboxusercontent.com/s/54af6h05qo96s9m/Last-Official-ESU.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5036615</kb>
-			<date>2024/03/25</date>
-			<size>42.48 MB</size>
+			<kb>KB5037916</kb>
+			<date>2024/04/16</date>
+			<size>42.47 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5036615-x64.exe</name>
-			<description>2024-04 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/03/ndp48-kb5036615-x64_c7e2b91d7dfac67a7aa5b578a5246d364662eb4a.exe</url>
+			<name>NDP48-KB5037916-x64.exe</name>
+			<description>2024-05 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/04/ndp48-kb5037916-x64_95c5e584ec5b660a3fa49393b56264f01a589b91.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -731,13 +731,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/03/windows6.1-kb5036626-x64_76d19f57aad7610a25f854daff521a38d922a14d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5036967</kb>
-			<date>2024/04/04</date>
-			<size>404.11 MB</size>
+			<kb>KB5037780</kb>
+			<date>2024/05/06</date>
+			<size>403.85 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5036967-x64.msu</name>
-			<description>2024-04 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/04/windows6.1-kb5036967-x64_57fd58edaa38d55e519078339216d4af9d60fe70.msu</url>
+			<name>Windows6.1-KB5037780-x64.msu</name>
+			<description>2024-05 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/05/windows6.1-kb5037780-x64_4e914a4375d9be5c49d6ac334974447c6c907763.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

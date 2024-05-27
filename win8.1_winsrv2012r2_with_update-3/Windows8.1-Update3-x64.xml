@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/04/09" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/05/14" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1811,22 +1811,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows8.1-kb5027128-x64-ndp48_269d2279069f93c4c4cfe98d9ca7cc3545e8cdff.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5036614</kb>
-			<date>2024/03/25</date>
-			<size>56.08 MB</size>
+			<kb>KB5037823</kb>
+			<date>2024/05/06</date>
+			<size>591.43 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5036614-x64-NDP48.msu</name>
-			<description>2024-04 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/03/windows8.1-kb5036614-x64-ndp48_566300613e4c34a0b38610ca49d8a172617851f8.msu</url>
+			<name>Windows8.1-KB5037823-x64.msu</name>
+			<description>2024-05 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/05/windows8.1-kb5037823-x64_21508e53d030aa154b0a9645b9733fc0e9c969f7.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5036960</kb>
-			<date>2024/04/05</date>
-			<size>592.38 MB</size>
+			<kb>KB5037923</kb>
+			<date>2024/04/11</date>
+			<size>57.40 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5036960-x64.msu</name>
-			<description>2024-04 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/04/windows8.1-kb5036960-x64_97962375e6eb5e08d5d84fd70e354cd472d392fd.msu</url>
+			<name>Windows8.1-KB5037923-x64-NDP48.msu</name>
+			<description>2024-05 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/04/windows8.1-kb5037923-x64-ndp48_b13cc0c30f5bc4cb832717dae599d4c76466668d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

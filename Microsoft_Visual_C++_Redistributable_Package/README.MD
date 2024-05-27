@@ -115,5 +115,4 @@ https://download.microsoft.com/download/6/5/6/6568c67b-822d-4c51-bf3f-c6cabb99ec
 
 除了以上官方地址外，也可以安装MDL大神abbodi1406打包的版本
 
-[[Repack] Visual C++ Redistributable Runtimes [2018-07-26]](https://forums.mydigitallife.net/threads/repack-visual-c-redistributable-runtimes-2018-07-26.76588/)
-
+https://github.com/abbodi1406/vcredist/releases
