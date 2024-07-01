@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/05/14" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/06/11" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -713,15 +713,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5034865</kb>
-			<date>2024/01/09</date>
-			<size>9.21 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB5034865-x64.msu</name>
-			<description>2024-02 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/02/windows6.1-kb5034865-x64_24eeeaffa80c1fdde829f2736183156a2ec455c6.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5036626</kb>
 			<date>2024/03/08</date>
 			<size>24.22 MB</size>
@@ -731,13 +722,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/03/windows6.1-kb5036626-x64_76d19f57aad7610a25f854daff521a38d922a14d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5037780</kb>
-			<date>2024/05/06</date>
-			<size>403.85 MB</size>
+			<kb>KB5039289</kb>
+			<date>2024/06/05</date>
+			<size>404.45 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5037780-x64.msu</name>
-			<description>2024-05 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/05/windows6.1-kb5037780-x64_4e914a4375d9be5c49d6ac334974447c6c907763.msu</url>
+			<name>Windows6.1-KB5039289-x64.msu</name>
+			<description>2024-06 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/06/windows6.1-kb5039289-x64_892f46648c47268db83c99e66de1ab4b95b1774c.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5039339</kb>
+			<date>2024/05/15</date>
+			<size>9.21 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB5039339-x64.msu</name>
+			<description>2024-06 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows6.1-kb5039339-x64_f62846508976a6e5325ab1dca0783f9b3a60a564.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>

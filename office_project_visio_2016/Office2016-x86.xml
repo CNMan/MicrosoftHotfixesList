@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/05/14" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/06/11" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002525</kb>
@@ -173,13 +173,13 @@
 			<url>https://download.microsoft.com/download/F/2/F/F2F098E4-E25C-4F2D-A11B-B29F37512AC9/kohhc2016-kb3191929-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002181</kb>
-			<date>2024/01/31</date>
+			<kb>KB5002567</kb>
+			<date>2024/05/30</date>
 			<size>84.07 MB</size>
-			<category>Security</category>
-			<name>lync2016-kb5002181-fullfile-x86-glb.exe</name>
+			<category>General</category>
+			<name>lync2016-kb5002567-fullfile-x86-glb.exe</name>
 			<description>Microsoft Skype for Business 2016</description>
-			<url>https://download.microsoft.com/download/9/7/6/9760501b-c52f-4bc1-81bb-14ac685c5e72/lync2016-kb5002181-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/e/9/8/e98edf97-5d75-45f7-b7bf-28c427b71a82/lync2016-kb5002567-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2920727</kb>
@@ -200,22 +200,22 @@
 			<url>https://download.microsoft.com/download/5/f/6/5f69e581-96c0-4db0-b421-69d448dff763/msmipc2016-kb3191869-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002572</kb>
-			<date>2024/03/28</date>
-			<size>128.65 MB</size>
-			<category>General</category>
-			<name>mso2016-kb5002572-fullfile-x86-glb.exe</name>
+			<kb>KB5002591</kb>
+			<date>2024/05/30</date>
+			<size>128.66 MB</size>
+			<category>Security</category>
+			<name>mso2016-kb5002591-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/3/e/d/3ed46cab-ac5b-46ab-af95-781b2b0a853e/mso2016-kb5002572-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/9/8/1/981bb297-b17c-478e-8262-19ff0312c6e3/mso2016-kb5002591-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002467</kb>
-			<date>2024/02/05</date>
+			<kb>KB5002575</kb>
+			<date>2024/05/30</date>
 			<size>3.39 MB</size>
 			<category>Security</category>
-			<name>msodll202016-kb5002467-fullfile-x86-glb.exe</name>
+			<name>msodll202016-kb5002575-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll20-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/9/0/1/901e8206-cf41-48c0-bcf6-3125567816cf/msodll202016-kb5002467-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/f/b/2/fb2ddbda-57a1-44de-a13e-fd93bc518a82/msodll202016-kb5002575-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002522</kb>
@@ -281,13 +281,13 @@
 			<url>https://download.microsoft.com/download/4/1/1/4110BA25-C51C-429A-84B8-5F3065531549/nlgmsproof2016-kb2920717-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002452</kb>
-			<date>2024/03/28</date>
+			<kb>KB5002585</kb>
+			<date>2024/05/30</date>
 			<size>10.73 MB</size>
 			<category>General</category>
-			<name>oart2016-kb5002452-fullfile-x86-glb.exe</name>
+			<name>oart2016-kb5002585-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Office Art)</description>
-			<url>https://download.microsoft.com/download/b/9/6/b9675e1a-f334-40be-bd0e-bbdaafbfc115/oart2016-kb5002452-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/f/4/7/f471e642-0576-4cba-a71a-65bd28217617/oart2016-kb5002585-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4464587</kb>
@@ -299,13 +299,13 @@
 			<url>https://download.microsoft.com/download/d/a/f/daf55ed5-26a5-4e91-9e12-70b94e765680/oleo2016-kb4464587-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002545</kb>
-			<date>2024/03/28</date>
+			<kb>KB5002594</kb>
+			<date>2024/05/30</date>
 			<size>39.80 MB</size>
 			<category>General</category>
-			<name>onenote2016-kb5002545-fullfile-x86-glb.exe</name>
+			<name>onenote2016-kb5002594-fullfile-x86-glb.exe</name>
 			<description>Microsoft OneNote 2016</description>
-			<url>https://download.microsoft.com/download/d/0/8/d082521a-d4d4-4ae0-880d-391f3fd6d6ff/onenote2016-kb5002545-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/8/6/8/8681d042-69f6-4d00-a03c-2faa9531851f/onenote2016-kb5002594-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114524</kb>
@@ -380,13 +380,13 @@
 			<url>https://download.microsoft.com/download/B/4/8/B480C326-8984-4D40-BAA2-33F3A44F20CB/outlfltr2016-kb3115407-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002593</kb>
-			<date>2024/05/01</date>
+			<kb>KB5002600</kb>
+			<date>2024/05/30</date>
 			<size>91.66 MB</size>
-			<category>General</category>
-			<name>outlook2016-kb5002593-fullfile-x86-glb.exe</name>
+			<category>Security</category>
+			<name>outlook2016-kb5002600-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>https://download.microsoft.com/download/6/9/4/694e706a-52fb-4376-9bcc-b34cfa37df9c/outlook2016-kb5002593-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/0/c/00c6f632-4aed-41be-9579-5be29c22bfe3/outlook2016-kb5002600-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -524,22 +524,22 @@
 			<url>https://download.microsoft.com/download/b/5/6/b565982e-3f25-4ca0-bf1c-9c4773957c88/vviewer2016-kb2920709-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002571</kb>
-			<date>2024/03/28</date>
+			<kb>KB5002590</kb>
+			<date>2024/05/30</date>
 			<size>42.68 MB</size>
 			<category>General</category>
-			<name>word2016-kb5002571-fullfile-x86-glb.exe</name>
+			<name>word2016-kb5002590-fullfile-x86-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>https://download.microsoft.com/download/d/7/0/d70685ac-4ad5-42f2-b786-1937f03ed2a5/word2016-kb5002571-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/a/f/5/af521f90-d982-4c04-b698-7a4317c60030/word2016-kb5002590-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4444444</kb>
-			<date>2024/04/09</date>
-			<size>4.53 KB</size>
+			<date>2024/06/11</date>
+			<size>4.04 KB</size>
 			<category>Security</category>
-			<name>WU-SecurityUpdates-20240409.txt</name>
+			<name>WU-SecurityUpdates-20240611.txt</name>
 			<description>Info about WU satisfy updates</description>
-			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20240409.txt</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20240611.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>
