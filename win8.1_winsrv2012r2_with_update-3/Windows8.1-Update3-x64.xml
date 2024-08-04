@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/06/11" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/07/09" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -227,13 +227,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022525-x64_893d7c29cdbe1e4f342030cc5b2ff3452bcee112.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5036627</kb>
-			<date>2024/03/08</date>
-			<size>25.76 MB</size>
+			<kb>KB5039910</kb>
+			<date>2024/06/13</date>
+			<size>29.17 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB5036627-x64.msu</name>
-			<description>2024-04 Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/03/windows8.1-kb5036627-x64_1eed50c5bed0a9ad174815f3a69913658245f0f8.msu</url>
+			<name>Windows8.1-KB5039910-x64.msu</name>
+			<description>2024-07 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/06/windows8.1-kb5039910-x64_74b0624e5b17be69aefc5d7ad4e886b7b197cf37.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -416,13 +416,13 @@
 			<url>https://download.microsoft.com/download/6/1/5/615B8D87-A02C-485E-B9B5-D6F4AEB52D78/Windows8.1-KB3021910-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039340</kb>
-			<date>2024/05/15</date>
-			<size>11.38 MB</size>
+			<kb>KB5040569</kb>
+			<date>2024/06/11</date>
+			<size>10.52 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB5039340-x64.msu</name>
-			<description>2024-06 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows8.1-kb5039340-x64_26af5dec2aa695a8b74274d50525ddb6a748c07b.msu</url>
+			<name>Windows8.1-KB5040569-x64.msu</name>
+			<description>2024-07 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/07/windows8.1-kb5040569-x64_34fb2b6ce232e9ddaab4dada6f3fbb6a4c642918.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -531,6 +531,33 @@
 			<name>Windows8.1-KB3134812-x64.msu</name>
 			<description>You can't change settings from FSRM (File Server Resource Manager) GUI</description>
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134812-x64_d5557c7941726a6a21ea067146def7838d00c554.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB3015696</kb>
+			<date>2015/02/04</date>
+			<size>934 KB</size>
+			<category>Extra/WithoutESU</category>
+			<name>Windows8.1-KB3015696-x64.msu</name>
+			<description>The InputPersonalization.exe process crashes in Windows</description>
+			<url>https://download.microsoft.com/download/4/A/8/4A8CE71F-4AAF-41CD-8349-5C727E3E0A71/Windows8.1-KB3015696-x64.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB3023869</kb>
+			<date>2015/02/08</date>
+			<size>1.55 MB</size>
+			<category>Extra/WithoutESU</category>
+			<name>Windows8.1-KB3023869-v4-x64.msu</name>
+			<description>System crash when a WPF driver calls the FwpsConstructIpHeaderForTransportPacket0 function</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/03/windows8.1-kb3023869-v4-x64_0e3e08eef485cc4c8741599c142e7a8c99f457f5.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB3061817</kb>
+			<date>2015/06/12</date>
+			<size>1.94 MB</size>
+			<category>Extra/WithoutESU</category>
+			<name>Windows8.1-KB3061817-v3-x64.msu</name>
+			<description>Windows 8.1 does not prompt for a smart card when the "Interactive Logon: Require Smart Card" Group Policy Object is enabled</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/07/windows8.1-kb3061817-v3-x64_5df93efe2a0f000c21aa97bcdcbca42014a4679f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087514</kb>
@@ -1406,15 +1433,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/htfx/2015/05/windows8.1-kb3053744-x64_94cd35a43e5610689d11e4a40a3fa3dcd978f6f1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3061817</kb>
-			<date>2015/06/12</date>
-			<size>1.94 MB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3061817-v3-x64.msu</name>
-			<description>Windows 8.1 does not prompt for a smart card when the "Interactive Logon: Require Smart Card" Group Policy Object is enabled</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/07/windows8.1-kb3061817-v3-x64_5df93efe2a0f000c21aa97bcdcbca42014a4679f.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3071675</kb>
 			<date>2015/06/10</date>
 			<size>1.00 MB</size>
@@ -1811,22 +1829,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows8.1-kb5027128-x64-ndp48_269d2279069f93c4c4cfe98d9ca7cc3545e8cdff.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5037923</kb>
-			<date>2024/04/11</date>
-			<size>57.40 MB</size>
+			<kb>KB5039890</kb>
+			<date>2024/06/14</date>
+			<size>58.54 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5037923-x64-NDP48.msu</name>
-			<description>2024-05 Security and Quality Rollup for .NET Framework 4.8</description>
+			<name>Windows8.1-KB5039890-x64-NDP48.msu</name>
+			<description>2024-07 Security and Quality Rollup for .NET Framework 4.8</description>
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/04/windows8.1-kb5037923-x64-ndp48_b13cc0c30f5bc4cb832717dae599d4c76466668d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039294</kb>
-			<date>2024/06/05</date>
-			<size>592.45 MB</size>
+			<kb>KB5040456</kb>
+			<date>2024/07/03</date>
+			<size>595.13 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5039294-x64.msu</name>
-			<description>2024-06 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows8.1-kb5039294-x64_7091f1597b5d1c8a90028317afcd63fdb309ce3d.msu</url>
+			<name>Windows8.1-KB5040456-x64.msu</name>
+			<description>2024-07 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/07/windows8.1-kb5040456-x64_c576546b3d1608f128a21b78bd8b2c10300097fd.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

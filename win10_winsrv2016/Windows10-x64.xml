@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/06/11" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/07/09" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -29,31 +29,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x64_0b61d9a03db731562e0a0b49383342a4d8cbe36a.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5037926</kb>
-			<date>2024/04/11</date>
-			<size>57.44 MB</size>
+			<kb>KB5039885</kb>
+			<date>2024/06/17</date>
+			<size>57.46 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5037926-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5039885-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2024/04/windows10.0-kb5037926-x64-ndp48_b7b50a90115360b6f991162a069bc2c1d01645d5.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/06/windows10.0-kb5039885-x64-ndp48_bfa4d2aeefdb5ddd43fe417c5ddf4135be1c9837.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039214</kb>
-			<date>2024/06/08</date>
-			<size>1.59 GB</size>
+			<kb>KB5040434</kb>
+			<date>2024/07/03</date>
+			<size>1.62 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5039214-x64.msu</name>
+			<name>Windows10.0-KB5040434-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows10.0-kb5039214-x64_fbf5714e1a5885bad5f5646372740238859de2f4.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/07/windows10.0-kb5040434-x64_d54a2d3165f2f751ceee94f5a92b8ae70a82b77e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039334</kb>
-			<date>2024/05/13</date>
+			<kb>KB5040562</kb>
+			<date>2024/06/12</date>
 			<size>11.70 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5039334-x64.msu</name>
+			<name>Windows10.0-KB5040562-x64.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows10.0-kb5039334-x64_17661669ef8ddbde99cf98c23d1ed70ebf8064cf.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/07/windows10.0-kb5040562-x64_cef5da8db3d043f85378126b220a5286bcfbf25b.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -83,22 +83,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows10.0-kb5005112-x64_81d09dc6978520e1a6d44b3b15567667f83eba2c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5037933</kb>
-			<date>2024/04/11</date>
-			<size>82.00 MB</size>
+			<kb>KB5039886</kb>
+			<date>2024/06/17</date>
+			<size>88.30 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5037933-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5039886-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2024/04/windows10.0-kb5037933-x64-ndp48_1813776b55bda98cbef96f020ef55d5c96bf156c.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows10.0-kb5039886-x64-ndp48_76b9d142a5868b40a8671860990c5c5d5d433548.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039217</kb>
-			<date>2024/06/08</date>
-			<size>669.02 MB</size>
+			<kb>KB5040430</kb>
+			<date>2024/07/03</date>
+			<size>672.16 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5039217-x64.msu</name>
+			<name>Windows10.0-KB5040430-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/06/windows10.0-kb5039217-x64_bc72f4ed75c6dd7bf033b823f79533d5772769a3.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/07/windows10.0-kb5040430-x64_9879d14c817a7aec56b0ae1f73daecc7a678b3aa.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -119,22 +119,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/10/ssu-19041.3562-x64_de23c91f483b2e609cec3e4a995639d13205f867.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039299</kb>
-			<date>2024/06/24</date>
-			<size>653.42 MB</size>
+			<kb>KB5041167</kb>
+			<date>2024/06/27</date>
+			<size>76.13 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5039299-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/06/windows10.0-kb5039299-x64_865692c1c759abb9c2ba2c7d0ce9fb40849e9389.msu</url>
+			<name>Windows10.0-KB5041167-x64-NDP48.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2024/06/windows10.0-kb5041167-x64-ndp48_a3d706b52352188f24b1592cbb4315260808bc63.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039867</kb>
-			<date>2024/06/04</date>
-			<size>70.88 MB</size>
+			<kb>KB5040525</kb>
+			<date>2024/07/18</date>
+			<size>655.47 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5039867-x64-NDP48.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2024/06/windows10.0-kb5039867-x64-ndp48_b16777b3e1a9ec7891b17b5ebe682337d00a4692.msu</url>
+			<name>Windows10.0-KB5040525-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/07/windows10.0-kb5040525-x64_315b741db4a3880ad3c7868ecc2623e67d5fb54d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>

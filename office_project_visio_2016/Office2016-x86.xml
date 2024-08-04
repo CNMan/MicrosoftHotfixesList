@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/06/11" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/07/09" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002525</kb>
@@ -200,13 +200,13 @@
 			<url>https://download.microsoft.com/download/5/f/6/5f69e581-96c0-4db0-b421-69d448dff763/msmipc2016-kb3191869-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002591</kb>
-			<date>2024/05/30</date>
+			<kb>KB5002620</kb>
+			<date>2024/06/27</date>
 			<size>128.66 MB</size>
 			<category>Security</category>
-			<name>mso2016-kb5002591-fullfile-x86-glb.exe</name>
+			<name>mso2016-kb5002620-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/9/8/1/981bb297-b17c-478e-8262-19ff0312c6e3/mso2016-kb5002591-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/2/b/6/2b65fddc-6d4b-40ad-b433-ba1b63ea1697/mso2016-kb5002620-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002575</kb>
@@ -380,13 +380,13 @@
 			<url>https://download.microsoft.com/download/B/4/8/B480C326-8984-4D40-BAA2-33F3A44F20CB/outlfltr2016-kb3115407-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002600</kb>
-			<date>2024/05/30</date>
-			<size>91.66 MB</size>
+			<kb>KB5002621</kb>
+			<date>2024/06/27</date>
+			<size>91.67 MB</size>
 			<category>Security</category>
-			<name>outlook2016-kb5002600-fullfile-x86-glb.exe</name>
+			<name>outlook2016-kb5002621-fullfile-x86-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>https://download.microsoft.com/download/0/0/c/00c6f632-4aed-41be-9579-5be29c22bfe3/outlook2016-kb5002600-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/9/0/3/90368fa5-07c2-4347-8fa4-cf88ba8fbf36/outlook2016-kb5002621-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
