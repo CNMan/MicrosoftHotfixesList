@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/07/09" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/04/08" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -224,16 +224,16 @@
 			<category>Additional/NET35</category>
 			<name>Windows8.1-KB5027141-x64.msu</name>
 			<description>2023-06 Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows8.1-kb5022525-x64_893d7c29cdbe1e4f342030cc5b2ff3452bcee112.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2023/05/windows8.1-kb5027141-x64_4ee318fbb3387393407eea3ec3aaaa519ebf9f4c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039910</kb>
-			<date>2024/06/13</date>
-			<size>29.17 MB</size>
+			<kb>KB5044012</kb>
+			<date>2024/09/09</date>
+			<size>29.18 MB</size>
 			<category>Additional/NET35</category>
-			<name>Windows8.1-KB5039910-x64.msu</name>
-			<description>2024-07 Security and Quality Rollup for .NET Framework 3.5</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/06/windows8.1-kb5039910-x64_74b0624e5b17be69aefc5d7ad4e886b7b197cf37.msu</url>
+			<name>Windows8.1-KB5044012-x64.msu</name>
+			<description>2024-10 Security and Quality Rollup for .NET Framework 3.5</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2024/07/windows8.1-kb5041945-x64_a97a1a9fd87a582617afca46c78e1eb5532992da.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2976978</kb>
@@ -288,15 +288,6 @@
 			<name>Windows8.1-KB3054290-x64.msu</name>
 			<description>Start screen and modern applications are displayed unexpectedly in German Language</description>
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/htfx/2015/05/windows8.1-kb3054290-x64_e8d7c85cfcb810c0416616ff1bf16a49ed46eeed.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3066044</kb>
-			<date>2015/06/10</date>
-			<size>665 KB</size>
-			<category>Additional/WinPE</category>
-			<name>Windows8.1-KB3066044-x64.msu</name>
-			<description>Custom Tool tile is not displayed on the troubleshooting menu</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/07/windows8.1-kb3066044-x64_e2ab6f85a6f6278348b8e7efd625823658ff8bad.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3191564</kb>
@@ -416,13 +407,13 @@
 			<url>https://download.microsoft.com/download/6/1/5/615B8D87-A02C-485E-B9B5-D6F4AEB52D78/Windows8.1-KB3021910-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5040569</kb>
-			<date>2024/06/11</date>
-			<size>10.52 MB</size>
+			<kb>KB5055665</kb>
+			<date>2025/03/11</date>
+			<size>10.53 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB5040569-x64.msu</name>
-			<description>2024-07 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/07/windows8.1-kb5040569-x64_34fb2b6ce232e9ddaab4dada6f3fbb6a4c642918.msu</url>
+			<name>Windows8.1-KB5055665-x64.msu</name>
+			<description>2025-04 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows8.1-kb5055665-x64_dfa11621af869c05f448fe7b6d6c3cd02c30e0b9.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -551,6 +542,15 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/03/windows8.1-kb3023869-v4-x64_0e3e08eef485cc4c8741599c142e7a8c99f457f5.msu</url>
 		</update>
 		<update extract="0">
+			<kb>KB3027113</kb>
+			<date>2014/12/19</date>
+			<size>232 KB</size>
+			<category>Extra/WithoutESU</category>
+			<name>Windows8.1-KB3027113-x64.msu</name>
+			<description>Can't save a dump file when the system crashes and the Round Robin MPIO policy is used</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/htfx/2015/01/windows8.1-kb3027113-x64_acc242db99ebe5ddc762ddb1457e7e9b70d912cf.msu</url>
+		</update>
+		<update extract="0">
 			<kb>KB3061817</kb>
 			<date>2015/06/12</date>
 			<size>1.94 MB</size>
@@ -558,6 +558,51 @@
 			<name>Windows8.1-KB3061817-v3-x64.msu</name>
 			<description>Windows 8.1 does not prompt for a smart card when the "Interactive Logon: Require Smart Card" Group Policy Object is enabled</description>
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/07/windows8.1-kb3061817-v3-x64_5df93efe2a0f000c21aa97bcdcbca42014a4679f.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB3066044</kb>
+			<date>2015/06/10</date>
+			<size>665 KB</size>
+			<category>Extra/WithoutESU</category>
+			<name>Windows8.1-KB3066044-x64.msu</name>
+			<description>Custom Tool tile is not displayed on the troubleshooting menu</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/07/windows8.1-kb3066044-x64_e2ab6f85a6f6278348b8e7efd625823658ff8bad.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB3075872</kb>
+			<date>2015/07/13</date>
+			<size>291 KB</size>
+			<category>Extra/WithoutESU</category>
+			<name>Windows8.1-KB3075872-x64.msu</name>
+			<description>Application might stop working when it is used in Windows</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/08/windows8.1-kb3075872-x64_12e8854415281dfa631b56aa07a39c424a4b4fd0.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB3078919</kb>
+			<date>2015/07/10</date>
+			<size>333 KB</size>
+			<category>Extra/WithoutESU</category>
+			<name>Windows8.1-KB3078919-x64.msu</name>
+			<description>eMMC device is not detected as a storage device by Windows</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/08/windows8.1-kb3078919-x64_4c82485704a513472163af1ce44d243b6a5870cc.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB3109103</kb>
+			<date>2015/11/05</date>
+			<size>284 KB</size>
+			<category>Extra/WithoutESU</category>
+			<name>Windows8.1-KB3109103-x64.msu</name>
+			<description>Security update for Windows Pragmatic General Multicast (PGM) protocol: December 8, 2015</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2015/11/windows8.1-kb3109103-x64_e72f10a63ebca35733b131bfb03f8cd07575fa02.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB3145384</kb>
+			<date>2016/03/14</date>
+			<size>340 KB</size>
+			<category>Extra/WithoutESU</category>
+			<name>Windows8.1-KB3145384-x64.msu</name>
+			<description>MinDiffAreaFileSize registry value limit is increased from 3 GB to 50 GB</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3145384-x64_a65180d3f2085fec112b9932580a7ecbf982463a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087514</kb>
@@ -1325,15 +1370,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/htfx/2015/01/windows8.1-kb3024681-x64_903f7260e88bbeb9349ed6dce35b2fe8335dd637.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3027113</kb>
-			<date>2014/12/19</date>
-			<size>232 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3027113-x64.msu</name>
-			<description>Can't save a dump file when the system crashes and the Round Robin MPIO policy is used</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/htfx/2015/01/windows8.1-kb3027113-x64_acc242db99ebe5ddc762ddb1457e7e9b70d912cf.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3027174</kb>
 			<date>2015/02/11</date>
 			<size>249 KB</size>
@@ -1460,15 +1496,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/09/windows8.1-kb3073630-x64_6ac6ccf8b101da3899e8be740725536094ff02cb.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB3075872</kb>
-			<date>2015/07/13</date>
-			<size>291 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3075872-x64.msu</name>
-			<description>Application might stop working when it is used in Windows</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/08/windows8.1-kb3075872-x64_12e8854415281dfa631b56aa07a39c424a4b4fd0.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB3078627</kb>
 			<date>2015/07/08</date>
 			<size>1.54 MB</size>
@@ -1476,15 +1503,6 @@
 			<name>Windows8.1-KB3078627-x64.msu</name>
 			<description>Offline Files network shares might not be available</description>
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/09/windows8.1-kb3078627-x64_725d476e3b2008d8b5ab32af41763f5da894e675.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB3078919</kb>
-			<date>2015/07/10</date>
-			<size>333 KB</size>
-			<category>Hotfix</category>
-			<name>Windows8.1-KB3078919-x64.msu</name>
-			<description>eMMC device is not detected as a storage device by Windows</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/htfx/2015/08/windows8.1-kb3078919-x64_4c82485704a513472163af1ce44d243b6a5870cc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3082808</kb>
@@ -1829,22 +1847,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows8.1-kb5027128-x64-ndp48_269d2279069f93c4c4cfe98d9ca7cc3545e8cdff.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039890</kb>
-			<date>2024/06/14</date>
-			<size>58.54 MB</size>
+			<kb>KB5055173</kb>
+			<date>2025/03/07</date>
+			<size>58.83 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5039890-x64-NDP48.msu</name>
-			<description>2024-07 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2024/04/windows8.1-kb5037923-x64-ndp48_b13cc0c30f5bc4cb832717dae599d4c76466668d.msu</url>
+			<name>Windows8.1-KB5055173-x64-NDP48.msu</name>
+			<description>2025-04 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2025/03/windows8.1-kb5055173-x64-ndp48_cd2ff09e7b775e6f64968a4c32c3328375901c78.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5040456</kb>
-			<date>2024/07/03</date>
-			<size>595.13 MB</size>
+			<kb>KB5055557</kb>
+			<date>2025/04/06</date>
+			<size>595.58 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5040456-x64.msu</name>
-			<description>2024-07 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/07/windows8.1-kb5040456-x64_c576546b3d1608f128a21b78bd8b2c10300097fd.msu</url>
+			<name>Windows8.1-KB5055557-x64.msu</name>
+			<description>2025-04 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/04/windows8.1-kb5055557-x64_dcf073817ff8adc794e57ae190d4992f04d4a1d3.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

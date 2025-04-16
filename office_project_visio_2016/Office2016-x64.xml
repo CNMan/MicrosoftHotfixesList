@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/07/09" architecture="x64" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/04/08" architecture="x64" version="Office 2016">
 	<updates>
 		<update extract="0">
-			<kb>KB5002525</kb>
-			<date>2024/03/28</date>
-			<size>20.24 MB</size>
-			<category>General</category>
-			<name>access2016-kb5002525-fullfile-x64-glb.exe</name>
+			<kb>KB5002701</kb>
+			<date>2025/04/04</date>
+			<size>19.75 MB</size>
+			<category>Security</category>
+			<name>access2016-kb5002701-fullfile-x64-glb.exe</name>
 			<description>Microsoft Access 2016</description>
-			<url>https://download.microsoft.com/download/1/d/8/1d82c813-8039-4267-b2b4-4b2c64a1ec53/access2016-kb5002525-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/3ff1ff8e-f894-42ad-b639-936b9ba2bad1/access2016-kb5002701-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002340</kb>
-			<date>2024/03/28</date>
+			<kb>KB5002588</kb>
+			<date>2025/04/04</date>
 			<size>4.30 MB</size>
-			<category>General</category>
-			<name>ace2016-kb5002340-fullfile-x64-glb.exe</name>
+			<category>Security</category>
+			<name>ace2016-kb5002588-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Access Database Engine)</description>
-			<url>https://download.microsoft.com/download/2/c/5/2c529995-dd39-484c-871c-f267669173e8/ace2016-kb5002340-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/ae409c86-7f47-4760-99ca-9c52fb6a9da8/ace2016-kb5002588-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011259</kb>
@@ -29,13 +29,13 @@
 			<url>https://download.microsoft.com/download/8/B/D/8BD87795-E88D-4B4D-A14B-31123E273087/acewss2016-kb4011259-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB4484171</kb>
-			<date>2020/05/26</date>
-			<size>5.58 MB</size>
-			<category>General</category>
-			<name>chart2016-kb4484171-fullfile-x64-glb.exe</name>
+			<kb>KB4484432</kb>
+			<date>2025/04/04</date>
+			<size>5.59 MB</size>
+			<category>Security</category>
+			<name>chart2016-kb4484432-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Office Chart)</description>
-			<url>https://download.microsoft.com/download/a/3/1/a3179a80-d410-49c5-a9cf-856a98590277/chart2016-kb4484171-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/a1559302-3587-4ac3-a09b-59501463c165/chart2016-kb4484432-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3213551</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002587</kb>
-			<date>2024/05/01</date>
-			<size>136.48 MB</size>
+			<kb>KB5002704</kb>
+			<date>2025/04/04</date>
+			<size>136.58 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002587-fullfile-x64-glb.exe</name>
+			<name>excel2016-kb5002704-fullfile-x64-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/7/a/b/7ab40735-50c0-432d-8b10-adc4eaa90d6f/excel2016-kb5002587-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/c2823536-4b04-4fd6-aa35-fd0d0800f50f/excel2016-kb5002704-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -128,22 +128,22 @@
 			<url>https://download.microsoft.com/download/8/3/D/83D9A3A0-BD0E-4EF5-B7E0-CA1CDC6991A2/fonts2016-kb3114903-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3118335</kb>
-			<date>2022/01/26</date>
-			<size>5.68 MB</size>
+			<kb>KB5002179</kb>
+			<date>2025/01/22</date>
+			<size>5.69 MB</size>
 			<category>Security</category>
-			<name>gkall2016-kb3118335-fullfile-x64-glb.exe</name>
+			<name>gkall2016-kb5002179-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (File Verification)</description>
-			<url>https://download.microsoft.com/download/5/2/4/524fc839-4f91-474c-a9c7-6348dcca46e7/gkall2016-kb3118335-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/6/e/5/6e5a3020-f8db-475a-a9d2-8fc5131bf021/gkall2016-kb5002179-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002388</kb>
-			<date>2024/03/28</date>
+			<kb>KB5002703</kb>
+			<date>2025/04/04</date>
 			<size>3.64 MB</size>
-			<category>General</category>
-			<name>graph2016-kb5002388-fullfile-x64-glb.exe</name>
+			<category>Security</category>
+			<name>graph2016-kb5002703-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Microsoft Graph)</description>
-			<url>https://download.microsoft.com/download/5/9/6/59683dad-b0d5-4fc6-96a3-b2742ba3070f/graph2016-kb5002388-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/9aa758b7-e1b0-433f-bbf0-7f7c57c000bd/graph2016-kb5002703-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022219</kb>
@@ -191,13 +191,22 @@
 			<url>https://download.microsoft.com/download/9/1/f/91f2b389-7d0b-47c5-ac5f-c15502affc96/msmipc2016-kb3191869-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002620</kb>
-			<date>2024/06/27</date>
-			<size>250.54 MB</size>
+			<kb>KB5002700</kb>
+			<date>2025/04/04</date>
+			<size>250.57 MB</size>
 			<category>Security</category>
-			<name>mso2016-kb5002620-fullfile-x64-glb.exe</name>
+			<name>mso2016-kb5002700-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/c/6/1/c61d44a5-8ed8-48f9-ad8e-5149c8675f2d/mso2016-kb5002620-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/a5ebb961-f046-43cd-be92-68770671b062/mso2016-kb5002700-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB5002623</kb>
+			<date>2025/04/09</date>
+			<size>3.39 MB</size>
+			<category>General</category>
+			<name>msodll202016-kb5002623-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2016 (msodll20-x-none.msp)</description>
+			<url>https://download.microsoft.com/download/95c52cad-d981-49da-abf3-c6afb6806cd9/msodll202016-kb5002623-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002575</kb>
@@ -209,13 +218,13 @@
 			<url>https://download.microsoft.com/download/7/3/2/73266d8f-430f-4924-9106-7e84ad67436f/msodll202016-kb5002575-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002522</kb>
-			<date>2024/02/05</date>
+			<kb>KB5002573</kb>
+			<date>2025/04/04</date>
 			<size>8.78 MB</size>
 			<category>Security</category>
-			<name>msodll302016-kb5002522-fullfile-x64-glb.exe</name>
-			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/c/4/5/c45a3c25-b77c-4631-92fd-6d4173ad2696/msodll302016-kb5002522-fullfile-x64-glb.exe</url>
+			<name>msodll302016-kb5002573-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2016 (msodll30-x-none.msp)</description>
+			<url>https://download.microsoft.com/download/4eaafa41-d884-42b9-827a-9dd59cc081db/msodll302016-kb5002573-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002469</kb>
@@ -227,13 +236,13 @@
 			<url>https://download.microsoft.com/download/b/1/b/b1b04247-778d-42dd-9e69-5b28b8bcd1a6/msodll40ui2016-kb5002469-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002519</kb>
-			<date>2024/02/05</date>
+			<kb>KB5002635</kb>
+			<date>2024/09/30</date>
 			<size>12.29 MB</size>
 			<category>Security</category>
-			<name>msodll99l2016-kb5002519-fullfile-x64-glb.exe</name>
+			<name>msodll99l2016-kb5002635-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (msodll99l-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/c/3/5/c3526c99-24d9-4d58-b1b9-81de91f023c3/msodll99l2016-kb5002519-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/1/4/a/14aa3041-86c5-4526-83e4-edc5acf0e433/msodll99l2016-kb5002635-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4462148</kb>
@@ -290,13 +299,13 @@
 			<url>https://download.microsoft.com/download/e/d/c/edcf6d66-a78e-4ba8-87d0-681848245ea6/oleo2016-kb4464587-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002594</kb>
-			<date>2024/05/30</date>
-			<size>40.24 MB</size>
-			<category>General</category>
-			<name>onenote2016-kb5002594-fullfile-x64-glb.exe</name>
+			<kb>KB5002622</kb>
+			<date>2025/04/04</date>
+			<size>40.25 MB</size>
+			<category>Security</category>
+			<name>onenote2016-kb5002622-fullfile-x64-glb.exe</name>
 			<description>Microsoft OneNote 2016</description>
-			<url>https://download.microsoft.com/download/d/f/8/df8ecb4b-dafe-4220-8365-64e9a4aec9a7/onenote2016-kb5002594-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/86c79a63-5c16-4760-94b3-0326bf988de8/onenote2016-kb5002622-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3114524</kb>
@@ -362,13 +371,22 @@
 			<url>https://download.microsoft.com/download/C/A/B/CABA6265-DE0E-4458-A701-0BE43690D8F1/outlfltr2016-kb3115407-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002621</kb>
-			<date>2024/06/27</date>
-			<size>96.75 MB</size>
+			<kb>KB5002656</kb>
+			<date>2024/12/30</date>
+			<size>96.76 MB</size>
 			<category>Security</category>
-			<name>outlook2016-kb5002621-fullfile-x64-glb.exe</name>
+			<name>outlook2016-kb5002656-fullfile-x64-glb.exe</name>
 			<description>Microsoft Outlook 2016</description>
-			<url>https://download.microsoft.com/download/c/0/9/c0949982-5e2d-4d23-95d6-723384becdfb/outlook2016-kb5002621-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/4/d/4/4d464f83-fa75-4b31-8c8b-c2c0dfd86279/outlook2016-kb5002656-fullfile-x64-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB5002669</kb>
+			<date>2025/04/04</date>
+			<size>1.94 MB</size>
+			<category>Security</category>
+			<name>patchca2016-kb5002669-fullfile-x64-glb.exe</name>
+			<description>Microsoft Office 2016 (patchca-x-none.msp)</description>
+			<url>https://download.microsoft.com/download/4b91fc6a-b970-492a-b01c-0d1d382c0315/patchca2016-kb5002669-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB3115081</kb>
@@ -380,13 +398,13 @@
 			<url>https://download.microsoft.com/download/A/4/0/A40A6125-786B-4BDA-B893-5E09D4D0D79E/policytips2016-kb3115081-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002568</kb>
-			<date>2024/03/28</date>
+			<kb>KB5002632</kb>
+			<date>2024/12/30</date>
 			<size>30.93 MB</size>
 			<category>General</category>
-			<name>powerpoint2016-kb5002568-fullfile-x64-glb.exe</name>
+			<name>powerpoint2016-kb5002632-fullfile-x64-glb.exe</name>
 			<description>Microsoft PowerPoint 2016</description>
-			<url>https://download.microsoft.com/download/9/0/3/90302e4e-ced2-4b9e-bf3b-3d0241a30736/powerpoint2016-kb5002568-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/e/5/5/e5574cdd-7baa-4f16-8b2b-1c0510547e2f/powerpoint2016-kb5002632-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011621</kb>
@@ -398,13 +416,13 @@
 			<url>https://download.microsoft.com/download/f/6/b/f6b9a1f4-2200-4b23-839a-45994a08c663/ppaddin2016-kb4011621-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002530</kb>
-			<date>2024/01/31</date>
-			<size>36.35 MB</size>
-			<category>General</category>
-			<name>project2016-kb5002530-fullfile-x64-glb.exe</name>
+			<kb>KB5002652</kb>
+			<date>2024/12/06</date>
+			<size>36.37 MB</size>
+			<category>Security</category>
+			<name>project2016-kb5002652-fullfile-x64-glb.exe</name>
 			<description>Microsoft Project 2016</description>
-			<url>https://download.microsoft.com/download/5/1/0/510b98ee-3ea4-4598-bab7-77c7ffe73606/project2016-kb5002530-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/d/4/a/d4ae7529-de26-444a-b504-16e7be90a4de/project2016-kb5002652-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4464538</kb>
@@ -425,13 +443,13 @@
 			<url>https://download.microsoft.com/download/1/4/4/1441bd37-2a43-43cd-b3a6-41814f3bad35/protocolhndlr2016-kb4484104-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002492</kb>
-			<date>2024/01/31</date>
-			<size>34.97 MB</size>
+			<kb>KB5002566</kb>
+			<date>2024/08/26</date>
+			<size>35.00 MB</size>
 			<category>Security</category>
-			<name>publisher2016-kb5002492-fullfile-x64-glb.exe</name>
+			<name>publisher2016-kb5002566-fullfile-x64-glb.exe</name>
 			<description>Microsoft Publisher 2016</description>
-			<url>https://download.microsoft.com/download/0/4/c/04c267ad-f554-43b7-ac2b-f043b8d09b3d/publisher2016-kb5002492-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/5/d/0/5d0360e7-8dee-481d-a363-e3c8efc16e1f/publisher2016-kb5002566-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002466</kb>
@@ -452,13 +470,13 @@
 			<url>https://download.microsoft.com/download/2/6/2/2624CF37-6D5E-4985-B10C-499F03331D8D/seguiemj2016-kb4032236-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB3141456</kb>
-			<date>2019/07/17</date>
-			<size>1.80 MB</size>
-			<category>General</category>
-			<name>setupexe2016-kb3141456-fullfile-x64-glb.exe</name>
+			<kb>KB4475587</kb>
+			<date>2024/12/06</date>
+			<size>1.90 MB</size>
+			<category>Security</category>
+			<name>setupexe2016-kb4475587-fullfile-x64-glb.exe</name>
 			<description>Microsoft Office 2016 (Office Setup Handler)</description>
-			<url>https://download.microsoft.com/download/1/9/7/1972C494-5E52-405B-88D2-253C4D4A67ED/setupexe2016-kb3141456-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/c/6/6/c6640ad1-0e28-4244-9929-5d64d0f4eebb/setupexe2016-kb4475587-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002244</kb>
@@ -488,13 +506,13 @@
 			<url>https://download.microsoft.com/download/2/7/c/27c4d3f5-2bbe-4ff1-b623-b26c16e35961/vbe72016-kb5002251-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002565</kb>
-			<date>2024/02/29</date>
-			<size>66.82 MB</size>
+			<kb>KB5002634</kb>
+			<date>2024/08/26</date>
+			<size>66.88 MB</size>
 			<category>Security</category>
-			<name>visio2016-kb5002565-fullfile-x64-glb.exe</name>
+			<name>visio2016-kb5002634-fullfile-x64-glb.exe</name>
 			<description>Microsoft Visio 2016</description>
-			<url>https://download.microsoft.com/download/f/9/e/f9e87faf-0225-45be-9e34-002f0b9c9d09/visio2016-kb5002565-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/0/c/0/0c0617ff-3c7d-48a3-b9b1-1454f2441186/visio2016-kb5002634-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB2920709</kb>
@@ -506,22 +524,22 @@
 			<url>https://download.microsoft.com/download/c/8/0/c807ab22-b4c9-4f9d-a3e5-b9f47626f7a3/vviewer2016-kb2920709-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002590</kb>
-			<date>2024/05/30</date>
-			<size>47.55 MB</size>
-			<category>General</category>
-			<name>word2016-kb5002590-fullfile-x64-glb.exe</name>
+			<kb>KB5002702</kb>
+			<date>2025/04/04</date>
+			<size>50.31 MB</size>
+			<category>Security</category>
+			<name>word2016-kb5002702-fullfile-x64-glb.exe</name>
 			<description>Microsoft Word 2016</description>
-			<url>https://download.microsoft.com/download/e/7/1/e71154b0-2c22-4e9e-bfce-df69cc3ca5bc/word2016-kb5002590-fullfile-x64-glb.exe</url>
+			<url>https://download.microsoft.com/download/f817e5f0-1716-4005-b739-b2e510a7af46/word2016-kb5002702-fullfile-x64-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4444444</kb>
-			<date>2024/06/11</date>
-			<size>4.04 KB</size>
+			<date>2025/04/08</date>
+			<size>2.33 KB</size>
 			<category>Security</category>
-			<name>WU-SecurityUpdates-20240611.txt</name>
+			<name>WU-SecurityUpdates-20250404.txt</name>
 			<description>Info about WU satisfy updates</description>
-			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20240611.txt</url>
+			<url>https://raw.githubusercontent.com/abbodi1406/WHD/master/files/WU-SecurityUpdates-20250404.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>

@@ -1,59 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/07/09" architecture="x64" version="Windows11">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/04/08" architecture="x64" version="Windows11">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
-			<date>2024/05/29</date>
-			<size>2.27 KB</size>
+			<date>2024/10/01</date>
+			<size>2.39 KB</size>
 			<category>General</category>
 			<name>Info11-ReadMe.txt</name>
 			<description>Info to differentiate updates based on build number</description>
 			<url>https://dl.dropboxusercontent.com/s/j6snb7acj27xr2b/Info11-ReadMe.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5007575</kb>
-			<date>2021/11/01</date>
-			<size>272 KB</size>
-			<category>General/22000</category>
-			<name>Windows10.0-KB5007575-x64.cab</name>
-			<description>Critical Dynamic Update for .NET 3.5 for Windows 11 Version 21H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2021/11/windows10.0-kb5007575-x64_28e206f7d3a99eb798dfa403e6439dfb5e358e16.cab</url>
-		</update>
-		<update extract="0">
-			<kb>KB5039887</kb>
-			<date>2024/06/17</date>
-			<size>72.02 MB</size>
-			<category>General/22000</category>
-			<name>Windows10.0-KB5039887-x64-NDP48.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 11 Version 21H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/06/windows10.0-kb5039887-x64-ndp48_fd626715f0397cfd6e90f5ead8a25d08821fca0d.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5040431</kb>
-			<date>2024/07/03</date>
-			<size>404.76 MB</size>
-			<category>General/22000</category>
-			<name>Windows10.0-KB5040431-x64.msu</name>
-			<description>Cumulative Update for Windows 11 Version 21H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/07/windows10.0-kb5040431-x64_0065191f94b7955de91a63365f55d8c92509b885.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5041169</kb>
-			<date>2024/06/27</date>
-			<size>71.72 MB</size>
+			<kb>KB5054980</kb>
+			<date>2025/02/27</date>
+			<size>72.40 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5041169-x64-NDP481.msu</name>
+			<name>Windows11.0-KB5054980-x64-NDP481.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Version 23H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2024/06/windows11.0-kb5041169-x64-ndp481_7f5c3115cc18eb1d78a3f10964f980b4b2079e95.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2025/03/windows11.0-kb5054980-x64-ndp481_5bf6cedad06c047082b132ba04aa715a5db90a77.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5040527</kb>
-			<date>2024/07/24</date>
-			<size>730.79 MB</size>
+			<kb>KB5055528</kb>
+			<date>2025/04/08</date>
+			<size>880.24 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5040527-x64.msu</name>
+			<name>Windows11.0-KB5055528-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Version 23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/92ac27d7-6832-4bac-8205-922458d3df2b/public/windows11.0-kb5040527-x64_4713766dc272c376bee6d39d39a84a85bcd7f1e7.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e7260780-684e-4b11-bc36-475b34268a6d/public/windows11.0-kb5055528-x64_ad405ca048652f0197920698a0aa4b9fcd13da43.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5027397</kb>
@@ -65,22 +38,40 @@
 			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/caa3ff4a-6420-4341-aeae-33b2d7f463be/public/windows11.0-kb5027397-x64_3a9c368e239bb928c32a790cf1663338d2cad472.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039894</kb>
-			<date>2024/06/17</date>
-			<size>70.87 MB</size>
+			<kb>KB5043080</kb>
+			<date>2024/09/09</date>
+			<size>509.03 MB</size>
 			<category>General/26100</category>
-			<name>Windows11.0-KB5039894-x64-NDP481.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 11 Version 24H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows11.0-kb5039894-x64-ndp481_505f9eea0fee9fde2dbe5c76e72d4b05d402a74c.msu</url>
+			<name>Windows11.0-KB5043080-x64.msu</name>
+			<description>Cumulative Update for Windows 11 Version 24H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d8b7f92b-bd35-4b4c-96e5-46ce984b31e0/public/windows11.0-kb5043080-x64_953449672073f8fb99badb4cc6d5d7849b9c83e8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5040529</kb>
-			<date>2024/07/30</date>
-			<size>375.54 MB</size>
+			<kb>KB5052915</kb>
+			<date>2025/02/19</date>
+			<size>18.74 MB</size>
 			<category>General/26100</category>
-			<name>Windows11.0-KB5040529-x64.msu</name>
+			<name>Windows11.0-KB5052915-x64.msu</name>
+			<description>Servicing Stack Update for Windows 11 Version 24H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2025/03/ssu-26100.3321-x64_6c6fb22911168fbb0776df307c2f417781f3bbb3.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5054979</kb>
+			<date>2025/02/27</date>
+			<size>71.58 MB</size>
+			<category>General/26100</category>
+			<name>Windows11.0-KB5054979-x64-NDP481.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 11 Version 24H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/02cd9c83-8312-424d-9a06-b042095804a8/public/windows11.0-kb5054979-x64-ndp481_8e2f730bc747de0f90aaee95d4862e4f88751c07.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5055523</kb>
+			<date>2025/04/08</date>
+			<size>778.18 MB</size>
+			<category>General/26100</category>
+			<name>Windows11.0-KB5055523-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Version 24H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1a28d3c1-84ce-4108-ba95-3e918453a297/public/windows11.0-kb5040529-x64_fb312553946fb0b8a29324ba9f58c25ff6590979.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/beae415c-d56f-477c-9a3a-3aa4336890f6/public/windows11.0-kb5055523-x64_b1df8c7b11308991a9c45ae3fba6caa0e2996157.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

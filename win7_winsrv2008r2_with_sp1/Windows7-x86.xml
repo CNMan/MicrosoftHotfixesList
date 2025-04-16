@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/07/09" architecture="x86" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2024/10/08" architecture="x86" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -686,13 +686,13 @@
 			<url>https://dl.dropboxusercontent.com/s/54af6h05qo96s9m/Last-Official-ESU.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039891</kb>
-			<date>2024/06/14</date>
-			<size>28.42 MB</size>
+			<kb>KB5044027</kb>
+			<date>2024/09/09</date>
+			<size>28.50 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5039891-x86.exe</name>
-			<description>2024-07 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/06/ndp48-kb5039891-x86_16ab3f094c0290191ee1d93a6b4cb9ae844c1bb1.exe</url>
+			<name>NDP48-KB5044027-x86.exe</name>
+			<description>2024-10 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/09/ndp48-kb5044027-x86_4c9f2a9919b8f3951b8621d10c8905f02fcb003c.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -713,22 +713,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows6.1-kb5039339-x86_fa942048bba2a167242451236f9daf00940588aa.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5039909</kb>
-			<date>2024/06/13</date>
-			<size>19.39 MB</size>
+			<kb>KB5044011</kb>
+			<date>2024/09/09</date>
+			<size>18.16 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5039909-x86.msu</name>
-			<description>2024-07 Security and Quality Rollup for .NET Framework 3.5.1</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows6.1-kb5039909-x86_2cd085cac7bbdfd102f4a4c6cbd4f37bfdddb6d7.msu</url>
+			<name>Windows6.1-KB5044011-x86.msu</name>
+			<description>2024-10 Security and Quality Rollup for .NET Framework 3.5.1</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/09/windows6.1-kb5044011-x86_656507b51d47f95050282a84951009a7536a3157.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5040497</kb>
-			<date>2024/07/03</date>
-			<size>267.28 MB</size>
+			<kb>KB5044356</kb>
+			<date>2024/09/28</date>
+			<size>268.03 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5040497-x86.msu</name>
-			<description>2024-07 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2024/07/windows6.1-kb5040497-x86_ca34e62e834056f7a4b859292a2b069fd6765a19.msu</url>
+			<name>Windows6.1-KB5044356-x86.msu</name>
+			<description>2024-10 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2024/09/windows6.1-kb5044356-x86_7be0b45eb5a3a293e127a34b402b8a71f8dbe295.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>
