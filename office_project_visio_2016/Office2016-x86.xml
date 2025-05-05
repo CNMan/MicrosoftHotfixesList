@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/04/08" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/05/13" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002701</kb>
@@ -9,6 +9,42 @@
 			<name>access2016-kb5002701-fullfile-x86-glb.exe</name>
 			<description>Microsoft Access 2016</description>
 			<url>https://download.microsoft.com/download/3ff1ff8e-f894-42ad-b639-936b9ba2bad1/access2016-kb5002701-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB5002717</kb>
+			<date>2025/05/09</date>
+			<size>131.56 MB</size>
+			<category>Security</category>
+			<name>excel2016-kb5002717-fullfile-x86-glb.exe</name>
+			<description>Microsoft Excel 2016</description>
+			<url>https://download.microsoft.com/download/177c817a-1769-46cf-8891-f11a5588e447/excel2016-kb5002717-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB5002695</kb>
+			<date>2025/05/09</date>
+			<size>4.26 MB</size>
+			<category>Security</category>
+			<name>gkall2016-kb5002695-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (File Verification)</description>
+			<url>https://download.microsoft.com/download/2dd8348c-d490-43f2-9657-2856210d1cda/gkall2016-kb5002695-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB5002716</kb>
+			<date>2025/05/09</date>
+			<size>3.31 MB</size>
+			<category>Security</category>
+			<name>graph2016-kb5002716-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (Microsoft Graph)</description>
+			<url>https://download.microsoft.com/download/89d9a751-7773-4b90-b9b1-cb0c7a4bb3dd/graph2016-kb5002716-fullfile-x86-glb.exe</url>
+		</update>
+		<update extract="0">
+			<kb>KB5002711</kb>
+			<date>2025/05/09</date>
+			<size>128.49 MB</size>
+			<category>Security</category>
+			<name>mso2016-kb5002711-fullfile-x86-glb.exe</name>
+			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
+			<url>https://download.microsoft.com/download/59ec7c9f-4e54-43b3-83fa-6b734d2ef3ac/mso2016-kb5002711-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002588</kb>
@@ -83,15 +119,6 @@
 			<url>https://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002704</kb>
-			<date>2025/04/04</date>
-			<size>131.57 MB</size>
-			<category>Security</category>
-			<name>excel2016-kb5002704-fullfile-x86-glb.exe</name>
-			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/c2823536-4b04-4fd6-aa35-fd0d0800f50f/excel2016-kb5002704-fullfile-x86-glb.exe</url>
-		</update>
-		<update extract="0">
 			<kb>KB4011629</kb>
 			<date>2019/08/19</date>
 			<size>38.44 MB</size>
@@ -126,24 +153,6 @@
 			<name>fonts2016-kb3114903-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Dengxian Fonts)</description>
 			<url>https://download.microsoft.com/download/4/5/8/458FBDA4-7F57-4BFF-B43D-44468D24452D/fonts2016-kb3114903-fullfile-x86-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB5002179</kb>
-			<date>2025/01/22</date>
-			<size>4.26 MB</size>
-			<category>Security</category>
-			<name>gkall2016-kb5002179-fullfile-x86-glb.exe</name>
-			<description>Microsoft Office 2016 (File Verification)</description>
-			<url>https://download.microsoft.com/download/b/4/b/b4b2250d-7d96-4fe9-afe0-6ff01675f9d7/gkall2016-kb5002179-fullfile-x86-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB5002703</kb>
-			<date>2025/04/04</date>
-			<size>3.31 MB</size>
-			<category>Security</category>
-			<name>graph2016-kb5002703-fullfile-x86-glb.exe</name>
-			<description>Microsoft Office 2016 (Microsoft Graph)</description>
-			<url>https://download.microsoft.com/download/9aa758b7-e1b0-433f-bbf0-7f7c57c000bd/graph2016-kb5002703-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4022219</kb>
@@ -198,15 +207,6 @@
 			<name>msmipc2016-kb3191869-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (Active Directory RMS)</description>
 			<url>https://download.microsoft.com/download/5/f/6/5f69e581-96c0-4db0-b421-69d448dff763/msmipc2016-kb3191869-fullfile-x86-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB5002700</kb>
-			<date>2025/04/04</date>
-			<size>128.66 MB</size>
-			<category>Security</category>
-			<name>mso2016-kb5002700-fullfile-x86-glb.exe</name>
-			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/a5ebb961-f046-43cd-be92-68770671b062/mso2016-kb5002700-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002623</kb>

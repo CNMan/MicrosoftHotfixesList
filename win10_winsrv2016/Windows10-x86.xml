@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/04/08" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/05/13" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -38,22 +38,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2025/03/windows10.0-kb5055170-x86-ndp48_64d27bb4facb78f7d49c249953ecf7fe66ef3c0f.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5055521</kb>
-			<date>2025/04/07</date>
-			<size>933.72 MB</size>
+			<kb>KB5058383</kb>
+			<date>2025/05/11</date>
+			<size>930.78 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5055521-x86.msu</name>
+			<name>Windows10.0-KB5058383-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/04/windows10.0-kb5055521-x86_2fac5c0800b2269f75b3f48c02c282ef57492777.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/05/windows10.0-kb5058383-x86_9ae7fb9ef009e05b8c3cb410881be1bfaa053bf0.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5055661</kb>
-			<date>2025/03/11</date>
-			<size>5.43 MB</size>
+			<kb>KB5058524</kb>
+			<date>2025/05/09</date>
+			<size>5.51 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5055661-x86.msu</name>
+			<name>Windows10.0-KB5058524-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows10.0-kb5055661-x86_562b34b016ad4b1bde9cb1b54aaef977ca2f0c08.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/05/windows10.0-kb5058524-x86_c4c5d10ba63de3f46bdb8de5dbf2c5a280de218c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -92,13 +92,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2025/03/windows10.0-kb5055175-x86-ndp48_8d82f94f41edf123db5d9db0ab58ff87119cf84b.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5055519</kb>
-			<date>2025/04/07</date>
-			<size>374.72 MB</size>
+			<kb>KB5058392</kb>
+			<date>2025/05/09</date>
+			<size>375.77 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5055519-x86.msu</name>
+			<name>Windows10.0-KB5058392-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/04/windows10.0-kb5055519-x86_192235ec8b0168b7ac4c9583c3e7524100617bc1.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/05/windows10.0-kb5058392-x86_0f7b088bcd47e466bd7d51d3fbd96c7860107155.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -119,22 +119,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2023/10/ssu-19041.3562-x86_5757db67f982216ee2f5973f4b3cfddbcae916b7.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5054977</kb>
-			<date>2025/02/27</date>
+			<kb>KB5056577</kb>
+			<date>2025/03/23</date>
 			<size>47.66 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5054977-x86-NDP48.msu</name>
+			<name>Windows10.0-KB5056577-x86-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2025/02/windows10.0-kb5054977-x86-ndp48_9781a00fef278954d63e15b609697a29df3e3da8.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2025/03/windows10.0-kb5056577-x86-ndp48_c17361e720d31358858ada9e29584c4764b47f44.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5055518</kb>
-			<date>2025/04/07</date>
-			<size>414.18 MB</size>
+			<kb>KB5058379</kb>
+			<date>2025/05/09</date>
+			<size>415.36 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5055518-x86.msu</name>
+			<name>Windows10.0-KB5058379-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/04/windows10.0-kb5055518-x86_850d943754c87866811315c8dcc2ad6689341f24.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/05/windows10.0-kb5058379-x86_f68967884dcc241cedfe2cd9035eb640988d2fbb.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>

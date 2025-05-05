@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/04/08" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/05/13" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -407,13 +407,13 @@
 			<url>https://download.microsoft.com/download/6/1/5/615B8D87-A02C-485E-B9B5-D6F4AEB52D78/Windows8.1-KB3021910-x64.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5055665</kb>
-			<date>2025/03/11</date>
-			<size>10.53 MB</size>
+			<kb>KB5058529</kb>
+			<date>2025/05/09</date>
+			<size>10.54 MB</size>
 			<category>Baseline</category>
-			<name>Windows8.1-KB5055665-x64.msu</name>
-			<description>2025-04 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows8.1-kb5055665-x64_dfa11621af869c05f448fe7b6d6c3cd02c30e0b9.msu</url>
+			<name>Windows8.1-KB5058529-x64.msu</name>
+			<description>2025-05 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/05/windows8.1-kb5058529-x64_1d137b8edef44b970adcd971bf09483e7e16d767.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB2929699</kb>
@@ -1856,13 +1856,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2025/03/windows8.1-kb5055173-x64-ndp48_cd2ff09e7b775e6f64968a4c32c3328375901c78.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5055557</kb>
-			<date>2025/04/06</date>
-			<size>595.58 MB</size>
+			<kb>KB5058403</kb>
+			<date>2025/05/11</date>
+			<size>595.87 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5055557-x64.msu</name>
-			<description>2025-04 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/04/windows8.1-kb5055557-x64_dcf073817ff8adc794e57ae190d4992f04d4a1d3.msu</url>
+			<name>Windows8.1-KB5058403-x64.msu</name>
+			<description>2025-05 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/05/windows8.1-kb5058403-x64_8891fdf82fe653bcbb25004fb2e6742961c35a2d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>
