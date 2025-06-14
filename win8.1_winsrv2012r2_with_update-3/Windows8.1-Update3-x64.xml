@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/05/13" architecture="x64" version="Windows 8.1 U">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/06/10" architecture="x64" version="Windows 8.1 U">
 	<updates>
 		<update extract="0">
 			<kb>KB2990967</kb>
@@ -1856,13 +1856,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2025/03/windows8.1-kb5055173-x64-ndp48_cd2ff09e7b775e6f64968a4c32c3328375901c78.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5058403</kb>
-			<date>2025/05/11</date>
-			<size>595.87 MB</size>
+			<kb>KB5061018</kb>
+			<date>2024/05/31</date>
+			<size>600.81 MB</size>
 			<category>Security</category>
-			<name>Windows8.1-KB5058403-x64.msu</name>
-			<description>2025-05 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/05/windows8.1-kb5058403-x64_8891fdf82fe653bcbb25004fb2e6742961c35a2d.msu</url>
+			<name>Windows8.1-KB5061018-x64.msu</name>
+			<description>2025-06 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/06/windows8.1-kb5061018-x64_8a4c8110514a4526e29055fc963de7807cb6b906.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB3097997</kb>

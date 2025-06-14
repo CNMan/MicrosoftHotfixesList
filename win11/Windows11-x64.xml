@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/05/13" architecture="x64" version="Windows11">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/06/10" architecture="x64" version="Windows11">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -20,13 +20,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2025/03/windows11.0-kb5056580-x64-ndp481_3cd8a74c872577d9451524498876b87b4be09eee.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5058405</kb>
-			<date>2025/05/12</date>
-			<size>887.92 MB</size>
+			<kb>KB5060999</kb>
+			<date>2025/06/04</date>
+			<size>893.79 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5058405-x64.msu</name>
+			<name>Windows11.0-KB5060999-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Version 23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/34bc8dd6-10e7-49b4-bda7-007721dd4573/public/windows11.0-kb5058405-x64_117e45bc2ae1f33b5cfc1d105e06c15fef1feb5c.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2d95371b-cbad-4376-a5aa-f228c1c4f04b/public/windows11.0-kb5060999-x64_99e39c1cf8a8976d9b3313efb38069876c417f70.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5027397</kb>
@@ -65,13 +65,13 @@
 			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/66baa9bc-4fa3-4f4b-97b1-af6dc17c64d9/public/windows11.0-kb5056579-x64-ndp481_a062e62bdedd9a2a4b0cbf4e26ff1652a240f1ee.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5058411</kb>
-			<date>2025/05/12</date>
-			<size>3.76 GB</size>
+			<kb>KB5060842</kb>
+			<date>2025/06/07</date>
+			<size>2.44 GB</size>
 			<category>General/26100</category>
-			<name>Windows11.0-KB5058411-x64.msu</name>
+			<name>Windows11.0-KB5060842-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Version 24H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/770c53ae-5610-402f-b5e9-fe86142003cc/public/windows11.0-kb5058411-x64_fc93a482441b42bcdbb035f915d4be2047d63de5.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/58b46d94-e497-4048-8aea-4b430fd63d12/public/windows11.0-kb5060842-x64_07871bda98c444c14691e0a90560306703b739cf.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

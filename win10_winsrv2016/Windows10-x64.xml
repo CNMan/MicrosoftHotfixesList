@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/05/13" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/06/10" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -38,22 +38,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2025/03/windows10.0-kb5055170-x64-ndp48_72a6e45b3bb4da01a3bcf0379e263ef2bb23b034.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5058383</kb>
-			<date>2025/05/11</date>
-			<size>1.59 GB</size>
+			<kb>KB5060954</kb>
+			<date>2024/06/02</date>
+			<size>11.75 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5058383-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/05/windows10.0-kb5058383-x64_f2e34deb03d8284d2bc746589ec83fd20747edd0.msu</url>
+			<name>Windows10.0-KB5060954-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/06/windows10.0-kb5060954-x64_f54e22a36fe9566a2fd6771cdba17e389daecc3e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5058524</kb>
-			<date>2025/03/11</date>
-			<size>11.73 MB</size>
+			<kb>KB5061010</kb>
+			<date>2025/06/03</date>
+			<size>1.56 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5058524-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/05/windows10.0-kb5058524-x64_d9c1dcfba3fc77d9e876d463f9df533c416ca2be.msu</url>
+			<name>Windows10.0-KB5061010-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/06/windows10.0-kb5061010-x64_eecf3345e48b71c4bf16917e4ab18b6ae2ba3c7d.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -92,13 +92,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2025/03/windows10.0-kb5055175-x64-ndp48_df5de1b5f2a6394b4d40391d6ea8fed4415f806f.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5058392</kb>
-			<date>2025/05/09</date>
-			<size>696.88 MB</size>
+			<kb>KB5060531</kb>
+			<date>2025/06/03</date>
+			<size>701.56 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5058392-x64.msu</name>
+			<name>Windows10.0-KB5060531-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/05/windows10.0-kb5058392-x64_2881b28817b6e714e61b61a50de9f68605f02bd2.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/06/windows10.0-kb5060531-x64_83789c3b9350e10e207370622c4ef54dd685ee02.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -128,13 +128,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2025/03/windows10.0-kb5056577-x64-ndp48_c9ed1bb4f9ed43fc65d4e46d15b1e9230f9a7582.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5058379</kb>
-			<date>2025/05/09</date>
-			<size>713.04 MB</size>
+			<kb>KB5060533</kb>
+			<date>2025/06/03</date>
+			<size>717.51 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5058379-x64.msu</name>
+			<name>Windows10.0-KB5060533-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/05/windows10.0-kb5058379-x64_cb6f8dbed398fba2fd0c4256ced320932e1daa08.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/06/windows10.0-kb5060533-x64_dbb8353c12c9760b0c56a8834719b68a01a20abb.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>
