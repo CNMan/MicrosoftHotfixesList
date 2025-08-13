@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/07/08" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/08/12" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -722,13 +722,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows6.1-kb5056456-x64_cb706e08632f8b768a68f8f3c30392582245aa3e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5062632</kb>
-			<date>2025/07/03</date>
-			<size>418.21 MB</size>
+			<kb>KB5063947</kb>
+			<date>2025/07/31</date>
+			<size>420.35 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5062632-x64.msu</name>
-			<description>2025-07 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/07/windows6.1-kb5062632-x64_7c133de6ed2e3ae64c44bcbdec75d7bcb07ea896.msu</url>
+			<name>Windows6.1-KB5063947-x64.msu</name>
+			<description>2025-08 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/08/windows6.1-kb5063947-x64_cdb6675e791e249a85aafe844b6bacf463ac31fc.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>
