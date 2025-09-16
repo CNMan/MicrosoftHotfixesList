@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/08/12" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/09/09" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -503,7 +503,7 @@
 			<category>General</category>
 			<name>Windows6.1-KB917607-x64.msu</name>
 			<description>Error opening Help in Windows-based programs: "Feature not included" or "Help not supported"</description>
-			<url>http://www.gigamedia.net.br/seap/Windows6.1-KB917607-x64.msu</url>
+			<url>https://www.gigamedia.net.br/seap/Windows6.1-KB917607-x64.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4072650</kb>
@@ -686,13 +686,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4474419-v3-x64_b5614c6cea5cb4e198717789633dca16308ef79c.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5062065</kb>
-			<date>2025/05/30</date>
-			<size>44.80 MB</size>
+			<kb>KB5065750</kb>
+			<date>2025/08/12</date>
+			<size>44.64 MB</size>
 			<category>Security/ESU</category>
-			<name>NDP48-KB5062065-x64.exe</name>
-			<description>2025-07 Security and Quality Rollup for .NET Framework 4.8</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/updt/2025/06/ndp48-kb5062065-x64_903f494f61e97ffbf189433a0a9de0cb48cd9679.exe</url>
+			<name>NDP48-KB5065750-x64.exe</name>
+			<description>2025-09 Security and Quality Rollup for .NET Framework 4.8</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2025/08/ndp48-kb5065750-x64_594fc3101870f1de15e63a1c9d0d2198cd75c8fe.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4575903</kb>
@@ -722,13 +722,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows6.1-kb5056456-x64_cb706e08632f8b768a68f8f3c30392582245aa3e.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5063947</kb>
-			<date>2025/07/31</date>
-			<size>420.35 MB</size>
+			<kb>KB5065468</kb>
+			<date>2025/09/04</date>
+			<size>420.72 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5063947-x64.msu</name>
-			<description>2025-08 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/08/windows6.1-kb5063947-x64_cdb6675e791e249a85aafe844b6bacf463ac31fc.msu</url>
+			<name>Windows6.1-KB5065468-x64.msu</name>
+			<description>2025-09 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/09/windows6.1-kb5065468-x64_75a6b061aa1bd55250f4ddd51385cbe0a1f3da5c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>
