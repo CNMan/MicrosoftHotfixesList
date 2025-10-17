@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/09/09" architecture="x64" version="Windows11">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/10/14" architecture="x64" version="Windows11">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
-			<date>2024/10/01</date>
-			<size>2.39 KB</size>
+			<date>2025/10/01</date>
+			<size>2.67 KB</size>
 			<category>General</category>
-			<name>Info11-ReadMe.txt</name>
+			<name>Information-PleaseRead.txt</name>
 			<description>Info to differentiate updates based on build number</description>
-			<url>https://dl.dropboxusercontent.com/s/j6snb7acj27xr2b/Info11-ReadMe.txt</url>
+			<url>https://dl.dropboxusercontent.com/s/bdr1sp6k6f0fu7m/Information-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5064403</kb>
-			<date>2025/07/23</date>
-			<size>72.42 MB</size>
+			<kb>KB5066133</kb>
+			<date>2025/10/13</date>
+			<size>72.41 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5064403-x64-NDP481.msu</name>
+			<name>Windows11.0-KB5066133-x64-NDP481.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Version 23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1fb431cc-f24e-40ee-9922-705045e2c9e3/public/windows11.0-kb5064403-x64-ndp481_389f36779cbc298c80f6abb21ffb430ba12c7449.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6718b458-7f33-4b5b-b1a9-58d91c0d9414/public/windows11.0-kb5066133-x64-ndp481_4dd0fbfc976c5ef5b9492ab42895e8b56310f430.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5065431</kb>
-			<date>2025/09/08</date>
-			<size>901.79 MB</size>
+			<kb>KB5066793</kb>
+			<date>2025/10/14</date>
+			<size>907.21 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5065431-x64.msu</name>
+			<name>Windows11.0-KB5066793-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Versions 22H2-23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/fd708457-087b-4903-826a-7db7c7439b68/public/windows11.0-kb5065431-x64_cfbf8bbd4938a7fb8a7aea5b3fc90e74e6bea6e4.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7a3fc5e6-826c-47a3-918f-82e6dd585929/public/windows11.0-kb5066793-x64_c2161f7373f0c06757ff5abdb607f2399d86d466.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5027397</kb>
@@ -43,35 +43,44 @@
 			<size>509.03 MB</size>
 			<category>General/26100</category>
 			<name>Windows11.0-KB5043080-x64.msu</name>
-			<description>Cumulative Update for Windows 11 Version 24H2</description>
+			<description>Cumulative Update for Windows 11 Versions 24H2-25H2</description>
 			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d8b7f92b-bd35-4b4c-96e5-46ce984b31e0/public/windows11.0-kb5043080-x64_953449672073f8fb99badb4cc6d5d7849b9c83e8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5052915</kb>
-			<date>2025/02/19</date>
-			<size>18.74 MB</size>
+			<kb>KB5066131</kb>
+			<date>2025/10/13</date>
+			<size>71.58 MB</size>
 			<category>General/26100</category>
-			<name>Windows11.0-KB5052915-x64.msu</name>
-			<description>Servicing Stack Update for Windows 11 Version 24H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2025/03/ssu-26100.3321-x64_6c6fb22911168fbb0776df307c2f417781f3bbb3.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5064401</kb>
-			<date>2025/07/25</date>
-			<size>71.57 MB</size>
-			<category>General/26100</category>
-			<name>Windows11.0-KB5064401-x64-NDP481.msu</name>
+			<name>Windows11.0-KB5066131-x64-NDP481.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Version 24H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e7d2c572-7ce6-4df1-b2c9-0b341f438299/public/windows11.0-kb5064401-x64-ndp481_03d42dc42df2db6f1812c2fa3d768780c079a843.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/035cd7e9-5769-4168-80e4-d73bc6b746c8/public/windows11.0-kb5066131-x64-ndp481_b2ab1290d276d5cb9c9d03dce5ad2d6e2b66f615.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5065426</kb>
-			<date>2025/09/08</date>
-			<size>3.22 GB</size>
+			<kb>KB5066835</kb>
+			<date>2025/09/29</date>
+			<size>3.34 GB</size>
 			<category>General/26100</category>
-			<name>Windows11.0-KB5065426-x64.msu</name>
+			<name>Windows11.0-KB5066835-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Versions 24H2-25H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7342fa97-e584-4465-9b3d-71e771c9db5b/public/windows11.0-kb5065426-x64_32b5f85e0f4f08e5d6eabec6586014a02d3b6224.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7c0d1a12-9944-4b26-bed7-a722c040d631/public/windows11.0-kb5066835-x64_2f193bc50987a9c27e42eceeb90648af19cc813a.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5054156</kb>
+			<date>2025/10/14</date>
+			<size>171 KB</size>
+			<category>General/26100/v25H2</category>
+			<name>Windows11.0-KB5054156-x64.msu</name>
+			<description>Feature Update to Windows 11 Version 25H2 via Enablement Package</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/67731ce0-1988-426a-afa3-044a032eb6c6/public/windows11.0-kb5054156-x64_9fd13360d2c5af23ec4f591b86f1c1db37aada37.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5066128</kb>
+			<date>2025/10/13</date>
+			<size>89.57 MB</size>
+			<category>General/26100/v25H2</category>
+			<name>Windows11.0-KB5066128-x64-NDP481.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 11 Version 25H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3c1417cd-bba5-4ae6-9ff8-4d123cf1987b/public/windows11.0-kb5066128-x64-ndp481_e2239075b7e05662cbbe1b4acfe9e57e40a2b9c0.msu</url>
 		</update>
 	</updates>
 </hotfixlist>
