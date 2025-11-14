@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/10/14" architecture="x64" version="Windows11">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/11/11" architecture="x64" version="Windows11">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -20,13 +20,13 @@
 			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6718b458-7f33-4b5b-b1a9-58d91c0d9414/public/windows11.0-kb5066133-x64-ndp481_4dd0fbfc976c5ef5b9492ab42895e8b56310f430.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5066793</kb>
-			<date>2025/10/14</date>
-			<size>907.21 MB</size>
+			<kb>KB5068865</kb>
+			<date>2025/11/10</date>
+			<size>914.62 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5066793-x64.msu</name>
+			<name>Windows11.0-KB5068865-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Versions 22H2-23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7a3fc5e6-826c-47a3-918f-82e6dd585929/public/windows11.0-kb5066793-x64_c2161f7373f0c06757ff5abdb607f2399d86d466.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ff42c8dc-82c9-4e1d-b296-fc48d68d6160/public/windows11.0-kb5068865-x64_012666ac2f387635c161275a4b55aa06ad0afac2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5027397</kb>
@@ -56,13 +56,13 @@
 			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/035cd7e9-5769-4168-80e4-d73bc6b746c8/public/windows11.0-kb5066131-x64-ndp481_b2ab1290d276d5cb9c9d03dce5ad2d6e2b66f615.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5066835</kb>
-			<date>2025/09/29</date>
-			<size>3.34 GB</size>
+			<kb>KB5068861</kb>
+			<date>2025/11/10</date>
+			<size>3.32 GB</size>
 			<category>General/26100</category>
-			<name>Windows11.0-KB5066835-x64.msu</name>
+			<name>Windows11.0-KB5068861-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Versions 24H2-25H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7c0d1a12-9944-4b26-bed7-a722c040d631/public/windows11.0-kb5066835-x64_2f193bc50987a9c27e42eceeb90648af19cc813a.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5315757b-0dc6-4282-a148-c7bf0b6b0e90/public/windows11.0-kb5068861-x64_acc4fe9c928835c0d44cdc0419d1867dbd2b62b2.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5054156</kb>
@@ -74,13 +74,13 @@
 			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/67731ce0-1988-426a-afa3-044a032eb6c6/public/windows11.0-kb5054156-x64_9fd13360d2c5af23ec4f591b86f1c1db37aada37.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5066128</kb>
-			<date>2025/10/13</date>
-			<size>89.57 MB</size>
+			<kb>KB5067931</kb>
+			<date>2025/10/28</date>
+			<size>89.54 MB</size>
 			<category>General/26100/v25H2</category>
-			<name>Windows11.0-KB5066128-x64-NDP481.msu</name>
+			<name>Windows11.0-KB5067931-x64-NDP481.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Version 25H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3c1417cd-bba5-4ae6-9ff8-4d123cf1987b/public/windows11.0-kb5066128-x64-ndp481_e2239075b7e05662cbbe1b4acfe9e57e40a2b9c0.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bb01ae1b-3cca-42de-a0de-b83712c02ab5/public/windows11.0-kb5067931-x64-ndp481_495c5436de8d0ceb6b7a1982988f61ce0be71f38.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

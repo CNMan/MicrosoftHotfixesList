@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/10/14" architecture="x64" version="Windows 7">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/11/11" architecture="x64" version="Windows 7">
 	<updates>
 		<update extract="0">
 			<kb>KB2222222</kb>
@@ -704,15 +704,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5056456</kb>
-			<date>2025/03/13</date>
-			<size>9.21 MB</size>
-			<category>Security/ESU</category>
-			<name>Windows6.1-KB5056456-x64.msu</name>
-			<description>2025-04 Servicing Stack Update</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/03/windows6.1-kb5056456-x64_cb706e08632f8b768a68f8f3c30392582245aa3e.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5066150</kb>
 			<date>2025/09/11</date>
 			<size>28.31 MB</size>
@@ -722,13 +713,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/09/windows6.1-kb5066150-x64_9dae42ce4bcab5b66919389100aa69ebdd179ca3.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5066872</kb>
-			<date>2025/10/10</date>
-			<size>423.24 MB</size>
+			<kb>KB5068904</kb>
+			<date>2025/10/28</date>
+			<size>423.90 MB</size>
 			<category>Security/ESU</category>
-			<name>Windows6.1-KB5066872-x64.msu</name>
-			<description>2025-10 Security Monthly Quality Rollup</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/10/windows6.1-kb5066872-x64_34adf590e36d1f4888b6effd17dcd317b58c5d79.msu</url>
+			<name>Windows6.1-KB5068904-x64.msu</name>
+			<description>2025-11 Security Monthly Quality Rollup</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/11/windows6.1-kb5068904-x64_5a08b86522fbf4c43fd1ae54c60ace1512f1b107.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5071810</kb>
+			<date>2025/11/03</date>
+			<size>9.21 MB</size>
+			<category>Security/ESU</category>
+			<name>Windows6.1-KB5071810-x64.msu</name>
+			<description>2025-11 Servicing Stack Update</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/11/windows6.1-kb5071810-x64_a357d0303f3f9016e142cd1a4ac7579440f7c328.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4532945</kb>
