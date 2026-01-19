@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2025/12/09" architecture="x64" version="Windows11">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/01/13" architecture="x64" version="Windows11">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -20,13 +20,13 @@
 			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6718b458-7f33-4b5b-b1a9-58d91c0d9414/public/windows11.0-kb5066133-x64-ndp481_4dd0fbfc976c5ef5b9492ab42895e8b56310f430.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5071417</kb>
-			<date>2025/12/08</date>
-			<size>915.12 MB</size>
+			<kb>KB5073455</kb>
+			<date>2026/01/09</date>
+			<size>952.63 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5071417-x64.msu</name>
+			<name>Windows11.0-KB5073455-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Versions 22H2-23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7e819a39-0e82-4f80-bacb-71b3f6632f3d/public/windows11.0-kb5071417-x64_e19910906e0392876385744f955c05495a4fb16c.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f817cc23-8d64-4127-8454-53703892e430/public/windows11.0-kb5073455-x64_c2875e0cef6906ffe157f44c1b7c720826c92edf.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5027397</kb>
@@ -56,13 +56,13 @@
 			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/035cd7e9-5769-4168-80e4-d73bc6b746c8/public/windows11.0-kb5066131-x64-ndp481_b2ab1290d276d5cb9c9d03dce5ad2d6e2b66f615.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5072033</kb>
-			<date>2025/12/08</date>
-			<size>3.68 GB</size>
+			<kb>KB5074109</kb>
+			<date>2026/01/09</date>
+			<size>3.67 GB</size>
 			<category>General/26100</category>
-			<name>Windows11.0-KB5072033-x64.msu</name>
+			<name>Windows11.0-KB5074109-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Versions 24H2-25H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9d6e2b81-b755-4e68-af73-9f4ee41cd758/public/windows11.0-kb5072033-x64_a62291f0bad9123842bf15dcdd75d807d2a2c76a.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b7aa64b3-8441-4d36-b8f7-409f3cfeac1c/public/windows11.0-kb5074109-x64_fe29a336e6e650dda4038e82bcc0c6286c70b9a1.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5054156</kb>
