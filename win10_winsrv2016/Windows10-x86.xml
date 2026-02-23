@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/01/13" architecture="x86" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/02/10" architecture="x86" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -38,22 +38,22 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/09/windows10.0-kb5066136-x86-ndp48_2b268d817df51c83d3b4d95e2b0824005e9db05d.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5073447</kb>
-			<date>2025/12/09</date>
-			<size>5.57 MB</size>
+			<kb>KB5075902</kb>
+			<date>2026/02/04</date>
+			<size>5.56 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5073447-x86.msu</name>
+			<name>Windows10.0-KB5075902-x86.msu</name>
 			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2025/10/windows10.0-kb5070247-x86_9e6c55da58dc6c4cb97ef23bac2022afdc6c1fe5.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/02/windows10.0-kb5075902-x86_a9621f106bc56bd56cd318e04b0258ee07b18d12.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5073722</kb>
-			<date>2025/12/25</date>
-			<size>929.92 MB</size>
+			<kb>KB5075999</kb>
+			<date>2026/02/06</date>
+			<size>930.68 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5073722-x86.msu</name>
+			<name>Windows10.0-KB5075999-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/01/windows10.0-kb5073722-x86_5285ba87a39d5c607333e9d0d6d5d70d931d17ba.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/02/windows10.0-kb5075999-x86_ec09680f968657ea0b826690b5e8a7b87c62f3a8.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -92,13 +92,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/09/windows10.0-kb5066137-x86-ndp48_f54f13d62848ac7664d5b17bb7506ef6d4c46bbf.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5073723</kb>
-			<date>2026/01/09</date>
-			<size>408.91 MB</size>
+			<kb>KB5075904</kb>
+			<date>2026/02/06</date>
+			<size>406.27 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5073723-x86.msu</name>
+			<name>Windows10.0-KB5075904-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/01/windows10.0-kb5073723-x86_7f2630d0a4c68a34839b2acd0c8c2375613b6168.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/02/windows10.0-kb5075904-x86_acd2b601063de3890d60f3f6cd97a7e17d33b316.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -137,13 +137,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/11/windows10.0-kb5072653-x86_8d3487fa93996facba9233443e461b32c02dab49.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5073724</kb>
-			<date>2026/01/09</date>
-			<size>490.08 MB</size>
+			<kb>KB5075912</kb>
+			<date>2026/02/06</date>
+			<size>533.29 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5073724-x86.msu</name>
+			<name>Windows10.0-KB5075912-x86.msu</name>
 			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/01/windows10.0-kb5073724-x86_71ea13bbe1144a2135bad90c40e5815836e009b6.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/02/windows10.0-kb5075912-x86_fcf0a16e81dd7c1c519d6c0f379a5bf77008de6f.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>
