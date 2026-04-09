@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/02/10" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/03/10" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -47,13 +47,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/02/windows10.0-kb5075902-x64_a840f48f81e79f45131128f9f823633a59f57879.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5075999</kb>
-			<date>2026/02/06</date>
-			<size>1.60 GB</size>
+			<kb>KB5078938</kb>
+			<date>2026/03/04</date>
+			<size>1.71 GB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5075999-x64.msu</name>
+			<name>Windows10.0-KB5078938-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/02/windows10.0-kb5075999-x64_14f57eb68ffe81c5171c1faecb47aee6fbc6d89f.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/03/windows10.0-kb5078938-x64_4f2644d71dfb3459b6777dfb1a3a4e16cf3877f5.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -92,13 +92,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/09/windows10.0-kb5066137-x64-ndp48_76f67956da4f912c51e0aba2b09e3175709974a4.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5075904</kb>
-			<date>2026/02/06</date>
-			<size>711.52 MB</size>
+			<kb>KB5078752</kb>
+			<date>2026/03/04</date>
+			<size>799.55 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5075904-x64.msu</name>
+			<name>Windows10.0-KB5078752-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/02/windows10.0-kb5075904-x64_2e5ebd48b0f010011e9196e6536a3c78cba8b56f.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/03/windows10.0-kb5078752-x64_d19dce98bd2132ac8dcf4ae644ff36ec1ac7a734.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -137,13 +137,13 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2025/11/windows10.0-kb5072653-x64_c2f56817f6ca39322bce94e7ea2c554cfa71abcd.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5075912</kb>
-			<date>2026/02/06</date>
-			<size>838.96 MB</size>
+			<kb>KB5078885</kb>
+			<date>2026/03/04</date>
+			<size>846.10 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5075912-x64.msu</name>
+			<name>Windows10.0-KB5078885-x64.msu</name>
 			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/02/windows10.0-kb5075912-x64_861d087079f7dc695d8c61a83edca82ce6039d7d.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/03/windows10.0-kb5078885-x64_8013483b567f16e057931c30725c6c8723007a31.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>
