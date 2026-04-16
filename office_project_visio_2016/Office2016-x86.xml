@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/03/10" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/04/14" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002720</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002718</kb>
-			<date>2026/03/06</date>
-			<size>131.62 MB</size>
+			<kb>KB5002860</kb>
+			<date>2026/04/10</date>
+			<size>131.61 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002849-fullfile-x86-glb.exe</name>
+			<name>excel2016-kb5002860-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/6fb42c70-8775-46b9-aca7-f37e1bd693d4/excel2016-kb5002849-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/867d1673-614e-4891-8b49-28d0b153d7fc/excel2016-kb5002860-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
@@ -200,22 +200,13 @@
 			<url>https://download.microsoft.com/download/5/f/6/5f69e581-96c0-4db0-b421-69d448dff763/msmipc2016-kb3191869-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002838</kb>
-			<date>2026/03/06</date>
+			<kb>KB5002859</kb>
+			<date>2026/04/10</date>
 			<size>128.69 MB</size>
 			<category>Security</category>
-			<name>mso2016-kb5002838-fullfile-x86-glb.exe</name>
+			<name>mso2016-kb5002859-fullfile-x86-glb.exe</name>
 			<description>Microsoft Office 2016 (mso-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/eeb0781e-ed38-4a81-b379-2af60c506103/mso2016-kb5002838-fullfile-x86-glb.exe</url>
-		</update>
-		<update extract="0">
-			<kb>KB5002575</kb>
-			<date>2024/05/30</date>
-			<size>3.39 MB</size>
-			<category>Security</category>
-			<name>msodll202016-kb5002575-fullfile-x86-glb.exe</name>
-			<description>Microsoft Office 2016 (msodll20-x-none.msp)</description>
-			<url>https://download.microsoft.com/download/f/b/2/fb2ddbda-57a1-44de-a13e-fd93bc518a82/msodll202016-kb5002575-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/017310c5-8c80-4ea8-a10a-c865bdc0c3cf/mso2016-kb5002859-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB5002623</kb>
@@ -416,13 +407,13 @@
 			<url>https://download.microsoft.com/download/D/C/3/DC346591-A593-4FCB-9B76-B1104DD4D35E/policytips2016-kb3115081-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002790</kb>
-			<date>2025/09/23</date>
+			<kb>KB5002808</kb>
+			<date>2026/04/10</date>
 			<size>29.36 MB</size>
 			<category>Security</category>
-			<name>powerpoint2016-kb5002790-fullfile-x86-glb.exe</name>
+			<name>powerpoint2016-kb5002808-fullfile-x86-glb.exe</name>
 			<description>Microsoft PowerPoint 2016</description>
-			<url>https://download.microsoft.com/download/552fd95b-14e6-4794-b484-d0dbc6b80821/powerpoint2016-kb5002790-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/1481f4a1-c0c2-4dff-8db5-68676bf55722/powerpoint2016-kb5002808-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011621</kb>
@@ -552,12 +543,12 @@
 		</update>
 		<update extract="0">
 			<kb>KB4444444</kb>
-			<date>2025/12/09</date>
-			<size>2.05 KB</size>
+			<date>2026/04/14</date>
+			<size>2.30 KB</size>
 			<category>Security</category>
-			<name>WU-SecurityUpdates-20251014.txt</name>
+			<name>WU-SecurityUpdates-20260414.txt</name>
 			<description>Info about WU satisfy updates</description>
-			<url>https://gitlab.com/-/project/11037551/uploads/b0a88632fb764f5e6b621489809086fc/WU-SecurityUpdates-20251014.txt</url>
+			<url>https://gitlab.com/-/project/11037551/uploads/cf6a57697809ba6ca49c42e34e1772dd/WU-SecurityUpdates-20260414.txt</url>
 		</update>
 		<update extract="0">
 			<kb>KB3118263</kb>
