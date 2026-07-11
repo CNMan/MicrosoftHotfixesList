@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/04/14" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/06/09" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -20,15 +20,6 @@
 			<url>https://dl.dropboxusercontent.com/s/njib7lf0sny0v8w/NET48-LangPacks1607.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB4486129</kb>
-			<date>2019/12/17</date>
-			<size>71.79 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB4486129-x64-NDP48.msu</name>
-			<description>Microsoft .NET Framework 4.8 for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x64_0b61d9a03db731562e0a0b49383342a4d8cbe36a.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB4039556</kb>
 			<date>2017/08/10</date>
 			<size>7.48 MB</size>
@@ -36,6 +27,15 @@
 			<name>Windows10.0-KB4039556-x64.cab</name>
 			<description>Setup Dynamic Update for Windows 10 Version 1607</description>
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2017/08/windows10.0-kb4039556-x64_c254664797da48390e795776340844c76343876c.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB4486129</kb>
+			<date>2019/12/17</date>
+			<size>71.79 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB4486129-x64-NDP48.msu</name>
+			<description>Microsoft .NET Framework 4.8 for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/ftpk/2020/01/windows10.0-kb4486129-x64_0b61d9a03db731562e0a0b49383342a4d8cbe36a.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5068794</kb>
@@ -47,40 +47,40 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2025/10/windows10.0-kb5068794-x64_8f6bdae0c8c562ed040cf4c9493006c65b93f5a7.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5082089</kb>
-			<date>2026/04/02</date>
-			<size>12.06 MB</size>
+			<kb>KB5087065</kb>
+			<date>2026/04/29</date>
+			<size>60.91 MB</size>
 			<category>General/14393</category>
-			<name>Windows10.0-KB5082089-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/04/windows10.0-kb5082089-x64_050a6a36f6fc4bc17ee91ba188ec9d70260fabc7.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5082198</kb>
-			<date>2026/04/13</date>
-			<size>1.71 GB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5082198-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/04/windows10.0-kb5082198-x64_2f64ef5389462c14d458858ba6a098d9b4e2a63a.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5082239</kb>
-			<date>2026/04/08</date>
-			<size>141.33 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5082239-x64.cab</name>
-			<description>Safe OS Dynamic Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/04/windows10.0-kb5082239-x64_b7dcc6dda96757c1a309521237b8328428ff12c3.cab</url>
-		</update>
-		<update extract="0">
-			<kb>KB5082411</kb>
-			<date>2026/03/18</date>
-			<size>57.99 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5082411-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5087065-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/03/windows10.0-kb5082411-x64-ndp48_21d9288b9b7c21c1557609b58e6926bcb3ca05b2.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/05/windows10.0-kb5087065-x64-ndp48_631ce425f7c69cbd26a9345ad20b2deab4c5b049.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5094122</kb>
+			<date>2026/06/06</date>
+			<size>1.70 GB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5094122-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/06/windows10.0-kb5094122-x64_36bdd4a783ede6f6174b8fbe1046e8e3a613ad44.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5094141</kb>
+			<date>2026/05/12</date>
+			<size>12.16 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5094141-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/06/windows10.0-kb5094141-x64_84b6922c6e96f26ad91859d072aeeb6df8e5ab99.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5094152</kb>
+			<date>2026/06/06</date>
+			<size>157.09 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5094152-x64.cab</name>
+			<description>Safe OS Dynamic Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/06/windows10.0-kb5094152-x64_f679b7b7e2f809efbabae11e4102391a017ebe95.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -119,31 +119,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2025/10/windows10.0-kb5068795-x64_67da0fc93d22a556f420e489e90883ed03691c9f.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5082123</kb>
-			<date>2026/04/11</date>
-			<size>812.76 MB</size>
+			<kb>KB5087066</kb>
+			<date>2026/04/29</date>
+			<size>89.34 MB</size>
 			<category>General/17763</category>
-			<name>Windows10.0-KB5082123-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/04/windows10.0-kb5082123-x64_3c1a2626005bdced0829822c5329ca30519d083c.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5082240</kb>
-			<date>2026/04/08</date>
-			<size>118.88 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB5082240-x64.cab</name>
-			<description>Safe OS Dynamic Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/04/windows10.0-kb5082240-x64_2dedf47796f60b6414eae337e82c11c1e8b67151.cab</url>
-		</update>
-		<update extract="0">
-			<kb>KB5082414</kb>
-			<date>2026/03/18</date>
-			<size>89.30 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB5082414-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5087066-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/03/windows10.0-kb5082414-x64-ndp48_6edea76ef38203f73b3af222041187375a209d65.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/04/windows10.0-kb5087066-x64-ndp48_086eed6e068d65a3e098311b5c742d745048d5fd.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5094123</kb>
+			<date>2026/06/06</date>
+			<size>820.63 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB5094123-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/06/windows10.0-kb5094123-x64_150ef9e518c1e534d2d255a558c4d2bdefe54073.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5094153</kb>
+			<date>2026/06/06</date>
+			<size>135.28 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB5094153-x64.cab</name>
+			<description>Safe OS Dynamic Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/06/windows10.0-kb5094153-x64_0111ac54b08d793cda1502e2a53a6efbb19cf084.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -182,31 +182,31 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/01/windows10.0-kb5074207-x64_4e08468033c309bb68c708a8157c7a29d3822fb5.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5082200</kb>
-			<date>2026/04/11</date>
-			<size>858.77 MB</size>
+			<kb>KB5087064</kb>
+			<date>2026/04/29</date>
+			<size>76.39 MB</size>
 			<category>General/19041</category>
-			<name>Windows10.0-KB5082200-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/04/windows10.0-kb5082200-x64_3c40f2448161c62e043ee564f4ab9688117c06a6.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5082241</kb>
-			<date>2026/04/08</date>
-			<size>117.19 MB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB5082241-x64.cab</name>
-			<description>Safe OS Dynamic Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/04/windows10.0-kb5082241-x64_250cdc327be8650b411b8171612330d7f916b433.cab</url>
-		</update>
-		<update extract="0">
-			<kb>KB5082426</kb>
-			<date>2026/03/18</date>
-			<size>76.14 MB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB5082426-x64-NDP48.msu</name>
+			<name>Windows10.0-KB5087064-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/03/windows10.0-kb5082426-x64-ndp48_f48a8875787a9840d0768fe312057a43b6da8bea.msu</url>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/05/windows10.0-kb5087064-x64-ndp48_5541701330e7e27d682d1c732d75f9ad27dfb4cd.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5094127</kb>
+			<date>2026/06/07</date>
+			<size>873.03 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB5094127-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/06/windows10.0-kb5094127-x64_6cc28e1a08d05bf15d7bf761ac6c4abb69b6d23e.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5094154</kb>
+			<date>2026/06/06</date>
+			<size>130.76 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB5094154-x64.cab</name>
+			<description>Safe OS Dynamic Update for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/06/windows10.0-kb5094154-x64_5e7089620bf78d1996a434fd118db6560a0a0f2f.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>
