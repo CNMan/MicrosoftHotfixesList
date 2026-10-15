@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/09/08" architecture="x64" version="Windows11">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/10/13" architecture="x64" version="Windows11">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -11,40 +11,40 @@
 			<url>https://dl.dropboxusercontent.com/s/bdr1sp6k6f0fu7m/Information-PleaseRead.txt</url>
 		</update>
 		<update extract="0">
-			<kb>KB5122880</kb>
-			<date>2026/09/07</date>
-			<size>1.08 GB</size>
+			<kb>KB5126653</kb>
+			<date>2026/10/12</date>
+			<size>1.13 GB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5122880-x64.msu</name>
+			<name>Windows11.0-KB5126653-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Versions 22H2-23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8cc68f74-f158-4d28-9c4c-15c19987bafd/public/windows11.0-kb5122880-x64_331a1a13f27df3975fc6a745eef0a4074a1d2da2.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d054caba-471e-4483-ad6e-50ff1f4b1fb9/public/windows11.0-kb5126653-x64_5935370fc4ae7f1477ab76bc8e364f7a325c1013.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5122888</kb>
-			<date>2026/09/08</date>
-			<size>152.71 MB</size>
+			<kb>KB5126666</kb>
+			<date>2026/10/12</date>
+			<size>173.44 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5122888-x64.cab</name>
+			<name>Windows11.0-KB5126666-x64.cab</name>
 			<description>Safe OS Dynamic Update for Windows 11 Versions 22H2-23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6dbc5673-e1ab-43c8-abf2-addbd7025577/public/windows11.0-kb5122888-x64_3c1bcdc247d9c2e66eb06b8c1e1be12627eef4df.cab</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3bcb52cd-9b7e-4535-93f9-81543209a324/public/windows11.0-kb5126666-x64_e8a15048d407f28dc673b987d5c8080ff284506f.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5126030</kb>
-			<date>2026/09/04</date>
-			<size>18.26 MB</size>
+			<kb>KB5127363</kb>
+			<date>2026/09/10</date>
+			<size>18.27 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5126030-x64.cab</name>
+			<name>Windows11.0-KB5127363-x64.cab</name>
 			<description>Setup Dynamic Update for Windows 11 Versions 22H2-23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/801ee8b9-ed63-40ca-84ff-c559cc1706cd/public/windows11.0-kb5126030-x64_89e083fd3bcf61ca2809e774d6da9e2274c4faed.cab</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9cbbaca1-ed50-430e-8402-f6a78a5ce222/public/windows11.0-kb5127363-x64_9095568aab857f551a16923da94185f419d355a7.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5126424</kb>
-			<date>2026/08/24</date>
-			<size>76.17 MB</size>
+			<kb>KB5127692</kb>
+			<date>2026/10/09</date>
+			<size>92.03 MB</size>
 			<category>General/22621</category>
-			<name>Windows11.0-KB5126424-x64-NDP481.msu</name>
+			<name>Windows11.0-KB5127692-x64-NDP481.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Versions 22H2-23H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f21c22f1-931b-44ef-b535-e76532aaaa05/public/windows11.0-kb5126424-x64-ndp481_3f28450a8b79175114504c0744447386b0d9dfe5.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7975e95d-2cd3-4091-96a9-a9650f725766/public/windows11.0-kb5127692-x64-ndp481_c8f38afceaa8bb906249ea88e6a1200049572fd3.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5027397</kb>
@@ -65,40 +65,40 @@
 			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d8b7f92b-bd35-4b4c-96e5-46ce984b31e0/public/windows11.0-kb5043080-x64_953449672073f8fb99badb4cc6d5d7849b9c83e8.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5124008</kb>
-			<date>2026/09/07</date>
-			<size>4.32 GB</size>
+			<kb>KB5127648</kb>
+			<date>2026/10/12</date>
+			<size>4.44 GB</size>
 			<category>General/26100</category>
-			<name>Windows11.0-KB5124008-x64.msu</name>
+			<name>Windows11.0-KB5127648-x64.msu</name>
 			<description>Cumulative Update for Windows 11 Versions 24H2-26H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ed315343-4767-4a66-9be5-2a23bef1546e/public/windows11.0-kb5124008-x64_81e42f50fdb7af8d15eefc23aa51cf3e23215bdc.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4225b261-8248-43e5-a808-34f3faafe3f6/public/windows11.0-kb5127648-x64_2b88d2d308adc938fcd4d2876a68ee0b2a3c4c09.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5124015</kb>
-			<date>2026/09/08</date>
-			<size>162.88 MB</size>
+			<kb>KB5127650</kb>
+			<date>2026/09/10</date>
+			<size>17.53 MB</size>
 			<category>General/26100</category>
-			<name>Windows11.0-KB5124015-x64.cab</name>
-			<description>Safe OS Dynamic Update for Windows 11 Versions 24H2-25H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/0832cdac-2b64-4fff-9628-e934f9cef112/public/windows11.0-kb5124015-x64_8d6045779da371cd3ffd1bf768a4d053ba9110c7.cab</url>
-		</update>
-		<update extract="0">
-			<kb>KB5126052</kb>
-			<date>2026/08/24</date>
-			<size>92.25 MB</size>
-			<category>General/26100</category>
-			<name>Windows11.0-KB5126052-x64-NDP481.msu</name>
-			<description>Cumulative Update for .NET Framework for Windows 11 Versions 24H2-26H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/aa6d5327-d621-4af8-8340-5a291e597f6b/public/windows11.0-kb5126052-x64-ndp481_082cfd5816914c794b261ea68bf6c91419fc32a8.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5126056</kb>
-			<date>2026/09/03</date>
-			<size>17.15 MB</size>
-			<category>General/26100</category>
-			<name>Windows11.0-KB5126056-x64.cab</name>
+			<name>Windows11.0-KB5127650-x64.cab</name>
 			<description>Setup Dynamic Update for Windows 11 Versions 24H2-25H2</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/526d124c-b602-4542-a5fe-40eab3be4f37/public/windows11.0-kb5126056-x64_cb2aaf3f9dfaecbdfe9124a7a14bf0e4cca660de.cab</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/019a2022-8528-44c7-ae4b-8089ccd0e996/public/windows11.0-kb5127650-x64_1e7fa0c7483710dcab60ee0ef8fe15cfeabd190f.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB5127654</kb>
+			<date>2026/10/12</date>
+			<size>185.17 MB</size>
+			<category>General/26100</category>
+			<name>Windows11.0-KB5127654-x64.cab</name>
+			<description>Safe OS Dynamic Update for Windows 11 Versions 24H2-25H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f8397943-4d37-43cb-a167-74b567556f37/public/windows11.0-kb5127654-x64_87d6bc65b7b39cdd33e9570c7aff97e28ba31c2b.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB5127690</kb>
+			<date>2026/10/09</date>
+			<size>92.31 MB</size>
+			<category>General/26100</category>
+			<name>Windows11.0-KB5127690-x64-NDP481.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 11 Versions 24H2-25H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/160d2d32-f1f8-42d8-8c04-db9b7c3cdb71/public/windows11.0-kb5127690-x64-ndp481_2799c97224d973d4b106f7b02cf27a493c38ed95.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5054156</kb>
@@ -111,48 +111,57 @@
 		</update>
 		<update extract="0">
 			<kb>KB5121794</kb>
-			<date>2026/07/17</date>
-			<size>173 KB</size>
+			<date>2026/09/11</date>
+			<size>170 KB</size>
 			<category>General/26100/v26H2</category>
-			<name>Windows11.0-KB5121794-x64.msu</name>
+			<name>Windows11.0-KB5121794-x64_870a6b16d4e0e0eeeaa02b5306df5b4ecb39f563.msu</name>
 			<description>Feature Update to Windows 11 Version 26H2 via Enablement Package</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/94520a88-858f-4832-a57d-7211f6d84a4e/public/windows11.0-kb5121794-x64_5e20a3cce48d6611b16bdec42b07167f5456586a.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ad9dbefc-fd26-4e9f-80cf-16743b6c4faa/public/Windows11.0-KB5121794-x64_870a6b16d4e0e0eeeaa02b5306df5b4ecb39f563.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5124011</kb>
-			<date>2026/09/08</date>
-			<size>130.80 MB</size>
-			<category>General/28000</category>
-			<name>Windows11.0-KB5124011-x64.cab</name>
-			<description>Safe OS Dynamic Update for Windows 11 Versions 26H1</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/22294416-d23c-4f96-8295-cd83a95a201e/public/windows11.0-kb5124011-x64_ad30913877ab2455b679edaa2fa0a64b5f378fe6.cab</url>
-		</update>
-		<update extract="0">
-			<kb>KB5124012</kb>
-			<date>2026/09/07</date>
-			<size>3.73 GB</size>
-			<category>General/28000</category>
-			<name>Windows11.0-KB5124012-x64.msu</name>
-			<description>Cumulative Update for Windows 11 Versions 26H1</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c0f9948f-d30a-4c3b-af27-08323e66a2ce/public/windows11.0-kb5124012-x64_85abefda703d7f250fe73babfe784f826682e284.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5126041</kb>
-			<date>2026/09/03</date>
-			<size>7.04 MB</size>
-			<category>General/28000</category>
-			<name>Windows11.0-KB5126041-x64.cab</name>
-			<description>Setup Dynamic Update for Windows 11 Versions 26H1</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/fa912d83-dcc3-41b1-bcfd-9d4d8bcdb55c/public/windows11.0-kb5126041-x64_9b7ee3b9288f5fb4861447d951b87e9ba4148709.cab</url>
-		</update>
-		<update extract="0">
-			<kb>KB5126053</kb>
+			<kb>KB5127694</kb>
 			<date>2026/08/24</date>
-			<size>44.38 MB</size>
+			<size>101.08 MB</size>
+			<category>General/26100/v26H2</category>
+			<name>Windows11.0-KB5127694-x64-NDP481.msu</name>
+			<description>Cumulative Update for .NET Framework for Windows 11 Versions 26H2</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c1521a9e-28f5-4040-8a13-b8df59c3b2a8/public/windows11.0-kb5127694-x64-ndp481_a1a6f6d3c61e46a77278881fc5f7245bcf09ce3f.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5127646</kb>
+			<date>2026/10/12</date>
+			<size>3.85 GB</size>
 			<category>General/28000</category>
-			<name>Windows11.0-KB5126053-x64-NDP481.msu</name>
+			<name>Windows11.0-KB5127646-x64.msu</name>
+			<description>Cumulative Update for Windows 11 Versions 26H1</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/23a416b1-3cfa-451b-8ca3-186075b34a87/public/windows11.0-kb5127646-x64_1581b4e504578c7885f2ce34a86c37f785bef551.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5127649</kb>
+			<date>2026/09/10</date>
+			<size>7.13 MB</size>
+			<category>General/28000</category>
+			<name>Windows11.0-KB5127649-x64.cab</name>
+			<description>Setup Dynamic Update for Windows 11 Versions 26H1</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f649fde3-cba5-4079-bec7-d39e0e065a07/public/windows11.0-kb5127649-x64_f574340df7b19223ac10b8a349f9d954b70465b7.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB5127651</kb>
+			<date>2026/10/12</date>
+			<size>146.81 MB</size>
+			<category>General/28000</category>
+			<name>Windows11.0-KB5127651-x64.cab</name>
+			<description>Safe OS Dynamic Update for Windows 11 Versions 26H1</description>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8993e0c2-d647-41ef-845c-7180f9cf44e8/public/windows11.0-kb5127651-x64_8e6db5b96fe3acffad2bd56326be82910675e888.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB5127691</kb>
+			<date>2026/10/09</date>
+			<size>44.74 MB</size>
+			<category>General/28000</category>
+			<name>Windows11.0-KB5127691-x64-NDP481.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 11 Versions 26H1</description>
-			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/76f933eb-3513-4beb-a3ae-068490235a8f/public/windows11.0-kb5126053-x64-ndp481_afac8405de3877dee1446536d2e65e9b9bcc53f0.msu</url>
+			<url>http://dl.delivery.mp.microsoft.com/filestreamingservice/files/0bff3b28-e4f1-4d75-9f94-84732d164da5/public/windows11.0-kb5127691-x64-ndp481_a326fd37ac15bdae1276814a4112d54b7b24b2eb.msu</url>
 		</update>
 	</updates>
 </hotfixlist>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/09/08" architecture="x86" version="Office 2016">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/10/13" architecture="x86" version="Office 2016">
 	<updates>
 		<update extract="0">
 			<kb>KB5002912</kb>
@@ -83,13 +83,13 @@
 			<url>https://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
-			<kb>KB5002914</kb>
-			<date>2026/09/02</date>
+			<kb>KB5002934</kb>
+			<date>2026/10/08</date>
 			<size>131.62 MB</size>
 			<category>Security</category>
-			<name>excel2016-kb5002914-fullfile-x86-glb.exe</name>
+			<name>excel2016-kb5002934-fullfile-x86-glb.exe</name>
 			<description>Microsoft Excel 2016</description>
-			<url>https://download.microsoft.com/download/1d5c2892-a4d3-49af-a133-7e11494e79a6/excel2016-kb5002914-fullfile-x86-glb.exe</url>
+			<url>https://download.microsoft.com/download/71e1176d-478f-4549-9bdf-e76bf198a966/excel2016-kb5002934-fullfile-x86-glb.exe</url>
 		</update>
 		<update extract="0">
 			<kb>KB4011629</kb>
