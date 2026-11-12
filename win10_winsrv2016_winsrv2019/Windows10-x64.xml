@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/10/13" architecture="x64" version="Windows10">
+<hotfixlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" updated="2026/11/10" architecture="x64" version="Windows10">
 	<updates>
 		<update extract="0">
 			<kb>KB1000000</kb>
@@ -47,33 +47,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2025/10/windows10.0-kb5068794-x64_8f6bdae0c8c562ed040cf4c9493006c65b93f5a7.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5126649</kb>
-			<date>2026/09/25</date>
-			<size>12.56 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5126649-x64.msu</name>
-			<description>Servicing Stack Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/10/windows10.0-kb5126649-x64_922d331312a4235df75f1295eed4e93cfda81e9c.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5126662</kb>
-			<date>2026/10/09</date>
-			<size>202.85 MB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5126662-x64.cab</name>
-			<description>Safe OS Dynamic Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/10/windows10.0-kb5126662-x64_cb3b29ada8ccfccc53ed4cf45fa3f49cb93a0cac.cab</url>
-		</update>
-		<update extract="0">
-			<kb>KB5126868</kb>
-			<date>2026/10/12</date>
-			<size>1.80 GB</size>
-			<category>General/14393</category>
-			<name>Windows10.0-KB5126868-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1607</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/10/windows10.0-kb5126868-x64_61abe6635cbcc89ded59eca19c95914534853641.msu</url>
-		</update>
-		<update extract="0">
 			<kb>KB5127684</kb>
 			<date>2026/10/09</date>
 			<size>59.42 MB</size>
@@ -81,6 +54,33 @@
 			<name>Windows10.0-KB5127684-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1607</description>
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/10/windows10.0-kb5127684-x64-ndp48_8d929ad165d692757d1942abb859f352cdd8d00f.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5131083</kb>
+			<date>2026/10/31</date>
+			<size>12.42 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5131083-x64.msu</name>
+			<description>Servicing Stack Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/11/windows10.0-kb5131083-x64_e58efc0fc4de2972bf79a59ba35dc0e533b68728.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5131093</kb>
+			<date>2026/11/08</date>
+			<size>215.74 MB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5131093-x64.cab</name>
+			<description>Safe OS Dynamic Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/11/windows10.0-kb5131093-x64_d711acc86d1bc98d1cbf4d225148b0ff07214ba3.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB5131291</kb>
+			<date>2026/11/05</date>
+			<size>1.80 GB</size>
+			<category>General/14393</category>
+			<name>Windows10.0-KB5131291-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1607</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/11/windows10.0-kb5131291-x64_d8d8e50d7311255186cfec29c7851d690d50dc06.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB4087642</kb>
@@ -119,24 +119,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2025/10/windows10.0-kb5068795-x64_67da0fc93d22a556f420e489e90883ed03691c9f.cab</url>
 		</update>
 		<update extract="0">
-			<kb>KB5126651</kb>
-			<date>2026/10/10</date>
-			<size>859.85 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB5126651-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/10/windows10.0-kb5126651-x64_fbdb84a0b07b1192dccce63174efba953c0108e2.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5126664</kb>
-			<date>2026/10/09</date>
-			<size>167.43 MB</size>
-			<category>General/17763</category>
-			<name>Windows10.0-KB5126664-x64.cab</name>
-			<description>Safe OS Dynamic Update for Windows 10 Version 1809</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/10/windows10.0-kb5126664-x64_4e7da37621cb7e1da07bd83b559f5096ffae82ac.cab</url>
-		</update>
-		<update extract="0">
 			<kb>KB5127685</kb>
 			<date>2026/10/09</date>
 			<size>92.09 MB</size>
@@ -144,6 +126,24 @@
 			<name>Windows10.0-KB5127685-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Version 1809</description>
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/10/windows10.0-kb5127685-x64-ndp48_bf787eddacc3f63fa93c0b2ab51c4a422b3bd316.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5131085</kb>
+			<date>2026/11/08</date>
+			<size>871.96 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB5131085-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/11/windows10.0-kb5131085-x64_5b4a0d0a338f784ad1cd22b413b9456c7e1e2054.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5131094</kb>
+			<date>2026/11/08</date>
+			<size>175.38 MB</size>
+			<category>General/17763</category>
+			<name>Windows10.0-KB5131094-x64.cab</name>
+			<description>Safe OS Dynamic Update for Windows 10 Version 1809</description>
+			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/crup/2026/11/windows10.0-kb5131094-x64_d6df750ff5f1b0267b1e5604f90908e8024027fe.cab</url>
 		</update>
 		<update extract="0">
 			<kb>KB5007401</kb>
@@ -182,24 +182,6 @@
 			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/secu/2026/08/windows10.0-kb5126256-x64_2600f491e121abbec0a0c70d44ed791b80868736.msu</url>
 		</update>
 		<update extract="0">
-			<kb>KB5126657</kb>
-			<date>2026/10/13</date>
-			<size>1.15 GB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB5126657-x64.msu</name>
-			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/d/msdownload/update/software/updt/2026/09/windows10.0-kb5129236-x64_4413bfb0ab8a665cd0244ed67ec361170bb12ecb.msu</url>
-		</update>
-		<update extract="0">
-			<kb>KB5126665</kb>
-			<date>2026/10/09</date>
-			<size>163.85 MB</size>
-			<category>General/19041</category>
-			<name>Windows10.0-KB5126665-x64.cab</name>
-			<description>Safe OS Dynamic Update for Windows 10 Versions 20H1-22H2</description>
-			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2026/10/windows10.0-kb5126665-x64_5eaa91799ca76b323f1e533a5503b252e924080a.cab</url>
-		</update>
-		<update extract="0">
 			<kb>KB5127683</kb>
 			<date>2026/10/09</date>
 			<size>78.17 MB</size>
@@ -207,6 +189,24 @@
 			<name>Windows10.0-KB5127683-x64-NDP48.msu</name>
 			<description>Cumulative Update for .NET Framework for Windows 10 Versions 20H1-22H2</description>
 			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/10/windows10.0-kb5127683-x64-ndp48_708bc29a8963772a195337201fa6ad92da6f9d1a.msu</url>
+		</update>
+		<update extract="0">
+			<kb>KB5131095</kb>
+			<date>2026/11/08</date>
+			<size>171.21 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB5131095-x64.cab</name>
+			<description>Safe OS Dynamic Update for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/crup/2026/11/windows10.0-kb5131095-x64_4384cb370b7093297a60367a035e7a992a3fb0ba.cab</url>
+		</update>
+		<update extract="0">
+			<kb>KB5131096</kb>
+			<date>2026/11/08</date>
+			<size>990.05 MB</size>
+			<category>General/19041</category>
+			<name>Windows10.0-KB5131096-x64.msu</name>
+			<description>Cumulative Update for Windows 10 Versions 20H1-22H2</description>
+			<url>http://wsus.ds.download.windowsupdate.com/c/msdownload/update/software/secu/2026/11/windows10.0-kb5131096-x64_b087ef80eeab901ffe82a98338318c42a544c05c.msu</url>
 		</update>
 		<update extract="0">
 			<kb>KB5000736</kb>
